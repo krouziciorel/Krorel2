@@ -11,5 +11,3 @@ Language: cs-CZ
 LicenseType: Freeware
 CopyingRules: Nominal cost only; compilations allowed
 PresentationProfile: Default
-
-test
