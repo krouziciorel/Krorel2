@@ -1,2 +1,2 @@
 # Example of a `.gitattributes` file which reclassifies `.t` files as TADS3:
-*.t linguist-language=Java
+*.t linguist-language=Tads
