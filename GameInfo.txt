@@ -4,7 +4,7 @@ Byline: napsal Luděk Šťastný
 AuthorEmail: Luděk Šťastný <ludek.stastny@gmail.com>
 Desc: Kroužící orel 2 - Indiánská vesnice, pokračování prvního dílu Úprk z města
 Version: 1 z konce roku 2019
-ReleaseDate: 2019-11-27
+ReleaseDate: 2019-11-28
 Genre: Divoký západ
 Forgiveness: Polite
 Language: cs-CZ

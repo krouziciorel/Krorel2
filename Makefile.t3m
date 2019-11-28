@@ -41,3 +41,6 @@
 -source komponentaHlavni
 -source postavaHrac
 -source mistnostpredTipimBr
+-source mistnostTipiBr
+-source mistnostpredTipimLovce
+-source mistnostpredTipimOchrancePosvatneBizoniCapky
