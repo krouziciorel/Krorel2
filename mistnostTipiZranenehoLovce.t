@@ -18,10 +18,11 @@
 mistnostTipiZranenehoLovce : Room 'Týpí zraněného lovce' 'týpí zraněného lovce'
 		"Interiér, do někož jsi vstoupil, nepůsobí na první pohled nijak překvapivě.
 		Po příchodu před sebou vidíš pověšené nejrůznější lovecké nástroje a
-		pomůcky, koňskou výstroj nevyjímaje. Nejsmutnější pohled je ovšem
+		Pomůcky, koňskou výstroj nevyjímaje. Nejsmutnější pohled je ovšem
 		na ošklivě zraněného muže, který leží na veliké bizoní dece. Rána na boku
 		skutečně nevypadá dobře, přes veliké zelené listy je vidět nyní již zaschlá
 		krev. "    
 
-	out: TravelMessage { -> mistnostPredTipimZranenehoLovce "Nízkým vstupem vycházíš ven. " }
+	out: TravelMessage { -> mistnostPredTipimZranenehoLovce "Malým otvorem vycházíš ven. " }
+	east asExit(out)
 ;

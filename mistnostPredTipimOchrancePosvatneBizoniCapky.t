@@ -27,9 +27,10 @@ mistnostPredTipimOchrancePosvatneBizoniCapky : OutdoorRoom 'Před týpím ochrá
 		které v šajenské vsi lze nalézt. Proto se chovej tiše a ohleduplně, na tomto místě asi nikdo nebude 
 		zrovna nadšen Tvým výskáním a řevem. "    
    
-	north = mistnostPredTipimLovce
-	south = mistnostPredTipimZranenehoLovce
 	in: DeadEndConnector { "Do tohoto týpí rozhodně povolený vstup nemám a o něco podobného se v 
 	žádném případě nepokusím, nejsem sebevrah. " }    
+  	west asExit(in) 
+  	northeast = mistnostPredTipimLovce
+	southwest = mistnostPredTipimZranenehoLovce 
 ;
 

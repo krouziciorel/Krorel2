@@ -20,8 +20,10 @@ mistnostPredTipimZranenehoLovce : OutdoorRoom 'Před týpím zraněného lovce'
 		"Ze zcela bělostného týpí bez jakýchkoliv ozdob se ozývá slabé sténání. 
 		Vchodové dveře jsou otevřeny. "    
    
-	north = mistnostPredTipimOchrancePosvatneBizoniCapky
 	in: TravelMessage { -> mistnostTipiZranenehoLovce "Nízkým vchodem opatrně vstupuješ
 	do týpí. " }  
+  	west asExit(in) 
+  	southwest = mistnostPredTipimStarce
+	northeast = mistostPredTypimOchrancePosvatneBizoniCapky 
 ;
 

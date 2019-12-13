@@ -37,4 +37,5 @@ mistnostTipiBystrehoRysa : Room 'Týpí Bystrého rysa' 'týpí Bystrého rysa'
 		indiánskou truhlu, na provazech napnutých výše jsou zavěšeny části oděvu a deky. Můžeš jít ven. "    
 
 	out: TravelMessage { -> mistnostPredTipimBystrehoRysa "Nízkým vstupem se opatrně protahuješ ven. " }
+	east asExit(out)
 ;

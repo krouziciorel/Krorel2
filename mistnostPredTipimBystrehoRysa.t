@@ -25,8 +25,13 @@ mistnostPredTipimBystrehoRysa : OutdoorRoom 'Před týpím Bystrého rysa' 'pře
 		Třeba ale někdo bude znát i Tvůj jazyk. <<only>>Nacházíš se před týpím Bystrého rysa. 
 		Můžeš vstoupit dovnitř, jít na XXX. "    
 
-	south = mistnostPredTipimLovce   
+ 
 	in: TravelMessage { -> mistnostTipiBystrehoRysa "Vstup do týpí je sice nízký, i tak se bez 
-	větších problémů protáhneš dovnitř. " }    
+	větších problémů protáhneš dovnitř. " } 
+	west asExit(in)
+  	north = mistnostPredTipimValecnehoNacelnika 
+  	south = mistnostPredTipimLovce 
 ;
+
+
 
