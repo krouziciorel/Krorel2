@@ -1,10 +1,10 @@
 IFID: 49DC1771-00E2-4EA8-942F-817869EBBC37
 Name: Kroužící orel 2
-Byline: napsal Luděk Šťastný
+Byline: napsal Luděk Šťastný, korektura Vladimír Vaďura
 AuthorEmail: Luděk Šťastný <ludek.stastny@gmail.com>
 Desc: Kroužící orel 2 - Indiánská vesnice, pokračování prvního dílu Úprk z města
 Version: 1 z konce roku 2019
-ReleaseDate: 2019-12-13
+ReleaseDate: 2019-12-17
 Genre: Divoký západ
 Forgiveness: Polite
 Language: cs-CZ

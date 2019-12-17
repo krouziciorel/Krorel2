@@ -25,7 +25,7 @@ versionInfo: GameID
     IFID = '49DC1771-00E2-4EA8-942F-817869EBBC37'
 
     name = 'Kroužící orel 2'
-    byline = 'napsal Luděk Šťastný'
+    byline = 'napsal Luděk Šťastný, korektura Vladimír Vaďura'
     authorEmail = 'Luděk Šťastný <ludek.stastny@gmail.com>'
     desc = 'Kroužící orel 2 - Indiánská vesnice, pokračování prvního dílu Úprk z města'
     version = '1 z konce roku 2019'

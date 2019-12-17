@@ -22,5 +22,5 @@ mistnostLesniBobule : Room 'Lesní bobule' 'lesní bobule'
 
   	southeast = mistnostJihozapadniHranicePrerie 
   	east = mistnostPredTipimLecitele
-	northeast = mistonstLesniPorost
+	northeast = mistnostLesniPorost
 ;

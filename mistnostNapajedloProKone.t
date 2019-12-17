@@ -21,5 +21,5 @@ mistnostNapajedloProKone : Room 'Napajedlo pro koně' 'napajedlo pro koně'
 
   	southwest = mistnostLesniMytinaProKone 
   	northeast = mistnostKonskePastvinySeverneOdBizoniReky 
-  	east = mistnostSeverniBrodPresBizoniRek
+  	east = mistnostSeverniBrodPresBizoniReku
 ;

@@ -24,6 +24,6 @@ mistnostPredTipimZranenehoLovce : OutdoorRoom 'Před týpím zraněného lovce'
 	do týpí. " }  
   	west asExit(in) 
   	southwest = mistnostPredTipimStarce
-	northeast = mistostPredTypimOchrancePosvatneBizoniCapky 
+	northeast = mistnostPredTipimOchrancePosvatneBizoniCapky
 ;
 
