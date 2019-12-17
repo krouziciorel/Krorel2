@@ -15,11 +15,43 @@
 /*
  *   Místo pro šajenské slavnosti a obřady
  */
-mistnostMistoProSajenskeSlavnostiAObrady : Room 'Místo pro šajenské slavnosti a obřady' 
+mistnostMistoProSajenskeSlavnostiAObrady : OutdoorRoom 'Místo pro šajenské slavnosti a obřady' 
 	'místo pro šajenské slavnosti a obřady'
-		"Přicházíš na velmi pěkné místo ze tří stran obklopené řídkým porostem, který ohraničuje veliké kruhové prostranství. U okraje vidíš saunu zvanou inipi, ke které vede krátká cestička zakončená nyní vyhaslým ohništěm. Před vchodem se bělá vysušená bizoní lebka, která jakoby na něco čeká. Nebo na někoho... Nechybí ani malý posvátný kruh tvořený kameny. Zkrátka ideální prostranství pro nejrůznější slavnosti a tance, které máš tak rád. <<first time>>Jak vidno, zdaleka tu nejsi sám. Muži i ženy v čilém ruchu prostranství připravují, co nevidět začne nějaká jistě nesmírně zajímavá slavnost. Cítíš, že i jako cizinec jsi vítán, jen bude vhodné se dobře připravit. Když vzpomínáš na Vaše slavnosti, každý, ať muž či žena, byl hezky a stylově pomalován, měl na sobě ozdoby vhodné pro tanec toho, co člověk touží vyjádřit a přichystal si nějaký dar pro ostatní. Žádná uniformita ani náhodou, každý vypadá jinak a každý ví, jak má vypadat nejlépe, žádné poučky netřeba. Tato námaha se vždy bohatě vyplatila, z každé, opravdu každé slavnosti jsi odcházel rozjařený a šťastný, což je jistě ten jediný správný výsledek.<<only>>"    
+		"Přicházíš na velmi pěkné místo ze tří stran obklopené řídkým porostem, který ohraničuje 
+		veliké kruhové prostranství. U okraje vidíš saunu zvanou inipi, ke které vede krátká 
+		cestička zakončená nyní vyhaslým ohništěm. Před vchodem se bělá vysušená bizoní lebka, 
+		která jakoby na něco čeká. Nebo na někoho... Nechybí ani malý posvátný kruh tvořený kameny. 
+		Zkrátka ideální prostranství pro nejrůznější slavnosti a tance, které máš tak rád. <<first time>>
+		Jak vidno, zdaleka tu nejsi sám. Muži i ženy v čilém ruchu prostranství připravují, co nevidět 
+		začne nějaká jistě nesmírně zajímavá slavnost. Cítíš, že i jako cizinec jsi vítán, jen bude vhodné 
+		se dobře připravit. Když vzpomínáš na Vaše slavnosti, každý, ať muž či žena, byl hezky a stylově 
+		pomalován, měl na sobě ozdoby vhodné pro tanec toho, co člověk touží vyjádřit a přichystal si 
+		nějaký dar pro ostatní. Žádná uniformita ani náhodou, každý vypadá jinak a každý ví, jak má vypadat 
+		nejlépe, žádné poučky netřeba. Tato námaha se vždy bohatě vyplatila, z každé, opravdu každé slavnosti 
+		jsi odcházel rozjařený a šťastný, což je jistě nádherný výsledek.<<only>>\n 
+		Můžeš jít na sever, severovýchod a na severozápad. "     
 
+	atmosphereList : ShuffledEventList
+	{
+		[
+			'Mladé dívky od kruhu týpí nespoutaně běží a divoce se řechtají, za nimi chlapci na koních a 
+			snaží se je napodobit. ',
+			'Krííííííííííí, malinko Tě vyleká křik vzdušného lovce užívajícího si horké proudy větru. ',
+			'Tohle místo je prostě nezaměnitelné, vypadá téměř na chlup stejně jako mýtina tanců Tvých 
+			minulých dní. '
+		]
+		eventPercent = 50
+		eventReduceAfter = 6
+		eventReduceTo = 25
+	}
+
+	east: DeadEndConnector { "Nejen, že bych si také rád nějakého toho bizona ulovil, ale také se potřebuji 
+	dozvědět nějakou tu zajímavost od místních. " }
+  	west asExit(east)
+	south asExit(east)
+	southeast asExit(east)
+	southwest asExit(east)	
   	northwest = mistnostJihozapadniHranicePrerie 
   	northeast = mistnostSusakyNaMaso 
-  	north = mistnostPredTipimStarce 
+  	north = mistnostPredTypimStarce 
 ;

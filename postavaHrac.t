@@ -32,7 +32,7 @@ me: Actor
 			zkušeností, abys věděl, co vše tato kombinace ve Tvém současném světě znamená. "
 
     /* Hráč začíná před týpím Bystrého rysa. */
-    location = mistnostPredTipimBystrehoRysa
+    location = mistnostPredTypimBystrehoRysa
 ;
 
 /*
@@ -88,7 +88,7 @@ me: Actor
     hideFromAll(action) { return true; }
 
     cannotDoffMsg = "Já vím, ale tak nějak cítím, že tuhle věc bych sundávat neměl. Vzpomínky, možná strach,
-					sám nevím ... "
+					nemám ponětí ... "
   
     gcName = 'orlí medicíny, orlí medicíně, orlí medicínu, orlí medicíně, orlí medicínou'
     gcVocab = 'medicíny/medicíně/medicínu/medicínou'
