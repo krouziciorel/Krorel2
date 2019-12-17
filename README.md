@@ -1,3 +1,5 @@
 # Kroužící orel2
 
-Textová hra Kroužící orel 2 je naprogramována v systému TADS3
+Textovou hru Kroužící orel 2 programuji v systému TADS3
+Využívám objektově orientované programování ála Java, díky
+němuž mohu velmi realisticky modelovat objekt světa okolo nás.
