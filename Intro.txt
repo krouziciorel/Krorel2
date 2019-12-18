@@ -6,3 +6,9 @@ Díl druhý tyto zkušenosti rozšiřuje v pravé šajenské vesnici, kromě té
 Ve hře je mnoho textů, kterými se Ti autoři snaží sdělit nejen holý popis, ale také myšlení a cítění jednotlivých postav. Proto pokud si chceš popsané texty plně užít a opravdu se vcítit do role, hru si užívej plně odpočinut. Pokud se cítíš unaven, raději se jdi ven projít nebo se pořádně vyspi. Sám autor scénáře má s tímto postupem jen ty nejlepší zkušenosti, neřešitelná obtíž se po odpočinku sama vyřeší.
 
 A máš-li tu možnost, hru si užiješ nejvíce, když si v teplejších měsících připravíš počítač na nějaké hezké místo, kde šumí vítr a tráva se zelená a v těch chladnějších mohu z vlastní zkušenosti doporučit nádherné týpí s praskajícím ohněm.
+
+- doprovodné texty k instalaci a hraní zpracuj ne jako txt, ale jako pdf soubor s hezkým fontem a např. obrázkem z indiánského prostředí a doporuč vytisknout, bude to mnohem lepší pro hráče
+a přitažlivější
+- klidně napiš, proč je zde pdf, ať se hráč cítí lépe
+- informuj hráče, že návod k texové hře je přibalen přímo v TADS, zde však najde to nejdůležitější v jediném souboru klidně i s odkazy
+- doporuč i vhodnou hudbu k hraní pro navození atmosféry nebo hraní venku pod širým nebem

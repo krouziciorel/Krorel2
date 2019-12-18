@@ -24,3 +24,9 @@ mistnostTypiValecnehoNacelnika : Room 'Týpí válečného náčelníka' 'týpí
 	out: TravelMessage { -> mistnostPredTypimValecnehoNacelnika "Otvorem v týpí vycházíš ven. " }
 	east asExit(out)
 ;
+
+
+
+/*
+ *   zde bych mohl potkat Bystrého rysa, který jedná s válečným náčelníkem
+ */

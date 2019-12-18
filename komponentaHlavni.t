@@ -251,45 +251,31 @@ gameMain: GameMainDef
     /* Zobrazení intra a titulku. */
     showIntro()
     {
-        "<.p>Konečně je to tady, dostal jsi se do míst, která tak důvěrně znáš. 
-		Na cestě jste se dost zdrželi, čemuž jsi nechtěně dopomohl i Ty, to však, 
-		jak se zdá, nikomu nevadí. Do vsi jste se dostali až za tmy a dost utahaní. 
-		Společníci se rozloučili a každý odešel domů, Bystrý rys Tě pozval 
-		do svého týpí jako hosta, o kterého bude náležitě postaráno. Představil Tě své 
-		ženě, které Vám oběma i v této hodině nabídla chutnou večeři a poté jste šli 
-		spát. Odložil sis všechny svoje věci a usnul jako dřevo téměř ihned.
+        "<.p>Konečně je ta noc na útěku za mnou, z města bílých lidí jsem se dostal do míst, která tak 
+		důvěrně znám. Indiánský společník Bystrý rys mě pozval do svého týpí jako hosta, 
+		o kterého bude náležitě postaráno, samozřejmě po tradičním ranním pozdravu slunci. 
+		Teď ale vnímám atmosféru probouzející se vsi. 
 
-            <.p>A zdál se Ti sen, který sis ihned po probuzení přesně vybavil... 
-			Vznášíš se nad rozpálenou prérií a proudy větru Tě nesou stále dál, stačí 
-			jen máchnout křídly a obrovskou rychlostí mizíš na jiné místo, necítíš nic kromě 
-			malého předmětu zavěšeného na koženém provázku okolo krku. Předmět jiskří, hýbe se 
-			ze strany na stranu, ale jinak pevně drží a šňůra se ani při divokém letu nepřetrhne. 
-			Náhle padáš na zem, ale dopad necítíš. Necítíš nic, jen se Ti v hlavě promítl celý 
-			Tvůj život, jsou to obrázky tvořící neuvěřitelně rychle se pohybující mozaiku, Ty ale 
-			vnímáš přesně každý okamžik Tvého současného bytí od dětství až do teď. Náhle vstáváš 
-			a žiješ dál.
+		<.p>Ha, další věc, pro kterou má smysl žít. Vždyť to nejmenší, co mohu každý den udělat, 
+		je poděkovat slunci za to, že vyšlo, vždyť je to jeho libovůle a klidně by se na takovou věc 
+		mohlo vykašlat a nechat všechny tvory v temnotě... Bledé tváře toto berou jako samozřejmost 
+		a nejsou zvyklé za podobné věci děkovat, právě naopak, když jsem se přestěhoval do města 
+		a podobný rituál se snažil ráno provést, viděla mě jedna starší dáma, která s vítězoslavným 
+		výkřikem nad získáním nového drbu letěla za panem farářem ještě za tepla. Jak ti důchodci 
+		umí běhat, když jsou správně nažhaveni, po tomto výstupu se prostě nedalo neválet smíchy. 
+		Po pár dnech jsem byl panem farářem, jinak velmi tolerantním a rozumným člověkem, upozorněn, 
+		že podobné věci nejsou ve městě žádoucí a prosil mě, abych jich zanechal nebo je prováděl 
+		někde, kde nikdo nic neuvidí.
 
-        	<.p>To ale už vnímáš atmosféru ranního týpí a probouzející se vsi. Jsi trochu omámený 
-			svým snem, co měl znamenat? Vize? Obraz současného nebo některého z minulých životů? 
-			Určitě nepřišel jen tak sám od sebe, vysvětlit si jej však sám alespoň zatím nedokážeš. 
-			Rozhodně by bylo dobré zeptat se někoho, kdo se v těchto věcech vyzná, zde určitě 
-			povolanou osobu najdeš. Bystrý rys už je vzhůru a s úsměvem Tě zve na ranní pozdrav slunci. 
+        <.p>Ale konec vzpomínek, společně s mým hostitelem a ostatními obyvateli osady vítáme nový den a
+		zdá se mi, že bude ještě zajímavější, než všechny předchozí. Bystrý rys mě následně vybídl, 
+		ať se zatím podívám po vsi, má důležité jednání s válečným náčelníkem. Jeho týpí je mi 
+		samozřejmě otevřené.
 
-			<.p>Ha, další věc, pro kterou má smysl žít. Vždyť to nejmenší, co můžeš každý den udělat, 
-			je poděkovat slunci za to, že vyšlo, vždyť je to jeho libovůle a klidně by se na takovou věc 
-			mohlo vykašlat a nechat všechny tvory v temnotě... Bledé tváře toto berou jako samozřejmost 
-			a nejsou zvyklé za podobné věci děkovat, právě naopak, když jsi se přestěhoval do města 
-			a podobný rituál se snažil ráno provést, viděla Tě jedna starší dáma, která s vítězoslavným 
-			výkřikem nad získáním nového drbu letěla za panem farářem ještě za tepla. Jak ti důchodci 
-			umí běhat, když jsou správně nažhaveni, po tomto výstupu se prostě nedalo neválet smíchy. 
-			Po pár dnech jsi byl panem farářem, jinak velmi tolerantním a rozumným člověkem, upozorněn, 
-			že podobné věci nejsou ve městě žádoucí a prosil Tě, abys jich zanechal nebo je prováděl 
-			někde, kde nikdo nic neuvidí.
-
-            <.p>Ale konec vzpomínek, společně s Tvým hostitelem a ostatními muži vítáš nový den a ke 
-			konci věříš, že bude ještě zajímavější, než všechny předchozí. Bystrý rys Tě následně vybízí, 
-			aby ses zatím podíval po vsi, má důležité jednání s mírovým náčelníkem. Jeho týpí je Ti 
-			samozřejmě otevřené.\b\b\b";
+		<.p>Nechci nikoho urazit, ale docela spěchám domů. Na druhou stranu mi bylo řečeno, že večer
+		je naplánována taneční slavnost a já už tak dlouho netančil... No a když už to musím říct, bylo
+		mi naznačeno, že místní dívky by velmi rády viděly i lakotský tanec, zbytek netřeba vysvětlovat. 
+		Ale slibuji, že budu putovat dál hnedle po té nádheře, ve městě byla alespoň pro mě šílená nuda.\b\b\b";
 
        	    "<b><center><font size=+2>Kroužící orel 2</font></b></center>\n
             <b><center>napsal Luděk Šťastný</b></center>\n

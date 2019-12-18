@@ -1,0 +1,22 @@
+1. Dvě postavy začínající v jediné místnosti
+
+Bystou Losici a koně se světlou hřívou jsem definoval jako postavy:
+
+bystraLosice : Person 'indiánka' 'indiánka' *3
+    @mistnostPredTipimDivkyPripravujiciSeNaTanec
+
+kunSeSvetlouHrivou : OutOfReach, UntakeableActor 'kůň' 'kůň' *1
+    @mistnostPredTipimDivkyPripravujiciSeNaTanec
+
+Pokud dojdu do místnosti, vidím úsměvnou hlášku:
+
+Kůň a indiánku stoj{íš poser}.
+
+
+Proto jsem zatím koně definoval jako objekt třídy Immovable.
+
+- zkus v anglické verzi u anglické hry, není-li chyba v překladu
+
+---
+
+2. Lze nějak simulovat změnu dne a noci? V manuálech ani na internetu jsem nic nenašel.
