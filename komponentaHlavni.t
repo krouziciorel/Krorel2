@@ -253,8 +253,9 @@ gameMain: GameMainDef
     {
         "<.p>Konečně je ta noc na útěku za mnou, z města bílých lidí jsem se dostal do míst, která tak 
 		důvěrně znám. Indiánský společník Bystrý rys mě pozval do svého týpí jako hosta, 
-		o kterého bude náležitě postaráno, samozřejmě po tradičním ranním pozdravu slunci. 
-		Teď ale vnímám atmosféru probouzející se vsi. 
+		o kterého bude náležitě postaráno a kam ochodně uložil mojí truhlu s věcmi (mohu mu vůbec
+		věřit? Nevím a raději nechci vědět, teď už stejně nemám na výběr), samozřejmě po tradičním 
+		ranním pozdravu slunci. Teď ale vnímám atmosféru probouzející se vsi. 
 
 		<.p>Ha, další věc, pro kterou má smysl žít. Vždyť to nejmenší, co mohu každý den udělat, 
 		je poděkovat slunci za to, že vyšlo, vždyť je to jeho libovůle a klidně by se na takovou věc 

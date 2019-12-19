@@ -1,4 +1,4 @@
-1. Dvě postavy začínající v jediné místnosti
+1. Dvě postavy začínající v jediné místnosti - vyřešeno
 
 Bystou Losici a koně se světlou hřívou jsem definoval jako postavy:
 
@@ -17,6 +17,14 @@ Proto jsem zatím koně definoval jako objekt třídy Immovable.
 
 - zkus v anglické verzi u anglické hry, není-li chyba v překladu
 
+
+- problém jsem vyřešil tak, že jsem každé postavě přidělil  specialDesc = "Losice stojí před týpím. "
+- koně tedy znovu definuji jako UntakeableActor, zatím bez OutofReach
+
 ---
 
 2. Lze nějak simulovat změnu dne a noci? V manuálech ani na internetu jsem nic nenašel.
+
+---
+
+3. V týpí BR jsou postele a lenošky, špatné skloňování při výlezu ven, uprav.

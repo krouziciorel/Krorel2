@@ -49,10 +49,3 @@ mistnostPredTypimDivkyPripravujiciSeNaTanec : OutdoorRoom 'Před týpím dívky 
     gcVocab = 'týpí/týpí/týpí/týpímu/típí/típí/típí/típí/mu/tee-pee/tee-pee/tee-pee/tee-peemu'
 ;
 
-+ kunSeSvetlouHrivou : Immovable 'kůň' 'kůň' *1
-	"Středně veliký kůň se světlou hřívou se klidně pase, trávy kolem týpí je spousta 
-	a tak Ti nevěnuje žádnou pozornost. "
-
-    gcName = 'koně, koni, kůň, koni, koněm'
-    gcVocab = 'koně/koni/kůň/koněm'
-;
