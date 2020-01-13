@@ -36,8 +36,8 @@ mistnostTypiBystrehoRysa : Room 'Týpí Bystrého rysa' 'týpí Bystrého rysa'
 		uvědomuješ, kolik let jsi tato známá místa neviděl... Stavbě vévodí ohniště ležící uprostřed, 
 		nad nímž se tyčí kotlík na trojnožce. Před tebou a po stranách vidíš nízké postele, lenošky, 
 		indiánskou truhlu, na provazech napnutých výše jsou zavěšeny části oděvu a deky.\n Vidíš ohniště, 
-		zavěšený kotlík, v kterém je zbytek jídla, zásobu dřeva, postele, lenošky, provazy, na kterých visí
-		části oděvu a deky a také svojí truhlu.\n Můžeš jít ven. " 
+		zavěšený kotlík se zbytkem jídla, zásobu dřeva, postele, lenošky, provazy, na kterých visí části 
+		oděvu a deky a také svojí truhlu.\n Můžeš jít ven. " 
 
 	out: TravelMessage { -> mistnostPredTypimBystrehoRysa "Nízkým vstupem se opatrně protahuješ ven. " }
 	east asExit(out)
@@ -92,28 +92,20 @@ mistnostTypiBystrehoRysa : Room 'Týpí Bystrého rysa' 'týpí Bystrého rysa'
     gcVocab = 'lenoškám/lenoškami/lenoškám'
 ;
 
-+ kotlik : RestrictedContainer, CustomImmovable 'kotlík' 'kotlík' *2
-    "Poctivý želený kotlík si každá žena považuje, indiáni neumějí vyrábět předměty z kovů. A není rozhodně prázný. "
++ kotlik : CustomImmovable 'kotlík' 'kotlík' *2
+    "Poctivý želený kotlík si každá žena považuje, indiáni neumějí vyrábět předměty z kovů. <<first time>>A není rozhodně prázný. 
+	<<only>>"
 
-	validContents = jidloZKotliku
     cannotTakeMsg = 'Kotlík nikomu brát nebudu, tuhle věcičku si paní domácí určitě velmi cení. '
 
     gcName = 'kotlíku, kotlíku, kotlík, kotlíku, kotlíkem'
     gcVocab = 'kotlíku/kotlíkem/kotlík/kotlíkem'
 ;
 
-++ jidloZKotliku : Food, CustomImmovable 'jídlo' 'jídlo' *4
+++ Decoration 'jídlo' 'jídlo' *4
     "Pečené bizoní maso nádherně voní. "
 
-    smellDesc = "Masíčko krásně voní, je čerstvé a tak to má být. "
-    tasteDesc = "Proč drobet neochutnat, čerstvě upečené maso je vždycky bašta. "
-
-	dobjFor(Eat)
-		{
-		verify() { illogical('Ne, ne, před tancem se něčím tak výživným rozhodně nenacpu, potom bude času dosti.' ); }
-		}
-
-    cannotTakeMsg = 'Jíst už se mi také nechce, zvláště před tancem a upřímně řečeno i po něm si rád od něj oddychnu. 
+	notImportantMsg = 'Jíst už se mi také nechce, zvláště před tancem a upřímně řečeno i po něm si rád od něj oddychnu. 
 	Brát jej sebou nemohu, slouží obytvatům týpí a jajich hostům. <<first time>>Víš co, 
 	zkus se pořádně nadlábnout a pak si spolu dáme tanec Lovce nebo Orla, chci Tě vidět. <<only>>'
 
@@ -126,8 +118,6 @@ mistnostTypiBystrehoRysa : Room 'Týpí Bystrého rysa' 'týpí Bystrého rysa'
 	a vysušit nebo vyudit nad otevřeným ohněm. "
 
 	isPlural = true
-
-	validContents = deky, castiOdevu
 
     cannotTakeMsg = '<<first time>>Aha, Tebe, můj milý hráči, jistě svrbí prsty na obou rukou, aby sis vzal něco, co Ti nepatří. 
 	Místní mě pustili do svého týpí a já se jím odvděčím tím, že tam něco sprostě ukradnu. Mnoho jsem o těchto věcech dumal a myslím, 
@@ -144,32 +134,23 @@ mistnostTypiBystrehoRysa : Room 'Týpí Bystrého rysa' 'týpí Bystrého rysa'
     gcVocab = 'provazům/provazy/provazům'
 ;
 
-++ deky : CustomImmovable 'deky' 'deky' *3
+++ Decoration 'deky' 'deky' *3
     "Na provazech se suší deky z kůží i látek, které slouží buď k zabalení majitele, ke spaní nebo jako sedlová podložka, lze je tedy využít 
 	na více činností, což je pro často se stěhující kmen klíčové. "
 
     isPlural = true
-	cannotTakeMsg = 'Deka se na přespání nebo jako sedlová deka pod bederní roušku vždy hodí, krást je ale nebudu. '
+	notImportantMsg = 'Deka se na přespání nebo jako sedlová deka pod bederní roušku vždy hodí, krást je ale nebudu. '
 
     gcName = 'deky, dekám, deky, dekám, dekami'
     gcVocab = 'dekám/dekami/dekám'
 ;
 
-++ castiOdevu : Wearable, CustomImmovable 'části oděvu' 'části oděvu' *3
+++ Decoration 'části oděvu' 'části oděvu' *3
     "Na provazech visí části mužských i ženských indiánských oděvů, které se suší nebo udí. Uzení je činí vodě odolnými, má jen tu nevýhodu, 
 	že při jejich nošení má majitel stále chuť na dobře propečené masíčko. "
 
     isPlural = true
-
-    dobjFor(Wear)
-    {
-        action()
-        {
-            "Teď je venku opravdu vedro, moje suknice bedernice mi plně vyhovuje, mimoto cizí oděvy přeci brát nikomu nebudu. ";
-        }
-    }
-
-	cannotTakeMsg = 'Teď je venku opravdu vedro, moje suknice bedernice mi plně vyhovuje, mimoto cizí oděvy přeci brát nikomu nebudu. '
+	notImportantMsg = 'Teď je venku opravdu vedro, moje suknice bedernice mi plně vyhovuje. '
 
     gcName = 'části oděvu, částem oděvu, části oděvu, částem oděvu, částmi oděvu'
     gcVocab = 'částem částmi částem/oděvu/oděvu/oděvů'
@@ -227,8 +208,8 @@ mistnostTypiBystrehoRysa : Room 'Týpí Bystrého rysa' 'týpí Bystrého rysa'
 
 	isPlural = true
 
-    gcName = 'polámaným šípům, polámaným šípům, polámané šípy, polámaným šípům, polámanými šípy'
-    gcVocab = 'polámanému/polámaným/polámané/polámanými/šípy/šípem/šípy/šípy'
+    gcName = 'provazy, provazům, provazy, provazům, provazy'
+    gcVocab = 'provazům/provazy/provazům'
 ;
 
 ++ tomahawk : Thing 'tomahawk' 'tomahawk' *2
@@ -286,15 +267,9 @@ mistnostTypiBystrehoRysa : Room 'Týpí Bystrého rysa' 'týpí Bystrého rysa'
 ++ kosile : Wearable 'košile' 'košile' *3
     "Skvěle vyrobená košile z jelenice zdobená třásněmi a koňskými žíněmi. "
 
-    dobjFor(Wear)
-    {
-        action()
-        {
-            "Nezlob se, hráči, ale už teď je mi dost vedro, na tohle je čas, až se změní počasí. A já se chci také opálit, 
-			vždyť víš, že ve městě bledých tváří jsem bez košile chodit nemohl. Klidně si něco podobného vezmi na sebe sám, mě ale prosím nenuť. 
-			Uznej, že dívky mají také právo užít si polonahého a pěkně vyzdoběného muže, nekaz jim tu radost. ";
-        }
-    }
+	notWearableMsg = 'Nezlob se, hráči, ale už teď je mi dost vedro, na tohle je čas, až se změní počasí. A já se chci také opálit, 
+	vždyť víš, že ve městě bledých tváří jsem bez košile chodit nemohl. Klidně si něco podobného vezmi na sebe sám, mě ale prosím nenuť. 
+	Uznej, že dívky mají také právo užít si polonahého a pěkně vyzdoběného muže, nekaz jim tu radost. '
 	
     gcName = 'košile, košili, košili, košili, košilí'
     gcVocab = 'košile/košili/košili/košilí'
@@ -307,15 +282,9 @@ mistnostTypiBystrehoRysa : Room 'Týpí Bystrého rysa' 'týpí Bystrého rysa'
 
 	isPlural = true
 
-    dobjFor(Wear)
-    {
-        action()
-        {
-            "Odpusť, hráči, já Tě chápu, že jsi asi zvyklý na něco jiného, ale vedro je holt vedro a já patřím mezi otužilejší tvory. 
-			Plus se moc moc moc chci opálit, vždyť víš, že ve městě bledých tváří jsem polonahý chodit nemohl a pohled na ty vybledlé chudáky mě zrovna netěšil. 
-			Nesmíme zapomenout na naše krásné dívky, ty mě jistě ocení jen v suknici - bedernici a to nejen při tanci. ";
-        }
-    }
+	notWearableMsg = 'Odpusť, hráči, já Tě chápu, že jsi asi zvyklý na něco jiného, ale vedro je holt vedro a já patřím mezi otužilejší tvory. 
+	Plus se moc moc moc chci opálit, vždyť víš, že ve městě bledých tváří jsem polonahý chodit nemohl a pohled na ty vybledlé chudáky mě zrovna netěšil. 
+	Nesmíme zapomenout na naše krásné dívky, ty mě jistě ocení jen v suknici - bedernici a to nejen při tanci. '
 
 	gcName = 'legínů, legínům, legíny, legínách, legíny'
 	gcVocab = 'legínů/legínům/legínech/legínu/legínami'
@@ -325,23 +294,16 @@ mistnostTypiBystrehoRysa : Room 'Týpí Bystrého rysa' 'týpí Bystrého rysa'
     "Výborná věc, kterou ženy z indiánských kmenů využívají na zimní doplňky. Ovšem bledé tváře bizony zabíjejí často jen kvůli ní z důvodu nějaké hloupé módy, 
 	to je něco neuvěřitelného, i když já se svými zkušenostmi začínám pomalu chápat. "
 
-    dobjFor(Wear)
-    {
-        action()
-        {
-            "Už teď je mi hic téměř na nic, nechám si ji na zimní čas. ";
-        }
-    }
-
+	notWearableMsg = 'Už teď je mi hic téměř na nic, nechám si ji na zimní čas. '
+	
     gcName = 'kožešina, kožešině, kožešinu, kožešinu, kožešinou'
     gcVocab = 'kožešina/kožešinou/kožešinu/kožešinou'
 ;
 
-
 ++ kozenePouzdro : RestrictedContainer 'kožené pouzdro' 'kožené pouzdro' *4
 	"Zdobené kožené pouzdro na nůž, parádní práce. "
 
-	validContents = [nuz]
+	validContents = nuz
 
     gcName = 'koženému pouzdru, koženému pouzdru, kožené pouzdro, koženému pouzdru, koženým pouzdrem'
     gcVocab = 'koženému koženým kožené koženým/pouzdru/pouzdrem/pouzdro/pouzdrem'

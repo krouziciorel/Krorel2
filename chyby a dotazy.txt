@@ -1,3 +1,4 @@
+
 1. Dvě postavy začínající v jediné místnosti - vyřešeno
 
 Bystou Losici a koně se světlou hřívou jsem definoval jako postavy:
@@ -15,16 +16,65 @@ Kůň a indiánku stoj{íš poser}.
 
 Proto jsem zatím koně definoval jako objekt třídy Immovable.
 
-- zkus v anglické verzi u anglické hry, není-li chyba v překladu
+
 
 
 - problém jsem vyřešil tak, že jsem každé postavě přidělil  specialDesc = "Losice stojí před týpím. "
 - koně tedy znovu definuji jako UntakeableActor, zatím bez OutofReach
 
----
 
-2. Lze nějak simulovat změnu dne a noci? V manuálech ani na internetu jsem nic nenašel.
+2. Pokud např. legíny nechci dovolit hráči na sebe, je nutno využít metodu dobjFor(Wear), žádná xxxmessage nepomůže.
 
----
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+
+2. Lze nějak simulovat změnu dne a noci? V manuálech ani na internetu jsem nic nenašel. Udělám tedy pro
+každou místnost denní i noční verzi, noc se spustí např. po zahájení taneční slavnosti.
+
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+
 
 3. V týpí BR jsou postele a lenošky, špatné skloňování při výlezu ven, uprav.
+
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+
+4. Nefunguje příkaz "jdi do týpí", ale funguje např. "jdi dovnitř"
+- zde je třeba využít Enterable, musel bych však nejspíš mít vše např. v soubotu předTypimLovce podobně jako v Heidi
+- mohu ale napsat do tipů ve hře, že tuto funkci zatím nepoužívat a zeptám se na fóru
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Poznámky pro pozdější vývoj -
+Luk - budu asi definovat jako Container pro šípy
