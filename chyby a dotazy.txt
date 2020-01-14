@@ -31,16 +31,8 @@ Proto jsem zatím koně definoval jako objekt třídy Immovable.
 
 
 
-2. Lze nějak simulovat změnu dne a noci? V manuálech ani na internetu jsem nic nenašel. Udělám tedy pro
+3. Lze nějak simulovat změnu dne a noci? V manuálech ani na internetu jsem nic nenašel. Udělám tedy pro
 každou místnost denní i noční verzi, noc se spustí např. po zahájení taneční slavnosti.
-
-
-
-----------------------------------------------------------------------------------------------------------------------
-
-
-
-3. V týpí BR jsou postele a lenošky, špatné skloňování při výlezu ven, uprav.
 
 
 

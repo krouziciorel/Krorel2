@@ -1,0 +1,21 @@
+SpecialDesc
+
+Po vstupu nebo po rozhlédnutí v místnosti hra automaticky vypíše všechny přenosné objekty, které
+zde leží. Na nepřenosné objekty ale normálně nijak upozorňováno není, protože se předpokládá, že
+se o nich autor zmínil v popisu místnosti. Občas se hodí na nějaký objekt zvláště upozornit, protože
+je pro hru důležitý, ale není vhodné se mu věnovat v základním popisu místnosti. Takovému objektu
+můžeme nastavit vlastnost specialDesc na dvojitými uvozovkami ohraničený řetězec, která na
+rozdíl od běžného popisku prozkoumání bude vložena do popisu místnosti a bude zde mít svůj
+samostatný odstavec. Představme si třeba tovární halu s nějakým strojem – v popisu místnosti
+zmíníme prostor a okolí, všechny východy, a stroj, který tvoří dominantu haly a hráč s ním má něco
+dělat, si automaticky přidá do popisu místnosti svůj vlastní odstavec pomocí specialDesc.
+Alternativně k vlastnosti specialDesc můžeme nastavit initSpecialDesc, která bude mít stejnou
+funkci, ale bude aktivní (a zastoupí prve jmenovanou vlastnost) jen dokud je objekt v úvodním
+stavu, což normálně znamená, dokud ho hráč poprvé nevezme. (Nicméně co úvodní stav znamená,
+můžeme změnit úpravou metody isInInitState, takže může platit až do jiné události ve hře, než
+pouhého sebrání předmětu.)
+Přesně stejně funguje i vlastnost initDesc, která zastoupí běžný popisek prozkoumání, dokud je
+objekt v úvodním stavu. Tuto vlastnost můžete použít u objektů, které jsou třeba malé a špatně
+vidět. Nastavíme jejich initDesc na málo konkrétní popisek: „Vedle pařezu se leskne nějaký malý
+mosazný předmět.“ Po sebrání se už hráč z běžného prozkoumání dozví, že se jedná o mosazný
+klíč.

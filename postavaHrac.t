@@ -65,7 +65,7 @@ me: Actor
 					a velmi vzdušná věc mi nijak nepřekáží. "
   
     gcName = 'bederní roušky, bederní roušce, bederní roušku, bederní roušce, bederní rouškou'
-    gcVocab = 'roušky/roušce/roušku/rouškou'
+    gcVocab = 'bederní roušky/roušce/roušku/rouškou'
 ;
 
 + VzdyObleceno 'opasek' 'opasek' *2
@@ -76,8 +76,8 @@ me: Actor
 
     cannotDoffMsg = "Odpusť, ale nahý tady nebudu, veškerý oděv drží právě na opasku. "
   
-    gcName = 'opasky, opasku, opasek, opasku, opaskem'
-    gcVocab = 'opasky/opasku/opasek/opaskem'
+    gcName = 'opasku, opasku, opasek, opasku, opaskem'
+    gcVocab = 'opasku/opasku/opasek/opaskem'
 ;
 
 
@@ -90,8 +90,8 @@ me: Actor
     cannotDoffMsg = "Já vím, ale tak nějak cítím, že tuhle věc bych sundávat neměl. Vzpomínky, možná strach,
 					nemám ponětí ... "
   
-    gcName = 'orlí medicíny, orlí medicíně, orlí medicínu, orlí medicíně, orlí medicínou'
-    gcVocab = 'medicíny/medicíně/medicínu/medicínou'
+    gcName = 'orlí medicínu, orlí medicíně, orlí medicínu, orlí medicíně, orlí medicínou'
+    gcVocab = 'orlí medicínu/medicíně/medicínou'
 ;
 
 + VzdyObleceno 'mokasíny/mokasín' 'mokasíny' *4

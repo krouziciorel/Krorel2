@@ -70,3 +70,7 @@ Co si chceš nandat?
 ---
 
 3. Pro den a noc bude nutno nový objekt Darkroom s upraveným textem, asi nepůjde modifikovat stávající. 
+
+---
+
+4. Pohraj si s barvami, např. předměty popisované v místnosti mohou být azurovou

@@ -28,10 +28,20 @@ mistnostPredTypimOchrancePosvatneBizoniCapky : OutdoorRoom 'Před týpím ochrá
 		zrovna nadšen Tvým výskáním a řevem.\n 
 		Můžeš jít na severovýchod a na jihozápad. "     
    
-	in: DeadEndConnector { "Do tohoto týpí rozhodně povolený vstup nemám a o něco podobného se v 
-	žádném případě nepokusím, nejsem sebevrah. " }    
+	in: DeadEndConnector { "<<first time>>Do tohoto týpí rozhodně povolený vstup nemám a o něco podobného se v 
+	žádném případě nepokusím, nejsem sebevrah. <<only>>Opravdu si myslíš, že je dobrý nápad vstoupit nepozván do 
+	nejposvátnějšího týpí? Ne, ne, tohle opravdu neudělám, život v táboře má také svá pravidla." }    
   	west asExit(in) 
   	northeast = mistnostPredTypimLovce
 	southwest = mistnostPredTypimZranenehoLovce 
 ;
 
++ typiOchrancePosvatneBizoniCapky : CustomImmovable 'týpí' 'týpí' *4
+    "Nádherně vymalované týpí se symboly lučních kobylek vzbuzuje skutečnou úctu. "
+
+    cannotTakeMsg = 'Tak to jsem přeslechl, vím, že o toto týpí nemáš zájem. A pokud jsem slyšel správně, 
+	klidně si takové postav na zahradě a pozvi někoho ideálně staršího z tohoto kmene na návštěvu, Tvá obliba jistě 	  		vzroste. '
+
+    gcName = 'týpí, týpí, týpí, týpí, týpím'
+    gcVocab = 'týpí/týpí/týpí/týpímu/típí/típí/típí/típí/mu/tee-pee/tee-pee/tee-pee/tee-peemu'
+;

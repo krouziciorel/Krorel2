@@ -28,3 +28,13 @@ mistnostPredTypimLovce : OutdoorRoom 'Před týpím lovce' 'před týpí lovce'
   	southeast = mistnostSusakyNaMaso 
 ;
 
++ typiLovce : CustomImmovable 'týpí' 'týpí' *4
+    "Nejvýraznější malbu na týpí představují dva symboličtí bizoni a mezi nimi červený sluneční kotouč, 
+	který se svými paprsky dotýká země dole. "
+
+    cannotTakeMsg = 'Promiň, ale týpí umí v našem kmeni postavit a složit jen a jen ženy. Takže si koukej 
+	nějakou najít a mě nech dělat něco jiného. '
+
+    gcName = 'týpí, týpí, týpí, týpí, týpím'
+    gcVocab = 'týpí/týpí/týpí/týpímu/típí/típí/típí/típí/mu/tee-pee/tee-pee/tee-pee/tee-peemu'
+;

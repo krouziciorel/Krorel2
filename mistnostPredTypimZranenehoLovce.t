@@ -43,3 +43,13 @@ mistnostPredTypimZranenehoLovce : OutdoorRoom 'Před týpím zraněného lovce'
 	northeast = mistnostPredTypimOchrancePosvatneBizoniCapky
 ;
 
++ typiZranenehoLovce  : CustomImmovable 'týpí' 'týpí' *4
+    "<<first time>>Ze zcela bělostného týpí bez jakýchkoliv ozdob se ozývá slabé sténání. <<only>>Dveře tohoto 
+	tradičního šajenského týpí zcela bez ozdob jsou otevřeny. "
+
+    cannotTakeMsg = 'Ten chudák, co uvnitř sténá, bude potřebovat pomoc. A Ty jsi lékař, opravdu mu chceš pomoci
+	tímto způsobem? Nezlob se, ale právě jsem se z Tvého seznamu pacientů odhlásil, nejsem sebevrah. '
+
+    gcName = 'týpí, týpí, týpí, týpí, týpím'
+    gcVocab = 'týpí/týpí/týpí/týpímu/típí/típí/típí/típí/mu/tee-pee/tee-pee/tee-pee/tee-peemu'
+;

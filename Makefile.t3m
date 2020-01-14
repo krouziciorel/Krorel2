@@ -44,6 +44,7 @@
 -D INSTRUCTIONS_MENU
 -Fy obj
 -Fo obj
+-w1
 
 ##sources
 -lib system
@@ -52,6 +53,7 @@
 -source postavaHrac
 -source postavaBystraLosice
 -source postavaKunSeSvetlouHrivou
+-source postavaZranenyLovec
 -source tridaZpocatkuAVzdyObleceno
 -source mistnostPredTypimBystrehoRysa
 -source mistnostTypiBystrehoRysa

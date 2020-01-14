@@ -25,7 +25,7 @@ mistnostTypiBystrehoRysa : Room 'Týpí Bystrého rysa' 'týpí Bystrého rysa'
 		postup plně chápe a asi by nejednala jinak. Představí se jako Tichá srna a ukáže Ti i 
 		svojí malou dceru, u níž Ti oznámí jen přezdívku Vyjící celou noc. Při tom jsi se lehce 
 		usmál, u indiánů typické a vše vysvětlující označení pro malé děti by bělochům asi připadalo 
-		směšné... Po rozhovoru žena dovařila a sdělila Ti, že společně s dcerou půjdou na sběr dřeva, 
+		směšné... Po krátkém rozhovoru žena dovařila a sdělila Ti, že společně s dcerou půjdou na sběr dřeva, 
 		oheň už může dohořet tak jak je. Dozvěděl jsi se, že Tvoje truhla s věcmi je umístěna v levé 
 		části týpí hned za zásobou dřeva, můžeš si ji zde nechat a vždy si vzít jen to, co právě 
 		potřebuješ. Jako manželův host máš právo chodit do tohoto týpí a ani s jídlem si nemusíš dělat 
@@ -34,10 +34,9 @@ mistnostTypiBystrehoRysa : Room 'Týpí Bystrého rysa' 'týpí Bystrého rysa'
 		přivítání i rozhovor Ti dodal novou energii a radost z tvého konání. <<only>>Toto týpí patří 
 		manželce Bystrého rysa. Ihned poznáváš interiér, na který jsi byl tak dlouho zvyklý, okamžitě si 
 		uvědomuješ, kolik let jsi tato známá místa neviděl... Stavbě vévodí ohniště ležící uprostřed, 
-		nad nímž se tyčí kotlík na trojnožce. Před tebou a po stranách vidíš nízké postele, lenošky, 
-		indiánskou truhlu, na provazech napnutých výše jsou zavěšeny části oděvu a deky.\n Vidíš ohniště, 
-		zavěšený kotlík, v kterém je zbytek jídla, zásobu dřeva, postele, lenošky, provazy, na kterých visí
-		části oděvu a deky a také svojí truhlu.\n Můžeš jít ven. " 
+		nad nímž se tyčí kotlík na trojnožce.\n 
+		Vidíš ohniště, zavěšený kotlík, v kterém je zbytek jídla, zásobu dřeva, postele, lenošky, 
+		provazy, na kterých visí části oděvu a deky a také svojí truhlu.\n Můžeš jít ven. " 
 
 	out: TravelMessage { -> mistnostPredTypimBystrehoRysa "Nízkým vstupem se opatrně protahuješ ven. " }
 	east asExit(out)
@@ -54,42 +53,39 @@ mistnostTypiBystrehoRysa : Room 'Týpí Bystrého rysa' 'týpí Bystrého rysa'
 	cannotBurnMsg = 'Zapalovat něco, co již hoří nedává smysl a až vyhasne, je to záležitost paní domu, tohle umění 
 	si mohu cvičit někde jinde. '
 
-    gcName = 'ohništi, ohništi, ohniště, ohništi, ohništěm'
-    gcVocab = 'ohništi/ohništěm/ohniště/ohništěm/ohni/ohněm/oheň/oheň/ohni'
+    gcName = 'ohniště, ohništi, ohniště, ohništi, ohništěm'
+    gcVocab = 'ohniště/ohništi/ohništěm/oheň/ohni/ohněm'
 ;
 
 + drevo : CustomImmovable 'dřevo' 'dřevo' *4
     "Nanošené dříví z nedalekého lesíka pečlivě uspořádané v levé části týpí hned za vchodem. Krásně voní už nyní 
-	a co teprve, až začne hořet a praskat v ohništi. "
+	 a co teprve, až začne hořet a praskat v ohništi. "
 
-    cannotTakeMsg = 'Když lapnu místním dřevo na oheň je tak pro nic za nic, někdo mě uvidí a paní domu mě asi něčím klepne, 
-	nelze vyloučit, že přidá i kopnutí svým kopytem (a možná ne jen tím svým). '
+    cannotTakeMsg = 'Když lapnu místním dřevo na oheň je tak pro nic za nic, někdo mě uvidí a paní domu mě asi něčím 		klepne, nelze vyloučit, že přidá i kopnutí svým kopytem (a možná ne jen tím svým). '
 	cannotBurnMsg = 'Mohu přiložit, ale paní domu mi jasně řekla, že oheň mám nechat tak jak je, nezlob pořád. '
 
-    gcName = 'dřevu, dřevu, dřevo, dřevu, dřevem'
-    gcVocab = 'dřevu/dřevem/dřevo/dřevem'
+    gcName = 'dřeva, dřevu, dřevo, dřevu, dřevem'
+    gcVocab = 'dřeva/dřevu/dřevo/dřevem'
 ;
 
 + postele : Bed, CustomImmovable 'postele' 'postele' *3
-    "Indiáni mají svá jednoduchá lůžka nízká, aby je netrápil kouř, když už oheň dohasíná. Jsou však stejně pohodlná jako 
-	postele bělochů, když si je člověk párkrát vyzkouší. "
+    "Indiáni mají svá jednoduchá lůžka nízká, aby je netrápil kouř, když už oheň dohasíná. Jsou však stejně pohodlná jako postele bělochů, když si je člověk párkrát vyzkouší. "
 
 	isPlural = true
     cannotTakeMsg = 'Ne, postel si na záda nalež laskavě sám. '
 
-    gcName = 'postele, postelím, postele, postelím, postelemi'
-    gcVocab = 'postelím/postelemi/postelím'
+    gcName = 'postele, postelím, postele, postelích, postelemi'
+    gcVocab = 'postele/postelím/postelích/postelemi'
 ;
 
 + lenosky : Bed, CustomImmovable 'lenošky' 'lenošky' *3
-    "Lenoška představuje skládací rohož z vrbových nebo lískových prutů, která se dá jednoduše srolovat a přemístit jako vše 
-	z arzenálu stepních národů. Je velmi pohodlná jak venku, tak v týpí, dá se samozřejmě použít i jako postel. "
+    "Lenoška představuje skládací rohož z vrbových nebo lískových prutů, která se dá jednoduše srolovat a přemístit jako 	  vše z arzenálu stepních národů. Je velmi pohodlná jak venku, tak v týpí, dá se samozřejmě použít i jako postel. "
 
     isPlural = true
 	cannotTakeMsg = 'Lenošky slouží místním, štípnout je se sakra nevyplácí. '
 
-    gcName = 'lenošky, lenoškám, lenošky, lonoškám, lenoškami'
-    gcVocab = 'lenoškám/lenoškami/lenoškám'
+    gcName = 'lenošek, lenoškám, lenošky, lenoškách, lenoškami'
+    gcVocab = 'lenošek/lenoškám/lenošky/lenoškách/lenoškami'
 ;
 
 + kotlik : RestrictedContainer, CustomImmovable 'kotlík' 'kotlík' *2
@@ -99,7 +95,7 @@ mistnostTypiBystrehoRysa : Room 'Týpí Bystrého rysa' 'týpí Bystrého rysa'
     cannotTakeMsg = 'Kotlík nikomu brát nebudu, tuhle věcičku si paní domácí určitě velmi cení. '
 
     gcName = 'kotlíku, kotlíku, kotlík, kotlíku, kotlíkem'
-    gcVocab = 'kotlíku/kotlíkem/kotlík/kotlíkem'
+    gcVocab = 'kotlíku/kotlík/kotlíkem'
 ;
 
 ++ jidloZKotliku : Food, CustomImmovable 'jídlo' 'jídlo' *4
@@ -117,42 +113,35 @@ mistnostTypiBystrehoRysa : Room 'Týpí Bystrého rysa' 'týpí Bystrého rysa'
 	Brát jej sebou nemohu, slouží obytvatům týpí a jajich hostům. <<first time>>Víš co, 
 	zkus se pořádně nadlábnout a pak si spolu dáme tanec Lovce nebo Orla, chci Tě vidět. <<only>>'
 
-    gcName = 'jídlu, jídlu, jídlo, jídlu, jídlem'
-    gcVocab = 'jídlu/jídlem/jídlo/jídlem'
+    gcName = 'jídla, jídlu, jídlo, jídle, jídlem'
+    gcVocab = 'jídla/jídlu/jídlo/jídle/jídlem'
 ;
 
 + provazy : RestrictedContainer, CustomImmovable 'provazy' 'provazy' *2
-    "V horní části týpí mezi jednotlivými tyčemi je napnuto veliké množství provazů. Jsou velmi praktické, dá se na ně něco zavěsit 
-	a vysušit nebo vyudit nad otevřeným ohněm. "
+    "V horní části týpí mezi jednotlivými tyčemi je napnuto veliké množství provazů. Jsou velmi praktické, dá se na ně 		 něco zavěsit a vysušit nebo vyudit nad otevřeným ohněm. "
 
 	isPlural = true
 
-	validContents = deky, castiOdevu
+	validContents = [deky, castiOdevu]
 
-    cannotTakeMsg = '<<first time>>Aha, Tebe, můj milý hráči, jistě svrbí prsty na obou rukou, aby sis vzal něco, co Ti nepatří. 
-	Místní mě pustili do svého týpí a já se jím odvděčím tím, že tam něco sprostě ukradnu. Mnoho jsem o těchto věcech dumal a myslím, 
-	že už znám podstatu myšlení bledých tváří. Dokáži pochopit, když se ve svém zaměstnání něčím obohatíš, ostatně pro svého zaměstnavatele 
-	jsi většinou jen položka, která má něco vykonat a pak pryč s ní. Jednotlivce ale neokrádej a už vůbec ne ty, kteří Ti projevili svoji 
-	důvěru, takové jednání se Ti později vrátí ještě v tomto nebo v některém z dalších životů (i když je to v pořádku, všichni se učíme 
-	a nejlepší způsob naučit se nekrást je být potrestán, po vlastní zkušenosti si vezmeš situaci opravdu k srdci, beru, ale tohle si 
-	raději zkoušej sám). Také nezapomínej, že se nacházíš v indiánském táboře, kde neexistuje něco jako zámek, vše je přístupné a pokud 
-	se někdo projeví jako zloděj, bývá bez pardonu vyhnán ze vsi. A co potom, dokázal by sis poradit sám v divočině? <<only>>Uf, s Tebou 
-	je ale trápení. Ještě jsi stále nepochopil, že já si nic cizího nevezmu? Takoví bývají zapomenuti, vyhnáni do divočiny a často sežráni 
+    cannotTakeMsg = '<<first time>>Aha, Tebe, můj milý hráči, jistě svrbí prsty na obou rukou, aby sis vzal něco, co Ti 	nepatří. Místní mě pustili do svého týpí a já se jím odvděčím tím, že tam něco sprostě ukradnu. Mnoho jsem o těchto 	věcech dumal a myslím, že už znám podstatu myšlení bledých tváří. Dokáži pochopit, když se ve svém zaměstnání něčím 	obohatíš, ostatně pro svého zaměstnavatele jsi většinou jen položka, která má něco vykonat a pak pryč s ní. 	 		Jednotlivce ale neokrádej a už vůbec ne ty, kteří Ti projevili svoji důvěru, takové jednání se Ti později vrátí 	  ještě v tomto nebo v některém z dalších životů (i když je to v pořádku, všichni se učíme 
+	a nejlepší způsob naučit se nekrást je být potrestán, po vlastní zkušenosti si vezmeš situaci opravdu k srdci, beru, 		ale tohle si raději zkoušej sám). Také nezapomínej, že se nacházíš v indiánském táboře, kde neexistuje něco jako 		zámek, vše je přístupné a pokud se někdo projeví jako zloděj, bývá bez pardonu vyhnán ze vsi. A co potom, dokázal by 		sis poradit sám v divočině? <<only>>Uf, s Tebou je ale trápení. Ještě jsi stále nepochopil, že já si nic cizího 	  nevezmu? Takoví bývají zapomenuti, vyhnáni do divočiny a často sežráni 
 	dravou zvěří. '
 
-    gcName = 'provazy, provazům, provazy, provazům, provazy'
-    gcVocab = 'provazům/provazy/provazům'
+    gcName = 'provazů, provazům, provazy, provazech, provazy'
+    gcVocab = 'provazů/provazům/provazy/provazech'
 ;
 
 ++ deky : CustomImmovable 'deky' 'deky' *3
-    "Na provazech se suší deky z kůží i látek, které slouží buď k zabalení majitele, ke spaní nebo jako sedlová podložka, lze je tedy využít 
+    "Na provazech se suší deky z kůží i látek, které slouží buď k zabalení majitele, ke spaní nebo jako sedlová 		  podložka, lze je tedy využít 
 	na více činností, což je pro často se stěhující kmen klíčové. "
 
     isPlural = true
+
 	cannotTakeMsg = 'Deka se na přespání nebo jako sedlová deka pod bederní roušku vždy hodí, krást je ale nebudu. '
 
-    gcName = 'deky, dekám, deky, dekám, dekami'
-    gcVocab = 'dekám/dekami/dekám'
+    gcName = 'deky, dekám, deky, dekách, dekami'
+    gcVocab = 'deky/dekám/dekách/dekami'
 ;
 
 ++ castiOdevu : Wearable, CustomImmovable 'části oděvu' 'části oděvu' *3
@@ -169,10 +158,10 @@ mistnostTypiBystrehoRysa : Room 'Týpí Bystrého rysa' 'týpí Bystrého rysa'
         }
     }
 
-	cannotTakeMsg = 'Teď je venku opravdu vedro, moje suknice bedernice mi plně vyhovuje, mimoto cizí oděvy přeci brát nikomu nebudu. '
+	cannotTakeMsg = 'Teď je venku opravdu vedro, moje suknice bedernice mi plně vyhovuje, mimoto cizí oděvy přeci brát 		nikomu nebudu. '
 
-    gcName = 'části oděvu, částem oděvu, části oděvu, částem oděvu, částmi oděvu'
-    gcVocab = 'částem částmi částem/oděvu/oděvu/oděvů'
+    gcName = 'částí oděvu, částem oděvu, části oděvu, částech oděvu, částmi oděvu'
+    gcVocab = 'částí částem části částech částmi/oděvu'
 ;
 
 + truhla : Container, CustomImmovable 'truhla' 'truhla' *3
@@ -180,8 +169,8 @@ mistnostTypiBystrehoRysa : Room 'Týpí Bystrého rysa' 'týpí Bystrého rysa'
 
     cannotTakeMsg = 'Truhlu si odnesu až po slavnostech, dříve vesnici, nebude-li to nezbytně nutné, rozhodně neopustím. '
 
-    gcName = 'truhlu, truhle, truhlu, truhle, truhlou'
-    gcVocab = 'truhly/truhle/truhlu'
+    gcName = 'truhly, truhle, truhlu, truhle, truhlou'
+    gcVocab = 'truhly/truhle/truhlu/truhlou'
 ;
 
 ++ dolar : Thing 'dolar' 'dolar' *2
@@ -189,7 +178,7 @@ mistnostTypiBystrehoRysa : Room 'Týpí Bystrého rysa' 'týpí Bystrého rysa'
 	nechápu, jak je to možné, asi to tak mělo být. "
 
     gcName = 'dolaru, dolaru, dolar, dolaru, dolarem'
-    gcVocab = 'noždolaru/dolarem/dolar/dolarem'
+    gcVocab = 'dolaru/dolar/dolarem'
 ;
 
 ++ kresadlo : PreferredIobj, Thing 'křesadlo/křesadla/křesadlu/křesadlem' 'křesadlo' *4
@@ -208,8 +197,8 @@ mistnostTypiBystrehoRysa : Room 'Týpí Bystrého rysa' 'týpí Bystrého rysa'
          }
     }
 
-       gcName = 'křesadlo, křesadlu, křesadlo, křesadlu, křesadlem'
-       gcVocab = 'křesadlu/křesadlem/křesadlo'
+       gcName = 'křesadla, křesadlu, křesadlo, křesadle, křesadlem'
+       gcVocab = 'křesadla/křesadlu/křesadlo/křesadle/křesadlem'
 ;
 
 ++ luk : Thing 'luk' 'luk' *2
@@ -217,7 +206,7 @@ mistnostTypiBystrehoRysa : Room 'Týpí Bystrého rysa' 'týpí Bystrého rysa'
 	stále účinná. "
 
     gcName = 'luku, luku, luk, luku, lukem'
-    gcVocab = 'luku/lukem/luk/lukem'
+    gcVocab = 'luku/luku/lukem'
 ;
 
 ++ polamaneSipy : Thing 'polámané šípy' 'polámané šípy' *2
@@ -227,15 +216,15 @@ mistnostTypiBystrehoRysa : Room 'Týpí Bystrého rysa' 'týpí Bystrého rysa'
 
 	isPlural = true
 
-    gcName = 'polámaným šípům, polámaným šípům, polámané šípy, polámaným šípům, polámanými šípy'
-    gcVocab = 'polámanému/polámaným/polámané/polámanými/šípy/šípem/šípy/šípy'
+    gcName = 'polámaných šípů, polámaným šípům, polámané šípy, polámaných šípech, polámanými šípy'
+    gcVocab = 'polámaných polámaným polámané polámanými/šípů/šípům/šípy'
 ;
 
 ++ tomahawk : Thing 'tomahawk' 'tomahawk' *2
 	"Menší sekerka vhodná ke zpravování kratšího dřeva nebo také šikovná na házení. Pro zkušenou ruku výborný nástroj i zbraň v jednom. "
 
-    gcName = 'luku, luku, luk, luku, lukem'
-    gcVocab = 'luku/lukem/luk/lukem'
+    gcName = 'tomahawku, tomahawku, tomahawk, tomahawku, tomahawkem'
+    gcVocab = 'tomahawku/tomahawk/tomahawkem'
 ;
 
 ++ jehla : Thing 'jehla' 'jehla' *3
@@ -243,7 +232,7 @@ mistnostTypiBystrehoRysa : Room 'Týpí Bystrého rysa' 'týpí Bystrého rysa'
 	jinak ale ne. "
 
     gcName = 'jehly, jehle, jehlu, jehle, jehlou'
-    gcVocab = 'jehly/jehle/jehlu/jehlou'
+    gcVocab = 'jehly/jehle/jehla/jehlou'
 ;
 
 ++ nit : Thing 'niť' 'niť' *3
@@ -271,8 +260,8 @@ mistnostTypiBystrehoRysa : Room 'Týpí Bystrého rysa' 'týpí Bystrého rysa'
 		}
 	}
 
-    gcName = 'sušenému masu, sušenému masu, sušené maso, sušenému masu, sušeným masem'
-    gcVocab = 'sušenému sušeným sušené sušeným/masu/masem/maso/masem'
+    gcName = 'sušeného masa, sušenému masu, sušené maso, sušeném mase, sušeným masem'
+    gcVocab = 'sušeného sušenému sušené sušeném sušeným/masa/maseu/maso/masem'
 ;
 
 ++ mapa : Thing 'mapa' 'mapa' *3
@@ -297,7 +286,7 @@ mistnostTypiBystrehoRysa : Room 'Týpí Bystrého rysa' 'týpí Bystrého rysa'
     }
 	
     gcName = 'košile, košili, košili, košili, košilí'
-    gcVocab = 'košile/košili/košili/košilí'
+    gcVocab = 'košile/košili/košilí'
 ;
 
 ++ leginy : Wearable 'legíny/legín' 'legíny' *2
@@ -317,8 +306,8 @@ mistnostTypiBystrehoRysa : Room 'Týpí Bystrého rysa' 'týpí Bystrého rysa'
         }
     }
 
-	gcName = 'legínů, legínům, legíny, legínách, legíny'
-	gcVocab = 'legínů/legínům/legínech/legínu/legínami'
+	gcName = 'legínů, legínům, legíny, legínách, legínami'
+	gcVocab = 'legínů/legínům/legíny/legínách/legínami'
 ;
 
 ++ kozesina : Wearable 'kožešina' 'kožešina' *3
@@ -333,8 +322,8 @@ mistnostTypiBystrehoRysa : Room 'Týpí Bystrého rysa' 'týpí Bystrého rysa'
         }
     }
 
-    gcName = 'kožešina, kožešině, kožešinu, kožešinu, kožešinou'
-    gcVocab = 'kožešina/kožešinou/kožešinu/kožešinou'
+    gcName = 'kožešiny, kožešině, kožešinu, kožešině, kožešinou'
+    gcVocab = 'kožešiny/kožešině/kožešinu/kožešinou'
 ;
 
 
@@ -343,13 +332,13 @@ mistnostTypiBystrehoRysa : Room 'Týpí Bystrého rysa' 'týpí Bystrého rysa'
 
 	validContents = [nuz]
 
-    gcName = 'koženému pouzdru, koženému pouzdru, kožené pouzdro, koženému pouzdru, koženým pouzdrem'
-    gcVocab = 'koženému koženým kožené koženým/pouzdru/pouzdrem/pouzdro/pouzdrem'
+    gcName = 'koženého pouzdra, koženému pouzdru, kožené pouzdro, koženém pouzdru, koženým pouzdrem'
+    gcVocab = 'koženého koženému kožené koženém koženým/pouzdra/pouzdru/pouzdro/pouzdrem'
 ;
 
 +++ nuz : Thing 'nůž' 'nůž' *2
 	"Pěkný lovecký nůž s pevným ostřím, určitě se bude hodit. "
 
-    gcName = 'noži, noži, nůž, noži, nožem'
-    gcVocab = 'noži/nožem/nůž/nožem'
+    gcName = 'nože, noži, nůž, noži, nožem'
+    gcVocab = 'nože/noži/nůž/nožem'
 ;
