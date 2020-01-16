@@ -1,0 +1,2256 @@
+
+nevyužij jsem předmět nátepník, může a nemusí být k potřebé v průběhu hry
+nátepník
+- popis: Velmi šikovná věc pro lukostřelce, jedná se o kožený nátepník chránící předloktí.
+------------------------------------------------------------------------------------------
+
+
+2 – před týpím lovce
+
+- doplň při druhé návštěvě lokace, lovec se objeví např. poté, co hráč navštíví stepní loviště bizonů
+- využij časování událostí
+
+
+Při každé další návštěvě: Nacházíš se před týpím místního lovce. Vidíš dva symbolické bizony a mezi nimi červený sluneční kotouč, který se svými paprsky dotýká země dole. Mladý lovec sedí před svým obydlím a odpočívá.
+
+Vidíš: týpí místního lovce, lovce, materiál k výrobě šípů
+
+
+
+Předmět: lovec
+- popis: Poměrně mladý usměvavý indián se štíhlým a pružným tělem právě odpočívá ve stínu svého týpí.
+
+Předmět: materiál k výrobě šípů
+- popis: Vidíš pěkně vyrovnaná rákosová i dřevěná týbla a několik obsidiánových a kovových pěkně nabroušených hrotů.
+
+Při pokusu o sebrání materiálu k výrobě šípů: „Ty lumpe, já jsem tady hostem. Nikomu nic neukradnu, nejen že to není ten pravý způsob, jak ostatní poznat, ale především mně samému je to nanejvýše odporné. Nemám nic proti tomu něco si vzít od nějaké vydřidušské bělošské firmy, jednotlivcům ale nikdy, prosím, pamatuj na to.“
+
+Od lovce bude hráč potřebovat šípy, staré se v truhle rozbily.
+
+Při pokusu o oslovení lovce:
+
+Lovec na Tvůj příchod reaguje poněkud překvapeně, ale po Tvém představení Tě nakonec vítá s úsměvem a s těmito slovy:
+
+„Hezký den i Tobě, Kroužící orle, Bystrý los Tě zdraví. Ještě jsem Tě v naší vsi neviděl a opravdu hořím nedočkavostí, odkud přicházíš, v tuto dobu k nám chodí návštěv opravdu pomálu.“
+
+Vše mu vysvětluješ a lovec vyjádří potěšení nad tím, že po delší době vidí příslušníka spřáteleného kmene.
+
+Pokud hráč již zjistil, že šípy v jeho truhle jsou zlomené, objeví se tato možnost dialogu:
+
+1. „Bystrý lose, stala se mi veliká nepříjemnost, mé šípy jsou rozbité, já trouba jsem je totiž zapomněl pořádně zabalit. Nevíš, kde by bylo možné nějaké zajistit?“
+
+Lovec se na Tebe zahledí: „To přeci není nic složitého, každý muž si umí alespoň ty nejzákladnější šípy vyrobit...“
+
+Ty pokračuješ:
+
+1. „Já vím, jen jsem poslední roky žil jiným a zdaleka ne tak zajímavým životem jako Ty. Nemám nic, z čeho bych je mohl vyrobit a po těch letech bych to určitě zkazil.“
+
+Lovec se tentokrát neubrání úšklebku: „Uf, já jsem zapomněl, vždyť jsi mi říkal, že jsi žil ve městě těch jiných lidí. Ale vím, že učinit radost druhému je ten nejlepší způsob, jako učinit radost sobě. Co s tím uděláme… no, já své právě vyrobené šípy budu brzy potřebovat. Týbla a hroty zde ještě mám, ale chybí mi kožní klih a také nějaké peří. Zkus se po těchto věcech podívat a uvidíme, co se dá dělat.“
+
+Pokud má hráč v inventáři kožní klih a péřové letky, může je dát lovci nebo jej oslovit, objeví se nová možnost dialogu:
+
+„Bystrý lose, zde mám ten klih i letky, teď mi snad dokážeš pomoci.“
+
+„Bystrý los Ti pomůže velice rád, přinesl jsi parádní kusy. Zatím si u mě odpočiň a přijmi ode mě trochu sušeného masa.“
+
+1. Přijmeš maso
+
+Vděčně přijímáš oblíbenou pochoutku stepních indiánů a při žvýkání si užíváš lehký vánek stepi. Jak příjemné takhle si sedět. Lovec si zatím prozpěvuje nějakou oblíbenou píseň a když na něj pohlédneš, je vidět, že výroba šípů mu nejen že nečiní potíže, ale vysloveně jej baví. A tak to má být…
+
+Po nějaké době jsou šípy hotovy a lovec Ti je hrdě předává. Děkuješ mu a mimoděk se i ukloníš, na což pobaveně reaguje slovy: „Moc rád jsem Ti pomohl a hlavně se přede mnou nekymácej, oba jsme přeci hrdé lidské bytosti.“ Ano, cítíš, že má zatraceně pravdu…
+
+- pokračujeme získán předmět: lovecké šípy ...
+
+2. Nepřijmeš maso
+
+„Ach jo, hráči, s Tebou je trápení. Tak ještě jednou a špecielně pro Tebe v bodech:
+1. tady jsem na návštěvě
+2. to znamená, že jsem zde hostem
+3. neměl bych tedy zbytečně vyvolávat konflikty už jen tím, že nepřijmu pohostinnost od kohokoliv
+4. lovec není žádný kapitalista, on mě chápe a rád mi pomůže, za což jsem mu vděčný
+5. naštval jsi mě, takže tady na chvíli přebírám otěže já
+6. mě to sušené maso chutná, takže zatímco si tady budu plnit břich, jdi si jej taky připravit, to bude nejlepší
+7. a když Ti nebude chutnat, tak víš, kam máš jít...
+
+Vděčně přijímáš oblíbenou pochoutku stepních indiánů a při žvýkání si užíváš lehký vánek stepi. Jak příjemné takhle si sedět. Lovec si zatím prozpěvuje nějakou oblíbenou píseň a když na něj pohlédneš, je vidět, že výroba šípů mu nejen, že nečiní potíže, ale vysloveně jej baví. A tak to má být…
+
+Po nějaké době jsou šípy hotovy a lovec Ti je hrdě předává. Děkuješ mu a mimoděk se i ukloníš, na což pobaveně reaguje slovy: „Moc rád jsem Ti pomohl a hlavně se přede mnou nekymácej, oba jsme přeci hrdé lidské bytosti.“ Ano, cítíš, že má zatraceně pravdu…
+
+získán předmět: lovecké šípy
+- popis: Krátké prérijní šípy s masivním hrotem určené k lovu i těch nejmohutnějších zvířat.
+
+
+
+
+
+
+
+2a – týpí lovce
+
+- doplň informaci, až bude lovec v lokaci
+
+Dveře tohoto týpí jsou zavřené a majitel se zdržuje venku, takže rozhodně není vhodné tam chodit. Tady bude nutné počkat si na jeho pozvání.
+
+Do této lokace se hráč nedostane.
+--- tuto místnost nevytvářím
+
+
+
+
+
+
+4 – před týpím zraněného lovce
+
+- uprav, pokud je lovec již vyléčen, popis se změní takto:
+
+Ze zcela bělostného týpí bez jakýchkoliv ozdob se již žádné sténání neozývá a za to je lovec vděčný i Tobě. Vchodové dveře jsou nyní již zavřeny, necháme jej odpočívat.
+
+
+
+
+
+
+
+
+4a – týpí zraněného lovce
+
+- doplň úpravu textu po vyléčení lovce
+
+Při pokusu o hovor se zraněným lovcem:
+
+„Zdravím, Tě, lovče, mé jméno je Kroužící orel a vidím,
+že Tvá bolest Tě musí velmi trápit. Jsem lékař, mohu
+se na ní podívat?”
+
+Lovec odpovídá: „Malá noha Tě zdraví, Kroužící orle. Jsem velmi potěšen,
+že mi chceš pomoci, náš kmenový léčitel mě však má co nejdříve navštívit
+a já věřím, že mi dokáže alespoň ulevit od bolesti tak jako minule, tohle
+se mi nestalo poprvé...”
+
+Je to jasné, zraněný lovec by raději někoho známého, což je pochopitelné.
+Tady alespoň zatím nebude třeba Tvé pomoci.
+
+Pokud hráč donesl léčiteli Jitřní hvězdě bobule a rostlinu Jelení krk a oba se zde společně objeví, popis lokace se změní následovně:
+
+Společně s léčitelem vstupujete do lovcova týpí a Jitřní hvězda Tě prosí, abys jen tiše přihlížel. Léčitel sundá zraněnému lovci list a to, co vidíš, není zrovna všední
+ani pro lékaře, který se již setkal s lecčím. Stopy drápů v ráně rozhodně
+nevypadají hezky, raději se ani neptat, jaké zvíře je způsobilo. Léčitel se však
+s něčím podobným již jistě setkal, bez pohnutí brv ránu vyčistí a přiloží Jelení krk k novému listu, který předtím namočil ve šťávě bobulí. Lovec vypadá spokojeně, velmi dobře víš, že psychický stav je při nemoci nejméně stejně důležitý jako fyzický.
+Nyní Jitřní hvězda vytahuje svou dýmku, kterou si zapaluje a jejíž kouř rukama opatrně usměrňuje na prostor, kde leží zraněný. Několik tichých slov v šajenštině a lovec začíná pomalu usínat.
+
+„Nyní necháme působit síly, které jsou součástí každého z nás. Já nyní odcházím, čeká mě obřad očištění, který již musím prožít pouze sám se sebou. Prosím počkej zde nebo před týpí a dej mi vědět, zda se lovec zotavuje.“ S tím léčitel odchází do svého týpí.
+
+Nyní stačí napsat příkaz čekej nebo vyjít ven a zase se vrátit. V takovém případě se hráč dozví toto:
+
+Malá noha se vzbudil a viditelně odpočatý se na Tebe usmívá. Poděkuje Ti za veškerou pomoc, kterou jsi společně s léčitelem poskytl a se slovy „Přijmi prosím tento dar, který se Ti na Tvých cestách jistě bude hodit“ Ti podává výborně zpracovaný kožní klih.
+
+Nyní má hráč dvě možnosti:
+
+1. Přijmeš
+
+Přijímáš a děkuješ za dar, který se Ti jistě bude hodit, pořádné lepidlo je nutné na spoustu věcí.
+
+2. Nejpřijmeš
+
+„Toto není dar za pomoc při léčení, tu my poskytujeme s radostí všem potřebným, jako putující bytost ji však prosím přijmi. Jsem přesvědčen, že ji budeš potřebovat,“ říká lovec a má pravdu, tato věc je skutečně pro Tvé další cesty nezbytná.
+
+Získán předmět: kožní klih
+- popis: Nesmírně pevné přírodní lepidlo má nejen pro život stepního lidu široké použití.
+
+Po vyléčení se hráč do této lokace již nedostane.
+
+
+
+
+
+
+
+
+
+5 – před týpím starce
+
+- doplň rozhovor se starcem
+- Měsíční svit je spíše jméno pro ženu, zde zvolím Stepní šakal
+
+
+
+Hráč může zkusit oslovit starce:
+
+„Krásný den přeji, mé jméno je Kroužící orel a moc rád bych se poznal se všemi obyvateli vesnice.“
+
+Starcova odpověď:
+
+„Stepní šakal zdraví i Tebe, příteli. Jak vidíš, právě splétám provazy pomocí bizoních chlupů a jistě sis všiml, že tato starobylá technika vyžaduje spoustu času. Kterého mám ale opravdu dost...“ a zazubí se na Tebe.
+
+Opravdu, vzpomínáš si, že starší lidé v Tvém kmeni pletli provazy tímto způsobem. Dnes, kdy je bizonů již mnohem méně, se již vyskytuje jen výjimečně. Ovšem takový provaz je nakonec velmi silný a mnoho vydrží, takže se jeho výroba rozhodně vyplatí.
+
+Při pokusu o další konverzaci Měsíční svit nečekaně nabídne jedno lano hráči:
+
+„Jak vidím, mé provazy se Ti líbí a nedivím se tomu. Učiním radost mě i Tobě a jedno Ti dám.“ Chvíli čeká, jak zareaguješ. Zareagoval jsi přesně tak, jak očekával, zarazil ses. „Ano, přesně jak jsem čekal. Již jsem hovořil s Bystrým rysem a ten mi vše vyprávěl. Nyní jsi ve vsi indiánů, ne ve městě bledých tváří a čím více přijmeš tuto skutečnost, tím větší radost ze života budeš mít. Nezapomeň prosím na můj dar, užij jej moudře k prospěchu nejen svému, ale i druhých. A nezapomeň, zvláště nás, kteří jsme viděli již mnoho zim, to potěší.“ A dále se věnuje splétání dalších lan.
+
+Upřímně řečeno jsi trochu v šoku, naštěstí v příjemném šoku. Ten muž Tě ani nezná, jen z vyprávění druhého, a hned při prvním setkání od něj obdržíš dar. Tohle už jsi dlouho nezažil... ale ne, když si trochu zavzpomínáš na svojí minulost, v mládí bylo přece běžné obdarovávat se navzájem. Jen u bělochů se tento zvyk nevyskytuje samozřejmě... Je zajímavé, jak nevtíravým způsobem Ti osud připomíná, že jsi se vydal na červenou stezku a Tvůj život se ubírá tím správným směrem. Náhle Ti v hlavě zazní starcovo malé přání, abys jeho dar užil moudře a nezapomněl na jeho osobu. Ano, takto se přece chovali i starší Tvého kmene. Co takové lidi ale nejvíce potěší?
+
+Získán předmět: lano z bizoních chlupů
+- popis: velmi pevný provaz z bizoních chlupů, ten Ti při správném zacházení vydrží opravdu dlouho
+
+Pokud hráč vyléčil strakatého koně a Ten, kdo chodí vodou jej za ním posílá pro medicínu, je možné starce oslovit:
+
+„Stepní šakale, právě jsme společně s Tím, kdo chodí vodou vyléčili jeho koně. Ale jedno kopyto mu stále hnisá a jemu ani mně se to moc nelíbí. Ten, kdo chodí vodou mě posílá za Tebou a prosí o radu či pomoc. Já sám si více nevím rady, nemám tolik zkušeností s koňmi.“
+
+Stařec odpovídá:
+
+„Ten, kdo chodí vodou má svého koně opravdu rád. A možná Ti říkal, že já jsem před dávnými zimami řešil to samé. Medicína, na kterou jsi zvyklý, funguje jen pomalu a ne vždy úspěšně, na zvířata je lépe jít jiným způsobem. Jsem potěšen, že máš zájem svému příteli pomoci, a proto Ti velmi rád připravím koňskou medicínu. K její výrobě potřebuji jedinou věc,“ a zašklebí se na Tebe, „kvalitní koňské hovínko, ideálně proschlé a když bude posypané divokou rýží, možná potěší i můj žaludek,“ a rozřehtá se na Tebe. Jeho radost nakazí i Tebe a notnou chvíli se smějete oba. Poté Ti vysvětlí, že stačí opravdu jen ta kobliha a nic více.
+
+Pokud hráč následně osloví starce a ještě nemá koňskou koblihu v inventáři:
+
+„Odpusť, Kroužící orle, bez hovna to opravdu nepůjde, a neškareď se na mě tak.“
+
+Pokud hráč následně osloví starce a již má koňskou koblihu v inventáři:
+
+„No nádhera, přímo výstavní kousek. A jak vidím, zvolil jsi i vhodný nástroj pro přesun této dobroty, vskutku gratuluji,“ a rozřehtá se, jak zákon káže. „Chvíli vydrž a podrž mi tohle lano ve vodě, za moment jsem tady.“
+
+Děláš, jak Tě Stepní šakal poprosil a po poněkud delší chvíli se tento vrací, v jedné ruce zvláštní předmět a ve druhé hovínko ještě více uschlé než dříve. Měsíční svit pokračuje:
+
+„Tato medicína, i když se na první pohled nezdá, má obrovskou sílu. Ale to jen tehdy, když v ni opravdu věříš. Pokud ji chceš využít, popros všechny čtyři světové strany, přilož ji k nemocnému kopytu a druhou stranu jemně tři tou koblihou,“ a teď se už opravdu neusmívá, „budeš-li si opravdu, ale opravdu jistý, jsem přesvědčen, že kůň bude zdráv.“ A na Tvoji nevyslovenou otázku odpovídá: „Vždyť víš, že něco musím obětovat, aby medicína opravdu fungovala. Ta pánvice byla velmi vhodným darem,“ říká možná trochu dvojznačně.
+
+„Já Ti dám vhodným darem, ty filuto,“ pomyslíš si, „ale užij si ji, moc rád Ti dávám, vždyť mi pomáháš více, než bych kdykoli čekal.“
+
+Ztracen předmět: pánvice
+
+Získán předmět: koňská medicína, popis hovínka se nemění
+
+koňská medicína
+- popis: větší váček s vonnými bylinami uvnitř, přepásaný červeným střapcem s moc pěknou koňskou žíní volně visící. Zvláštní předmět, snad bude všem koním ku pomoci.
+
+Pokud hráč následně osloví starce a medicínu se již pokusil neúspěšně použít:
+
+„Milý Kroužící orle, ne my, ale Ti, kteří napomohli našemu stvoření, prostřednictvím nás léčí. Proto je naprosto jedno, kdo je konečným léčitelem, důležitá je ale dobrá vůle a naprostá jistota v to, co děláš. Vím, že je to obtížné zvláště pro člověka, který si prožil to, co Ty, ale nevzdávej se. Pojď prosím za mnou,“ a jde do svého týpí. Zvědavě jej následuješ a to, co uvidíš, Tě opravdu velmi překvapí.
+
+Vidíš svojí pánvici, na které jsi dříve hovínko přinesl. Ale jak prokoukla, je ozdobená nádhernou koňskou žíní a vonnými bylinami a visí na čestném místě hned vedle ohniště. Takže...
+
+Stařec Tvé myšlenky přeruší:
+
+„Takže náš milý Kroužící orel nejenže neměl víru ve své schopnosti, ale zároveň si myslel, jak jsem si pomohl s tou pánvicí, že?“ a vesele se na Tebe zadíval; z Tvého pohledu, a nejen z něho, hnedle poznal, že se strefil skutečně do černého. Ten muž snad opravdu umí číst myšlenky a určitě mnohem, mnohem více. Přátelsky Ti však položí ruku na rameno. „Nic si z toho nedělej, také jsem nějaký čas pobýval mezi bílými muži a vím, že u nich takováto skutečná víra ve své schopnosti není.“
+
+Poté pokračuje:
+
+„Bílý muž není nic horšího nebo lepšího než my. Dokáže vymyslet zajímavé vynálezy, i když jej jen málokdy napadne, jakou s nimi dokáže udělat škodu. My toto neumíme, v záležitostech poznání duše jsme však mnohem, mnohem dále. Tím ovšem nejsme lepšími či horšími, jen náš vývoj je jiný a v lidském počítání času plyne jinak. Ale i bílí lidé nakonec dospějí k tomuto poznání, jen jim to bude trvat déle. To není chyba, ale jimi vybraný osud a měli bychom, spíše než nenávidět, obdivovat břímě, které si pro svůj vývoj nabrali.“
+
+To řekl moc hezky a vše do sebe dokonale zapadá a Ty intuitivně cítíš, že tomu tak skutečně je. Ostatně podobný náhled získáváš každým dnem více a více a pokud tak uvažuje i někdo jiný, tím větší jistota pro Tebe.
+
+Stařec pokračuje:
+
+„Proto věř ve své schopnosti a nebuď na ně pyšný, naopak poděkuj Velikému tajemství nebo komu chceš, že máme možnost je využívat. Poté dokážeš vše, co v tomto životě dokázat potřebuješ,“ a odchází z týpí. Ještě chvíli uvažuješ nad jeho slovy a poté také vycházíš ven. Nyní již kromě dalšího nesmírně důležitého poznání víš, jak koňskou medicínu využít. Vždyť je to tak jednoduché...
+
+Ještě že jsou na světě takoví lidé, od kterých se můžeme učit, i ti si však spojení svých osudů s Tvým sami vybrali a tedy i Ty jsi pro ně obohacením... Ale nyní již konec úvah, vzhůru za Tím, kdo chodí vodou a hlavně jeho koněm.
+
+Pokud se sem hráč vrátí po hovoru se šamanem a mírovým náčelníkem z lokace 9 po absolvování vize, stačí starce oslovit a objeví se tato možnost dialogu:
+
+Poděkuj Stepnímu šakalovi za laskavost
+
+„Měsíční svite, nyní odcházím ke svému kmeni, chci Ti však poděkovat za nesmírnou laskavost, kterou jsi mi poskytl.“ „A já jsem nesmírně vděčný,“ hovoří stařec, „že jsi na mě nezapomněl, to je mi největší odměnou. Přeji Ti červenou cestu, která, jak doufám, Tě ve Tvém osudu má čekat, a pořádně si ji užij.“
+
+Náhle slyšíš hlas táborového vyvolávače, určitě se něco chystá.
+
+Nyní se stačí vrátit do lokace 9.
+
+
+
+
+
+
+
+
+
+5a – týpí starce
+
+- upravit společně s postavou starce
+
+Vchod do tohoto týpí je nyní uzavřen, majitel si asi nepřeje návštěvu. Zkus přijít v jiný čas.
+
+Do této lokace se hráč klasickým způsobem nedostane, jedině společně se starcem, viz lokace č. 5.
+
+
+
+
+
+
+
+
+7 – před týpím zvědavého indiána
+
+
+
+- doplnit do rozhovoru:
+Na rozdíl od Tebe se do města bledých tváří vždy těší a snaží se získat všechny 
+možné informace. Připadá Ti, že by neměl nic proti tomu se tam odstěhovat – asi ještě nepoznal, co by tam čekalo, ale kdo chce kam, 
+pomožme mu tam. Chtěl by si prý vydělat na veliký dům.
+
+
+Po seznámení se se Skvrnitým ohonem jej hráč, pokud již mluvil s Bystrou losicí, můžeo slovit a na ni se zeptat:
+
+„Skvrnitý ohone, znáš tu dívku, co tak hezky tančí, Bystrou losici?“
+
+Zvědavý indián se ušklíbne a odpoví: „Bystrá losice, hmmm, to víš, že ji znám a myslím si, že docela dobře. Tohle mladé hříbě rádo strká nos, kam nemá, ale líbí se mi na ní, že by se do města taky chtěla podívat.“
+
+Hráč může pokračovat: „A můžeš mi o ní říct něco více?“
+
+Skvrnitý ohon: „Můžu, ale není to tak jednoduché. Vždyť víš, že ve městě je docela draho, nebyl by nějaký ten dolárek pro nového známého?“
+
+Tady je možné Skvrnitému ohonu darovat právě ten jediný dolar, který hráč může sebrat ve své truhle.
+
+Pokud ano, hráč ztrácí předmět: peníze
+
+Skvrnitý ohon odvětí: „No jo, sakra, víc nemáš?“
+
+Hráč: „Opravdu ne, to je to poslední, co mi zbylo. Já se snažím peníze už ke svému životu pokud možno potřebovat co nejméně nebo nejlépe vůbec ne.“
+
+Skvrnitý ohon: „Phá, blázne jeden. Chceš hnít v nějaké vesnici nadosmrti a nic pořádnýho si neužít? Ale dobře, něco Ti na oplátku řeknu, s tou Bystrou losicí jsem si už parádně užil a je to sice pořádná divoška, ale stála za to. Udělá prej všechno, aby se dostala odsud pryč. Tak třeba ji jednou vezmu s sebou, jestli mi teda bude stát za to,“ a rozřehtá se. „Až budeš mít víc peněz, povyprávím Ti něco pikantnějšího.“
+
+„Tak tohle už je mi jasné,“ pomyslíš si, „s něčím takovým jsem se ještě před nedávnem setkával dnes a denně. Ta Bystrá losice asi nebude zrovna ta, která by se ke mně hodila, nebudu ale přece nikoho soudit. I když tenhle si asi nevymýšlel...“
+
+
+
+
+
+
+
+
+8a – týpí náčelníkova příbuzného
+
+Po vstupu do týpí si ihned všimneš jeho velmi skromného interiéru poskytujícího sice dostatečný komfort k bydlení, ovšem o žádnou výstavnost se zde rozhodně nejedná. Na posteli sedí žena ve středních letech a právě si maluje obličej žlutou barvou. Poblíž má také kostěné česadlo, péče o vlasy je na pořadí dne asi hned poté. Na momentálně vyhaslém ohništi vidíš trojnohu s malou zavěšenou plotnou, na které je položena prázdná pánvice.
+
+Vidíš: ženu ve středních letech, ohniště, trojnohu, pánvici
+
+žena ve středních letech
+- popis: Středně vysoká žena ušlechtilých rysů oděna do šatů z modré kalikové látky přepásané moc hezkým červeným pásem. Právě si barví obličej a nutno dodat, že pohled na ní je více než příjemný.
+
+ohniště
+- popis: Momentálně vyhaslé ohniště ohraničené kameny čeká jen na toho, kdo mu dodá lesk šlehajících plamenů.
+
+trojnoha
+- popis: Velmi praktická kovová trojnoha zaražená do země na třech okrajích ohniště se zavěšenou malou plotnou, na kterou lze položit cokoliv dalšího
+
+pánvice
+- popis: Malá kovová pánvice určená k pečení nejrůznějších placek nebo malých kousků masa.
+
+Při pokusu o konverzaci:
+
+„Pěkný den přeji, krásná paní, mé jméno je Kroužící orel. Omlouvám se, že vyrušuji při Tvém šlechtění, vchod byl otevřen...“
+
+A žena odpovídá:
+
+„Ale to je naprosto v pořádku, Kroužící orle, Noční sova Tě vítá momentálně sama ve svém týpí. Můj muž je momentálně na návštěvě u náčelníka a já jej chci potěšit, až se vrátí. Času je ale ještě dost, takže si ráda popovídám.“
+
+Hráč pokračuje:
+
+1. „Ta žlutá barva Ti velmi sluší, ženy ve městě bledých tváří se takto nezdobí a to mi při mém pobytu tam hodně chybělo.“
+
+Žena odpovídá:
+
+„Jsem ráda, že se Ti moje malba líbí, mám tuto barvu moc ráda. Miluji všechny přírodní a přirozené ozdoby, nic umělého jako ženy bledých tváří a jsem ještě raději, že můj muž má stejný názor. Vždyť co může být lepšího, než soulad dvou duší?“
+
+2. „Ve Vaší vsi se mi moc líbí, patřím sice k lakotům, ale u Vás šajenů se cítím jako doma.“
+
+Žena odpovídá:
+
+„Přesně tak chceme působit na každého, kdo v dobrém přichází a nemá v úmyslu nám škodit. Nečiň druhému nic, co nechceš, aby činil on Tobě a oba budete šťastní.“
+
+3. „Velmi mě zaujala ta trojnoha s pánvicí. Jak vidím, mnoho věcí, které dokáže vyrobit bílý muž, je nám ku prospěchu, i když mnoho z nich nám škodí. Jak jsi s ní spokojena?“
+
+Žena odpovídá:
+
+„Ano, musím souhlasit, je to asi lepší věc než bizoní bachor, i když já si většinou potrpím na tradici. Ovšem můj muž je rád, když mi může život jakkoli ulehčit, za což jsem mu vděčná. Určitě je také tád, že se mu díky těmto novotám mohu více věnovat a to já moc, moc ráda... “
+
+4. „Moc děkuji za Tvůj čas, nyní již nechci zdržovat.“
+
+Žena odpovídá:
+
+„Moc ráda jsem Tě poznala a jsi u nás kdykoliv vítán.“
+
+Pokud se hráč již zeptal na trojnohu, objeví se ještě jedna možnost konverzace:
+
+5. „Omlouvám se za svoji otázku, ale mohl bych si na nějaký čas vypůjčit tu malou pánvici?“
+
+Žena odpovídá:
+
+„Náš Kroužící orel si chce sám uvařit, sláva mu,“ a rozchechtá se. „Ale to přeci náš host dělat nemusí, nemám pravdu? Mám zde ještě dvě další, takže Ti ráda vyhovím, jen bych ovšem ráda věděla, odpusť mi moji otázku, nač ji skutečně potřebuješ? To víš, my ženy máme rády přehled a svěřit se přítelkyni, proč si u mě muž na návštěvě vypůjčil pánvici a nebylo to pro jeho ženu na vaření, se již nemohu dočkat.“
+
+Nyní hra čeká na odpověď. Pánvici hráč potřebuje na sebrání koňské koblihy, protože jiný předmět nelze použít. Zobazí se dialogové okno, kam hráč musí zapsat jedno z těchto slov: kobliha, koňská kobliha, hovno, hovínko, lejno, exkrement
+
+Pokud odpoví cokoliv jiného, žena pokračuje:
+
+„Ale to přeci ne, prosím, řekni mi pravdu.“
+
+Pokud odpoví správně, vypíše se následující text:
+
+Žena se nejdříve zarazila, poté ale vyprskla smíchy, až jí žlutá barva lítá všude kolem. Tuto reakci jsi očekával, takže jsi byl připraven a stihl uhnout před žlutým přívalem. Když se uklidnila, vysvětlil jsi jí, že jsi opravdu nepřišel na nic lepšího, co půjde použít a sušenou koblihu opravdu potřebuješ. Žena Ti následně odpověděla:
+
+„Tak tímhle jsi mě opravdu dostal, kam se na Tebe hrabou naši šprýmaři a opačníci, to bude krásná hádanka pro mé přítelkyně. Schválně, jestli na ni přijdou,“ a znovu se na Tebe radostně zasmála. „Pánvice je Tvoje a nech si ji, za tohle si ji rozhodně zasloužíš. Jestli jste vy lakotové všichni tak zábavní, musíme se spolu s manželem jednou vydat do Vaší vsi.“
+
+Získán předmět: pánvice
+
+Pokud hráč odpoví špatně a znovu se snaží navázat konverzaci, žena začíná:
+
+„Tak už se mi přeci svěř, Kroužící orle, přímo plápolám nedočkavostí.“
+
+
+
+
+
+
+
+
+
+9 – před týpím mírového náčelníka
+
+Popis před a po lovu bizonů vyjma návštěvy těsně po lovu:
+
+Nyní jsi dorazil přímo do středu táborového kruhu, kde se vyjímá sice ohromné týpí, ale zcela bez ozdob. Dveře týpí jsou zavřené.
+
+Vidíš: týpí mírového náčelníka
+- popis: Tradiční šajenské týpí je sice větší než ostatní, ale zcela bez ozdob. Pozice mírového náčelníka se zde neodvíjí od jeho bohatství, právě naopak. Dát najevo moudrost v nejrůznějích situacích a umět se podělit se svým majetkem s potřebnými je to, co dělá náčelníka náčelníka dobrým a úctyhodným. Jaký kontrast k tomu, co znáš Ty, nemám pravdu?
+
+Při pokusu o sebrání týpí mírového náčelníka: „Jestli jsi to ještě nepoznal, jsem ve středu táborového kruhu. Před týpím náčelníka v mírových časech. Už je Ti to jasnější?“
+
+Popis po lovu bizonů s vyvolávačem a ostatními lovci:
+
+Náčelník i moudří muži kmene jsou již shromážděni před středovým týpím společně s posvátnými předměty a sedí nehnutě, než je všichni lovci i s vyvolávačem obstoupí. Náhle se všichni uklidní a ztichnou, náčelník předstoupí a praví potichu posunkovou řečí, opravdu zvláštní zvyk: „Děkuji Vám a tomu, kdo je obsažen ve Vás, za dnešní úspěšný lov. Síly vesmíru nám jsou nakloněny a nyní je řada na nás, abychom jim projevili své díky za to, že můžeme další dny spokojeně žít,“ a trochu smutně dodal:...zvláště ve dnešních těžkých časech, kdy se spousta našeho lidu vydala černou stezkou. Nyní se všichni, díky kterým může náš lid dále žít, připravte na obřad masaháome, moudří muži našeho kmene Vám s přípravou pomohou.“ Pokyne rukou těmto stařešinům.
+Nyní se muži shromažďují ke stařešinům nejspíše podle všem známého obyčeje, který Ty jako host neznáš. Ovšem šajeni Tě rozhodně nemají v úmyslu nechat ani chvíli v rozpacích, sám náčelník k Tobě s úsměvem přichází. Náhle pochopíš, to jen kvůli Tobě zvolil posunkovou řeč. Jen kvůli jedinému člověku, kterému tak jménem celého kmene projevil úctu. Hezké, moc hezké, tady opravdu jedinec něco znamená, tomu jsi již opravdu odvykl...
+Z Tvých myšlenek Tě však vytrhne jeho tichý hlas, náčelník viditelně nemá problém s lakotštinou: „Velmi si vážím toho, že jsi se společně s našimi lovci vydal do stepi a nedbal nebezpečí pro sebe. Musím se přiznat, že jsem se Tě zpočátku trochu obával, protože velmi dobře vím, jak se člověk žijící delší dobu ve městě dokáže nakazit nejen tou zlatou nemocí. Ty jsi však projevil opak a takových bytostí si nesmírně vážíme.“ Náčelník Ti pomalu vysvětluje následující obřad zvaný masaháome, který jeho kmen vždy po slunečním tanci provádí jako poděkování nejen za úspěšný lov. „Dva muži, šaman a jeho mladší společník, hledali v dávných dobách pro svůj strádající lid jídlo. Po útoku vodní příšery byli zachráněni dvěma tajemnými lidmi, Vlčím mužem a Starou ženou, kteří se nad nimi slitovali a dali jim svoji krásnou žlutovlasou dceru jménem Eheóvé, aby k jejich lidu přivedla zvířata. Mladší muž, který se s ženou oženil, přivedl společně s ní všechna zvířata z planin, která vycházela ze svých jeskyní uvnitř hor přivábena mocí žlutovlasé ženy. Tyto bytosti mají v našem obřadu nezastupitelné místo. Dále nesmíme zapomenout na dva vlky, vládce planin, Červený vlk s jeho ženou Bílou vlčicí a sedm žen zvaných Mladší vlci. Tito všichni společně přivedou stepní tvory, aby zaplnili Babičku zem a umožnili nám lidem žít.“ Na chvíli přestane, abys dokázal vstřebat jeho slova.
+Poté pokračuje: „Každý máme své ochranné zvíře nebo i několik zvířat, která nám v nynějším životě pomáhají a jejichž cestu bychom měli následovat. Proto i náš obřad je každým rokem jiný...“
+a zeptá se Tě: „Jaké zvíře budeš v obřadu zastupovat?“
+
+Správná odpověď je orel, vodítkem pro hráče má být jeho jméno a především orlí medicína.
+
+Pokud hráč odpoví špatně: „Ty i já cítíme, že toto není Tvá cesta. Soustřeď se, prosím, odpověď nalezneš ve svém srdci.“
+
+Pokud hráč odpoví správně: „Ano, orel je tím správným zvířetem pro Tvojí nynější cestu. Nyní si dobře zapamatuj má slova. Nalezni bytost v našem táboře, která následuje stejnou stezku a popros jí, ať Ti pomůže s namalováním vhodných symbolů na Tvé tělo. Poté nezapomeň poděkovat mocnostem Babičky země za vše, co náš lid, Tebe nevyjímaje, živí. A následně nezapomeň podarovat také někoho z našeho lidu,“ a na Tvoji nevyslovenou otázku odpovídá: „Nech se vést svým vlastním nitrem a nepátrej po přesném provedení, důležité je to, co obřadu dá Tvé nitro a co obřad dá Tobě.“ Poté Tě opouští. Když se rozhlédneš, všichni už jsou pryč za svými povinnostmi a náčelník se vydal do svého týpí vykonat přípravy na obřad.
+
+Před Tebe doslova přiklusal syn válečného náčelníka a říká Ti:
+„Teda strejčku, to se Ti teda povedlo, můj táta je rád, že jsi ho nezklamal. Poníka ale musíme nechat oddychnout, je zvyklý se po lovu popásat u týpí a to víš, má rád, když je to u někoho, koho dobře zná,“ a s těmi slovy odvádí za uzdu vypůjčeného poníka.
+
+Ztrácíš předmět: uzda, poník
+
+- následuje stejný popis lokace č. 9 jako Popis před a po lovu bizonů vyjma návštěvy těsně po lovu:
+
+Pokud sem přichází hráč z lokace 11a po absolvování vize a hovoru se šamanem bez Tančící vlčice, popis se změní následovně:
+
+Společně s šamanem přicházíte před týpí mírového náčelníka. Šaman Ti říká, že máš chvíli počkat a sám znenadání zakřičí ptačí řečí. Podobný křik se ozve z týpí a šaman vchází. Po delší době se k Tobě vrací společně s mírovým náčelníkem. Náčelník Tě oslovuje: „Kroužící orle, mé srdce chce vyjádřit radost nad tím, že jsi nás navštívil, i když jsem se dozvěděl, že ne úplně dobrovolně,“ a zachehtá se na celé kolo, „přesto věřím, že se Ti u nás líbilo a nalezl jsi nás pohostinné a nápomocné ke Tvé další cestě.“ Zase se směje, tentokáte jen o něco méně. „Šibal jeden,“ pomyslíš si, „však on určitě moc dobře ví o všech těch peripetiích, které jsem si musel vytrpět.“ „A neříkej, že sis je parádně neužil,“ culí se na tebe šaman a musíš uznat, že má pravdu. Tancechtivé klisničky, s neuvěřitelnou radostí kadící pony a další výtečníci jsou prostě nezapomenutelné radosti i strasti Tvého života.
+
+„Ale teď vážněji,“ pokračuje náčelník, „mám zde pro mírového náčelníka lakotského kmene jedno důležité poselství. My šajeni sice zatím žijeme relativně svobodně, náš způsob života je ale stále více omezován a vůdcové bílých mužů se nezastaví před ničím. Jsi ochoten toto poselství doručit? V nejbližší době se chci setkat s Vaším náčelníkem, potřebuji mu však ještě před tím doručit toto,“ a vytahuje pečlivě složený pergamen z bizoní kůže.
+
+Nyní je hráči nabídnuta možnost:
+
+Přijmeš poselství:
+
+Náčelník hovoří: „Jsem Ti moc vděčný za nesmírnou laskavost, kterou nám všem tímto prokazuješ,“ a předává Ti poselství.
+
+Nepřijmeš poselství:
+
+„Ale no tak, Ty asi zkoušíš všechny možnosti v této hře, viď? Jinak si neumím představit, čeho chceš dosáhnout. Odmítat svého hostitele je opravdu neslušné a tato služba Ti opravdu neublíží. A já jsem strašlivě zvědav, co je v tom poselství, takže mi odpusť, hráči, ale tentokrát se rozhodnu já za Tebe a poselství beru. Jen lituji toho, že na Tebe nemohu vypláznout jazyk, snad někdy příště.“
+
+Náčelník hovoří: „Jsem Ti moc vděčný za nesmírnou laskavost, kterou nám všem tímto prokazuješ,“ a předává Ti poselství.
+
+Získán předmět: indiánské poselství
+- popis: Složený pergamen vyrobený z bizoní kůže obsahuje znaky vyvedené v červené barvě, kterým však nerozumíš. Jejich výklad budou znát asi jen náčelníci či moudří muži různých kmenů; buď trpělivý, jistě se vše časem také dozvíš.
+
+„Než se však rozloučíme,“ pokračuje šaman, „nezapomněl jsi na někoho?“ A kruci, co má na mysli? Hmmmm… chvíli uvažuješ a pak si matně vzpomínáš, že Ti někdo pomohl a byl by rád, kdybys na něj vzpomněl. Tak hurá za ním a zase zpět.
+
+Hráč si nyní musí vzpomenout, že v lokaci 5 jej stařec nabádal, že na něj nemá zapomínat a vyjádřit mu svoji vděčnost. Stačí tam dojít a začít hovor se starcem. Poté se může vrátit do této lokace 9 a mírový náčelník jej uvítá slovy:
+
+„Jak vidím, nyní jsi již připraven na cestu. Přijmi prosím malý dar ode mě,“ přivádí k Tobě středně vysokého, na první pohled dobře živého koně. „Věřím, že Rudý blesk Ti bude dobrým společníkem na Tvé dlouhé cestě.“ Děkuješ náčelníkovi a loučíš se nejen s ním a se šamanem, ale i se zástupem lidí, kteří se po slovech vyvolávače přišli s Tebou rozloučit. To je od nich opravdu milé, pobyt zde opravdu stál za to. Určitě se sem ještě někdy vrátíš, teď ale rychle frčíme jihozápadním směrem domů...
+
+Získán předmět: indiánský kůň Rudý blesk
+- popis: Bujný kůň strakaté barvy se k Tobě chová velice přátelsky, při pohlazení hřívy stříhá ušima a při poškrábání za ušima pohazuje hřívou. Na velmi pohodlné jezdecké dece z bizoní kůže jsou přišity nádherně zdobené sedlové brašny, kam Ti mírový náčelník se šamanem osobně pomohli vložit veškeré Tvoje věci. Jak vidno, velmi si Tě váží.
+
+Při použití Rudého blesku:
+
+Nasedáš na Rudého bleska, ten je báječně ovladatelný s jistými chody a pohodlným klusem i cvalem. Lepšího čtyřnohého společníka si nemůžeš přát.
+
+Nyní je třeba s koněm dorazit do lokace 20, kde druhý díl končí.
+
+
+Pokud sem přichází hráč z lokace 11 a po absolvování vize a hovoru se šamanem a s Tančící vlčicí, popis se změní následovně:
+
+Společně s Tančící vlčicí a šamanem přicházíte před týpí mírového náčelníka. Šaman Vám říká, že máte chvíli počkat a sám znenadání zakřičí ptačí řečí. Podobný křik se ozve z týpí a šaman vchází. Po delší době vyplněné velmi příjemným hleděním do očí své neustále se na Tebe usmívající společnice se k Vám vrací společně s mírovým náčelníkem. Náčelník Tě oslovuje: „Kroužící orle, mé srdce chce vyjádřit radost nad tím, že jsi nás navštívil, i když jsem se dozvěděl, že ne úplně dobrovolně,“ a zachechtá se na celé kolo, „přesto věřím, že se Ti u nás líbilo a nalezl jsi nás pohostinné a nápomocné ke Tvé další cestě.“ Zase se směje, tentokáte jen o něco méně. „Jistě je pro Tebe příjemné, že nás neopouštíš osamocen a jak vidím, tak Tančící vlčice rozhodně nevypadá na to, že by u nás chtěla sama zůstat.“ „Šibal jeden,“ pomyslíš si, „však on určitě moc dobře ví o všech těch peripetiích, které jsem si musel vytrpět.“ „A neříkej, že jsi si je parádně neužil,“ culí se na tebe šaman a musíš uznat, že má pravdu. Tancechtivé klisničky, s neuvěřitelnou radostí kadící pony a další výtečníci jsou prostě nezapomenutelné radosti i strasti Tvého života.
+
+„Ale teď vážněji,“ pokračuje náčelník, „mám zde pro mírového náčelníka lakotského kmene jedno důležité poselství. My šajeni sice zatím žijeme relativně svobodně, náš způsob života je ale stále více omezován a vůdcové bílých mužů se nezastaví před ničím. Jsi ochoten toto poselství doručit? V nejbližší době se chci setkat s Vaším náčelníkem, potřebuji mu však ještě před tím doručit toto,“ vytahuje pečlivě složený pergamen z bizoní kůže.
+
+Nyní je hráči nabídnuta možnost:
+
+Přijmeš poselství:
+
+Náčelník hovoří: „Jsem Ti moc vděčný za nesmírnou laskavost, kterou nám všem tímto prokazuješ,“ a předává Ti poselství.
+
+Nepřijmeš poselství:
+
+„Ale no tak, Ty asi zkoušíš všechny možnosti v této hře, viď? Jinak si neumím představit, čeho chceš dosáhnout. Odmítat svého hostitele je opravdu neslušné a tato služba Ti opravdu neublíží. A já jsem strašlivě zvědav, co je v tom poselství, takže mi odpusť, hráči, ale tentokrát se rozhodnu já za Tebe a poselství beru. Jen lituji toho, že na Tebe nemohu vypláznout jazyk, snad někdy příště.“
+
+Náčelník hovoří: „Jsem Ti moc vděčný za nesmírnou laskavost, kterou nám všem tímto prokazuješ,“ a předává Ti poselství.
+
+Získán předmět: indiánské poselství
+- popis: Složený pergamen vyrobený z bizoní kůže obsahuje znaky vyvedené v červené barvě, kterým však nerozumíš. Jejich výklad budou znát asi jen náčelníci či moudří muži různých kmenůů buď trpělivý, jistě se vše časem také dozvíš.
+
+„Než se však rozloučíme,“ pokračuje šaman, „nezapomněl jsi na někoho?“ A kruci, co má na mysli? Hmmmm… chvíli uvažuješ a pak si matně vzpomínáš, že Ti někdo pomohl a byl by rád, kdybys na něj vzpomněl. Tak hurá za ním a zase zpět.
+
+Hráč si nyní musí vzpomenout, že v lokaci 5 jej stařec nabádal, že na něj nemá zapomínat a vyjádřit mu svojí vděčnost. Stačí tam dojít a začít hovor se starcem. Poté se může vrátit do této lokace 9 a mírový náčelník jej uvítá slovy:
+
+„Jak vidím, nyní jste již oba připraveni na cestu. Přijměte prosím malý dar ode mě“ a přivádí k Tobě středně vysokého na první pohled dost živého koně. „Věřím, že Rudý blesk Vám bude dobrým společníkem na Vaší dlouhé cestě.“ Děkujete náčelníkovi a loučíte se nejen s ním a se šamanem, ale i se zástupem lidí, kteří se po slovech vyvolávače přišli s Vámi rozloučit. To je od nich opravdu milé, pobyt zde opravdu stál za to. Rodiče Tančící vlčice vypadají posmutněle, dívka jim však slíbila, že je brzy navštíví a všichni vypadají nesmírně jistě, že se tak skutečně stane. Zajímavé... Určitě se sem v budoucím čase vrátíte, teď ale rychle frčíme jihozápadním směrem domů...
+
+Získán předmět: indiánský kůň Rudý blesk
+- popis: Bujný kůň strakaté barvy se k Tobě chová velice přátelsky, při pohlazení hřívy stříhá ušima a při poškrabání za ušima pohazuje hřívou. Na velmi pohodlné jezdecké dece z bizoní kůže jsou přišity nádherně zdobené sedlové brašny, kam Ti mírový náčelník se šamanem osobně pomohli vložit veškeré Tvoje věci. Jak vidno, velmi si Tě váží.
+
+Při použití Rudého blesku:
+
+Nasedáte na Rudého bleska, ten je báječně ovladatelný s jistými chody a pohodlným klusem i cvalem. Lepšího čtyřnohého společníka si nemůžete přát. Před Tebe se posadila Tančící vlčice a Ty za ni, tak si to přála. Na Tvojí nevyslovenou otázku sladce odpovídá: „Tančící vlčice se bude starat o správné chody našeho ohřívence a můj Kroužící opeřenec mě může za jízdy hladit po mé hřívě,“ čemuž skutečně neodoláš, tedy já bych rozhodně s tímto řešením souhlasil...
+
+Nyní je třeba s koněm dorazit do lokace 20, kde druhý díl končí.
+
+Můžeš jít: S, J, Z, V, dovnitř
+
+
+
+
+
+
+
+
+9a – týpí mírového náčelníka
+
+Tato lokace není přístupná, objeví se jen:
+
+„Nemohu vstupovat do týpí se zavřenými dveřmi a zvláště ne do týpí náčelníka. Budu si muset počkat nebo jít na věc jinak.“
+
+
+
+
+
+
+
+10 – před týpím léčitele
+
+Přicházejícímu návštěvníku se na zde postaveném týpí ukáže překrásný symbol jitřní hvězdy a plejád, okolo nichž krouží majestátní orel. Před stanem stojí na trojnožce symbol léčitele, velmi důležité osoby pro celou vesnici. Dveře jsou otevřeny.
+
+- pozn. orel znamená indicii pro hráčovo malování, které bude potřebovat na obřad masaháome
+
+Vidíš: Léčitelovo týpí, Symbol léčitele
+
+Léčitelovo týpí
+- popis: Na pohled opravdu překrásná stavba, jejíž umně vyvedená kresba uklidňuje již na první pohled.
+
+Při pokusu o sebrání léčitelova týpí: „To opravdu ne, nikdy nevím, kdy se i mně léčitel může hodit, nenechavče.“
+
+Symbol léčitele
+- popis: Svazek sušených bylin je uchycen na trojnožce tak, aby zpodobňoval letícího orla. Opravdu velmi zajímavé, jako by sis na něco podobného pamatoval... Ne, nedokážeš si vzpomenout, alespoň zatím ne.
+
+Při pokusu o sebrání symbolu léčitele: „Prosím nezapomeň, že tady se opravdu nepohybujeme v kapitalistickém marasmu. Léčitele tudíž neberu jako svoji konkurenci, ale jako někoho, s kým bych se rád seznámil. Nechovej se tržně.“
+
+Můžeš jít: J, Z, V, dovnitř
+
+
+
+
+
+
+
+
+
+10a – týpí léčitele
+
+Vstoupil jsi do týpí místního léčitele. Na tyčích jsou rozvěšeny nejrůznější léčivé byliny, nohy a peří ptáků a malé kostry zvířat tak, aby nepřekážely, ale zároveň co nejpomaleji přijímaly kouř z místního ohniště. Interiér je opravdu nádherně provoněn, vůně Ti připomíná apatyku jednoho léčitele, se kterým jsi se dříve ve městě spřátelil. Malý oheň sotva hoří a muž ve středních letech právě mne ve svých dlaních svazek bylin. Jeho žena sedí hned za ním a češe mu dlouhé havranově černé vlasy. Oba na Tebe zvědavě pohlédnou.
+
+Vidíš: léčitele, léčitelovu ženu
+
+Léčitel:
+- popis: Dobře stavěný muž těžko odhadnutelného věku, vypadá tak kolem 30, může ale být i starší, to dělají ty dlouhé vlasy a také žena v jeho blízkosti...
+
+Léčitelova žena:
+- popis: Indiánská fešanda, která právě s úsměvem na rtech rozčesává vlasy svému muži. Velmi dlouhá a především příjemná procedura, doporučuje jedenáct z deseti indiánek... Je ověšena různými ozdobami, které barevně velmi vkusně ladí s jejími skvostnými jelenicovými šaty. Zvláště jedna se Ti moc zamlouvá.
+
+Pokud ženu hráč prozkoumá ještě jednou:
+- další popis: Všiml sis, že žena má na krku opravdu nádherný náhrdelník z kostic omotaný červenými třásněmi. Nádherná práce, nejen pro denní nošení, ale především pro tanec jako dělaná.
+
+Zpřístupní se další předmět k prozkoumání: náhrdelník
+- popis: Krásná věc schopná ozdobit hrdlo jak mužů, tak žen a rozhodně dokáže přitáhnout pozornost opačného pohlaví. Náhrdelník z kostic omotaných červenými třásněmi se jen blyští a co teprve venku na slunci a při tanci…
+
+- při pokusu o sebrání náhrdelníku:
+„Ne, my indiáni NIKDY a NIC nekrademe, máme svoji hrdost. Pokud po náhrdelníku opravdu toužíš, jdi s pravdou ven, ta u nás znamená více než cokoli jiného.“
+
+Hráč osloví léčitele:
+
+“Hezký den přeji všem, mé jméno je Kroužící orel a rád bych se seznámil s lidmi ve vsi.“
+
+Muž je nyní zaneprázdněn, takže žena Ti pomocí gestikulace odpovídá:
+
+„Buď pozdraven, návštěvníku z jiných zemí. Posaď se u nás a vstřebej vůni bylin, která Tvé mysli jistě pomůže od nekonečných, dalekých cest.“ Muž právě pokládá svazek bylin na zem a také Tě vítá: „I Jitřní hvězda Tě zdraví, Kroužící orle, jak vidíš, má nádherná žena Jarní kvítí se o mě vzorně stará, a tak se mi pracuje opravdu nádherně,“ a otáčeje se na svoji ženu se na ní hezky usměje.
+
+Ty odpovídáš:
+
+1. „Mohu se zeptat, co je to za svazek bylin, který jsi měl právě v ruce?“
+
+„Malé bizoní oko z nedalekých hor spolu se zelenou želvou, skvělý prostředek k utišení bolesti.“
+
+2. „Potřebuje někdo ve vsi Tvoji pomoc?“
+
+„Ano, lovec Malá noha se dost ošklivě zranil při stopování wapitů, ještě dnes se k němu chystám na návštěvu.“
+
+3. „Vidím, že jste zaneprázdněni a jak vidno, Jitřní hvězda rozhodně velmi příjemně, nebudu Vás již dále zdržovat.“
+
+„Ano, jsme zaneprázdněni, ale počkej prosím ještě. Zjistil jsem, že pro vyléčení lovce mi chybí pár lesních bobulí a Jelení krk. Tedy ne krk přímo z jelena, ale rostlina. Naše dcera se ze sběru bobulí vrátí až večer, nemohl bys nám trochu pomoci?“
+
+a./ „Ano, velice rád.“
+a lovec s úsměvem pokračuje: „To je od Tebe velice hezké a vážím si Tě za Tvůj přístup. Prosím, dojdi do lesa za naší dcerou Tančící vlčicí a přines nám sem co nejdříve nějaké bobule. Poradí Ti také s Jelením krkem, stejně umí všechno popsat mnohem lépe než já...“
+
+b,/ „Ne, teď mám něco důležitého na práci.“
+a lovec smutně odvětí: „Hmm, to je škoda, myslel jsem, že když se seznamuješ s lidmi ze vsi, máš času dost, ale asi jsem se mýlil...“
+
+- je ovšem nutné bobule a rostlinu přinést, takže 3. dialog lze stále vyvolat, dokud hráč nesouhlasí
+
+Pokud hráč zapomene jméno rostliny „Jelení krk“, už mluvil s Tančící vlčicí, vrátí se sem a promluví na léčitele, je možné vyvolat tento dialog:
+
+„Zapomněl jsem jméno té léčivé byliny, můžeš mi jej prosím ještě jednou zopakovat?“
+
+Léčitelova odpověď:
+
+„Snad se tak nestalo kvůli půvabům naší dcery?“ a zařehtá se na Tebe i se svojí manželkou. „Rostlina se jmenuje Jelení krk, vždyť víš, že někteří z nás mají z jeleních krků spodek mokasínů, stačí se podívat pod sebe a poté již jistě nezapomeneš.“
+
+Pokud hráč získal bobule a rostlinu Jelení krk a vrací se k léčiteli, může mu vše dát a léčitel promluví:
+
+“Výborně, výborně, Kroužící orle, jsem Ti nesmírně zavázán a nejsem zdaleka sám. Moje žena už mi vyprávěla, co sis musel vytrpět a omlouvám se za to,“ a potutelně se při své řeči usměje, „ale omlouvám se jen trochu, protože jak vidím, vypadáš velmi spokojeně a jistě sis tanec užil i Ty. Doufám, že Tě naše ratolest moc nezlobila... Teď už ale konec řečí, připravím lék a musím za lovcem. Léčitel vždy léčí sám jen za pomoci bytostí z jiných sfér bytí, protože jsi byl však tak ochotný pomoci, budu nesmírně poctěn, když půjdeš se mnou. Pokud nic nenamítáš, sejdeme se v týpí zraněného lovce společně.“
+
+Nyní stačí dojít do týpí lovce v lokaci 4a, léčitel zde již bude.
+
+Pokud hráč odmítne zatancovat a vrátí se do této lokace, léčitel jej osloví:
+
+„Ha, slyšel jsem, že Kroužící orel není zrovna nadšenec do tanců, má dcera se moc těšila, že uvidí lakotský orlí tanec. Ale věřím, že alespoň na naší veliké slavnosti bude její touha uspokojena,“ a divoce se usměje. „Tančící vlčice mi již přinesla vše potřebné a konečně mohu našemu zraněnému pomoci. Teď už ale konec řečí, připravím lék a musím za lovcem. Léčitel vždy léčí sám jen za pomoci bytostí z jiných sfér bytí, protože jsi však byl ochotný pomoci, budu nesmírně poctěn, když půjdeš se mnou. Pokud nic nenamítáš, sejdeme se v týpí zraněného lovce společně.“
+
+Nyní stačí dojít do týpí lovce v lokaci 4a, léčitel zde již bude.
+
+Pokud hráč přichází po lovu bizonů a napadne jej, že léčitel jej může namalovat, zpřístupní se po hráčovo „mluv s léčitelem“ následující možnost:
+
+„Mírový náčelník mě informoval, že zanedlouho začne šajenský obřad, kterého bych se moc rád účastnil. Potřebuji malbu od muže, který má v sobě stejné totemové zvíře jako já sám. Všiml jsem si venku Tvého symbolu a proto vím, že jsem zde správně, mohu Tě o tuto službu požádat?“
+
+Léčitel odpoví: “S velikou radostí Ti pomohu, bytosti větru, prosím poohlédni se po nějaké červené, modré a hnědé barvě.“
+
+Pokud má hráč v inventáři červenou barvu, modrou barvu a hnědou barvu a osloví léčitele:
+
+„Tak jdeme na to, sedni si přede mě a ani nedutej,“ říká s úsměvem Jitřní hvězda. Pak Tě začne malovat. Modrá bude představovat nebesa, hnědá Zemi, po které všichni kráčíme a červená vzdušného lovce. Tak snad se budeš hlavně ženám líbit.
+
+Ztraceny předměty: červená barva, modrá barva, hnědá barva
+
+Hráč osloví ženu léčitele, toto lze však provést až tehdy, když předtím alespoň jednou hovořil s mužem:
+
+Vzpomínáš si na etiketu v týpí, kdy je nutné nejprve promluvit s mužem a poté teprve se ženou:
+
+„Buď zdráva, Jarní kvítí, skláním se před Tvojí krásou a přeji Vám oběma ve Vašem společném životě jen krásné chvíle.“
+
+Jarní kvítí odpoví:
+
+„To je od Tebe moc milé, Kroužící orle, moc ráda Ti pomohu s čímkoli, s čím budu moci.“
+
+Ty odpovídáš, toto je možné pouze tehdy, pokud hráč v lokaci č. 22 odpověděl 1 nebo 2, v případě 3 se následující dialog nezobrazí:
+
+Nyní je nutné získat náhrdelník, který postava potřebuje na tanec. Ženě je nyní nutné odpovědět slovy tanec, tancování, orlí tanec
+
+Pokud hráč správně odpoví, objeví se následující text:
+
+Vysvětlil jsi Jarnímu kvítí, do jaké „šlamastyky“ jsi se dostal při pokusu o získání bobulí a rostliny pro jejího manžela. Nádherně a dlouze se společně se svým mužem zasmála a poté Ti stále s úsměvem na rtech podává náhrdelník s těmito slovy:
+
+„Tak to si opravdu dokáži živě představit a ani nevíš, jak ráda Ti pomohu. Je to od Tebe hezké, že těm treperendám chceš udělat radost, ony na první pohled vypadají divoce, ale věř mi, že až Tě lépe poznají, budou se chovat jinak. Úplně jinak...“
+
+získán předmět:
+náhrdelník
+
+Můžeš jít: ven
+
+
+
+
+
+
+
+11 – před týpím šamana
+
+Přicházíš před stan, na kterém Tě nesmírně zaujaly úzké kosočtverce značící symboly lučních kobylek spojené s okusováním trávy bizony. To nebude jen tak obyčejné týpí, vzpomínáš si, že šaman Vašeho kmene právě takto popisoval obydlí svého „kolegy“ ve spřátelené šajenské osadě. Dveře týpí jsou zavřené, osazenstvo však bude přítomné, neboť úzkým otvorem z vrcholu týpí právě uniká jemný kouř.
+
+Vidíš: šamanské týpí
+
+Při pokusu o sebrání týpí šamana: „Já vím, že stepní slunce někdy připaluje, nesedíš také na nějakém podobném místě? Pokud ano, svlékni se a dej si studenou koupel, ta Tě jistě osvěží.“
+
+Při pokusu o vstup dovnitř:
+
+„Vstupovat do neznámého týpí se zavřenými dveřmi je neslušné a o to více, že tento stan patří mezi ty posvátné. Budu muset počkat, až budou otevřeny.“
+
+Pokud hráč absolvoval vizi z lokace 27, ať již sám nebo s Tančící vlčicí, popis se změní na následující:
+
+Přicházíš před stan, na kterém Tě nesmírně zaujaly úzké kosočtverce značící symboly lučních kobylek spojené s okusováním trávy bizony. To nebude jen tak obyčejné týpí, vzpomínáš si, že šaman Vašeho kmene právě takto popisoval obydlí svého „kolegy“ ve spřátelené šajenské osadě. Dveře týpí jsou nyní již otevřené a úzkým otvorem z vrcholu týpí právě uniká jemný kouř. Cítíš, že vstoupit dále je v tuto chvíli to pravé ořechové.
+
+a je možné vstoupit dále do lokace 11a:
+
+Můžeš jít: S, J, Z, V, dovnitř
+
+
+
+
+
+
+11a – týpí šamana
+
+Vstupuješ do týpí místního šamana. Jako znalec kostelů ve městech bledých tváří očekáváš nabubřelou nádheru s velebným knězem, která sama žádá o pokleknutí a kajícnost… Rychle jsi však vystřízlivěl, nic takového Tě tady rozhodně nečeká. Letmým pohledem vidíš, že interiér je velmi skromě zařízen, není zde vlastně nic neobvyklého k vidění. To nejzajímavější je šaman, muž nejspíš o něco mladší, než jsi Ty sám. Ruce má pomalovány hnědou hlinkou a holou hruď červeně, vše vypadá přirozené a ladící s jeho přívětivým obličejem. Hledí do ohně s rozšířenýma očima, které prozrazují nesmírné soustředění.
+
+Popis v případě, že hráč přichází sám:
+
+„Vítám Tě, Kroužící orle,“ laskavě na Tebe pohlédne a pokyne, aby sis sedl naproti němu také k ohni. Po počátečním pozdravu usedáš a šaman pokračuje: „Jak vidím, dobře jsi poznal život v naší vesnici a ve Tvé mysli vidím radost z tohoto poznání. Vím také, proč jsi nyní přišel za mnou, pohlédni...“ a rukou ukazuje směrem do ohně. Když tam pohlédneš, připadáš si jako v tranzu přesně na místě, kde jsi před chvílí zažil svoji vizi. Vše se opakuje a Ty naprosto ztrácíš i sebemenší pojetí času...
+
+„Ten chlap je snad kouzelník,“ pomyslíš si hned a nemáš z toho dobrý pocit, ale šaman Tě svojí odpovědí naprosto uklidní. „Ne, jsem člověk jako Ty, jen s jinými schopnostmi a možnostmi v rámci mého současného bytí.“ „On mi čte myšlenky,“ napadne Tě ještě, ale když se šamanovi podíváš zblízka do očí a on skutečně přikývne, poznáš, že tuto moc opravdu má. Nijak ji ovšem nevystavuje na obdiv a skromě na Tebe hledí. „Ve skutečnosti nečtu z Tvé mysli, dokáži ovšem vnímat Tvé pocity. Toto umění před dávnými časy měli všichni lidé a raduji se nad poznáním, že jej zase všichni získáme zpět, jen to každému z nás bude trvat jiný úsek bytí. Poté ustanou všechny konflikty, zapomeneme na nenávist, nepochopení, falešná hodnocení a odhodíme své masky, které hrajeme ve Této hře zvané život.“ Hluboce na Tebe pohlédne a Ty konečně chápeš: „A právě toto je poselství, které nám dávají všechny naše vize, lhostejno, jak je vidíme nebo jak si alespoň myslíme, že je vidíme.“
+
+Nyní jsou hráči nabídnuty tyto možnosti dialogu:
+
+1. Přiznám se, že se mi z toho trochu točí hlava. Myslím si, že začínám chápat, o čem život je, ale je obtížné takto žít, když jsem obklopen mnoha lidmi, kteří uznávají něco úplně jiného.
+
+„Ano, to mně často také. A ještě častěji si říkám, proč mi muselo trvat třicet zim, než jsem pochopil, o čem život opravdu je. To množství lidí, kteří zatím ještě tápou, je naprosto v pořádku a věř, že Ty a v neposlední řadě i já tápeme také. Každý máme svoji cestu, kterou si musíme sami projít, to za nás nikdo neučiní. Nečekej na nějaký zázrak nebo spasitele, mnoho z nás stále na něco čeká a nemůže to uchopit. Změň sám sebe, to je to jediné, co můžeš opravdu udělat a teprve poté se změní i svět pro Tebe. Jak jednoduché, ale jak strašně, děsivě obtížné pocítit a poté žít...“
+
+2. Opravdu musím žít u indiánů, abych pochopil tuto moudrost? Jsou opravdu bledé tváře tak slepé?
+
+„Ne a věř mi, že Tvoje cesta žití nejprve u indiánů a poté u bledých tváří je ta nejlepší možná pro Tebe. Kdybys žil celý život u nás, nemáš šanci vše potřebné pochopit. Teprve srovnání těchto dvou světů, přírodního a technického, Ti pomůže pochopit skutečnou hodnotu života. Bledé tváře nejsou slepé, jsou naprosto stejné jako my, přesněji řečeno neexistuje nic jako my a oni, jsme jen my a to zahrnuje všechny živé bytosti včetně kamenů, rostlin a zvířat. Žijí jiný život, který si potřebují odžít a je to pro ně ta nejlepší cesta. Spojením obého dokážeme pochopit a poté si vážit toho opravdového života, prostého ve své jednoduchosti, ale nesmírně složitého pro nás pro všechny…“
+
+3. Máš vědění vidění budoucnosti?
+
+V mých viděních se často zjevují věci, které se teprve mohou stát. Pamatuj však, že se nemusí stát, jen mohou. Za toto vědění jsem vděčný, protože díky němu mohu pomáhat druhým. Proto jsem jej obdržel a věř mi, že pokud si začnu myslet, že jsem díky němu nějak výjimečný, ztratím jej.“
+
+4. Je ještě něco, co bych mohl nalézt ve vsi šajenů?
+
+„Sám přece cítíš, že Tvá cesta pokračuje zase dále. Nejdříve jsi žil ve své rodné vsi, poté ve městě a nyní se vracíš zase ke svým. Proč tomu tak je?“ Šaman Tě chvíli nechal Tvým myšlenkám a poté pokračuje: „Pojďme nyní za naším mírovým náčelníkem,“ a s úsměvem se zdvihá od ohně.
+
+Hráč bude přesunut do lokace 9.
+
+
+Popis v případě, že hráč přichází s Tančící vlčicí:
+
+„Vítám Tančící vlčici i Kroužícího orla,“ laskavě na Vás pohlédne a pokyne, abyste si sedli naproti němu také k ohni. Po počátečním pozdravu usedáte a šaman otáčející se k Tobě pokračuje: „Jak vidím, dobře jsi poznal život v naší vesnici a ve Tvé mysli vidím radost z tohoto poznání. Vím také, proč jsi nyní přišel za mnou a jsem potěšen, že nepřicházíš sám. Pohlédni...“ a rukou ukazuje směrem do ohně. Když tam pohlédneš, připadáš si jako v tranzu přesně na místě, kde jsi před chvílí zašil svojí vizi. Vše se opakuje a Ty naprosto ztrácíš i sebemenší pojetí času...
+
+„Ten chlap je snad kouzelník,“ pomyslíš si hned a nemáš z toho dobrý pocit, ale šaman Tě svojí odpovědí naprosto uklidní. „Ne, jsem člověk jako Ty, jen s jinými schopnostmi a možnostmi v rámci mého současného bytí.“ „On mi čte myšlenky,“ napadne Tě ještě, ale když se šamanovi podíváš zblízka do očí a on skutečně přikývne, poznáš, že tuto moc opravdu má. Nijak ji ovšem nevystavuje na obdiv a skromě na Tebe hledí. „Ve skutečnosti nečtu z Tvé mysli, dokáži ovšem vnímat Tvé pocity. Toto umění před dávnými časy měli všichni lidé a raduji se nad poznáním, že jej zase všichni získáme zpět, jen to každému z nás bude trvat jiný úsek bytí. Poté ustanou všechny konflikty, zapomeneme na nenávist, nepochopení, falešná hodnocení a odhodíme své masky, které hrajeme ve Této hře zvané život.“ Hluboce na Tebe pohlédne a Ty konečně chápeš: „A právě toto je poselství, které nám dávají všechny naše vize, lhostejno, jak je vidíme nebo jak si alespoň myslíme, že je vidíme.“
+
+Nyní jsou hráči nabídnuty tyto možnosti dialogu:
+
+1. Přiznám se, že se mi z toho trochu točí hlava. Myslím si, že začínám chápat, o čem život je, ale je obtížné takto žít, když jsem obklopen mnoha lidmi, kteří uznávají něco úplně jiného.
+
+„Ano, to mně často také. A ještě častěji si říkám, proč mi muselo trvat třicet zim, než jsem pochopil, o čem život opravdu je. To množství lidí, kteří zatím ještě tápou, je naprosto v pořádku a věř, že Ty a v neposlední řadě i já tápeme také. Každý máme svoji cestu, kterou si musíme sami projít, to za nás nikdo neučiní. Nečekej na nějaký zázrak nebo spasitele, mnoho z nás stále na něco čeká a nemůže to uchopit. Změň sám sebe, to je to jediné, co můžeš opravdu udělat a teprve poté se změní i svět pro Tebe. Jak jednoduché, ale jak strašně, děsivě obtížné pocítit a poté žít...“.
+
+2. Opravdu musím žít u indiánů, abych pochopil tuto moudrost? Jsou opravdu bledé tváře tak slepé?
+
+„Ne a věř mi, že Tvoje cesta žití nejprve u indiánů a poté u bledých tváří je ta nejlepší možná pro Tebe. Kdybys žil celý život u nás, nemáš šanci vše potřebné pochopit. Teprve srovnání těchto dvou světů, přírodního a technického, Ti pomůže pochopit skutečnou hodnotu života. Bledé tváře nejsou slepé, jsou naprosto stejné jako my, přesněji řečeno neexistuje nic jako my a oni, jsme jen my a to zahrnuje všechny živé bytosti včetně kamenů, rostlin a zvířat. Žijí jiný život, který si potřebují odžít a je to pro ně ta nejlepší cesta. Spojením obého dokážeme pochopit a poté si vážit toho opravdového života, prostého ve své jednoduchosti, ale nesmírně složitého pro nás pro všechny…“
+
+3. Máš vědění vidění budoucnosti?
+
+„V mých viděních se často zjevují věci, které se teprve mohou stát. Pamatuj však, že se nemusí stát, jen mohou. Za toto vědění jsem vděčný, protože díky němu mohu pomáhat druhým. Proto jsem jej obdržel a věř mi, že pokud si začnu myslet, že jsem díky němu nějak výjimečný, ztratím jej.“
+
+4. Tančící vlčice viděla ve svém snu orla a vlka, kteří oba cestovali směrem k západu slunce a byli pronásledováni stádem ohnivých koní. Můžeš mi přiblížit, co vše znamená?
+
+„Hledejte oba ve svých srdcích a sami se rozhodněte, zda Vaše cesta bude společná. Někdo cítí hned, jiný potřebuje více času, to já nevidím. Je však skutečností, že dvě spřízněné duše se po dlouhém odloučení opět setkají, tím je proces neustálého převtělování zde na Zemi dokončen.“
+
+5. Je ještě něco, co bych mohl nalézt ve vsi šajenů?
+
+„Sám přece cítíš, že jsi našel něco báječného a Tvá cesta pokračuje zase dále.“ Ty se ohlížíš po své družce a ona Ti s úsměvem tiskne ruku. „Nejdříve jsi žil ve své rodné vsi, poté ve městě a nyní se vracíš zase ke svým, proč tomu tak je?“ Šaman Tě chvíli nechal Tvým myšlenkám a poté pokračuje: „Pojďme nyní všichni společně za naším mírovým náčelníkem,“ a s úsměvem se zdvihá od ohně.
+
+Po vyčerpání všech témat k rozhovoru bude hráč automaticky přesunut do lokace 9.
+
+
+
+
+
+
+
+12 – před týpím psího válečníka
+
+Přicházíš před bělostné týpí s válečnými ozdobami, vchod je však uzavřen. Před stanem sedí pomenší muž a nevypadá zrovna spokojeně.
+
+Vidíš: bělostné týpí s válečnými ozdobami, menšího psího válečníka
+
+bělostné týpí s válečnými ozdobami
+- popis: Jednoduše vybavené týpí, na kterém si dal majitel záležet, aby vypadalo jako domov bojovníka. Znáš několik válečnických společností, zde se asi bude jednat o Psího válečníka.
+
+Při pokusu o sebrání bělostného týpí s válečnými ozdobami: „Ty nevidíš, že majitel odpočívá zrovna před svým stanem? Uznávám však, že jsi odvážný a věřím, že nejen v této hře...“
+
+menší psí válečník
+- popis: Pomenší muž má na své hrudi nádherně vytetovaného koně, asi to bude nadšenec do koní. O čemž jistě sní spousta nejen místních žen... Vypadá ale dost unaveně a tak sedí před svým týpí a hledí kamsi do dáli...
+
+Při oslovení menšího psího válečníka:
+
+„Buď zdráv, bojovníku, mé jméno je Kroužící orel. Procházím se vsí a rád bych se seznámil s jejími obyvateli.“
+
+Menší psí válečník odpoví:
+
+„Kroužící orle, jsem moc rád, že se se mnou chceš seznámit. Mé jméno je Ten, kdo chodí vodou a i když rád poznávám nové přátele, dnes mi není moc do hovoru.“ Poté zmlkne.
+
+Ty pokračuješ:
+
+1. „Jestli Ti mohu nějak pomoci, udělám to rád a určitě mi můžeš své trápení sdělit.“
+
+Ten, kdo chodí vodou Ti pomalu odpoví:
+
+„Dnes se mi ztratil kůň a nemohu ho nikde najít, už jsem několikrát prošel celou vesnici a nic. Snad se sám vrátí, já si potřebuji chvíli oddychnout. Už posledně nevypadal dobře a myslím si, že jej něco trápí, jen doufám, že tím trápením nejsem já sám.“ Poté se odmlčí.
+
+2. „Odpusť mi, nechtěl jsem rušit. Zastavím se později.“ Muž pokývá hlavou a opět se zahledí kamsi do neurčita.
+
+Po té, co hráč nalezl velikého strakatého koně a potřebuje pomoc s jeho ošetřením, může bojovníka oslovit:
+
+„Myslím, že jsem Tvého koně našel, je ale pěkně zřízený. Kromě odpočinku se mu musíme podívat na kopyta, sám to ale nesvedu.“
+
+Do bojovníka jako když udeří blesk:
+
+„Díky, díky, už jsem skoro nedoufal. Pojďme k němu hned!“ a nervózně, ale i s nadějí v oku na Tebe hledí.
+
+Poté, co se hráč i Ten, kdo chodí vodou vrátili s ošetřeným koněm:
+
+Ten, kdo chodí vodou je naprosto nadšen, jeho nadšení ovšem trochu brzdí skutečnost, že koni se sice již viditelně ulevilo, ale stále mu z jednoho kopyta odkapává dost nechutný hnis. Proto se na Tebe obrací se slovy:
+
+„Kroužící orle, jsem Ti opravdu nesmírně zavázán, prosím však o pomoc ještě jednou. Já zde se svým přítelem setrvám, aby měl po svém boku toho, koho nejlépe zná a již se nebál, Ránu je třeba léčit nejen rukama, ale i duší. Prosím, zajdi za jedním z našich starších Měsíčním svitem a řekni mu, že můj kůň má stále potíže s hnisem. On si jistě bude vědět rady, na jedné z minulých výprav se setkal právě s něčím takovým.“
+
+Pokud hráč ještě nemá koňskou medicínu od starce a chce hovořit s Tím, kdo chodí vodou:
+
+„Nemeškej, prosím, vždyť víš, že můj přítel si již vytrpěl dost a já mám o něj opravdovou starost.“
+
+Pokud se hráč vrátí s koňskou medicínou od starce a dá jí Tomu, kdo chodí vodou:
+
+Ten, kdo chodí vodou Ti radostně stiskne ruku a poprosí, abys mu pomohl koně vyléčit. Přesně podle starcových instrukcí opíšeš medicínou kruh ve vzduchu a poděkuješ bytostem severu, východu, jihu i západu. Následně ji z jedné strany přiložíš ke kopytu koně a druhou stranu opatrně potíráš poníkovým výtvorem. V duchu máš ale pochybnosti, pobyt ve městě Bledých tváří Tě přece jen poznamenal více, než si myslíš. Nevěříš, že tato operace bude úspěšná a v co věříš, se také stane..., hmm, skutečně se nic nestalo. Také kůň je viditelně neklidný a divoce odfrkává.
+
+Ten, kdo chodí vodou Tě osloví:
+
+„To snad ne, provedl jsi obřad tak, jak Ti Měsíční svit poradil? Už jsem doufal, že bude vše v pořádku a není, stále nás ničí mé a Tvé pochyby.“
+
+Kdykoli jej nyní hráč osloví, bude říkat:
+
+„Pochybuji, pochybuješ a přesně to se také stane. Jak se této nedůvěry zbavit?“
+
+Řešením je zase zajít za Měsíčním svitem a na jeho otázku správně odpovědět některým z těchto slov: pochyby, pochybuji, pochyboval jsem, nevěřím, nevěřím si
+
+Pokud se hráč vrátí od starce a prošel si jeho obřadem, díky němuž ztratil své pochyby a pevně věří, že léčení dopadne dobře:
+
+Oslovuješ psího válečníka těmito slovy:
+
+„Nyní již vím, kde jsme učinili špatně, Ty i já. Nyní již vím, že se léčba podaří, pohleď mi do tváře.“
+
+Ten, kdo chodí vodou, Ti pohlédne do tváře a Ty se mu zpříma podíváš do očí. Po malé chvilce cítíš, že veškeré jeho pochyby jsou pryč a celou léčebnou proceduru opakuješ přesně jako předtím. Naprosto přesně víš, co máš dělat, tvé ruce pracují bezmyšlenkovitě a Ty stále více a více víš, že se vše podaří. Kůň je naprosto klidný a když se mu podíváš do očí, s naprostou důvěrou na Tebe hledí. On nyní ví a Ty nyní víš...
+Náhle se Ti zatmí před očima a Ty vidíš se stále větší rychlostí sled scén. Nejprve pustá step. Poté dusot bizonů. Ještě rychlejší cval koní... a pak řev z nedalekých hor. Obrovské hejno ptáků kroužících oblohou se vrhá do jícnu hory, která řve, puká, trhá se na kusy a chrlí obrovské množství žhavé lávy všude kolem. Náhle jako strašlivý vzdušný vír obkroužíš tábor týpí a přistáváš přesně uprostřed. Lidé kolem Tebe zděšeně pobíhají od západu k východu, jiní jdoucí od jihu k severu jdou pomalým, sebejistým krokem a nic jim není. Proč?
+Vidění zmizelo a před Tebou je usmívající se kůň a jeho ještě rozradostněnější majitel, který se samou radostí může zbláznit a rychle k Tobě hovoří:
+
+„To není možné, to je skvělé, Kroužící orle. Kůň je naprosto v pořádku a nic mu není!“ Když se po delší době uklidní, dodá tajemně: „Já vím, co teď cítíš, ale co se má stát, stane se, s tím nelze nic dělat. Já Ti jsem nekonečně zavázán a když mám já svého koně, ani u Tebe to nebude jinak,“ a jde s Tebou za náčelníkem psích vojáků.
+
+Pomyslíš si:
+
+„Taková vidění jsem ve městě nikdy neměl a už jsem zapomněl, že existují. Ať už je jejich poselství jakékoli, už jen jejich přítomnost mi dává jasně najevo, že jsem na správné cestě poznání. Děkuji Velikému tajemství za tento život, cítím, že mě posune o obrovský kus vpřed za mým dalším poznáním.“
+
+Společně se přesunou do lokace 14a
+
+Můžeš jít: S, Z, V, dovnitř
+
+
+
+
+
+
+
+12a – týpí psího válečníka
+
+Vchod do tohoto týpí je uzavřen, majitel si asi nepřeje návštěvu. Zkus přijít v jiný čas.
+
+Do této lokace se hráč nedostane.
+
+
+
+
+
+
+
+
+13 – před týpím psího bojovníka
+
+Před sebou vidíš bělostné týpí s malou ozdobou a motivem koně. Dveře jsou uzavřeny a podle stop to vypadá, že už zde nějaký čas nikdo nebyl.
+
+Vidíš: bělostné týpí s malou ozdobou
+- popis: Poměrně malý stan, který má na východní straně namalovaného koně v trysku. Majitel bude jistě nadšenec do těchto zvířat stejně jako spousta místních, Tebe nevyjímaje.
+
+Při pokusu o sebrání bělostného týpí s malou ozdobou: „Vypadá to, že zde už nějaký čas nikdo nepobyl, naštěstí na stepi tak často neprší, takže se nic tak hrozného neděje. Kam to ale mám složit?“
+
+Můžeš jít: S, Z, V, dovnitř
+
+
+
+
+
+
+
+13a – týpí psího bojovníka
+
+Jak jistě víš, chod do tohoto týpí je uzavřen a majitel bude asi někde na cestách. Zkus přijít v jiný čas.
+
+Do této lokace se hráč nedostane.
+
+
+
+
+
+
+
+14 – před týpím válečného náčelníka
+
+Před Tebou se tyčí bělostné týpí zcela bez ozdob. Před ním však vidíš jasné insignie náčelníka psích bojovníků. Dveře týpí jsou otevřeny, takže můžeš vstoupit dovnitř.
+
+Vidíš: bělostné týpí bez jakýchkoliv ozdob, insignie náčelníka psích bojovníků
+
+Vidíš: bělostné týpí bez jakýchkoliv ozdob
+- popis: Víš, že náčelníci nemají ve zvyku dávat najevo své bohatství, to by jim v takovéto společnosti úctu rozhodně nepřineslo. Již jen venkovní vzhled je strohý, ale malebný jako téměř všechna šajenská týpí.
+
+Vidíš: insignie náčelníka psích bojovníků
+- popis: Psí bojovníci jsou velmi zajímavá válečnická společnost. Jedná se o velmi odhodlané muže, kteří se při boji přiváží na jedno místo a odrážejí útoky nepřátel stejně jako stěna odráží příboj vln. Ale nejsou to blázni, většinou v tomto spolku působí jen několik let a pokud přežijí, získají si nehynoucí úctu ostatních.
+
+Následující text zobrazit pouze jednou právě při prozkoumání insignií náčelníka psích bojovníků: „Je to zajímavé, před očima se Ti náhle zjeví bojová scéna, v níž stojí řada mužů s provazy na kopích zapíchnutých do země a za nimi se celá vesnice balí a co nejrychleji mizí. Muži padají a někteří zase vstanou, jiní však již nikoliv… Ale jejich řada vydrží drtivý nápor nepřátel, kteří nakonec v hrůze prchají zastrašeni nejen odvahou, ale také strašlivým výrazem v očích těchto mužů. Bojové šílenství jako vyšité, většina těchto Psích mužů však přežije a po boji následuje své blízké. Pomalu a hrdě, pohrdajíce smrtí, tito muži, i když to tak nevypadá, se ve vývoji své duše posunou o notný kus dál. Vždyť i tak strašlivá věc jako boj může sice přinést další touhu po krvi, ale také poznání nesmyslnosti tohoto konání...“
+
+Při pokusu o sebrání týpí válečného náčelníka: „Jsi odvážný, ale stejně tak nemoudrý, můj milý hráči.“
+
+Po lovu bizonů, když si syn válečného náčelníka odvedl poníka:
+
+Vidíš: bělostné týpí bez jakýchkoliv ozdob, insignie náčelníka psích bojovníků, poníka
+
+Vidíš: poníka
+- popis: Tvůj bizoní lovec je přivázán na dlouhé šňůře a v klidu se popásá. Už Tě dobře zná, takže se nechá i pohladit.
+
+Můžeš jít: S, J, V, dovnitř
+
+
+
+
+
+
+
+
+14a – týpí válečného válečníka
+
+Interiér tohoto týpí je velmi skromně zařízen, jak se na náčelníka válečnického spolku sluší. Zadní část je pro vedro panující venku zcela vyhrnutá a ve vzniklém stínu vidíš vysokého svalnatého muže, který odpočívá na své lenošce. Muž Ti pokyne, aby ses posadil naproti němu a řekl, co máš na srdci.
+
+Ty se představíš a začínáš: „Buď zdráv, náčelníku.“
+
+Náčelník odpovídá: „Bystrá antilopa zdraví i Tebe, můj hoste, co pro Tebe mohu učinit?“ a nabízí Ti mísu se sušeným masem.
+
+Při pokusu o další konverzaci se hra zeptá, na co se chceš zeptat:
+
+Pokud jsi již hovořil s chlapcem na severních koňských pastvinách a on Ti prozradil, že strakatý poník patří tomuto muži, je nutné napsat jeho jméno „Strakatý vítr“. Pokud napíši něco jako „malý kůň“, „pony“, „poník“ „strakatý kůň“, „strakatý poník“, „malý strakatý kůň“, náčelník odvětí:
+„Ha, takových koní má šajenský národ spoustu. Mohl bych Ti vyprávět o některých z nich, to je ale spíše na delší zimní večery, nemám pravdu?“
+
+Pokud se zeptám konkrétně na Strakatého větra, náčelník se rozchechtá a zareaguje takto:
+„Tak Tobě se zalíbil můj oblíbenec? A necítil jsi se v jeho blízkosti tak nějak upšoukle?“ a rozesměje se ještě více. Když se dosytosti vychechtá, chytá Tě smířlivě za ruku a říká: „Neboj, nemyslím tím nic zlého, mně se to také poprvé stalo. Chtěl jsem jeho původnímu majiteli jak se patří vyčinit, ten mě ale uklidnil a po prvním lovu jsem zjistil, co v tom poníkovi dřímá. Je to můj nejlepší lovecký pony, při lovu bizonů je prostě nedostižný, víš, že se stádem proplétá jak vítr a vždy dokáže včas uhnout, když se nějaký bizoní býk rozhodne ho nabrat? Nedokážeš si představit ten pocit... Vidím na Tobě, že se Ti ten kůň nejprve moc nezdál, ale teď jsi změnil názor, že?“ Řekneš mu o svém rozhovoru s chlapcem, který viděl poníka v akci a umíš si tedy představit jeho kvality. Potěšený náčelník pokračuje: „Přesně tak, jen musím toho raubíře pouštět na pastviny s ostatními koňmi. To víš, takový kůň je docela vzácný a měl by být uvázaný u mého týpí, tihle lumpové se ale vždy nějak dokáží uvolnit, takže jsem toho nechal, ať se stane, co se má stát.“ S úšklebkem dodává: „Ono stejně není tak jednoduché ho chytit, nemám pravdu?“ Pomyslíš si: „Tak tahle potvůrka by se mi sakra hodila, náčelník mi ho asi nedá, ale třeba by souhlasil se zapůjčením jen pro lov?“
+
+Při pokusu o další konverzaci se hra zeptá, na co se chceš zeptat: Můžeš se zeptat na zapůjčení ponyho těmito slovy: „půjčit si poníka“, „vypůjčit si poníka“, „půjčit si poníka“, „vypůjčit si poníka“, „půjčit si Strakatého větra“, „vypůjčit si Strakatého větra“, „půjčit si Strakatý vítr“, „vypůjčit si Strakatý vítr“.
+
+Pokud s Tebou není Ten, kdo chodí vodou, náčelník odpoví:
+„Ha, to není tak jednoduché, můj pony na sebe nenechá jen tak někoho sednout. Byla by to otázka nějakého času, než bych Tě já nebo můj syn naučil s ním zacházet a nevím, zda oba tento máme.“
+
+Pokud je s Tebou Ten, kdo chodí vodou a znovu se zeptáš těmito slovy „půjčit si poníka“, „vypůjčit si poníka“, „půjčit si poníka“, „vypůjčit si poníka“, „půjčit si Strakatého větra“, „vypůjčit si Strakatého větra“, „půjčit si Strakatý vítr“, „vypůjčit si Strakatý vítr“:
+Ten, kdo chodí vodou náčelníkovi vysvětlil, jak jsi mu nezištně pomohl s jeho koněm, který se nyní léčí a za nějaký čas se bude zase radovat z ničím nespoutaného života tak jako dříve. Náčelník vše pozorně vyslechl a s úctou se k Tobě obrátil:
+„Jsem velice potěšen, že jsi pomohl mému příteli Tomu, kdo chodí vodou. Byl velice smutný, že nemůže jezdit na svém koni, kterého získal od bledých tváří a jehož si velice oblíbil. Tím, že jsi tento čin vykonal, značně stoupáš v mé úctě a s radostí Ti pomohu. Vím, že toužíš po tom, aby sis vyzkoušel jízdu na Strakatém větru a takovému člověku jej rád půjčím. Teď Ti prozradím malé tajemství toho malého raubíře, dobře mě poslouchej,“ a potutelně se usměje. „Jsi šikovný člověk a cítím, že máš srdce na správném místě, pro takového muže je ale třeba i moudrost. Miluji hádanky, které mi večer při tak příjemném škrábání zad, a nejen jich, dává moje žena.“ a v jeho očích se blýskne stejně jako v ústech, „takže Ti teď jednu dám a když ji uhodneš, jistě Ti napoví, jak s mým miláčkem začít pracovat. Dobře, velmi dobře pamatuj na to, že s výcvikem Ti pomůže můj syn, já se musím připravovat na obřad, který zanedlouho potěší lidi z našeho kmene.“ Na chvíli se významně odmlčí. Cítíš, že tato informace je pro Tebe velmi důležitá... „Chceš hádanku pro bojovníka nebo pro svatého muže?“
+
+Hráč si nyní může vybrat jednu ze dvou možností.
+V případě hádanky pro bojovníka náčelník začne:
+„Ani nejstatečnější muž nemůže pobít sám více nepřátel, než je prstů obou rukou. Někdy je potřeba se skrýt jako kojot nebo vlk, číhat a lovit pod hvězdami. Přijď ke mně v pravý čas se správnou odpovědí.“
+
+V případě hádanky pro svatého muže náčelník začne:
+„Je krásné léčit ty, kteří si sami nedokáží pomoci, to však vyžaduje klid a soustředění. A kde jinde je lze nalézt, než pod oblohou plnou zářících hvězd? Přijď ke mně v pravý čas se správnou odpovědí.“
+
+Poník má zajímavou vlastnost, nového jezdce na sebe nechá sednout jen za tmy, stačí chvíli po soumraku. Toto je správná odpověď na obě hádanky. Na stepi je i večer krásně vidět, takže není problém s výcvikem v této době. Syn náčelníka psích vojáků Kroužícímu orlovi ukáže, jak poníka k sobě nalákat i samotnou jízdu. Poté bude pony připraven.
+
+Nyní bude hráč automaticky přesunut ven z týpí do lokace 14. Po deseti akcích – stačí někam jít, cokoliv prozkoumat nebo s někým hovořit – se sešeří. Hra o tom hráče informuje takto:
+
+Slunce nám právě zapadlo a stíny se prodlužují. Když pohlédneš na oblohu nad sebou, vidíš už první dnešní hvězdy. Zatím je ještě dobře vidět, noc však nezadržitelně čeká a těší se na svůj čas.
+
+- popis lokací se nemění. Hráč musí přijít na to, že je třeba večer dorazit do týpí náčelníka psích vojáků, kde v tu dobu odpočívá i jeho syn. Po vstupu se náčelník zeptá:
+
+„Čeho si žádáš?“
+Hráče musí napadnout, že poníka. Hra akceptuje výrazy pony, poník, kůň, koník, výcvik.
+
+Po správné odpovědi náčelník odpoví:
+
+„Výborně, máš jej mít. Ale ještě mi odpověz na druhou otázku: Koho k tomu žádáš?“
+
+Hráče musí napadnout, že jeho syna. Hra akceptuje výrazy syn, syna, chlapec, chlapce.
+
+Poté se hráč dozví toto:
+
+Společně s náčelníkovým synem se vydáváte k pastvinám, kde řehtající přátelé tráví celou noc. Syn zvolá trochu zvláštním hlasem „vahééé“ a zanedlouho přikluše ten raubíř, který Tě tolik trápil. Chlapec vezme jeho hlavu do svých dlaní, jemně jej pohladí, něco pošeptá a poté Ti pokyne, abys přišel, učinil kromě šeptání to samé a můžeš se posadit. Po chvíli už jezdíš samostatně a vychutnáváš si nádherný, i když trochu legrační trysk toho malého zázraku. Skvěle reaguje na Tvé sebemenší pobídky, náčelník opravdu nelhal... Po nočním řádění Tě chlapec zve, abys přenocoval v týpí jeho rodičů, rád přijímáš a následuješ jej. Chlapcův usmívající se otec se na Vás přívětivě podívá a již velmi unaven slyšíš jeho slova: „Výborně, věřím, že z Tebe bude dobrý lovec, to nejen ženy ocení... A s uzdou zacházej opatrně, Vítr je na ni dost citlivý. Rozhodně ho netahej v zatáčkách, to nemá rád a často prudce zabrzdí. Pamatuj si, že když už rychle běží nebo zatáčí, dej mu volnost a jen se drž hřívy nebo pevně koleny, mít při lovu obě ruce volné je prostě nutnost.“ Hnedle poté usínáš tvrději než špalek dřeva, tento den byl náročný...
+
+Získán předmět: pletená provazová uzda
+Popis: „provazová uzda spletená z tenkého bělostného lanoví, hodí se pro menšího koně“
+
+Druhý den po akci s poníkem:
+
+Probouzíš se teprve když paprsky slunce zvěstujícího nový den proniknou do týpí vstupním otvorem. Nikoho kolem sebe nevidíš, zvenku se ale někdo hlasitě ozývá. Hnán pocitem zvědavosti vylézáš ven připraven přivítat nový den a provést očistu těla. Ale co se to neděje, vidíš spoustu obyvatel vsi, kteří hledí na kmenového vyvolávače. Vyvolávač jedoucí na obrovském strakatém koni právě oznamuje jasným hlasem: „Naši skvělí lovci našli stopy bizoního stáda a Ma'heo'o přislíbil svatým mužům dobrý lov. Proto se všichni naši bojovníci mohou připravit a shromáždit na jižní straně, odkud vyjedeme za tímto požehnáním.“ V tomto smyslu pokračuje dále a objíždí celou vesnici, ve které zavládla nepopsatelná radost, bizonů je nyní už jen poskrovnu a objevení se i sebemenšího stáda každému dá novou naději.
+
+Hráč se nachází před týpím válečného náčelníka v lokaci 14, jeho úkolem je dojít na pastviny pro poníka, nauzdit jej, sednout si na něj a dojet do lokace 19.
+
+Můžeš jít: ven
+
+
+
+
+
+
+
+
+15 – před týpím psího lovce
+
+Před sebou vidíš bělostné týpí s motivem jelenů. Dveře jsou uzavřeny a podle stop to vypadá, že už zde nějaký čas nikdo nebyl.
+
+Vidíš: bělostné týpí s motivem jelenů
+- popis: Poměrně malý stan, který má na východní straně namalovaného prchajícího jelena.
+
+Při pokusu o sebrání bělostného týpí s motivem jelenů: „Vypadá to, že zde už nějaký čas nikdo nepobyl, to ale neznamená, že bys musel to, co není Tvé, hnedle uzmout.“
+
+Můžeš jít: J, Z, V, dovnitř
+
+
+
+15a – týpí psího lovce
+
+Jak jistě víš, vchod do tohoto týpí je uzavřen a majitel bude asi někde na cestách. Zkus přijít v jiný čas.
+
+Do této lokace se hráč nedostane.
+
+
+
+
+
+
+
+16 – koupaliště u Bizoní řeky
+
+Průzračná voda neustále spěchá jižním směrem a její tichý tok uklidňuje Tvé srdce i duši. Místní jí nazývají Bizoní řeka. Tábořiště bez řeky si ani nedokážeš představit, voda je prostě nezbytnost a všechny stepní národy se rády koupou a cachtají, neboť už dávno přišly na to, že čistota je více než půl zdraví.
+
+Vidíš: řeku, místo pro koupání, koupající se děti
+
+řeka
+- popis: Bizoní řeka prchá na jih do neznámých končin.
+
+místo pro koupání
+- popis: Jedno hezké vymleté místo v meandru řeky lze využít pro velmi příjemné osvěžení. Doporučuji i Tobě a Tvému koni.
+
+koupající se děti
+- popis: Indiánské děti milují koupání stejně jako většina dětí bělochů. A ani dospělé do něj nemusí nikdo dvakrát nutit, sám vím, o čem mluvím.
+
+Zde je možné se umýt od koňského výtvoru poté, co hráč zkusí tančit dívkám v lokaci 22. Je nutné použít místo pro koupání poté, co hráč jakkoliv operoval s koňskou koblihou.
+
+Při pokusu o oslovení koupajících se dětí:
+
+Přicházíš k jednomu klučinovi a ptáš se jej: „Buď zdráv, mladý lovče. Kroužícího orla by zajímalo, jaká je dnes voda?“
+
+„Malá vrána smáčí svá pera, kdykoliv je to možné,“ odpoví s vážnou tváří chlapec. Vzápětí se však na jeho tváři objeví úsměv a povídá: „Pojď se koupat s námi, strýčku, voda je dnes ta nejlepší na světě. A potom se chceme s klukama projet na ponících.“
+
+Pokud hráč již prozkoumal lokaci 24 a zakrslého koně, po vstupu do této lokace se objeví následující text:
+
+Pamatuji si toho malého zakrslého koně, třeba by mi ty děti o něm něco mohly říci.
+
+Při pokusu o oslovení koupajících se dětí se objeví tato možnost:
+
+„Znáš toho malého zakrslého koníka, který před chvílí odpočíval ve stínu poblíž druhého břehu řeky?“
+
+„No jasně, kdo by neznal Malou bouři. Ale Ty jsi u nás poprvé, viď? Tak abys viděl, co dokáže, něco Ti ukážeme. Pojď se s námi koupat a chvíli počkej,“ povídá nadšeně Malá vrána.
+
+Ty můžeš odpovědět:
+
+1. „Ano, tohle rád uvidím.“
+
+Přesně na tohle klučina čekal a i já Tě musím pochválit, umět se bavit s dospělými, dokázat si vyposlechnout názor starších a zvládnout se pobavit i s dětmi je umění, které nelze než ocenit. Skáčeš do vody a cachtáš se s dětmi, zatímco Malá vrána spolu s ostatními pro něco uhánějí. Zanedlouho jsou všichni raubíři zpátky a co nevidíš, Malá vrána přivádí právě toho malého zakrslého koníka a ostatní kluci a pár holek své vlastní většinou strakaté poníky. Děvčata i kluci připravují obrovský kruh s nejrůznějšími překážkami, tohle bude jistě zajímavé. Zatímco pracují, další zvědaví caparti přibíhají podívat se, co se děje a s radostí se zapojují do přípravy tého jistě zajímavé hry.
+Jakmile je vše hotovo, malí závodníci připevní k poníkům malé smyky, vždy si jeden na koně sedne a druhý na smyk. A je to tady, první se už připravuje na start za hlasitého řevu ostatních.
+
+Malá vrána však náhle vykřikne:
+„Strejdo, chceš si taky zazávodit?“
+
+a./ „Souhlasím.“
+
+„Sedni si tady na smyk.“ Udiveně si sedáš, klučina pohání mini koníka a společně frčíte. Prcek evidentně nemá problém táhnout smyk i Tebe a jako mrštný had se proplétá všemi těmi překážkami. Tak tak se držíš, aj, tahle zatáčka byla šílená, co ten raubíř dělá… Docela vyklepaný dojíždíš na konec a jsi rád, že žiješ… to jsou věci. Ten kůň jel jako blesk…
+
+- pokračujeme Po ukončení soutěže:
+
+b./ „Nemám zájem o závod.“
+
+„Tak se alespoň dívej,“ říká ten kluk a připravuje se se svým zakrslíkem k akci. Jedna dívka si sedá na smyk a klučina vesele pohání svého prcka. Prcek evidentně nemá problém táhnout smyk i dívku a jako mrštný had se proplétá všemi těmi překážkami. Je určitě na co se koukat, aj, tahle zatáčka byla šílená, co ten raubíř ale dělá, je neuvěřitelné. Projel jako blesk…
+
+- pokračujeme Po ukončení soutěže:
+
+Po ukončení soutěže:
+
+Malá bouře drtivě zvítězil, což ostatní kvitují divokým pokřikem. Teď už je konečně jasné, že i tento malý pony nemusí sloužit jako ozdoba nebo malá sekačka na trávu. Jezdit se na něm sice moc nedá, ale v tahu je nepřekonatelný.
+
+„Tak co, strejdo, líbil se Ti náš závod?“ ptá se klučina s rozzářenou tváří. „Bylo to prostě super, až budete závodit příště, nezapomeň mi dát vědět.“ - „No jasňačka!“ křičí ten divoch a uhání společně s ostatními vrátit koně zase na pastviny.
+
+„Výborně, Kroužící orle,“ kdosi tiše povídá a když se otočíš, vidíš Tichou srnu, manželku Bystrého rysa. „To, že si umíš udělat čas na děti, vidím velice ráda a jsem vděčná svému muži, že přivedl do našeho týpí takovou bytost.“ Velmi lehce se pokloní a poté s úsměvem odchází. A to samé potěší i mě, autora této hry, vedeš si znamenitě.
+
+2. „Ne, teď na to nemám čas.“
+
+Chlapec zklamaně odchází, moc se těšil, že Ti něco ukáže a Tys mu nedal příležitost. Co naplat, je to ale trochu škoda, malé děti velmi rády vidí zájem dospělých…
+
+Můžeš jít: S, J, V
+
+
+
+
+
+
+
+
+
+17 – Brod přes Bizoní řeku
+
+Překročit Bizoní řeku není zas tak obtížné, zde se ale nachází velmi mělký brod vhodný nejen pro přechod, ale také pro brodění unavených nohou i koňských kopyt. Písek se jen blyští a i díky němu je řeka tak nádherně čistá.
+
+Vidíš: přechod přes řeku, písek
+
+přechod přes řeku
+- popis: Brod vyšlapaný od lidských nohou i koňských kopyt je velmi příjemné místo pro rychlé ochlazení nejen v horkých dnech. Sám Ti mohu jen a jen doporučit vyzkoušet si takové místo bosou nohou a máš-li doma koně, i on bude nesmírně nadšený.
+
+písek
+- popis: Zrnka písku se nádherně blyští ve vodě. Když pohlédneš nad sebe, blyští se i slunce, jak hezké souznění.
+
+Pokud se hráč pokusí vzít písek: Proč ne, jsi si ale jist, že budeš písek na něco potřebovat?
+
+Pokud se hráč pokusí vzít písek podruhé: No tak dobrá, nabereme si něco písku. Aj… počkej, tady něco leží. Moment, je to hluboko v písku… hm, stará a dost rezavá rašple, odkud sem asi připlula?
+
+Získán předmět: rezavá rašple
+- popis: rezavá, ale, jak se zdá, ještě stále funkční rašple, kterou znáš z města bledých tváří. Nevíš, odkud se sem dostala, bylo by to ale velmi zajímavé zjistit.
+
+Můžeš jít: S, Z, V
+
+
+
+
+
+
+
+
+
+18 – koňské pastviny u Bizoní řeky
+
+Moc pěkný pás země s vysokou stepní travou představuje ideální pastviny pro koně. Takových je v okolí vesnice spousta, takže si čtyřnozí krasavci mohou vybírat pro sebe tu nejlepší. Nyní jsou zde pouze dva větší koně, kteří se spokojeně pasou. Jeden z nich je pomalován.
+
+Vidíš: velikého pomalovaného koně, většího koně s rousy
+
+veliký pomalovaný kůň
+- popis: Větší čiperné štíhlé zvíře strakaté barvy má okolo obou očí modře namalované kruhy a ty mu opravdu velmi sluší.
+
+Po dalším prozkoumání:
+
+Vidím, že Tě namalovanec zaujal a vůbec se Ti nedivím. Pobíhá sem a tam a občas čuchne k nějaké hromádce a olízne jí, snad to nebudou jeho výtvory…, ale ne, to přeci dělají jen psi.
+
+Zpřístupní se předmět: hromádka hlíny
+
+hromádka hlíny
+- popis: hromádka zkypřené hlíny, do které ten čtyřnohý nezbeda stále strká nos. Když se na Tebe podívá a vyplázne svůj hnědý jazyk, je to pohled k popukání.
+
+Po dalším prozkoumání:
+
+Opravdu se Ti v tomle chce hrabat? Je to nějaké mazlavé, já Ti nevím…
+
+Po dalším prozkoumání:
+Tak tedy dobrá, zahrajeme si na krtka. Prohrábneš hlínu a podaří se Ti vyhrabat malý balíček tvořený převázanými listy, které něco ukrývají.
+
+Zpřístupní se předmět: balíček z převázaných listů
+- popis: balíček v indiánským stylu z přírodních listů převázaný zbytkovými šlachami z ulovených zvířat
+
+- po otevření balíčku: Po otevření se Ti zjevila modrá barva, evidentně používaná jako ta hezká malba na strakatém koni. Tak proto tam ten lump tak často čuchal...
+
+Získán předmět: modrá barva
+
+větší kůň s rousy
+- popis: Mohutnější kůň s rousy nad kopyty není zrovna typicky indiánský. Spíše ses s ním setkával v tahu, tento ale přece jen není tak těžký jako bělošští chladnokrevníci, takže se celoročně na stepi uživí. Ale teď se radostně nacpává voňavou travou a vše ostatní nevnímá.
+
+Můžeš jít: Z, V
+
+
+
+
+
+
+
+
+
+19 – prérijní loviště bizonů
+
+
+Vstupuješ na obrovskou otevřenou planinu zbrázděnou do nekonečna se táhnoucími stopami menších i větších koní. Je Ti hned jasné, oč jde, odtud šajenští lovci vyjíždějí lovit bizony do širé stepi.
+
+Vidíš: širou step
+- popis: Nekonečná volnost, vítr ve vlasech i hřívách tryskajících koní, pálivé slunce i pálivý led, spousta bizonů a rychlé proudy řek, co více si přát...
+
+Po oznámení vyvolávače, že začíná hon, ale hráč nemá nauzděného poníka, nůž a luk se šípy s sebou:
+
+Na dříve prázdné planině se hemží spousta válečníků na koních a netrpělivě čekají na znamení předáka určeného pro tento lov. Ten je zatím v péči svatých mužů a hledá s jejich pomocí vizi, která mu umožní přesně vést muže k bizonímu stádu. Vidíš muže na koních ozbrojené luky a noži, na koních s luky a noži... takto s nimi asi nemůžeš vyrazit, hmmm? Tak to honem koukej napravit, než předák dorazí, nechat si ujít takovou příležitost by Tě moc moc mrzelo.
+
+Po oznámení vyvolávače, že začíná hon a hráč přijíždí na nauzděném poníkovi ozbrojen lukem, šípy a nožem:
+
+Strakatý vítr vjel na pastvinu jako pravý stepní severák, prudce zabrzdil a pyšně se rozhlíží kolem. Někteří muži si Tě už všimli a Ty si myslíš, že se budou smát velikosti Tvého soumara, jejich pohledy jsou ale spíše udivené, než pobavené a slyšíš, jak si šeptají „hóhta'héo“, asi jim někoho připomínáš... Všechny věci, které právě neseš, pokládáš na zem, neboj, u indiánů se opravdu nikdy nic neztrácí, tohle nejsou hrabiví běloši, tedy alespoň nikdy předtím nebývali...
+
+- předmět: V lokaci zůstanou všechny věci, které má hráč momentálně při sobě kromě uzdy, luku, šípů, nože a toho, co má na sobě
+
+Zvláštně pomalovaný předák právě přichází a muži spustí radostný povyk, tento se posadí na svého koně, pokyne, z jeho úst se vydere válečný pokřik a uhání směrem, kde v životě začíná všechno růst... Skandující muži se s radostí rozjedou za ním a dusající koně rychlí jako vítr dávají najevo nespoutanost jejich i jezdců, kteří často bez sedla a jakýchkoliv jiných pomůcek uhání jak severní bouře. Ale ani tito svobodomyslní a hrdí lidé nejsou tak opovážliví, jak na první pohled vypadají, k ohlávkám mají připojené dlouhé lano, za které se mohou v případě potřeby zachytit, tato lana vypadají jako spousta hadů rychle se plazících nekonečným mořem trav. A tys na takové zapomněl, aj, snad je ten ponyzázrak spolehlivý a nebude prudce brzdit, jak má mnoho poníků ve zvyku...
+A je to tady, konečně stádo táhnoucí se od obzoru k obzoru. Tvůj poník radostně zařehtá a náhle zrychlí, aniž bys jej jakkoliv pobídnul. Předjíždíš všechny muže a vůbec nemáš myšlenky na lov, jen se udržet... Teď jde do tuhého, snad prudce nezastaví... už není cesty zpět. Náhlým útokem vyplašené stádo se začíná rozprchávat nejprve na všechny strany, ale postupně, vedené nejsilnějšími kusy, směrem pryč od řítících se lovců. Stepí duní strašlivý řev mužů a dusot koní a řvoucích a prchajících bizonů překvapených nečekanou smrští. Náhle Ti v mysli vyvstane vzpomínka, když do města, kde jsi ještě před několika dny bydlel, dorazili vojáci s vozovými puškami na nějakou Tobě neznámou oslavu, to byl podobný rachot... ale tak strašlivě se nerozléhal…
+
+- krátká pauza ve hře, ideálně ASCII obrázek indiána na koni lovícího bizony -
+
+Teď pozor! Jeden mohutný samec náhle otočil směr svého úprku přímo Tobě do cesty. To je to nejhorší, co se může stát, mnoho koní tak skončilo s rozpáraným břichem a jezdci nikoli o mnoho lépe... Nyní se ale naplno projevily kvality Tvého poníka. Velmi šikovně se smýknul jiným směrem a uhnul těm hrozivým rohům. Nyní běžíte s mohutným funícím zvířetem souběžně a když bizon trochu zatočí, pony šikovně vyrovná svůj krok s jeho. Pevně se držíš, tedy zkoušíš to. Je to na Tobě, jednej rychle, tady moc času na přemýšlení není...
+
+Vidíš: svého poníka, uzdu, poníkovu hřívu, poníkovy boky, lovící muže, luk, šípy, nůž, - to, co má hráč na sobě -
+
+poník
+- popis: Stále bleskurychle uhánějící poník, jen díky jeho skvělému výcviku se na něm ještě stále držíš
+
+popis při pádu – Neposloucháš rady druhých a takto to pak dopadá. Naštěstí se nikomu nic nestalo, poník na Tebe čeká opodál a prchající bizoni Vám už nemohou ublížit.
+
+uzda
+- popis: Jednoduchá pletená indiánská uzda na menšího koně.
+
+poníkova hříva
+- popis: Krásná dlouhá hříva na levé straně delší, než na pravé. Kromě toho, že ponyho chrání před hmyzem a chladem a mimo to mu dodává i nesmírný půvab, znamená pro jezdce bez sedla zcela nepostradatelnou záchranu při rychlejší jízdě.
+
+poníkovy boky
+- popis: Baculatý poník má pěkně vypasené boky, spíše však pevné a mohutné, než vysloveně baculaté.
+
+lovící muži
+- popis: Lovem zcela zaujatí indiáni se snaží pomocí luků a šípů ulovit ty kolosy. A to vůbec není jednoduché...
+
+luk
+- popis: Klasická zbraň, se kterou jsi se cvičil už jako malý kluk. Velmi rychlá a tichá, pro zkušeného střelce i v dnešní době pistolí a pušek velmi účinná zbraň.
+
+šípy
+- popis: Krátké prérijní šípy s masivním hrotem určené k lovu i těch nejmohutnějších zvířat.
+
+nůž s koženým pouzdrem
+- popis nože: Pěkný lovecký nůž s pevným ostřím, určitě se bude hodit.
+- popis koženého pouzdra: Zdobené kožené pouzdro na nůž, parádní práce.
+
+opasek, bederní rouška, mokasíny, orlí medicína – viz výše
+
+Nyní může hráč psát příkazy. Důležité je vzpomenout si na slova náčelníka psích mužů, který radil, že s uzdou je nutné zacházet opatrně a rozhodně ji nepoužívat v zatáčkách. Hráč má přesně 3 minuty na to, aby stihl všechny zamýšlené operace, jinak spadne a zabije se stejně jako při použití uzdy:
+Jsi dost nervózní a viditelně nevíš, co máš dělat. Z ničeho nic neudržíš rovnováhu a padáš, potíž je v tom, že dost nešťastně přepadáváš přímo vpřed. Praskot lámaného vazu a následné rozdupání dalšími členy stáda již naštěstí necítíš... Jsi mrtvý.
+
+- použij nůž, když se hráč nedrží hřívy ani boků:
+Kamaráde, Ty jsi rád, že se alespoň zatím udržíš na tom řehtákovi, dej si bacha, ať nespadneš a nůž řeš později.
+
+- použij luk nebo šípy, když se hráč nedrží hřívy ani boků:
+Jak vidím, máš smysl pro humor, chceš střílet z luku a sotva se držíš na koni. Tys na něčem podobném ještě nikdy neseděl, viď?
+
+- použij uzdu:
+Je vidět, že sis nevzpomněl na varování od náčelníka psích mužů a upřímně, opravdu je dobré tahat za uzdu v tomhle trysku? Jsi dost nervózní a Tvůj prudký pohyb sice ponyho zastavil, Ty jsi ale dost nešťastně přepadl vpřed. Praskot lámaného vazu a následné rozdupání dalšími členy stáda již naštěstí necítíš... Jsi mrtvý.
+
+- použij hřívu:
+Jednou rukou jsi se chytil poníkovy hřívy a trochu se zakláníš. To hodně vylepšilo Tvojí stabilitu, výborně.
+nyní se jednou rukou držíš hřívy, při pokusu o použití luku nebo šípů:
+Ani jako indián nedokážeš střílet jednou rukou, trochu mysli, hráči...
+nyní se jednou rukou držíš hřívy, při pokusu o použití nože:
+A hrdina hodil z tryskajícího koně nožem a ten se zabodl přesně mezi žebra a bizona usmrtil... Tak takhle opravdu ne, tady nejsme v béčkovém westernu...
+
+- použij boky:
+Pokud se hráč nedrží hřívy:
+Pevně se oběma nohama chytáš boků koně. Snažíš se sedět co nejvzpřímeněji, ještě to ale není úplně ono.
+Následně chce použít luk nebo šípy:
+Opravdu chceš teď střílet? Ještě nesedíš tak stabilně, aby ses zvládnul přesně strefit.
+
+Následně chce použít nůž:
+A hrdina hodil z tryskajícího koně nožem a ten se zabodl přesně mezi žebra a bizona usmrtil... Tak takhle opravdu ne, tady nejsme v béčkovém westernu...
+
+Pokud se hráč drží jednou rukou hřívy:
+Pevně se oběma nohama chytáš boků koně. Teď už se cítíš dost bezpečně, jedeš vzpřímen a pevně se držíš jednou rukoku hřívy a nohama boků poníka. Tvoje stabilita je taková, že už se nemusíš nutně a bezvýhradně soustředit na poníka.
+
+Následně chce použít luk nebo šípy:
+Ani jako indián nedokážeš střílet jednou rukou, trochu mysli, hráči...
+
+Následně chce použít nůž:
+A hrdina hodil z tryskajícího koně nožem a ten se zabodl přesně mezi žebra a bizona usmrtil... Tak takhle opravdu ne, tady nejsme v béčkovém westernu...
+
+- použij hřívu, když jsi předtím použil hřívu a následně boky:
+Nyní sedíš perfektně a jsi správně lehce zakloněn, můžeš si dovolit držet se jen nohama. Pomalu se pouštíš hřívy a máš obě ruce volné.
+
+Následně chce použít luk nebo šípy:
+Do ruky bereš luk a šípy, šíp zakládáš a velmi pečlivě míříš na to správné místo mezi žebry. Hvííííízd, šíp vyletěl a protože jsi se soustředil opravdu dobře, zabodává se bizonovi tam, kde jej spolehlivě a bezbolestně usmrtí. Bizon trochu klopýtl a naposledy zafuněl, následně se ohromná masa jeho těla svalila s obrovským žuchotem na zem a už se nehýbe.
+
+Následně chce použít nůž:
+A hrdina hodil z tryskajícího koně nožem a ten se zabodl přesně mezi žebra a bizona usmrtil... Tak takhle opravdu ne, tady nejsme v béčkovém westernu...
+
+- až bizon padne, je nutné použít uzdu pro zastavení poníka
+Poníka jemně zastavuješ a obracíš jej směrem k padlému bizonovi. Tak jsi to nakonec dokázal, výborně.
+
+- správné pořadí akce je takové, že hráč se napřed musí chytit hřívy a následně boků. Teprve po získání této stability je možné se hřívy pustit a použít luk. Pokud to nestihne do 3 minut správně provést, spadne a hra končí.
+
+Po usmrcení bizona a zastavení poníka se změní popis lokace:
+
+Lov již je u konce a na otevřené planině je několik ulovených bizonů. Opravdu jen několik, protože indiáni, kteří mají rozum, nikdy neloví více, než skutečně potřebují. Právě se nacházíš u svého úlovku.
+
+Předmět: ulovený bizon
+- popis: Kolosální zvíře již nyní nevypadá tak hrozivě jako předtím. A když si vzpomeneš na ten šílený trysk, uffff.
+
+- použij nůž poprvé:
+Kromě masa je nesmírně důležitá také kůže. Starost s kůží a kožešinou je sice spíše ženská práce, ve světě bledých tváří jsi se však naučil, že mnohdy je lépe umět toho více. Proto umně stahuješ kůži ze zabitého zvířete, kdo ví, nač se bude hodit.
+
+Získán předmět: bizoní kůže
+- popis:
+Čerstvě stažená kůže z bizona, po vyčinění z ní bude nádherný kousek.
+
+- použij nůž podruhé:
+Tak je to správné, podařilo se Ti ulovit bizona, takže ten nejlepší kousek je Tvůj. Opatrně vyřízneš zvířeti ledviny a i když se Ti zbíhají sliny již teď, něco Ti říká, že je budeš ještě potřebovat, a proto je schováš k sobě na tu správnou chvíli.
+
+Získán předmět: bizoní ledviny
+- popis:
+Čerstvé bizoní ledviny jsou naprostá pochoutka a také tajemství růstu dlouhých vlasů.
+
+- použij nůž potřetí:
+Ano, je dobré nezapomenout, že nejen díky Tvým schopnostem byl Tvůj úlovek úspěšný. Opatrně tedy vyjímáš bizoní srdce a uschováš jej pro obřad, který jistě bude brzy následovat.
+
+Získán předmět: bizoní srdce
+- popis:
+Čerstvé bizoní srdce představuje pro bojovníka symbol síly tohoto zvířete.
+
+- použij nůž počtvrté:
+Nyní nastává ta správná chvíle pro zpracování masa. Náhle Tě někdo lehce poškrábe na vlasech a když se otáčíš, spatříš usměvavou ženu, která Ti posunkem naznačuje, že zpracování masa je její práce a pro Tebe nastává čas odpočinku. A má pravdu, když se rozhlédneš, vidíš za ohromného jásotu přicházet spoustu žen, které na nic nečekají a honem zpracovávájí maso, aby se nezkazilo. Náhle si všímáš vyvolávače, který s nadšením vjíždí k místu lovu a radostně svolává všechny muže.
+
+„Naši hrdí válečníci i hosté,“ a s úsměvem pokyne k Tobě, „jsou Těmi nejlepšími lovci pod sluncem a opět dokázali, že se umějí postarat o svůj hladový lid, i když stáda bizonů se s každým rokem ztenčují. Nyní je však čas na poděkování Velkému tajemství, díky kterému máme možnost prožívat své životy a kterému děkujeme za vše, co jest. Proto vyslechněte slova našeho náčelníka a moudrých mužů, abychom věděli, jak správně poděkovat a správně žít.“
+
+Muži naplnění pocitem hrdosti následují tohoto člověka a Ty musíš uznat, že doba lovu je již za Tebou a nyní je čas hojnosti, ale i díků. Proto nasedáš na svého poníka a společně s nimi pomalu jedeš k náčelnickému týpí.
+
+– hráč bude automaticky přesunut do lokace 9 –
+
+- pokud chce hráč opustit lokaci a nemá z bizona kůži, ledviny a srdce, hra jej nepustí:
+Ale no tak, lovče, necháš svůj úlovek jen tak na stepi? Nezapomínej, že nejen díky Tvým schopnostem byl Tvůj lov úspěšný a také ti, kteří lovit nemohou, potřebují nakrmit.
+
+Můžeš jít: S, Z
+
+
+
+
+
+
+
+
+20 – jihozápadní hranice prérie
+
+Před Tvýma očima se objevuje hranice otevřené stepi pomalu přecházející do řídkého lesa. Vidíš zde jámy určené pro lov orlů, vhodně umístěné na hranici těchto dvou lokalit.
+
+Vidíš: jámy na lov orlů
+- popis: Lov orlů je nebezpečná, ale pro indiány potřebná věc. Probíhá tak, že si lovec lehne do předem vyhrabané jámy a pomocí návnady orla přiláká. Ten přilétne, začne žrát a lovec mu musí zakoutit krkem. Docela nebezpečné, souhlasím s Tebou.
+
+Pokud má hráč s sebou návnadu na dravce z lokace č. 6 a použije ji na jámy na lov orlů, objeví se tento text:
+
+Takže Ty se opravdu nebojíš lovu orlů, Kroužící orle? Škoda, že nemáš skutečné perutě a nemůžeš tak začít pravý vzdušný souboj, toto je jen jeho malá napodobenina. Ale budiž… Leháš si do jámy, přikrýváš se a vystrkuješ návnadu trochu ven. Po nějakém čase skutečně slyšíš šustění křídel a nějaký opeřenec si začíná pochutnávat na návnadě. Co nyní chceš udělat?
+
+Hráč nyní musí odpovědět: „chytit orla“, „ulovit orla“, „zakroutit orlovi krkem“, „chytit ptáka“, „ulovit ptáka“, „zakroutit ptákovi krkem“.
+
+Pokud odpoví správně, objeví se:
+
+Chytáš nebohé zvíře za nohy, stahuješ jej dolů a rychle mu zakroutíš krkem. Byla to rychlost a dobře tak pro Tebe, orel je docela kolos a ďobanec od něj není nic příjemného. Trochu otřesen vylézáš ven a děkuješ orlovi za jeho život. Pamatuj si, on se na Tebe nezlobí, pokud jsi jej zabil s čistým úmyslem, některá zvířata jsou na světě proto, aby lidi živila.
+Čerstvě uloveného opeřence hned zpracováváš a získáváš orlí maso, perutě i jednotlivá pera.
+
+Získán předmět: orlí maso, orlí perutě, orlí pera, péřové letky
+
+orlí maso
+- popis: Orlí maso je výtečnou pochoutkou, můžeš jej obětovat jako dík úspěšnému lovu nebo někomu věnovat.
+
+Pokud se hráč snaží použít orlí maso:
+
+Ty ale zatím přeci nemáš hlad, věnuj jej někomu potřebnému, tak by si to opeřenec určitě přál.
+
+Pokud hráč komukoliv z indiánů věnuje orlí maso, objeví se tento text:
+
+„Děkuji Ti za Tvůj dar, Kroužící orle, orlím masem se rád nasytím.“
+
+ztrácím předmět: orlí maso
+
+orlí perutě
+- popis: čerstvě získané orlí perutě představují nádhernou ozdobu tanečníka tančícího tanec tohoto majestátního opeřence
+
+orlí pera
+- popis: orlí pera jsou odznakem válečníka a jistě Ti budou slušet. Všiml sis, že někteří šajenští muži nosí pera vraní, což je správné, každý máme jiný vkus. Mohu jen doporučit, v kombinaci s krásnými dlouhými vlasy vypadají skvěle.
+
+péřové letky
+- popis: tyto letky jsou vhodné k výrobě šípů, i když jsou, pravda, dosti veliké. Ale použít je k této činnosti lze a to je hlavní.
+
+V této lokaci hra končí, pokud hráč získal koně Rudého bleska od mírového náčelníka po absolvování celého příběhu hry. Je třeba na koně nasednout, pokud tak hráč již učinil nebo učiní v této lokaci:
+
+Pokud odchází sám:
+
+Nádhera, i když zpočátku zajetí nevypadalo zrovna příjemně, vše se nakonec vysvětlilo a musíš uznat, že sis ve vsi svoje radosti i starosti užil. Uvědomuješ si, že kromě toho jsi potkal nesmírně zajímavé bytosti, které Tě ve Tvém vývoji posunuly zase o něco dále. Už víš, že tomu tak mělo být a svému osudu neunikneš, o což ovšem stále více a více přestáváš usilovat, uvědomuješ si, že si Tvoje duše asi opravdu tento vývoj naplánovala a nemá smysl odporovat, lepší je vše přijmout a pokud to jde, svými skutky obohatit…
+
+Ale dost toho, teď mám pod sebou bujarého koně, který si jistě nepřeje nic jiného než si parádně zaběhat. Já miluji jízdu na koni a tu rychlou dvojnásob, i když třeba nejsi stejného názoru, užij si ji alespoň se mnou. Jak toho bleska pobídneme?
+
+Nyní si hráč může vybrat pobídku:
+
+1. Haj jééééééé
+
+Rudý blesk rychle vyrazil určeným směrem. Jeho pohodlný cval Ti nedělá žádné potíže a začínáš si jej jaksepatří užívat.
+
+2. Hóka héééééé
+
+Rudý blesk vyrazil jako do boje ostrým cvalem. Sotva jsi se udržel, ufff, to je ale ztřeštěnec. Jeho cval se ale ustálil a nyní Ti již nedělá žádné potíže.
+
+3. Vašté héééééé
+
+Rudý blesk začal lehce klusat a pomalu přechází do velmi pohodlného cvalu. Začínáš si jej užívat, je to prostě paráda.
+
+Ach, jaká nádhera rychle cválat vlnící se prérií, nyní jsem zase jednou nespoutaný a nekonečně šťastný a chci, aby to tak zůstalo na věky věků. Děkuji Ti, můj hráči, že jsi mi pomohl vše vyřešit, nyní naber síly na závěrečnou část naší pouti.
+
+Pokračujeme 3. dílem
+
+Pokud odchází společně s Tančící vlčicí:
+
+Nádhera, i když zpočátku zajetí nevypadalo zrovna příjemně, vše se nakonec vysvětlilo a musíš uznat, že sis ve vsi svoje radosti i starosti užil. Uvědomuješ si, že kromě toho jsi potkal nesmírně zajímavé bytosti, které Tě ve Tvém vývoji posunuly zase o něco dále. Už víš, že tomu tak mělo být a svému osudu neunikneš, o což ovšem stále více a více přestáváš usilovat, uvědomuješ si, že si Tvoje duše asi opravdu tento vývoj naplánovala a nemá smysl odporovat, lepší je vše přijmout a pokud to jde, svými skutky obohatit…
+
+Ale dost toho, teď mám pod sebou bujarého koně, který si jistě nepřeje nic jiného, než si parádně zaběhat, a především sedím za báječnou bytostí, se kterou si skvěle rozumím. Oba dva milujeme jízdu na koni a tu rychlou dvojnásob, i když třeba nejsi stejného názoru, užij si ji alespoň tady. Jak toho bleska pobídneme?
+
+Nyní si hráč může vybrat pobídku:
+
+1. Haj jééééééé
+
+Rudý blesk rychle vyrazil určeným směrem. Jeho pohodlný cval Ti nedělá žádné potíže a začínáš si jej jaksepatří užívat, nezapomeň se při jízdě držet jednou rukou za pas své družky a druhou jí vískat vlasy, ať máte oba nejméně dvojnásobně příjemný prožitek.
+
+2. Hóka héééééé
+
+Rudý blesk vyrazil jako do boje ostrým cvalem. Sotva jsi se udržel, ufff, to je ale ztřeštěnec. Jeho cval se ale ustálil a nyní Ti již nedělá žádné potíže. Tančící vlčice se radostně směje, nezapomeň se při jízdě držet jednou rukou za její pas a druhou jí vískat vlasy, ať máte oba nejméně dvojnásobně příjemný prožitek.
+
+3. Vašté héééééé
+
+Rudý blesk začal lehce klusat a pomalu přechází do velmi pohodlného cvalu. Začínáš si jej užívat, je to prostě paráda. Tančící vlčice se radostně směje, nezapomeň se při jízdě držet jednou rukou za její pas a druhou jí vískat vlasy, ať máte oba nejméně dvojnásobně příjemný prožitek.
+
+Ach, jaká nádhera společně rychle cválat vlnící se prérií, nyní jste oba naprosto nespoutaní a nekonečně šťastní a chcete, aby to tak zůstalo na věky věků. Děkuji Ti, můj hráči, že jsi mi pomohl vše vyřešit, nyní naber síly na závěrečnou část naší pouti. Já Tě teď nechám diskrétně si užívat dívku i koně, věřím, že k tomu už mě nebudeš potřebovat.
+
+
+
+Pokračujeme 3. dílem
+
+Můžeš jít: S, V
+
+
+
+
+
+
+
+
+
+21 – místo pro šajenské slavnosti a obřady
+
+Přicházíš na velmi pěkné místo ze tří stran obklopené řídkým porostem, který ohraničuje veliké kruhové prostranství. U okraje vidíš saunu zvanou inipi, ke které vede krátká cestička zakončená nyní vyhaslým ohništěm. Před vchodem se bělá vysušená bizoní lebka, která jakoby na něco čeká. Nebo na někoho... Nechybí ani malý posvátný kruh tvořený kameny. Zkrátka ideální prostranství pro nejrůznější slavnosti a tance, které máš tak rád.
+
+Následující text zobrazit pouze při první návštěvě:
+"Jak vidno, zdaleka tu nejsi sám. Muži i ženy v čilém ruchu prostranství připravují, co nevidět začne nějaká jistě nesmírně zajímavá slavnost. Cítíš, že i jako cizinec jsi vítán, jen bude vhodné se dobře připravit. Když vzpomínáš na Vaše slavnosti, každý, ať muž či žena, byl hezky a stylově pomalován, měl na sobě ozdoby vhodné pro tanec toho, co člověk touží vyjádřit a přichystal si nějaký dar pro ostatní. Žádná uniformita ani náhodou, každý vypadá jinak a každý ví, jak má vypadat nejlépe, žádné poučky netřeba. Tato "námaha" se vždy bohatě vyplatila, z každé, opravdu každé slavnosti jsi odcházel rozjařený a šťastný, což je jistě ten jediný správný výsledek."
+
+Vidíš saunu, bizoní lebku, posvátný kruh, hlouček žen a mužů připravujících oslavu
+
+Sauna
+- popis: Jednoduchá stavba z vrbového proutí sloužící jako potní chýše.
+
+Bizoní lebka
+- popis: Stepním sluncem doběla vysušená bizoní lebka pro Tebe znamená něco posvátného a těžko uchopitelného. Bledým tvářím naopak zvěstuje něco, čeho se podvědomě obávají.
+
+Při pokusu o sebrání: Posvátných předmětů se určitě nebudu dotýkat, zvláště jsem-li zde na návštěvě.
+
+Posvátný kruh
+- popis: Fyzicky nesmírně prostý kruh sestavený z kamenů představuje v mysli cosi mnohem většího. Kruh je základ všehomíra, neboť mimo jiné zobrazuje skutečnost neustálého koloběhu ve fyzickém světě.
+
+Hlouček žen a mužů
+- popis: Nadšené obličeje milých pracujících prozrazují, že se na slavnost nesmírně těší. Tito lidé pracují z radosti, nikoli z nutnosti, jako to často bývá ve světě bledých tváří. je jistě zajímavé si tuto skutečnost uvědomit.
+
+Při pokusu o hovor s hloučkem žen a mužů: Ne, ne, teď je rušit nebudu. Já se totiž vůbec necítím tak příjemně jako oni, nezdá se mi být přirozené, že oni něco dělají a já tu na ně jen civím. Půjdu raději také něco dělat, ostatně práce ve vsi mám, jak vidím, dost a dost. Až budu mít vše na oslavu připraveno, vrátím se sem, už se moc těším.
+
+Pokud hráč má v inventáři bizoní kůži, bizoní ledviny a bizoní srdce z uloveného bizona, orlí perutě, orlí pera a je správně namalován, při vstupu do lokace se zobrazí následující:
+
+Den se pomalu chýlí ke konci a slavnost masáhoame právě začíná. Stejně jako ostatní účastníci jsi i Ty zcela připraven. Při pohledu na děti, ženy i muže se radostně usmíváš, všichni přísluší k jednomu kmeni, ale ani jeden z nich nevypadá stejně, každý vhodně vyjadřuje svoji individualitu a přesto je součástí celku, opravdu nádhera. Táborový vyvolávač všechny vítá na oslavě, která tím nejlepším způsobem završuje letošní nejvýznamnější a velmi úspěšný lov bizonů. Jako ostatní bojovníci i ty vyndáváš a s radostí se nasytíš bizoními ledvinami i jeho srdcem a následně všichni vzkřiknete jako díky za tento lov. Dozvídáš se, že nejprve proběhne samotný obřad, poté oslavné tance a nakonec slavnost rozdávání.
+
+Z inventáře postavy zmizí předměty: bizoní ledviny, bizoní srdce
+
+Mírový náčelník začíná krátce vyprávět velmi starý příběh dvou mužů, kteří hledali pro svůj kmen něco k snědku. Starší šaman a jeho mladší společník se vydali na cestu a při pokusu o překročení vodního toku byli zachráněni před útokem vodní příšery dvěma tajemnými lidmi, Vlčí ženou a Starou ženou. Oba muži u nich smí pobývat a mladší se zamiloval do dcery těchto lidí s tajemným jménem Eheóvé. Eheóvé souhlasila, že se s ním vrátí do jeho rodné vsi a svojí mocí přivolá zvířata, která budou lidem k užitku, aby již nikdy nemuseli hladovět.
+
+A nyní nastává skutečné předvedení tohoto pro indiány tak důležitého příběhu. Pět hlavních postav představuje Eheóvé a její rodiče společně se dvěma zachráněnými muži. Dále nesmíme zapomenout na dva vlky, vládce stepí, tedy Červeného a Bílého vlka společně s davem dalších zvířat. Vidíš, jak se osoby představující tyto postavy náhle objevují a chystají se předvést svůj um. Dvě ženy velmi dobře znáš, dcera léčitele Tančící vlčice představuje Bílého vlka a Bystrá losice samici zvířete, jehož jméno nosí. Náhle vidíš, jak uprostřed jednoho z nejvážnějších obřadů mírový náčelník pomalu přichází k Tobě, potutelně se usmívá, zdvihá ruce k obloze a ptá se hlubokým zvučným hlasem: „Jaké zvíře budeš představovat Ty, Kroužící orle?“ a okolo stojící se na Tebe se zájmem zahledí.
+„A sakra, co mu mám teď říct?“ říkáš si sám pro sebe, „já tenhle obřad neznám. No, jsem Kroužící orel, tak třeba nějakého opeřence?“
+
+Hráč vybere jednu odpověď z těchto tří, které jej napadnou:
+
+1. Orla
+2. Sokola
+3. Jestřába
+
+V případě odpovědi č. 1:
+Nesmírný smích ostatních budiž Ti důkazem, že šajeni se prostě ani při nejvážnějším obřadu nedokáží udržet a alespoň trochu jej zlehčit. Na celé kolo se smějící mírový náčelník Ti vysvětlil, že orel opravdu nepatří mezi jedlá zvířata jeho kmene a ti, kteří jeho maso pojídají, představují „hrdiny“ strašidelných příběhů pro děti vyprávěné za dlouhých zimních nocí.
+„Hmm, tak jsem zase jednou ze sebe udělal hlupáka pro pobavení ostatních,“ pomyslíš si. Najednou si ale vzpomeneš, že podobné praktiky byly prováděny i ve Tvém kmeni a vůbec neměly někoho zesměšnit, spíše připomínat, že i v nejvážnějších chvílích bychom se měli umět zasmát.
+Správnost Tvých myšlenek potvrzuje i žena, která přestavuje Eheóvé a s úsměvem Ti přináší sušené maso zabalené do listí. „Tohle je lepší než orlí maso,“ říká náčelník a smích ostatních pomalu ustává. Začínáš se usmívat také a okolostojící Tě svými pohledy oceňují, vůbec nevypadají na to, že si z Tebe chtěli vystřelit.
+
+V případě odpovědi č. 2:
+Nesmírný smích ostatních budiž Ti důkazem, že šajeni se prostě ani při nejvážnějším obřadu nedokáží udržet a alespoň trochu jej zlehčit. Na celé kolo se smějící mírový náčelník Ti vysvětlil, že sokol opravdu nepatří mezi jedlá zvířata jeho kmene a ti, kteří jeho maso pojídají, představují „hrdiny“ strašidelných příběhů pro děti vyprávěné za dlouhých zimních nocí.
+„Hmm, tak jsem zase jednou ze sebe udělal hlupáka pro pobavení ostatních“ pomyslíš si. Najednou si ale vzpomeneš, že podobné praktiky byly prováděny i ve Tvém kmeni a vůbec neměly někoho zesměšnit, spíše připomínat, že i v nejvážnějších chvílích bychom se měli umět zasmát.
+Správnost Tvých myšlenek potvrzuje i žena, která přestavuje Eheóvé a s úsměvem Ti přináší sušené maso zabalené do listí. „Tohle je lepší než sokolí maso,“ říká náčelník a smích ostatních pomalu ustává. Začínáš se usmívat také a okolostojící Tě svými pohledy oceňují, vůbec nevypadají na to, že si z Tebe chtěli vystřelit.
+
+V případě odpovědi č. 3:
+Nesmírný smích ostatních budiž Ti důkazem, že šajeni se prostě ani při nejvážnějším obřadu nedokáží udržet a alespoň trochu jej zlehčit. Na celé kolo se smějící mírový náčelník Ti vysvětlil, že jestřáb opravdu nepatří mezi jedlá zvířata jeho kmene a ti, kteří jeho maso pojídají, představují „hrdiny“ strašidelných příběhů pro děti vyprávěné za dlouhých zimních nocí.
+„Hmm, tak jsem zase jednou ze sebe udělal hlupáka pro pobavení ostatních“ pomyslíš si. Najednou si ale vzpomeneš, že podobné praktiky byly prováděny i ve Tvém kmeni a vůbec neměly někoho zesměšnit, spíše připomínat, že i v nejvážnějších chvílích bychom se měli umět zasmát.
+Správnost Tvých myšlenek potvrzuje i žena, která přestavuje Eheóvé a s úsměvem Ti přináší sušené maso zabalené do listí. „Tohle je lepší než jestřábí maso,“ říká náčelník a smích ostatních pomalu ustává. Začínáš se usmívat také a okolostojící Tě svými pohledy oceňují, vůbec nevypadají na to, že si z Tebe chtěli vystřelit.
+Získán předmět: sušené maso zabalené do listí
+- popis: Čerstvě usušené maso z uloveného bizona zabalené do voňavých listů. Nádherná pochoutka, nejlepší však je nechat si ji na cesty, kdy se bude nesmírně hodit.
+Předmět není nutný k dohrání hry.
+
+Obřad nyní pokračuje a Ty sleduješ jeho nádherné ztvárnění. Všichni lidé představující zvířata se vybavili maskami, kožešinami a malováním, které jim pomohlo proměnit se právě v to zvíře, které nejvíce představuje jejich povahu. Vidíš, jak chodí do kruhu a každý, kdo trpí nemocí nebo chce získat požehnání, se jich dotkne… Ha, to je ale příležitost, nechceš se také dotknout třeba někoho, koho jsi již potkal?
+1. Dotknu se Bílého vlka, kterého přestavuje Tančící vlčice
+Tančící vlčice se na Tebe krásně usmála a v jejím pohledu vidíš, že je moc ráda, když sis vybral právě ji. No, musím uznat, že sis určitě nezvolil špatně. Tuto dívku jsi již alespoň trochu poznal a kombinace velmi milého přístupu a na druhou stranu vlčího chování Tě nesmírně okouzluje.
+
+2. Dotknu se losa, kterého představuje Bystrá losice
+Bystá losice se na Tebe se zájmem zahleděla. Je to opravdu velice hezká mladá dívka, se kterou by společně strávené chvíle určitě stály za to. Jen jako bys na malý okamžik zahlédl v jejím obličeji náznak pohrdání, to se Ti ale asi jen zdálo, dnešní den je sice skvělý, ale přeci jen trochu náročný.
+
+3. Nechám to být, já jsem zdravý jako buk.
+To je Tvé rozhodnutí, milý hráči, a já jej plně respektuji. Sice bych se na Tvém místě zachoval jinak, to ale nic nemění na tom, že se jen díváš a obřad vesele pokračuje.
+
+Zvířata nyní obcházejí celé prostranství ještě jednou a Ty vidíš rituální lovce, kteří naznačují jejich lov. Po ukončení obřadu všechna zvířata vycházejí na okolní planiny, zamíří k vodě, napijí se a po chvíli se zpátky vracejí již jako lidé.
+
+„Zajímavý obřad,“ pomyslíš si, „docela rád bych přišel na to, jestli má zosobnit pouze to, že my indiáni máme díky zvířatům co jíst nebo zda i jeho závěr znamená převtělení duše zvířete v lidskou. Snad mi poradí někdo zkušenější...“
+
+Krásný obřad máme za sebou, je nádherné si připomínat, že stále máme komu děkovat za své žití. Zcela okouzlen si teprve nyní uvědomuješ, že den je již dávno pryč a obloha nad Tebou je posetá nekonečným množstvím zářících hvězd. Což mimo jiné znamená, že je čas na to nejlepší, na tance.
+
+1. Pokud hráč již předtím tancoval dívkám v lokaci č. 22:
+
+Vidíš, jak se ženy i muži z různých společností připravují na své tance. Většinu z nich znáš, tanec orla, bizona, lišky, jezevce, křepelky, bobra, tanec trávy a býčí krávy, nic nechybí. Náhle Tě zarazí veselý hlahol mladých děvčat; jedna z nich, kterou si velmi dobře pamatuješ, táhne za ruku vyvolávače a o něčem se s ním vzrušeně dohaduje. Vyvolávač napjatě poslouchá a snaží se příliš divokou dívku usměrnit, nakonec se však usmívá a svolává celý kmen svým zvučným hlasem:
+"Hola, hola, lidé kmene šajenského, právě jsem se dozvěděl, že náš milý host nejen rád, ale také velmi hezky tančí!" Snad všechny oči oslavenců se na Tebe se zájmem otočí. "Zde přítomná krasavice prý dá ruku do ohně za to, že nám Kroužící orel ukáže tanec, který jsme ještě neviděli."Tvé staré známé sběračky jsou již k neudržení a jedna přes druhou volají: "My chceme orlí tanec od Kroužícího orla, orlí tanec, orlí tanec, orlí tanec!" No, na mě se nekoukej, milý hráči, prostě jsi udělal dojem a jak se jednou ženským zalíbíš, už Ti to dlouho zůstane. Je to na Tobě:
+
+a. Předvedeš ostatním svůj orlí tanec:
+
+Správné rozhodnutí, všem se zde určitě bude líbit, že nemáš strach, věř mi, že naprosto všichni již byli informováni o Tvém tanci v místě, kde rostou bobule, a proto nikdo není překvapen. Nejlepší je ale ta skutečnost, že Tančící vlčice usmívající se od ucha k uchu k Tobě přistoupila a na krk Ti vložila svůj náhrdelník, skoro tak hezký, jako je ona sama. Indiáni kolem Tebe vytvořili kruh a mocný úder do bubnu oznamuje začátek. Ještě se stihneš rozhlédnout po okolních obličejích, místní jsou, jak vidno, na první pohled celí natěšení na lakotský orlí tanec, tak je koukej nezklamat... A vskutku jsi nezklamal, bouřlivé ovace a radostný hlahol se tak moc podobá tvému prvnímu vystoupení. Takže všem zatančíme ještě jednou a pak snad bude následovat zasloužený oddych... ne, nebude, ale to nevadí, přichází k Tobě Tančící vlčice a chce k Tvému orlímu přidat i svůj vlčí tanec. Okolo stojící šajeni jsou naprosto nadšeni a svým hlasitým hlaholem dávají najevo, že tohle si prostě nemohou nechat ujít. Buben náhle zavíří a Tvá družka mocně vyjící skočí před Tebe s divokým úsměvem šelmy. Těla dravců se proplétají a divoce se hýbají, nedělá Ti však problém vyhnout se obratně se pohybující vlčici a uhýbat jejím jen lehce naznačovaným útokům. Jako pán nebes se přeci nemusíš bát stvoření matky Země, zvláště ne takového, které se na Tebe stále více a více usmívá... Poslední úder na buben oznamuje konec vší parády a bouřlivé ovace připomínají dunění artilérie bledých tváří... no, to jsem přehnal, děla takový rachot nemají šanci vyvolat. Rozdivočelá Tančící vlčice Tě s líbezným úsměvem chytá za ruku a řve z plného hrdla spolu s ostatními, ani nevíš, jak se to stalo, ale ječíš jako siréna také...
+Získán předmět: náhrdelník od Tančící vlčice
+- popis: Nádherná ozdoba, ve které nechybějí koňské žíně, barevné korále, medvědí drápy ani peří a ještě darovaná od půvabné dívky, co více si přát.
+
+Předmět není nutný k dohrání hry.
+
+Pokračujeme níže: Po úspěšném orlím tanci:
+
+b. Nic tancovat nebudeš, nechce se Ti před ostatními předvádět:
+
+Tváříš se sice odmítavě, je ti to ale platné jak bělochům peří ve vlasech. Rozjásané holky Tě s nadšením a hromovým smíchem odtáhly na místo, kde máš předvést svůj talent. No, teď máš asi jen dvě možnosti, předstírat nevolnost nebo tancovat. Rád bych Tě nechal vybrat, tady jsem ale malý pán, Tvé tělo jakoby získalo novou energii z tohoto posvátného místa a už se nevzpouzí. Nejlepší je ale ta skutečnost, že Tančící vlčice usmívající se od ucha k uchu k Tobě přistoupila a na krk Ti vložila svůj náhrdelník skoro tak hezký jako je ona sama. Indiáni kolem Tebe vytvořili kruh a mocný úder do bubnu oznamuje začátek. Ještě se stihneš rozhlédnout po okolních obličejích, místní jsou jak vidno na první pohled celí natěšení na lakotský orlí tanec, tak je koukej nezklamat... A vskutku jsi nezklamal, bouřlivé ovace a radostný hlahol se tak moc podobá tvému prvnímu vystoupení. Takže všem zatančíme ještě jednou a pak snad bude následovat zasloužený oddych... ne nebude, ale to nevadí, přichází k Tobě Tančící vlčice a chce k Tvému orlímu přidat i svůj vlčí tanec. Okolo stojící šajeni jsou naprosto nadšeni a svým hlasitým hlaholem dávají najevo, že tohle si prostě nemohou nechat ujít. Buben náhle zavíří a Tvá družka mocně vyjící skočí před Tebe s divokým úsměvem šelmy. Těla dravců se proplétají a divoce se hýbají, nedělá Ti však problém vyhnout se obratně se pohybující vlčici a uhýbat jejím jen lehce naznačovaným útokům. Jako pán nebes se přeci nemusíš bát stvoření matky Země, zvláště ne takového, které se na Tebe stále více a více usmívá... Poslední úder na buben oznamuje konec vší parády a bouřlivé ovace připomínají dunění artilérie bledých tváří... no, to jsem přehnal, děla takový rachot nemají šanci vyvolat. Rozdivočelá Tančící vlčice Tě s líbezným úsměvem chytá za ruku a řve z plného hrdla spolu s ostatními, ani nevíš jak se to stalo, ale ječíš jak siréna také…
+
+Získán předmět: náhrdelník od Tančící vlčice
+- popis: Nádherná ozdoba, ve které nechybějí koňské žíně, barevné korále, medvědí drápy ani peří a ještě darovaná od půvabné dívky, co více si přát.
+
+Pokračujeme níže: Po úspěšném orlím tanci:
+
+2. Pokud hráč předtím netancoval:
+
+Vidíš, jak se ženy i muži z různých společností připravují na své tance. Většinu z nich znáš, tanec orla, bizona, lišky, jezevce, křepelky, bobra, tanec trávy a býčí krávy, nic nechybí. Náhle Tě zarazí veselý hlahol mladých děvčat, jedna z nich, kterou si velmi dobře pamatuješ, táhne za ruku vyvolávače a o něčem se s ním vzrušeně dohaduje. Vyvolávač napjatě poslouchá a snaží se příliš divokou dívku usměrnit, nakonec se však usmívá a svolává celý kmen svým zvučným hlasem:
+"Hola, hola, lidé kmene šajenského, právě jsem se dozvěděl, že náš milý host není zrovna příznivcem těch nádherných tanců. To nás ale velmi mrzí, návštěva z lakotského kmene tu už dlouho nebyla a všichni jsme zvědaví jak tancují ve svém kmeni naši bratři, nemám pravdu?" Snad všechny oči oslavenců se na Tebe se zájmem otočí. Spousta místních se radostně usmívá a samou natěšeností se začínají dostávat do varu. "My chceme orlí tanec od Kroužícího orla, orlí tanec, orlí tanec, orlí tanec!" No, na mě se nekoukej, milý hráči, místní prostě strašně rádi tancují a stejně strašně rádi se dívají na tance jiných. Je to na Tobě:
+
+a. Předvedeš ostatním svůj orlí tanec:
+
+Správné rozhodnutí, všem se zde určitě bude líbit, že nemáš strach. Nejlepší je ale ta skutečnost, že Tančící vlčice, usmívající se od ucha k uchu, k Tobě přistoupila a na krk Ti vložila svůj náhrdelník, skoro tak hezký, jako je ona sama. Indiáni kolem Tebe vytvořili kruh a mocný úder do bubnu oznamuje začátek. Ještě se stihneš rozhlédnout po okolních obličejích, místní jsou, jak vidno, na první pohled celí natěšení na lakotský orlí tanec, tak je koukej nezklamat... A vskutku jsi nezklamal, bouřlivé ovace a radostný hlahol se tak moc podobá tvému prvnímu vystoupení. Takže všem zatančíme ještě jednou a pak snad bude následovat zasloužený oddych... ne, nebude, ale to nevadí, přichází k Tobě Tančící vlčice a chce k Tvému orlímu přidat i svůj vlčí tanec. Okolo stojící šajeni jsou naprosto nadšeni a svým hlasitým hlaholem dávají najevo, že tohle si prostě nemohou nechat ujít. Buben náhle zavíří a Tvá družka mocně vyjící skočí před Tebe s divokým úsměvem šelmy. Těla dravců se proplétají a divoce se hýbají, nedělá Ti však problém vyhnout se obratně se pohybující vlčici a uhýbat jejím jen lehce naznačovaným útokům. Jako pán nebes se přeci nemusíš bát stvoření matky Země, zvláště ne takového, které se na Tebe stále více a více usmívá... Poslední úder na buben oznamuje konec vší parády a bouřlivé ovace připomínají dunění artilérie bledých tváří... no, to jsem přehnal, děla takový rachot nemají šanci vyvolat. Rozdivočelá Tančící vlčice Tě s líbezným úsměvem chytá za ruku a řve z plného hrdla spolu s ostatními, ani nevíš, jak se to stalo, ale ječíš jak siréna také…
+
+Získán předmět: náhrdelník od Tančící vlčice
+- popis: Nádherná ozdoba, ve které nechybějí koňské žíně, barevné korále, medvědí drápy ani peří a ještě darovaná od půvabné dívky, co více si přát.
+
+Předmět není nutný k dohrání hry.
+
+Pokračujeme níže: Po úspěšném orlím tanci:
+
+b. Nic tancovat nebudeš, nechce se Ti před ostatními předvádět:
+
+Tváříš se sice odmítavě, je ti to ale platné jak bělochům peří ve vlasech. Rozjásané holky, které jsi minule tak hluboce zklamal, Tě s nadšením a hromovým smíchem odtáhly na místo, kde máš předvést svůj talent. No, teď máš asi jen dvě možnosti, předstírat nevolnost nebo tancovat. Rád bych Tě nechal vybrat, tady jsem ale malý pán, Tvé tělo jakoby získalo novou energii z tohoto posvátného místa a už se nevzpouzí. Nejlepší je ale ta skutečnost, že Tančící vlčice, usmívající se od ucha k uchu, k Tobě přistoupila a na krk Ti vložila svůj náhrdelník, skoro tak hezký, jako je ona sama. Indiáni kolem Tebe vytvořili kruh a mocný úder do bubnu oznamuje začátek. Ještě se stihneš rozhlédnout po okolních obličejích, místní jsou jak vidno na první pohled celí natěšení na lakotský orlí tanec, tak je koukej nezklamat... A vskutku jsi nezklamal, bouřlivé ovace a radostný hlahol se tak moc podobá tvému prvnímu vystoupení. Takže všem zatančíme ještě jednou a pak snad bude následovat zasloužený oddych... ne, nebude, ale to nevadí, přichází k Tobě Tančící vlčice a chce k Tvému orlímu přidat i svůj vlčí tanec. Okolo stojící šajeni jsou naprosto nadšeni a svým hlasitým hlaholem dávají najevo, že tohle si prostě nemohou nechat ujít. Buben náhle zavíří a Tvá družka mocně vyjící skočí před Tebe s divokým úsměvem šelmy. Těla dravců se proplétají a divoce se hýbají, nedělá Ti však problém vyhnout se obratně se pohybující vlčici a uhýbat jejím jen lehce naznačovaným útokům. Jako pán nebes se přeci nemusíš bát stvoření matky Země, zvláště ne takového, které se na Tebe stále více a více usmívá... Poslední úder na buben oznamuje konec vší parády a bouřlivé ovace připomínají dunění artilérie bledých tváří... no, to jsem přehnal, děla takový rachot nemají šanci vyvolat. Rozdivočelá Tančící vlčice Tě s líbezným úsměvem chytá za ruku a řve z plného hrdla spolu s ostatními, ani nevíš, jak se to stalo, ale ječíš jak siréna také…
+
+Získán předmět: náhrdelník od Tančící vlčice
+- popis: Nádherná ozdoba, ve které nechybějí koňské žíně, barevné korále, medvědí drápy ani peří a ještě darovaná od půvabné dívky, co více si přát.
+
+Předmět není nutný k dohrání hry.
+
+Pokračujeme níže: Po úspěšném orlím tanci:
+
+Po úspěšném orlím tanci:
+
+Nyní je čas odpočinku, jsi rád, že si můžeš chvíli vydechnout a se zájmem hledíš na tance ostatních šajenů. Táborový buben se stále nechce zastavit a nekonečný proud tanečníků Ti zastírá výhled. Teď večer jsou tance okolo ohně zvláště efektní, je to něco, nač se nezapomíná…
+
+Podle polohy měsíce, který je momentálně v úplňku, je vidět, že noc již značně pokročila. I tance pomalu utichají a sleduješ, že se ostatní začínají připravovat na závěrečnou část obřadu, tedy rozdávání. Velice hezký zvyk, všichni, naprosto všichni bez výjimky se navzájem obdarovávají. Je to na Tobě, nechceš také někomu udělat radost?
+
+1. Obdaruji Tančící vlčici
+Vidím, že máme stejný vkus, na Tvém místě bych obdaroval právě tuto dívku i já sám. Přicházíš k unavené, ale z obřadu velmi nadšené dívce, hezky se na ni usměješ a se slovy „Tančící vlčice, přijmi prosím tento dar ode mě pro Tebe“ jí podáváš čerstvou bizoní kůži. Dívka dar vděčně přijme, pohlédne na Tebe a když vidí Tvůj skutečný zájem, chytí Tě za ruku a tichým hlasem povídá: „Moc a moc a moc jsi mě potěšil, můj Kroužící ptáčku, slibuji, že z této kůže vyhotovím pokrývku, která nás oba ochrání před nočním chladem.“ Jemně a pomalu dívku přivineš k sobě, ta se vůbec nebrání a potěšena Tvým laskavým chováním se k Tobě přitiskne a začne hladit Tvé vlasy. Vše je velmi, velmi příjemné a po nekonečně dlouhé chvíli Tě Tančící vlčice poprosí, abys s ní šel za kmenovým šamanem. Šaman Vás dva, a nejen Vás dva, srdečně vítá a po několika slovech Tvé družky Ti do Tvé orlí medicíny vloží zajímavou vonnou bylinu pro požehnání.
+Vlčice k Tobě nyní promluví: „Můj orle, pojď nyní prosím se mnou na místo, kde my šajeni hledáme svá vidění.“ Se zájmem na dívku pohlédneš a ta hned pochopí Tvoji nevyřčenou otázku: „Vím, že je mé chování možná trochu nezvyklé a chci, abys věděl, že mě Tvoje přítomnost těší více než cokoliv jiného na světě. Jen bych se však kromě mého těla ráda zeptala také své duše a věřím, že i Ty té své.“
+Opravdu zvláštní děvče, ale když o tom uvažuješ, velmi rozumné. Nepochybně k Tobě cítí nesmírnou náklonnost a líbíš se jí, není ale příznivcem nějakým letmých vztahů, takže se potřebuje zeptat i své duše, zda se k sobě hodíte a o to samé prosí Tebe. Dá se říci, že přímo neobyčejná žena, Ty to sice neumíš slovy popsat, ale cítíš, že tento způsob je opravdu ten nejlepší pro Vás oba. Vzhůru tedy k vizím...
+
+Z inventáře postavy zmizí předmět: bizoní kůže
+
+Předmět orlí medicína se změní na Požehnaná orlí medicína
+- popis: Drobný váček s figurkou orla též obsahující léčivé byliny, který se nosí na krku. Nádherná vzpomínka na domov a také na to, kým doopravdy jsi a ne co se z Tebe snaží udělat bledé tváře. Šaman do Tvé medicíny vložil jednu neznámou zajímavě vonící bylinu.
+
+V inventáři se „objeví“ i dívka Tančící vlčice
+- popis: Okouzlující stvoření, které je nesmírně šťastné ve Tvé přítomnosti a Ty v její, co více si přát. A nadto moudré a jak stále více cítíš, hledající stejnou cestu jako Ty sám. Tančící vlčice si na sobě nechala všechny taneční ozdoby, které s jejími překrásnými koženými šaty skvěle lahodí Tvým očím. Cítíš stále více a více, že toho máte mnoho společného fyzicky i duševně.
+
+Při pokusu o hovor s Tančící vlčicí:
+Dívka se na Tebe mile usměje a dlaní Tě pohladí na ústa: „Buďme prosím nyní potichu, ať si můžeme společně vychutnávat nádheru, kterou stvořilo Veliké tajemství všude kolem nás.“
+
+Popis lokace se nyní změní tak jak je popsáno níže v Popis lokace po obřadu masáhoame:
+
+2. Obdaruji Bystrou losici
+Přicházíš k Bystré losici a podáváš jí bizoní kůži. Ta jí s velikým zájmem vezme a s úsměvem se na Tebe zadívá. „Děkuji Ti, Kroužící orle a jsem moc ráda, že obdarováváš právě mě. Už jsem docela unavená, pojďme si do mého týpí odpočinout,“ a bere Tě za ruku. Po cestě se ještě zastavujete u šamana pro požehnání. Šaman Vás dva a nejen Vás dva srdečně vítá a po chvíli Ti do Tvé orlí medicíny vloží zajímavou vonnou bylinu pro požehnání.
+
+Z inventáře postavy zmizí předmět: bizoní kůže
+
+Předmět orlí medicína se změní na Požehnaná orlí medicína
+- popis: Drobný váček s figurkou orla též obsahující léčivé byliny, který se nosí na krku. Nádherná vzpomínka na domov a také na to, kým doopravdy jsi a ne co se z Tebe snaží udělat bledé tváře. Šaman do Tvé medicíny vložil jednu neznámou zajímavě vonící bylinu.
+
+V inventáři se „objeví“ i dívka Bystrá losice
+- popis: Moc hezká dívka, které se určitě také líbíš. Podle chování je ale v ní určitá nadutost, to se ale třeba časem změní. Časem...
+
+Při pokusu o hovor s Bystrou losicí:
+Dívka se k Tobě otočí: „Pojďme teď ke mně domů, potřebuji si odpočinout.“
+
+Popis lokace se nyní změní tak jak je popsáno níže v Popis lokace po obřadu masáhoame:
+
+3. Mnoho toho nemám, raději si vše ponechám pro sebe
+Á, pan Skrblík, no nesmíme mu nic brát. Ale nezapomeň, že vše, co k životu opravdu potřebuješ, je mít co jíst, kde spát a chránit se před nepřízní počasí, to vše už máš. Tak proč někoho neobdarovat a neudělat mu tím radost? Každý jsme však jiný a nikdo není ani dobrý ani špatný, takže Tvé ctěné rozhodnutí respektuji. Šaman stojící nedaleko Ti požehnal Tvoji Orlí medicínu nějakou vonnou bylinou, ta se jistě bude hodit.
+
+Předmět orlí medicína se změní na Požehnaná orlí medicína
+- popis: Drobný váček s figurkou orla též obsahující léčivé byliny, který se nosí na krku. Nádherná vzpomínka na domov a také na to, kým doopravdy jsi a ne co se z Tebe snaží udělat bledé tváře. Šaman do Tvé medicíny vložil jednu neznámou zajímavě vonící bylinu.
+
+
+Popis lokace se nyní změní tak, jak je popsáno níže v Popis lokace po obřadu masáhoame:
+
+Popis lokace po obřadu masáhoame:
+Nádherné místo po ještě nádhernějším obřadu je ze tří stran obklopené řídkým porostem, který ohraničuje veliké kruhové prostranství. U okraje vidíš saunu zvanou inipi, ke které vede krátká cestička zakončená nyní vyhaslým ohništěm. Před vchodem se bělá vysušená bizoní lebka, která jakoby na něco čeká. Nebo na někoho... Nechybí ani malý posvátný kruh tvořený kameny.
+
+Můžeš jít: J, V
+
+
+
+
+
+
+
+
+
+
+22 – lesní bobule
+
+Příjemné tiché místo na kraji lesa, kde se modrá spousta vonících a na chuť jistě velmi zajímavých plodin. Bobule jsou pořádně veliké a sbírat je bude určitě jednodušší než barvou podobné borůvky, a to je sakra příjemné. Ale to nejpříjemnější je rozverná skupina mladých dívek, které bobule sbírají a právě zpívají nějakou ženskou píseň.
+
+Vidíš: lesní bobule, zpívající dívky
+pokud hráč již hovořil s upovídanou dívkou a sdělil jí jméno léčitelovy dcery, je vidět i Tančící vlčice
+
+Lesní bobule
+- popis: Nádherné a opravdu veliké plody určené k zakousnutí nebo po naplnění břicha k nasušení. Maso je sice ta nejlepší krmě, kterou znáš, na tyhle bobule se Ti ale také sbíhají sliny.
+
+- při pokusu o sběr bobulí Tě jedna žena rázně zastaví:
+„Kuš, chmatadlo, tady sbíráme my a žádný muž nám nesmí překážet!“ a zachehtá se na celé kolo
+
+Zpívající dívky
+- popis: Opravdu nádherný pohled na příjemně řehtající mladé kobylky, které se i při sběru plodů dokáží tak ladně pohupovat, no, tohle ve městě bledých tváří opravdu neuvidíš. Tak se jen pořádně dívej, opravdu to stojí za to a ani dalekohled nepotřebuješ...
+
+Tančící vlčice
+- popis: Velmi pohledná dívka vysoká stejně jako Ty s havraní hřívou spetenou do dvou dlouhých a opravdu pěkných copů, oděná do jednoduchých, ale velmi vkusných šatů z jemně vyčiněné jelenice s modrým náhrdelníkem na krku, která právě zpívá s ostatními a sbírá bobule. V táboře jsi viděl již spoustu žen a každá je svým způsobem krásná a přitažlivá, co si více přát. Ovšem zde již po prvním rozhovoru cítíš, že si máte co říci, třeba jí poznáš ještě blíže...
+
+Při pokusu o oslovení zpívajících dívek:
+
+„Milé dámy, mé jméno je Kroužící orel a moc rád Vám pomohu se sběrem.“
+
+Jedna, asi nejupovídanější z mladic si před tebe stoupne, dá si ruce v bok a poté se smíchem gestikuluje:
+
+„Milý kroužící orle, jsme Ti nesmírně vděčné za Tvojí péči, neměl bys být ale na lovu nebo dělat něco mužsky užitečného? Tady je ženské místo a nám se teď žádnou píseň pro muže nechce zpívat.“
+
+Ty odpovídáš:
+
+1. „A opravdu nechcete pomoci? Mně se tu moc líbí.“
+
+„Opravdu nechceme, já Vás mužské znám, vše byste jen sežrali a pak usnuli, nic s Vámi potom není.“
+
+2. „Tak já tedy jdu dělat něco užitečného, ale vůbec se mi nechce.“
+
+„Správně, jen do toho a až něco hezkého ulovíš, můžeš nám to přinést ukázat. A pak nás jednu po druhé nakrmit, tak se snaž!“ A strašlivě se společně s poslouchajícím osazenstvem rozchehtá.
+
+3. „Můžete mi říci svá jména?“
+
+„To vskutku nemůžeme, vždyť víš, že my ženy svá jména cizincům neříkáme. Ale abys neřekl, že si s Tebou nechceme popovídat, když uhodneš jméno některé z nás, máš možnost. Hádej, šmudlo.“
+
+a objeví se možnost zadat jméno. Je nutné vzpomenout si na jméno léčitelovy dcery a napsat Tančící vlčice.
+
+Pokud hráč nenapíše správné jméno:
+„Neuhodl a nic jiného jsem nečekala, jdeme si zase zpívat.“ S těmi slovy odchází ke svým kamarádkám tvořit skutečné hodnoty.
+
+Pokud hráč napíše správné jméno:
+„Hm, uhodl! A proto budu hodná a Tančící vlčici zavolám.“ Poté zavyje jako vlk a zavlní se jako při tanci. Následně mávne na opravdu moc pěknou dívku stejně vysokou jako jsi Ty sám a ta s úsměvem a s vlčím zavytím přichází.
+
+Hovor s dívkou:
+
+Ty začínáš:
+
+„Krásný den, Tančící vlčice. Mé jméno je Kroužící orel a posílá mě za Tebou Tvůj otec.“
+
+Dívčina odpověď:
+
+„Jasné slunce i Tobě, Kroužící orle. Ano, byla jsem udivena tím, že se na mě vyptává někdo mně neznámý znající mé jméno,“ a mile se usmála nejen nad svými slovy. „Snad o mě nemá tatínek starost?“
+
+Ty pokračuješ:
+
+„To snad ne, určitě nevypadal starostlivě, naopak si docela užíval česání od své ženy. Poprosil mě, abych ze Tebou zašel a přinesl zpět několik natrhaných bobulí, které potřebuje pro vyléčení Malé nohy. A také mu schází jedna rostlina, jak jen se jmenuje...?“
+
+Dívčina odpověď:
+
+„Květ střapce? Malá želva? Skučící vítr? Bílý roh? Bizoní trs?“
+
+Tvoje odpověď:
+
+Zde musí hráč napsat jméno „Jelení krk“, pokud si nevzpomene, je nutné vrátit se za léčitelem a zeptat se jej ještě jednou.
+
+Pokud hráč odpoví správně:
+
+1a.: „Jelení krk, ano, ten tatínek někdy sbírá a před několika zimami jsem byla s ním. Buď trpělivý, Kroužící orle, musím si vzpomenout...“ a dívka zavírá oči a vzpomíná... to je opravdu příjemné na pohled, poté je však otevře a pokračuje: „Vzpomínám si, byli jsme na místě, kde se lidským bytostem našeho kmene zjevují různá vidění, tam v tuto dobu měsíce Tučnění určitě poroste. Ráda se tam zase jednou podívám, počkej prosím chvíli,“ a odbíhá ke svým družkám něco jim říci.
+
+Pokud hráč odpoví chybně:
+
+1b.: „Tak to opravdu nevím, zkus se tatínka zeptat ještě jednou.“ Rozhovor končí.
+
+Pokud hráč ještě nedošel k léčiteli a zkusí znovu komunikovat, dívka odpoví:
+
+„Už jsi se dozvěděl jméno té rostliny?“ a opět se objeví dialogové okno pro její název.
+
+->> Po hovoru s dívkou, kdy se oba chystáte do lokace č. 27. se zobrazí tento text:
+
+Tančící vlčice se vrací v doprovodu naprosto všech ostatních a ta, se kterou jsi se bavil jako první, se chystá Tě oslovit. Podvědomě se připravíš na nějaká šťavnatá slova a ani malinko se nemýlíš:
+
+Nejupovídanější ze sbírajících dívek začíná:
+
+„Tak mladý pán nám chce ukrást tu, která vyje na měsíc. Jde na to nějak zhurta, co říkáte holky, půjčíme mu ji?“
+
+A ostatní dívky o překot vykřikují:
+
+„Ano, ano, vždyť vidíš, jak jim to krásně sluší!“ „Nic takového, on by ji odnesl pryč a už ji nikdy neuvidíme!“ „Ale to přeci ne, vlkům je dobře tady u nás.“ „Ale vlčice se rády toulají a neříkej, že o tom nic nevíš.“ „Vím a nevím, můj Rychlý kůň má pro mě vždycky přichystané nějaké hezké místečko.“ „No aby ses nepochlubila, ale ani Tvůj kůň Tě nedokáže vynést na strom jako můj Červený sokol a vyprávět mi o hvězdách.“ … a sakra, holky se už dostávají do ráže … „Tak ať nám všem zatančí a když se nám to bude líbit, pustíme ho s Tančící vlčicí, ale jen na chvíli.“ „Zatančí, zatančí, zatančí a když je to Kroužící orel, tak pořádný orlí tanec a jestli při tom nebude pořádně kroužit, bude mít utrum!“ Dívky se dávají do klasického indiánského pokřiku „Hau, hau, hau“ a intenzita se neustále zvyšuje
+
+Neupovídanější dívce se nějakým zázrakem podařilo rozvášněná děvčata uklidnit a říká:
+
+„Holky, to je bezva nápad a aby se mu lépe tančilo, tak mu zazpíváme a zabubnujeme. Ale podívejte se na toho orla, co ta jeho krátká hříva?“ a se smíchem ukazuje na Tvůj ještě ne příliš dlouhý vlasový porost. „Kdo se na to má koukat?“ Další hlasy někdy škodolibě, jindy lítostivě odpovídají: „Je měsíc tučnění a už pelichá, to brzo!“ „Třeba mu někdo umřel a drží smutek.“ „No, na oskalpovaného nevypadá.“ „No, co nám na to řekneš, krátkohřívko?“
+
+Ty odpovídáš – zde je nutné, aby bylo možno vybrat jen jedinou odpověď a ostatní se již nebudou zobrazovat:
+
+1. „Ale milé dámy, buďte rády, že alespoň jednou vidíte nějakou zajímavou raritu. Všude kolem se potlouká spousta chlapů a jak jsem viděl, někdy i s vlasy až na zem, tak si mě užijte, než zmizím. Jak vidno, na tancování mi chybí ten správný chochol, takže lituji, nemohu sloužit,“ a s potměšilým úsměvem si přehlížíš přítomné krasavice.
+
+Ta nejupovídanější odpovídá:
+
+„Ohó, tak pán se jen tak nedá, jak vidno. To se mi líbí, nemám pravdu, děvčata?“ a pochechtávající se dívky na Tebe zvědavě hledí. „Tím víc se ale těšíme na Tvůj tanec, když si seženeš něco na hlavu a také nějaké hezké ozdoby, slibuji, že si zábavu užijeme my i Ty.“
+
+Ještě se k Tobě přitočí Tančící vlčice: „Ha, no tys jim to tedy dal, správně, Kroužící orle, jak vidím, ani jediný muž se nemusí hned ztratit mezi tolika švitořícími klisničkami. Zkus se prosím zeptat po vsi na nějaké hezké peří do vlasů, orlí perutě a hezký náhrdelník, také pěkná ozdoba na nohu Ti k bederní roušce jistě bude ladit. Slibuji, že Ti s nastrojením pomohu a poté se hned vydáme hledat Jelení krk.“
+
+Pomyslíš si: To jsem je ale vyvedl z míry, ale mají to mít, rozšafnice. Tančící vlčice se mi ale více a více líbí a chce mi pomoci, takže tanec určitě neodmítnu. Jen budu muset najít ty věci, o kterých mluvila, hurá do toho. Nakonec poznám zase nové lidi po vsi a to se hodí. A přiznejme ti to, Tančící vlčice se ke mně chová laskavě a strávit s ní hezké odpoledne při sbírání květin je něco, co si jistě nenechám ujít. A třeba si časem budeme moci zatancovat spolu na nějakém krásném místě, kde na nás nebude čubrnět tolik zvědavých očí, tomu bych se rozhodně nebránil...
+
+2. „Já vím, ale žil jsem několik let mezi bledými tvářemi a ty mi nedovolily nosit dlouhé vlasy. Ale slibuji, že si je nechám zase narůst, krátké se mi ani trochu nelíbí, jen trpělivost.“
+
+Ta nejupovídanější odpovídá:
+
+„No, to je slovo chlapa, na Tvé dlouhé vlasy se všechny moc těšíme, ale zatančit nám musíš, na to se těšíme snad ještě víc,“ a se smíchem se obrací na své družky. „Tak si koukej sehnat něco na hlavu, pořádné perutě a také nějaké hezké ozdoby a pak se vrať, už se prostě nemůžeme dočkat!“ mrkne na Tebe
+
+Ještě se k Tobě přitočí Tančící vlčice:
+
+„Odpusť, Kroužící orle, to jsme holt my, ženy... ale i já se velmi ráda podívám na Tvůj tanec a věřím, že se bude všem líbit. Zkus se prosím zeptat po vsi na nějaké hezké peří do vlasů, orlí perutě a hezký náhrdelník, také pěkná ozdoba na nohu Ti k bederní roušce jistě bude ladit. Slibuji, že Ti s nastrojením pomohu a poté se hned vydáme hledat Jelení krk.“
+
+Pomyslíš si: No tak to je hned jiná, ty treperendy si se mě dělají šprťouchlata, ale Tančící vlčice je jiná a chce mi pomoci, tak to snad překousnu. Jen budu muset najít ty věci, o kterých mluvila, hurá do toho. Nakonec poznám zase nové lidi po vsi a to se hodí. A přiznejme ti to, Tančící vlčice se ke mně chová laskavě a strávit s ní hezké odpoledne při sbírání květin je něco, co si jistě nenechám ujít. A třeba si časem budeme moci zatancovat spolu na nějakém krásném místě, kde na nás nebude čubrnět tolik zvědavých očí, tomu bych se rozhodně nebránil...
+
+3. „Kuš, háďata, kdo se tady s vámi má hádat. A vůbec, léčitel ode mě potřebuje něco na léčení, já trouba jsem u to slíbil a pro dobré teď musím poslouchat to Vaše švitoření. Tančete si tady sami a já mizím.“
+
+Otáčíš se a za sebou slyšíš jen šílený řehot a když se ještě podíváš za sebe, několik dívek se válí na zemi a smíchy nemůže popadnout dech. Uff, to jsou ale sůvy, tolik ženskejch a jediný chlap, to nikdy nedělá dobrotu, pryč odsud.
+
+Hráč nyní stojí v té samé lokaci v případě odpovědí 1 a 2, v případě 3 se automaticky přesune do lokace č. 24.
+
+Pokud bude chtít začít rozhovor v případě odpovědí 1 a 2, osloví zpívající dívky a nemá orlí peří, orlí perutě, náhrdelník a chřestidlo z kostí:
+
+„Ale my se těšíme na tanec se vším všudy a líbí se nám muži, kteří představují toho, koho při tanci předvádí. Tak se koukej pořádně nazdobit a poté se vrať.“
+
+Pokud bude chtít začít rozhovor v případě odpovědí 1 a 2, osloví Tančící vlčici a nemá orlí peří, orlí perutě, náhrdelník a chřestidlo z kostí:
+
+„Kroužící orle, jak vidím, ještě nejsi připraven. Vím, že je to náročné, ale znáš nás ženy, pro nás je stejně důležitý krásný vzhled jako hezký tanec. Prosím, ještě se vrať do vsi a zkus nalézt nějaké hezké peří, perutě, náhrdelník a ozdobu na Tvůj spodní pařát, moc se na Tebe těším.“
+
+Pokud bude chtít začít rozhovor v případě odpovědí 1 a 2, osloví zpívající dívky a má orlí peří, orlí perutě, náhrdelník a chřestidlo z kostí:
+
+„No, už konečně vypadáš k světu, ale cítím z Tebe něco, co se se mi nelíbí. Počkej... no Ty jsi snad žral koňské koblihy nebo jsi se v nich válel!“ - a dívka se téměř zalkne smíchy - „podívejte se, holky, na toho špindíru! Koukej se pořádně vykoupat, kdo to má čuchat. A pokud možno celý...“
+
+Hráč se musí jít vykoupat do lokace č. 16
+
+Pokud bude chtít začít rozhovor v případě odpovědí 1 a 2, osloví Tančící vlčici a má orlí peří, orlí perutě, náhrdelník a chřestidlo z kostí, ale předtím zkoumal koňskou koblihu:
+
+„Vidím, že už jsi připraven, Kroužící orle a moc Ti to sluší. Jen se mi zdá, že jsi cítit od koní, přesněji řečeno od toho, co ti miláčkové dokáží vytvořit.“ Mile se usměje. „Vím, že máš ve vsi mnoho práce, skoč se ale prosím ještě před tancem vykoupat, a nejlépe celé tělo. To víš, my všichni zde velmi dbáme na čistotu a každá žena toto na muži dokáže ocenit.“
+
+Hráč se musí jít vykoupat do lokace č. 16
+
+Pokud bude chtít začít rozhovor v případě odpovědí 1 a 2, osloví zpívající dívky a má orlí peří, orlí perutě, náhrdelník a chřestidlo z kostí a pokud předtím zkoumal koňskou koblihu a vykoupal se v lokaci 16:
+
+„No konečně, to jsme se ale načekaly. Ukaž... ale jo, celkem Ti to sluší. Holky, honem ke mně, pán se na nás vystrojil a jestli bude taky pěkně tančit, Tančící vlčici mu možná půjčíme...“ a vítězoslavně se směje na celé kolo.
+
+Pokud bude chtít začít rozhovor v případě odpovědí 1 a 2, osloví Tančící vlčici a má orlí peří, orlí perutě, náhrdelník a chřestidlo z kostí a pokud předtím zkoumal koňskou koblihu a vykoupal se v lokaci 16:
+
+„Hmm, tak takto si představuji opravdu krásného muže, moc Ti to sluší. Bederní rouška, krásné perutě, nádherné peří vlající ve větru, blyštící se náhrdelník okolo krku a vidím, že ani na ozdobu na svůj pařát jsi nezapomněl,“ a radostně se usmívá. „Určitě Ti brzy narostou delší vlasy a peří ještě více vynikne. Moc se na Tvůj tanec těším.“ Z jejích slov cítíš opravdovou touhu, aby se Ti tanec podařil. Už jen kvůli této dívce se budeš sakra snažit, je paráda, že mezi těmi treperendami je zde někdo, komu se již na první pohled líbíš...
+
+Po dlouhé přípravě tanec začíná:
+
+Všechny, naprosto všechny dívky Tě obklopily, ale tak, abys měl k dispozici dostatečně veliký kruh na tancování. V jejich očích vidíš nesmírnou touhu shlédnout Tvůj tanec, některé jsou radostné, jiné povýšené, další zvědavé, Tebe ale zajímají právě ty jedny, které se na Tebe usmívají a přejí Ti jen to nejlepší. Tančící vlčice se k Tobě přitočí a pomůže Ti s úpravou všech ozdob tak, aby nejen dobře vypadaly, ale především aby Ti při divokém tanci nespadly, to by byla ostuda... Po chvíli je hotovo a můžeme začít řádit, musím uznat, že ty orlí perutě na Tobě prostě vypadají nádherně, i ten nejlepší tanec by bez těchto ozdob byl jen z poloviny tak pěkný. Orlí tanec není pro Tebe naštěstí žádnou novinkou, ve svých mladých letech jsi jej měl ve veliké oblibě a víš, jak správně let tohoto dravce napodobit. Nevíš, zda je v šajenském a lakotském podání nějaký rozdíl, to ale přítomným zvědavě přihlížejícím dámám jistě nebude vadit. Možná právě naopak...
+
+A tanec začíná. Jedna z dívek mající v ruce bubínek začíná s pomalým rytmem, roztahuješ své perutě a jako správný kroužící orel opisuješ kruh. Rytmus se zrychluje, náhle rychle klesáš do podřepu, pyšně se kolem sebe rozhlížíš, točíš se a... hrozný fofr bubnu... teď chytáš imaginární kořist, vysmekla se, ale Ty jí chytáš podruhé a už nepustíš, s vítězoslavným kříkem opisuješ další a další kruhy. Dívky svým pokřikem dávají najevo, že se jim tanec líbí a Tančící vlčice nečekaně vysokým hlasem vyje jako pravá dravkyně. Čas pro Tebe nehraje roli, vznášíš se jako pán nebes a nic Tě nemůže vylekat. Opravdu nádherný pocit, takový u tanců bělochů asi chybí... Buben pomalu umlká a Ty uřícený, ale šťastný pomalu končíš efektním mávnutím křídel svůj let. Dívky naprosto šílí a volají jedna přes druhou „Další, další, ještě jeden let!“ a vyjí jak bojovníci v největší bitevní vřavě. Slyšet Vás někdo jiný, prchá nejkratší cestou pryč, takový obrovský rykot působí hrozivě. Co naplat, neuposlechnout ty rozvášněné holky by nebylo rozumné a Ty i přes svou únavu rozhodně nemáš v úmyslu pokazit tak hezký zážitek. Hra začíná nanovo...
+
+Dívky jsou ale vesměs rozumné a po druhém kole vidí, že Tvoje únava je opravdová. Přesto radostně křičí a ta nejupovídanější s pocitem vítěze pyšně vykřikuje: „Tak co holky, jaký to byl nápad?“ Divoké zavytí představuje jasnou odpověď... Tančící vlčice Tě s líbezným úsměvem bere za ruku a všem říká: „Tak konec zábavy, holky, užily jsme si všechny, ale teď se jde zase do práce. Můj otec čeká na bylinu a já musím Kroužícímu orlovi ukázat, kde roste.“ „Tak takovou práci chci dostat taky.“ ozývá se ještě, hlahol dívek se však vzdaluje, jak Tě Tančící vlčice bere k řece, aby ses mohl opláchnout. „Sundej si ozdoby a můžeš se omýt, ale jestli mohu prosit, vezmi si je poté ještě na sebe, moc Ti sluší a připomínají mi Tvůj krásný tanec.“ No, nechci radit, ale proč takovému přání nevyhovět?
+
+Společně se poté ubíráte na místo poblíž úpatí hor, kde by dle slov léčitele bylina měla růst.
+
+Hráč i s Tančící vlčicí bude automaticky přesunut do lokace 27.
+
+Po sběru byliny Jelení krk je hráč i Tančící vlčice automaticky přesunut zpět do této lokace. Popis je stejný, pokud chce oslovit upovídanou dívku nebo Tančící vlčici:
+
+Při pokusu o oslovení nejupovídanější dívky:
+
+„Děkuji Ti za tanec, Kroužící orle. Nejprve jsem si myslela, že nebude stát za to, ale tajně jsem doufala, že tomu tak nebude. A nemýlila jsem se a myslím, že jsi potěšil nás všechny, za to Ti patří veliký dík. Teď ale do práce, bobule se samy nenasbírají. Určitě se uvidíme na slavnosti.“
+
+Při pokusu o oslovení Tančící vlčice:
+
+„Děkuji Ti za krásný výlet, Kroužící orle a moc se těším na další. Zde máš ještě několik bobulí, které tatínek bude také potřebovat. Nyní se musím stejně jako ostatní věnovat sběru, uvidíme se na slavnosti a těším se, že si tentokrát zatančím s Tebou.“ Pohladí Tě a s úsměvem odbíhá do práce.
+
+Získán předmět: čerstvé bobule
+čerstvé bobule
+-popis: Modré veliké plody, o něco větší než borůvky, svádějí k okamžité konzumaci. Ovšem Ty je budeš potřebovat na něco jiného. Neboj, po tom krásném tanci jich od dívek jistě dostaneš plné hrsti.
+
+Nyní již nelze s nikým hovořit, dívky musejí sbírat.
+
+Můžeš jít: S, J, Z,
+
+
+
+
+
+
+
+
+
+23 – Lesní porost
+
+Před Tebou se zelená poměrně řídký les, kam místní krasavice chodí sbírat klacky a dřevo na otop. Topit se samozřejmě dá i jinak, my majitelé nejen hospodářských zvířat bychom o vhodnosti jejich usušených produktů mohli vyprávět dlouho… Vidíš zde Tichou srnu se svojí dcerou, které pilně sbírají dary lesa a při tom si zpívají. Nikam nespěchají a jak vidiš na jejich tvářích, práce jim vůbec nevadí.
+
+Vidíš: Tichou srnu, Vyjící celou noc, nasbírané dřevo
+
+Tichá srna
+- popis: Moc pěkná žena ladných tvarů právě svazuje nasbírané dřevo do několika otepí a jak vidno, nikam nespěchá. Její zpěv je jako zpěv ptáků, tichý, šelestivý, ale velmi melodický.
+
+Vyjící celou noc
+- popis: Malá dívenka pobíhá mezi stromy a přitom si pobrukuje do taktu její matky. Někdy si sedne a něco tvoří na zemi, přes přítmí nevidíš přesně, oč se jedná.
+
+nasbírané dřevo
+- popis: Velmi šikovně svázané otepi dřeva tak, aby je žena mohla bez problémů po přivázání ke svému tělu třeba „na smyk“ pohodlně dopravit až do svého příbytku. Jsou ale tyhle indiánky šikovné a pracovité, že?
+
+Při pokusu o oslovení Tiché srny tato přestane zpívat a se zájmem se na Tebe podívá:
+
+„Tichá srno, moc děkuji za připravený pokrm. Mohl bych Ti nyní zase já být nápomocen?“
+
+Tichá srna odpoví: „Jsi hodný, ale toto je přece ženská práce. Manžel mi někdy pomáhá, prý abychom díky společné práci měli na sebe více času, což je od něj krásné, nyní máme ale obě času nazbyt a mně se zde moc líbí.“
+
+Při pokusu o oslovení Vyjící celou noc:
+
+„Tak co to tady naše malá krasavice vyvádí?“
+
+Vyjící celou noc odpoví: „Maminka mi dala na zem dřevěného ptáčka a já si ho chci namalovat,“ a pokynem ruky Tě zve, aby Ti ukázala svoji hračku. A skutečně, na zemi je umně vyřezávaný pták ze dřeva, na kterého dívenka nanáší své barvy, umístěné v kalíšcích poblíž.
+
+Zpřístupní se předměty: vyřezávaný pták ze dřeva, červená barva, hnědá barva
+
+vyřezávaný pták ze dřeva
+- popis: Velmi hezky provedená hračka, kterou vytvořila ženská ruka, ty indiánky jsou neskutečně šikovné.
+
+Při pokusu o sebrání vyřezávaného ptáka ze dřeva: „To snad nemyslíš vážně, brát dítěti hračku je nehezké.“
+
+červená barva
+- popis: Přírodní rostlinná barva je uložena v kalíšku z velikých listů.
+
+Při pokusu o sebrání červené barvy: „To snad nemyslíš vážně, brát dítěti hračku je nehezké.“
+
+Červenou barvu lze sebrat až poté, co se hráč nechal namalovat od malé dívky.
+
+hnědá barva
+- popis: Přírodní rostlinná barva je uložena v kalíšku z velikých listů.
+
+Při pokusu o sebrání hnědé barvy: „To snad nemyslíš vážně, brát dítěti hračku je nehezké.“
+
+Hnědou barvu lze sebrat až poté, co se hráč nechal namalovat od malé dívky.
+
+Při dalším pokusu o oslovení Vyjící celou noc:
+
+Dívenka na Tebe pohlédne: „Strejdo, chceš mi pomoct barvit ptáčka?“
+
+1. Souhlasíš
+„Chci mít hnědého s červenými pery, víš, ty se mi moc líbí.“ Plníš dívčino přání a ona se s tleskáním rozesměje.
+
+2. Nesouhlasíš
+To od Tebe není hezké, ta chvíle Tě přece nezabije a dítěti uděláš radost. Ale Ty jsi tady pán, nutit Tě nebudu.
+
+Dívka se bude ptát tak dlouho, dokud hráč nesouhlasí.
+
+Hovor s dívenkou pokračuje:
+
+„Jé, ten je krásný. Můžu namalovat i Tebe, maminka říkala, že jsi Kroužící orel a barvy jsou pro orla to nejhezčí.“
+
+1. Souhlasíš
+„Jé, Tobě to sluší.“ Opravdu netušíš, zda Ti to sluší, naštěstí Váš hovor zaslechla matka a přišla se na Tebe podívat. Její hurónský smích a veselé plácání rukama malé dívenky znamená jediný možný výsledek… „Ty malá nezbedo, takhle strejdu zlobit, z orla jsi udělala prérijního kohouta!“ naoko hubuje svoji ratolest a odvádí Tě k řece, kde se můžeš umýt. „Odpusť, Kroužící orle, tohle dělá každému, snad se moc nezlobíš.“
+Když se oba vracíte, matka se zeptá své dcery: „Tak, raubířko, už vypadá ptáček k světu?“
+„Ano, maminko, pojď se podívat.“
+„Tak bychom mohli strejdovi za tu radost něco dát, ať o nás nemá špatné mínění?“
+„Ptáčka nedám. Ale strejda si může odnést barvičky, jestli chce, zítra budu malovat zeleného ptáčka.“
+Žena se na Tebe obrací: „Ještě jednou se omlouvám, jestli chceš, barvy jsou Tvoje.“
+Odpovídáš: „Vůbec nic se nestalo, byla sranda a užili jsme si všichni. Za barvy moc děkuji.“
+
+2. Nesouhlasíš
+To od Tebe není moc hezké, vím, že ne všichni si potrpíme na barevné obličeje, tyhle barvy jdou ale celkem rychle smýt a dívence uděláš radost. A pěkné malování přeci není nikdy na škodu... Ale Ty jsi tady pán, nutit Tě nebudu.
+
+Dívka se bude ptát tak dlouho, dokud hráč nesouhlasí.
+
+Můžeš jít: S, V
+
+24 – Lesní mýtina pro koně
+
+Došel jsi na velikou lesní mýtinu ohraničenou na severu, jihu a západě lesem a na východě otevřenou směrem k řece. Podle stop kopyt je jasné, že koně si sem v horkých dnech po pastvě rádi chodí odpočinout, přeci jen jejich rozměrná těla dokáže slunce pořádně prohřát.
+
+Vidíš: malého strakatého koně, velikého bílého koně, velikého strakatého koně, zakrslého koně
+
+XXXXXXXXXXXXXXXXXX
+
+malý strakatý kůň
+popis při prvním prozkoumání: Malý legrační koník, jen o něco větší než polovina Tvého těla, Tě vesele a trochu šibalsky pozoruje. Rozhodně nevypadá hladově, více než cokoliv jiného Ti připomíná pivovarský soudek bledých tváří na nožičkách. Když jsi se k němu přiblížil, otočil se bokem, šlehnul po Tobě pohledem a v jeho očích vidíš mazanost vlastní malým plemenům. Jako by Ti něco chtěl naznačit...
+popis při druhém prozkoumání: Přiblížil jsi se ke koníkovi blíže, ten se otočil zadkem k Tobě a než jsi stihl zareagovat, velmi dlouze a kvalitně si uprdnul, kterážto vůně Tě málem porazila. Po této neskonalé úlevě před Tebou velmi pomalu a skoro vznešeně přistálo hovínko jako řemen, v poníkovi to vesele zamručelo a malý raubíř nesmírně pomalým a důstojným krokem odchází k pastvinám. Po cestě se na Tebe ještě podíval s takovým výrazem, že kdyby to uměl, řehtal by se na celé kolo, holomek (poznámka autora textu – tuto proceduru zná autor tohoto textu a jistě i mnoho majitelů těchto rošťáků velice dobře z vlastní zkušenosti, proto ten detailní popis...). Náhle za sebou uslyšíš dlouhý chechot, když se otočíš, vidíš skupinu capartů, která z ničeho nic prchá zpět, odkud přišla. A jéje, jestli se drby šíří v indiánské vesnici stejnou rychlostí jako pavlačemi měst bledých tváří, máš se na co těšit...
+
+Objeví se předmět: čerstvá koňská kobliha
+popis: Vysoce kvalitní výrobek drobného poníka obsahující zbytky z prérijní trávy, drobných kamínků, zrnek písku, šťovíku a dalších pochutin. Dobrou chuť...
+
+Při pokusu o sebrání:
+
+Následující text zobrazit pouze jednou při prvním pokusu: „Tak to prrr, tento dárek holýma rukama neseberu. Ty si myslíš, že my indoši jsme takoví špindírové a nosíme u sebe takovéhle dárky? Naše ženušky jsou v tomhle dost nekompromisní a nemytého chlapa pod bizoní deku v týpí zásadně nepouštějí. Když už jsme u toho, Ty také zrovna nevoníš, můj milý hráči, takže Tě slušně prosím, ulož si pozici, dej si voňavou vanu a pak zase pokračuj dále. Děkuji za pochopení...“
+
+Následující text zobrazit kdykoli poté, je-li čerstvá kobliha stále v lokaci: „Uff, ještě jsi nepochopil, nemytý plantážníku, že tohle prostě neseberu? Jen počkej, až se oženíš, pochopíš.“
+
+Pozn. Pokud hráč opustí lokaci a poté jí znovu navštíví, předmět
+
+čerstvá koňská kobliha se změní na
+
+uschlá koňská kobliha
+popis: Poníkův výtvor již stihl uschnout, i zde ve stínu je docela teplo a připomíná Ti chutné koblihy sypané cukrem, které prodávali pekaři ve městě bledých tváří.
+
+Následující text zobrazit pouze jednou při prvním pokusu o sebrání: „Uschlá koňská kobliha je věc, kterou není obtížné zařadit do mého inventáře. Nesmrdí a je docela kompaktní, takže beru. Ale promiň, hráči, viděli mi Ti caparti a když tuhle nádheru seberu, věřím, že mě uvidí zase a v tu ránu dostanu nějakou přiléhavou přezdívku typu „hovnochňap“ nebo „koňořiť“. Musím sehnat něco, do čeho jí opatrně schovám tak, aby mě u této operace nikdo neviděl. Pomůžeš mi (vím, že pomůžeš, protože jinak se dále nedostaneme, plaveme v tom oba dva...)? “
+
+Následující text zobrazit kdykoli poté, je-li čerstvá kobliha stále v lokaci a hráči jí chce sebrat: „Už jsem Tě informoval, že na sebrání budu něco potřebovat. Něco takového, v čem nebude kobliha tak vidět. Tak buď tak laskav a něco sežeň, jak vidím, v inventáři toho máš dost, co takhle něco vyzkoušet?“
+
+Zde následuje výpis všech předmětů, které může hráč zkoušet použít pro sebrání uschlé koňské koblihy spolu s popisem, proč to nejde. Koblihu lze sebrat pouze pomocí pánve, jiná možnost zde opravdu není:
+
+použij XXX na uschlou koňskou koblihu:
+opasek - „Ale no tak, opasek slouží k tomu, aby z Tebe nespadla bederní rouška a tak dlouhý, abys jím zabalil koňskou koblihu a ona tam vesele odpočívala, zase není.“
+bederní rouška - „Milý hráči, tak tady jsi mě tedy docela namíchnul. Bederní rouška je můj nejoblíbenější oděv a Ty do něj chceš zabalit tento výtvor. Já si vždy, když vypustím stolici, velice pečlivě umývám zadnici, aby na této jelenicové nádheře nebyla hnědá stopa a Ty mě nutíš do tohohle?“
+mokasíny - „Ano, zabalit koňskou koblihu do mokasín je opravdu geniální nápad. Jestli to ještě není jasné, musel bych ji rozpůlit a jsi si jist, že za sebou nezanechá žádnou stopu? Venku bych to ještě zvládnul, ale když půjdu do týpí a tyto nádhery si sundám, nedopadnu zrovna dobře...“
+orlí medicína - „Bledá tvář nemá úctu k ničemu, něco takového bych nevymyslel ani po pořádném loku ohnivé vody.“
+truhla - „Milý hráči, truhla je určena na ukládání věcí, to ano. Ale pokud možno ne tekutých nebo exkrementálních, já tam totiž nosím i jiné věci.“
+nůž s koženým pouzdrem - „Sušenou koňskou koblihu si napíchnu na nůž a mohu jí spásat stejně jako sušené maso, výborně. A když mi přestane chutnat, mohu ji i s nožem zastrčit do pouzdra, ještě lepší. Chceš ochutnat?“
+peníze - „Mám u sebe nějakou bankovku, ale tento počet ani zdaleka nestačí na ten objem, který vyprodukoval soudkový pony. Řekni si nějakému buržujovi, tam určitě uspěješ.“
+křesací souprava - „Výborný nápad, uschlé hovínko může skvěle posloužit jako troud. Ale teprve tehdy, když jej budu mít u sebe v něčem, do čeho jej lze vložit.“
+luk se 6 šípy - „Napíchnuté koňské koblihy na šípech musejí být opravdu strašlivá zbraň. Ale považ, můj milý hráči, třeba budu muset něco ulovit a co když toto vylepšení sklouzne až ke hrotu a utlumí náraz? Uznej, že kořist zachráněná poníkovým hovínkem není zrovna vhodné vysvědčení pro lovce... “
+tomahawk - „Ne, ne, napíchnutý koňský exkrement na tomahawku společně s válečným pokřikem nebude asi to pravé ořechové...“
+kožešina - „Uff, já v tom totiž také spím a třeba se mi někdy poštěstí, že se do této nádhery přikryju i s nějakou krásnou indiánskou ženou. Musela by být velmi tolerantní, aby pochopila, že jsem nepřišel na nic lepšího a i když tyto ženy tolerantní určitě jsou, zkusím vymyslet něco lepšího.“
+jehla s nití - „Ne, ne, tolik nitě, abych exkrement zašil jako pavouk svojí síť, zase nemám a upřímně řečeno, lejnošití mi zrovna nevoní. “
+zásoba sušeného masa a sucharů - „Ale no tak, já se na sušené maso i suchary docela těším, nekaž mi chuť. Doufám, že u těchto experimentů také něco spásáš, ať si užijeme oba dva...“
+mapa - „Mapa je sice dost veliká na zabalení, já ji ale budu ještě potřebovat a Ty mi ji chceš takto nechutně zamazat? Z toho nic nebude, to by sis totiž po prvním použití musel vylízat, milý hráči, a já vím, že to neuděláš. Zkus vymyslet něco rozumnějšího. “
+legíny - „Legíny si sice na sebe hodím až koncem podzimu, dovedeš si ale představit, jak obtížně bych tu nádheru dostával dolů? Máš vůbec doma něco z kůže, že mě nutíš do takových nesmyslů? Pokud ano, tak si to prosím zkus sám.“
+košile - „Teď je na prériích stále teplo, takže se budu s radostí opalovat s obnaženou hrudí, ať si ženy užijí pořádný pohled na chlapa, až přijde konec podzimu a já si na sebe dám i košili, myslíš si, že mi bude takto slušet?“
+
+použij pánev na uschlou koňskou koblihu:
+
+A šup s ní na pánvici, pořádně propéct a honem s tou dobrotou do huby. No, hráči, budiž, my indiáni jsme velmi tolerantní a i takové věci dokážeme zkousnout. Až to budeš vařit, výsledek si užij, když o tom tak přemýšlím, možná bych si při opravdovém hladu také dal..., no, ale ty koňské výrobky jsou bezmasé a já nejsem vegetarián, nechceš najít raději nějaké jiné třeba od psa?
+
+Změna předmětu pánev na pánev s koňskou koblihou
+
+pánev s koňskou koblihou
+- popis: krásný hnědý uschlý koblížek připravený na pávni ke konzumaci za tepla i za studena
+
+XXXXXXXXXXXXXXXXXX
+
+veliký bílý kůň
+popis: Vidíš velikého bílého koně odpočívat pod nízkou borovicí. Tělo má velice štíhlé, téměř hubené, ale silné nohy prozrazují, že to bude vynikající běžec. V koních se docela vyznáš, tenhle bude mít v sobě určitě jižanskou krev, a tedy i temperament.
+
+veliký strakatý kůň
+popis: Před Tebou se tyčí dosti veliká postava strakatého koně, který Ti velice připomíná skot, který chovají bledé tváře a v rezervacích nyní již i indiáni. Kůň je viditelně unavený a zdá se Ti, že i ustaraný a je rád, že má svůj klid, proto na Tvůj pohled nijak nereaguje a se svěšenou hlavou odpočívá dál. Vypadá to, že se před nedávnem opravdu dost naběhal...
+
+popis při druhém prozkoumání: Kůň je opravdu dosti unaven, při bližším zkoumání jsi si ale všiml ještě něčeho jiného. Na pravém boku je docela odřen, odřenina se mu sice hojí, ale dosti pomalu. To ale není to nejhorší. Neustále zdvihá pravé zadní a levé přední kopyto, jako by si chtěl ulevit. A nyní jsi si toho všiml, ten kůň je okovaný... což u indiánů opravdu nebývá zvykem. Ale co tomu koni vadí?
+
+Zpřístupní se předmět: okovaná kopyta velikého strakatého koně
+popis: Kopyta tohoto koně jsou okována, což znamená, že původně nepatřil indiánům. Když se podíváš na stopy kolem, vidíš zajímavý úkaz, dva otisky jsou normální a dva ani ne poloviční. Kůň si také stále ulevuje, čehož jsi si všiml už dříve. Tady něco nehraje...
+
+pokud hráč zkusí vzít jedno kopyto do ruky: Zkusil jsi vzít do ruky jedno z kopyt s úmyslem jej zdvihnout, kůň si to však nenechá líbit a dost nebezpečně vykopává. Na tohle budeš muset jít jinak.
+
+pokud hráče napadne použít lano z bizoních chlupů:
+popis při prvním použití: Vzpomněl sis, co dělali majitelé neposlušných nebo nezkušených koní, kteří se nechtěli nechat ostrouhat nebo okovat a přitom nechtěli koni moc ublížit. Vzal jsi do ruky lano, jemně, ale pevně jsi jej obtočil kolem levého předního kopyta (víš, že začít předními je určitě jednodušší), chytil oba dva konce a zkoušel jej nadzdvihnout. Kůň se nějaký čas vzpínal, protože na podobné věci asi nebyl zvyklý, nakonec se ale uklidnil a kopyto jištěné lanem nechal ve vzduchu. Podíval ses blíže a zjišťuješ, že více než polovina podkovy chybí a kopyto dost nepěkně hnisá. Ta samá situace se opakuje u pravého zadního, ten chudák je doslova a do písmene rád, že stojí na nohou...
+popis při druhém použití: Bude to chtít sundat mu ty podkovy a vyléčit kopyta, ten hnis tady bude už dost dlouho. A pokud možno sundat je všechny a už nikdy nenasazovat, na prérii je opravdu nepotřebuje.
+
+pokud hráče následně napadne použít tomahawk: „Uff, to by sice teoreticky šlo zařídit, ostří tomahawku však pod kopyto nezasunu, je příliš veliké. Musím sehnat něco menšího. A přemýšlej, hráči, něco neostrého. Kůň může kopytem cuknout a uvědom si, že to asi udělá, protože ho opravdu bolí...“
+pokud hráče následně napadne použít luk a šípy: „Ne, ne, hrotem šípu to nepodeberu tak, abych mohl podkovu sundat. Potřebuji něco odolnějšího.“
+
+pokud hráče následně napadne použít rezavou rašpli:
+popis při prvním použití:„Uff, to asi nebude ten nejlepší způsob, nic lepšího ale nevymyslíme, že? Vzdávám se, já si také jinak nevím rady a tomuhle chudákovi už snad ani více ublížit nelze. Chytil jsi kopyto, rašpli zasunul pod podkovu a zkoušel jí opatrně vypáčit... Jau, ta byla... Kůň Tě docela nepříjemně kopl, musíš vymyslet ještě něco jiného.“
+popis při druhém použití: „Ta rána od koně mě docela bolí, už to nechci takto opakovat. Prosím, vymysli nějaký jiný způsob, můj milý hráči, nebo vstaň od obrazovky a pojď si to zkusit sám.“
+
+pokud hráče napadne použít rezavou rašpli a je s ním psí bojovník: „No, pokud to ani teď nevyjde, celou operaci vzdávám... Ten, kdo chodí vodou koně podržel a hladí jej, tento se viditelně uklidnil při spatření svého páníčka. Ještě jednou jsi zkusil koni chytit nemocné kopyto a rychle pomocí rašple odstranil podkovu. No, odstranil, odpadl i kus rohoviny a kůň zase cukl, naštěstí už ne tak divoce jako minule. Po chvíli oddychu učiníš to samé se zadním kopytem a poté sejmeš podkovy ze zbylých zdravých. Ten, kdo chodí vodou se může zbláznit radostí, moc a moc Ti děkuje a zve Tě do svého týpí. Společně tedy odcházíte do jeho příbytku.“
+
+Hráč je přesunut do lokace 12.
+
+zakrslý kůň
+popis při prvním prozkoumání: „Před sebou vidíš opravdu zvláštní stvoření, maličkého srandovního, ale roztomilého miniponíka, který Ti sahá někam nad kolena... Malý čipera vesele chodí sem a tam, stále k něčemu čichá a něco větří.“
+
+popis při druhém prozkoumání: „Najednou si vzpomínáš, že některé dámy bledých tváří mají takové mini poníky na svých zahradách nejen pro spásání trávy, ale také pro ozdobu, jiné využití však nemají... Ale jakpak se tento dostal k indiánům, zatoulal se nebo v tom bude něco jiného?“
+
+popis při třetím prozkoumání: „Nějaký neodbytný pocit Ti říká, že tohle bys měl prozkoumat. Asi by bylo nejlepší někoho se zeptat, někoho, komu by se tenhle koník mohl hodit.“
+
+Můžeš jít: J, V
+
+
+
+
+
+
+
+
+25 – severní brod přes Bizoní řeku
+
+Překročit Bizoní řeku není zas tak obtížné, zde se ale nachází o něco širší brod vhodný nejen pro přechod, ale také pro brodění unavených nohou i koňských kopyt. Nádherně čistá řeka se zde trochu zpomaluje.
+
+Vidíš: hlubší přechod přes řeku
+- popis: přechod přes řeku je zde o něco hlubší, ale stále plně použitelný
+
+Při dalším prozkoumání:
+
+Ve vodě se něco zablesklo, zkusíme to vytáhnout?
+
+1. Ano
+Z vody se ti podařilo vytáhnout podivný kámen.
+
+Zpřístupněn předmět: podivný kámen
+- popis: Opravdu zvláštní podlouhlý kámen s jakoby červeným bleskem na něm namalovaným. Tady si nevím rady, doporučuji se zeptat někoho zkušenějšího.
+
+Předmět je však k nepotřebě a ani není možné se na něj někoho zeptat.
+
+2. Ne
+Bylo tomu dobře ve vodě, necháme to být a bude to spokojené i tak, také řešení.
+
+Můžeš jít: S, J, Z
+
+
+
+
+
+
+
+26 – napajedlo pro koně
+
+Mělká zátočina slouží koním jako napajedlo, což je vidět ze všudypřítomných otisků kopyt. Momentálně tu žádný není, koním dost dobře stačí i čerstvá orosená ranní tráva.
+
+Višíš: otisky koňských kopyt
+- popis: Stopovat zde by bylo nemožné, vidíš nejrůznější mozaiku těch nejmenších poníkových i mohutných těžkých stop. Ale moment, jedna je taková zvláštní.
+
+Zpřístupní se předmět: zvláštní stopa
+- popis: Jedna stopa se od ostatních dost liší, je mnohem menší a vypadá trochu jako psí. Téměř se ztrácí, ale když ji sleduješ, vede do nedalekého houští.
+
+Zpřístupní se předmět: houští
+- popis: Nízký keř v blízkosti řeky nevypadá nikterak zajímavě. Když se přibližuješ blíže, nad Tebou prolétne hejno křičících dravců a v tu ránu se z křoví vyřítí… veliký šedý kojot. Když Tě zahlédne, prudce se zastaví, otočí směr a utíká neznámo kam. Uff, to byla rychlost…
+
+Při dalším prozkoumání houští:
+
+Pořádně jsi prohlédl houští. A vida, kojot tady měl… co to ale je? No jedna věc je pořádná bizoní kost, ale ta druhá je také kostěná. Ale docela umně zpracovaná, kde jsi to už viděl… no jistě, na tancích se tyto chřestidla z kostí upevňují na nohy, aby tanečníkům pěkně cinkala do rytmu. Ještě že ta bizoní kost byla chutnější, tahle věcička vypadá moc pěkně.
+
+Zpřístupní se předmět: ohlodaná bizoní kost, chřestidlo z kostí
+
+ohlodaná bizoní kost
+- popis: Již značné ohlodaná bizoní kost, třeba ji ještě využiješ
+
+Tento předmět je však k nepotřebě.
+
+chřestidlo z kostí
+- popis: Velmi vkusná chřestící ozdoba s řemínkem k přivázání na nohu je hezkým doplňkem tanečníků, tanec tak získá naprosto jiný ráz.
+
+Můžeš jít: J, Z, V
+
+
+
+
+
+
+
+
+27 – tiché místo na úpatí hor
+
+Na této vyvýšenině step končí a pomalu přechází do horských oblastí. Cítíš, jako bys zde nebo na velmi podobném místě již někdy byl a lze zde tušit nějaké Tobě zatím neznámé síly. Když se otočíš kolem dokola, vítá Tě nádherný pohled do všech světových stran. Taková místa si často vybírají ti, kteří touží pomocí vidění získat náhled své budoucnosti, ne tak, jak to chápou bílí lidé, ale spíše pomocí symbolů vycítit, kterým směrem se v tomto životě ubírat.
+
+Pokud hráč hledá rostlinu zvanou Jelení krk a přichází sem po tanci s Tančící vlčicí, popis se změní pouze jednou následovně:
+
+Společně s dívkou přicházíte na velmi zajímavé místo, kde otevřená step pomalu ustupuje horským výšinám. Náhle zaslechneš slova Tančící vlčice: „To je to místo, zde jsme s tatínkem v minulosti hledali jednu bylinu zvanou Jelení krk. Kroužící orle, Tvoje společnost je mi velmi milá,“ usměje se, „nyní se však musím opravdu soustředit a hledat, Jelení krk je samotář a najít jej mi asi chvíli potrvá. Otec mě vždy učil, že byliny je lépe hledat o samotě, mohu je tak lépe poprosit, aby mi pomohly a má-li to tak být, pak naleznu to, co hledám.“
+
+Tančící vlčice má naprostou pravdu, vše na světě je posvátné a pokud upřímně hledá to, co potřebuje, jistě bude úspěšná. Proto si sedneš do stínu za jeden z větších balvanů a přeješ dívce, aby nalezla to, co hledá. Dívka pomalu odchází, ještě se za ní chvíli díváš a obdivuješ její opravdu velmi ladné křivky těla a neméně hezké chody, ale poté vděčně uléháš do nízké trávy u kamene a během několika chvil usínáš, tanec dokáže opravdu vyčerpat.
+
+Z bezesného spánku Tě někdo probouzí, uff, moc jsi toho asi nenaspal. Ale když otevíráš oči, vidíš tu, se kterou jsi sem přišel a probuzení od dívky není vůbec nic nepříjemného. „Ale, ale, náš chrochtající orel se zahalil svými perutěmi a usnul za bílého dne, že by ho jeho tanec tak unavil? Nedivím se, všechny tance mámící smysly způsobují únavu, teď ale musíme už jít. Nerada Tě budím, tatínek Tě sem ale poslal pro bylinu a to znamená, že nemá času nazbyt.“
+
+Ty odpovídáš – je možné vybrat si pouze jedinou odpověď, po každé z nich je hráč i dívka automaticky přesunut do lokace 22:
+
+1. „Raději bych tady s Tebou zůstal až do západu slunce a možná ještě déle.“
+
+„A já bych se jistě nebránila, nespěchejme však, oba dva víme, že jsou před námi ještě nějaké povinnosti. Všichni se teď připravujeme na obřad po lovu bizonů, mé jméno Ti prozradí, jaká role mi byla přisouzena,“ a rozesměje se. „Poté, budeš-li mít stále zájem, se s Tebou na toto i jiné místo ráda podívám.“
+
+Hm, milé děvče a je ještě milejší, že nikam nespěchá. Já jsem sice spěchal z města, teď je ale spěch u konce a i když bych se rád vrátil domů, zde už jsem téměř jako doma. Takže hezky postupně a budeme-li se chtít blíže poznat, nebudeme nic uspěchávat.
+
+2. „Tatínek přece počká, raději bych ještě spal, jsem tak unavený.“
+
+„Já vím a jen velmi nerada jsem Tě vzbudila, tatínek ale spěchá a jako léčitel má jistě dobrý důvod. Dnešní den je náročný, ale ten další bude jistě klidnější.“
+
+Musím uznat, že Tančící vlčice má pravdu. Její otec bylinu potřebuje a není to pro něj, ale pro někoho dalšího. Vložil do mě svoji důvěru a já bych ji neměl zklamat. Tím spíše, že tahle dívka se mi opravdu začíná líbit.
+
+3. „Máš pravdu, také mám ve vsi ještě nějakou práci. Ale doufám, že zde nejsme naposledy.“
+
+„Ano, oba ještě musíme za svými povinnostmi. Ale poté, budeš-li mít stále zájem, se s Tebou na toto i jiné místo ráda podívám.“
+
+Hm, milé děvče a je ještě milejší, že nikam nespěchá. Já jsem sice spěchal z města, teď je ale spěch u konce a i když bych se rád vrátil domů, zde už jsem téměř jako doma. Takže hezky postupně a budeme-li se chtít blíže poznat, nebudeme nic uspěchávat.
+
+Získán předmět: rostlina jelení krk
+- popis: Zelenožlutá rostlina vydávající nasládlou vůni. Jako lékař jsi se s ní nikdy nesetkal, jistě bude zajímavé a poučné sledovat léčitele, jak s ní zachází.
+
+Nyní se oba automaticky přesunou do lokace č. 22.
+
+Pokud hráč chytil poníka, absolvoval lov bizonů a na obřadu masaháome mu byla požehnána orlí medicína, může požehnanou orlí medicínu použít v této lokaci a získat svojí vizi. Zde jsou dvě možnosti, buď vizi získá sám nebo společně s Tančící vlčicí:
+
+1. Hráč absolvuje vizi sám:
+Již je to dlouho, kdy jsi získal svou první vizi. Pamatuješ si, že naposledy jako chlapec a v tu dobu jsi jejímu obsahu nikterak dobře nerozuměl. Nyní jsi mnohem, mnohem zkušenější a cítíš, že tento okamžik bude patřit k jednomu z nejdůležitějších ve Tvém životě. Ještě před tím, než slunce ukončí svojí viditelnou pouť po dnešní obloze, poděkuješ všem světovým stranám za současný okamžik, usedneš na nejvyšší vrchol a pokoušíš se zklidnit své myšlenky. Po posledním záblesku vytahuješ svoji orlí medicínu a plně se na ni soustředíš, Tvá mysl, tělo i duše je nyní v rovnováze a vnímá právě tento jediný předmět... Čas určitě běží, ale Ty jej nevnímáš... hluboce cítíš, že on skutečně neexistuje, i když ve Tvém životě je nesmírně důležitý... Nyní se Ti přehrávají všechny události v městě bledých tváří, odkud jsi tak toužil uprchnout. I když víš, že nemá smysl se na někoho zbytečně rozčilovat, tu a tam ses neubránil myšlence, že je Ti někdo odporný a Ty jej nemůžeš vidět ani na okamžik, aby se Ti ruce nesevřely v pěst... Ale náhle vnímáš, že i toto je nesmyslné a pudové jednání, ti lidé přece hrají svoui roli stejně jako Ty tu svoji. Ale stále, i když nerad, je vidíš jako dobré a špatné... ... ... A teď to přišlo, jako záblesk osvícení cítíš, že jen Tvoje mysl si myslí, že jsou dobří nebo špatní a neustále něco a někoho hodnotí. Ale dobro a zlo přece neexistuje, vždyť co je pro jednoho dobré, je pro druhého špatné a naopak. Hluboce cítíš, že nic není dobré a špatné, vše, co vidíš kolem sebe, prostě existuje, je prázdné, jen zde je, plné malé, hrozně malé části Velkého tajemství, které bledé tváře nazývají Bohem a jiní lidé zase jinak, je to ale stále ta samá prvotní energie, která se vyskytuje ve všem živém a neživém proto, aby mohla skrze velmi dlouhé koloběhy inkarnací živých bytostí poznat sama sebe... a náhle Tě probouzí vycházející slunce, které Tě pálí na zátylku. Co to jen bylo za zvláštní vizi. Vše na světě je prázdné a zároveň božské, nic není dobré ani zlé a jen Tvé myšlenky a slova něco označují jako dobré a špatné, hezké a ošklivé, správné a nesprávné... Jak prosté, ale rozumem plným myšlenek jen stěží uchopitelné. Stále více vnímáš, o čem život je, určitě by ale stálo za to zeptat se někoho zkušenějšího, nejlépe toho, kdo podobnou vizi zažil.
+
+Nyní se objeví klasický popis lokace.
+
+2. Hráč absolvuje vizi společně s Tančící vlčicí
+
+Společně s Tančící vlčicí jste dorazili k místu, kde šajenští muži i ženy hledají vize. Cesta byla opravdu velmi příjemná, milá dívka Tě držela a stále drží za ruku a Ty dobře víš, že i ona je velmi ráda, že ji doprovází někdo, s kým si báječně rozumí. Když dorážíte na místo, oba se rozdělíte a najdete si o samotě klidný vršek s nádherným výhledem do okolí. Oba víte, že vize je záležitost jediné konkrétní bytosti a absolvovat ji ve dvou i přes Vaši obrovskou náklonnost nelze... Již je to dlouho, kdy jsi získal svoju první vizi. Pamatuješ si, že naposledy jako chlapec a v tu dobu jsi jejímu obsahu nikterak dobře nerozuměl. Nyní jsi mnohem, mnohem zkušenější a cítíš, že tento okamžik bude patřit k jednomu z nejdůležitějších ve Tvém životě. Ještě před tím, než slunce ukončí svojí viditelnou pouť po dnešní obloze, poděkuješ všem světovým stranám za současný okamžik, usedneš na nejvyšší vrchol a pokoušíš se zklidnit své myšlenky. Po posledním záblesku vytahuješ svoji orlí medicínu a plně se na ni soustředíš, Tvá mysl, tělo i duše je nyní v rovnováze a vnímá právě tento jediný předmět... Čas určitě běží, ale Ty jej nevnímáš... hluboce cítíš, že on skutečně neexistuje, i když ve Tvém životě je nesmírně důležitý... Nyní se Ti přehrávají všechny události v městě bledých tváří, odkud jsi tak toužil uprchnout. I když víš, že nemá smysl se na někoho zbytečně rozčilovat, tu a tam ses neubránil myšlence, že je Ti někdo odporný a Ty jej nemůžeš vidět ani na okamžik, aby se Ti ruce nesevřely v pěst... Ale náhle vnímáš, že i toto je nesmyslné a pudové jednání, ti lidé přece hrají svou roli stejně jako Ty tu svoji. Ale stále, i když nerad, je vidíš jako dobré a špatné... ... ... A teď to přišlo, jako záblesk osvícení cítíš, že jen Tvoje mysl si myslí, že jsou dobří nebo špatní a neustále něco a někoho hodnotí. Ale dobro a zlo přece neexistuje, vždyť co je pro jednoho dobré, je pro druhého špatné a naopak. Hluboce cítíš, že nic není dobré a špatné, vše, co vidíš kolem sebe, prostě existuje, je prázdné, jen zde je, plné malé, hrozně malé části Velkého tajemství, které bledé tváře nazývají Bohem a jiní lidé zase jinak, je to ale stále ta samá prvotní energie, která se vyskytuje ve všem živém a neživém proto, aby mohla skrze velmi dlouhé koloběhy inkarnací živých bytostí poznat sama sebe... a náhle Tě probouzí vycházející slunce, které Tě pálí na zátylku. Co to jen bylo za zvláštní vizi. Vše na světě je prázdné a zároveň božské, nic není dobré ani zlé a jen Tvé myšlenky a slova něco označují jako dobré a špatné, hezké a ošklivé, správné a nesprávné... Jak prosté, ale rozumem plným myšlenek jen stěží uchopitelné. Stále více vnímáš, o čem život je, určitě by ale stálo za to zeptat se někoho zkušenějšího, nejlépe toho, kdo podobnou vizi zažil. Oba dva se snažíte co nejlépe popsat svojí vizi, Tvá milá družka viděla ve svém snu orla a vlka, kteří společně cestovali směrem k zapadajícímu slunci a byli pronásledováni stádem ohnivých koní, také vskutku zvláštní vidění...
+
+Nyní se objeví klasický popis lokace.
+Hráč by si měl uvědomit, že vyložení vize může zprostředkovat nejlépe šaman kmene, který má v těchto záležitostech praxi. Pokud hráč absolvoval vizi společně s Tančící vlčicí, je možné se jí zeptat na slovo vize:
+Hovor s Tančící vlčicí při zeptání se na vizi:
+Tančící vlčice odpoví: „Sama nevím přesně, k čemu mě prožitá vize má vést, pojďme se oba zeptat našeho šamana, který nám ji jistě uchopitelněji vyloží.“
+Pokud vizi absolvoval hráč sám, nezbývá mu nic jiného, než na hovor se šamanem sám přijít.
+
+Pokračování v lokaci 11
+
+Můžeš jít: V
+
+
+
+
+
+
+
+
+28 - koňské pastviny severně od Bizoní řeky
+
+Následující text zobrazit pouze jednou: „Tak toto místo mi kromě kruhu týpí asi nejvíce ukazuje, co znamená skutečná svoboda. Ve městě jsem se stále cítil těsně a i když jsem někdy zavítal na místní farmu, stále jsem cítil to ohraničení. Zde si není možné něco takového představit, obrovská plocha se táhne donekonečna na všechny strany a vítr místo toho, aby práskal dveřmi a zlobil nafintěné dámy, vesele čechrá koňské hřívy a dodává jím tak pocit naprosté nespoutanosti. Ten, kdo žije ve městech a toto jednou pozná, nemůže už nikdy zapomenout...“
+
+Obrovská volná plocha plná vysoké trávy a spousta majestátních koní je scenérie, kterou jsi ve městě opravdu neměl šanci poznat. Někteří řehtáci se poklidně pasou, jiní si hrají, válejí se nebo spolu dovádějí, radost pohledět. Stádový pud však drží koně pohromadě, společně se chodí k řece napít, společně schovat do lesa za řekou do stínu a společně vyvádějí právě zde.
+
+Vidíš: pasoucí se stádo, malé chlapce
+
+pasoucí se stádo
+- popis: Obrovské stádo pasoucích se koní, většinou z důvodu poměrně chudé zimní pastvy poměrně malých. Koně vypadají velmi spokojeně, protože žijí ve svém přirozeném prostředí. Sem tam vidíš pobíhat malé chlapce, kteří mají na koně dávat pozor.
+
+malí chlapci
+- popis: Malí indiánští chlapci se už od mala učí práci s koňmi, protože bez nich by na otevřené prérii byli ve veliké nevýhodě. Již pouhá přítomnost stačí k tomu, aby si koně na člověka zvykli, takže při dospívání nebudou mít problémy je bravurně ovládat.
+
+Při pokusu o konverzaci s chlapci: „Zkusil jsi oslovit ty nezbedy, oni ale pobíhají sem a tam. Lákají Tě, aby sis s nimi zaběhal také, ostatně proč ne, sám ale dobře víš, že to dlouho nevydržíš, svoji bývalou sílu a obratnost musíš teprve získat.“
+
+Při pokusu o konverzaci s chlapci, pokud se zde nachází malý strakatý poník a hráč jej dvakrát prozkoumal: „Podařilo se Ti jednoho odrostlejšího raubíře odchytit a ten Tě konečně začal vnímat. Ptáš se ho na toho strakatého nezbedu, zajímá Tě, komu patří a proč je to takový raubíř. Chlapec na Tebe zvědavě pohlédne a poté se rozchechtá: „Tak tohle je ten strejda, na kterého se Strakatý vítr tak nádherně vykadil.“ Aha, takže už o tom vědí všichni ve vsi, zlaté městské pavlače... Chlapec ale není vůbec mstivý, takže už vážnějším tónem pokračuje: „Na Strakatém větru jezdí Bystrá antilopa, je to jeho nejlepší lovecký kůň.“ „Jo, jasně,“ pomyslíš si, „tady si ze mě nakonec budou všichni dělat jen legraci.“ Docela divoce se na chlapce zadíváš, ale on s vážnou tváří dále pokračuje: „To je ale pravda. Tohohle poníka dostal darem od náčelníka sousedního kmene a i když se můj táta a máma docela smáli, přestali, když táta jel s náčelníkem na lov. Víš, strejdo, táta má toho nejrychlejšího koně na světě. A představ si, minule mě vzal na lov,“ a chlapec se hrdě vztyčí a ještě hrději se rozhlédne po celé prérii jako její pán... „Já toho poníka viděl. Tomu bys, strejdo, nevěřil, on s náčelníkem projel stádo jako nůž bizoním lojem strašlivou rychlostí, že nebyl ani vidět. Nic se mu nestalo, všem těm bizonům se vyhnul a víš, co se stalo? Náčelník dostal tři z nich při jediným lovu. Myslíš si, že mi psí náčelník toho koně dá?“ Chlapec ani nečeká na odpověď a odchází. Tak takhle to tedy je, na první pohled raubíř, ale jinak skvělý válečník, v duchu říkáš tomu lumpovi a koukáš na něj. Svět je plný překvapení.“
+
+Změna: Po návštěvě lokace č. 24 a akci s koňskou koblihou se zde objeví malý strakatý poník.
+
+malý strakatý kůň
+- popis při prvním prozkoumání: „Malý legrační koník, jen o něco větší než polovina Tvého těla, ano, to již víš, a také pěkný šibal a příšera za šera... Ten raubíř moc dobře ví, co provedl a jak vidno, stále jej hra baví. Když se k němu jen trochu přiblížíš, stejnou rychlostí odejde a pase se dál. Jestli tohle dělá i svému páníčkovi, pak to musí být nekonečně trpělivý člověk nebo snad samo Veliké tajemství...“
+- popis při druhém prozkoumání: „Máš chuť tomu lumpovi pořádně vyprášit kožich, co se do něj vejde. Takhle ho mít před sebou uvázaného a moci si jeho bezmoc vychutnat... ale tfuj, to přeci ne. Nešlo by se mu dostat na kobylku nějakým elegantnějším způsobem?“
+
+
+
+
+
+
+
+
+29 – před týpím dívky připravující se na tanec
+
+Hovor s dívkou:
+
+Ty začínáš:
+„Krásný den, děvče, Kroužící orel Tě zdraví a moc se mu líbí Tvůj tanec.“
+
+Dívčina odpověď:
+Dívka se náhle zastavila a s trochu povýšeným výrazem na Tebe hledí. Poté slyšíš její slova: „Hezký den, Kroužící orle, čemu vděčím za Tvoji návštěvu?“
+
+Ty pokračuješ:
+
+1. „Jaké je Tvé jméno?“
+
+Dívka pokračuje:
+
+„Jmenuji se Bystrá losice.“
+
+2. „Co je to za tanec? Nikdy jsem takový neviděl a moc se mi líbí.“
+
+Dívka pokračuje:
+
+„To víš, ten umím pořádně tančit jen já. Po lovu bizonů nás čeká obřad, kde jsem byla vybrána za Bílou vlčici, to je velmi důležité a nesmím udělat žádnou chybu, aby se na mě nikdo nezlobil.“
+
+3. „Nechceš mi být průvodcem po vsi? Ještě to tu moc neznám.“
+
+Dívka pokračuje:
+
+Dívka se rozchechtá: „Á, Kroužící orel potřebuje pomoc při seznamování. Proč ne, ráda si užiju nějakou procházku nebo raději vyjížďku, na koni jezdím mnohem raději, než chodím pěšky.
+
+Po této odpovědi se objeví ještě čtvrtá možnost dialogu:
+
+4. „Tak to budu moc rád a rád se Ti odvděčím.“
+
+Dívka pokračuje:
+
+„Tak k tomu určitě budeš mít příležitost. Moc ráda bych se podívala do města bledých tváří, Skvrnitý ohon mi říkal, že tam prodávají moc hezké věci a nejen to... Tady se mi líbí, ale já si chci pořádně užít, kdo mi to zakáže,“ a její výmluvný mnohoznačný pohled znamená vše nebo vůbec nic...
+
+Po vyčerpání všech témat k rozhovoru dívka tento sama ukončí:
+„Teď ale musím ještě cvičit, ať můj tanec stojí za to, určitě se uvidíme na slavnosti.“ a zazubí se na Tebe.
+
+Následně se objeví tento text: „Bystrá losice si nyní hledí jen svého tance a Tebe si už nevšímá. Přemýšlíš o tom, zda máš přijmout její nabídku doprovodu po vsi, něco se Ti na ní nezdá... proč tak touží podívat se do města? Ty jsi rád, že jsi se konečně odtamtud dostal a rozhodně se tam vracet nehodláš. Ten pocit nebo možná varování si ale nedovedeš vysvětlit, takže zatím nemá cenu řešit, co znamená, třeba je to jen něco, co pro Tebe nemá význam. Inu, co se má stát, se stane, nemá smysl o tom přemýšlet.“
+
+Pokud se sem hráč vrátí z obřadu masáhoame bez Bystré losice, popis se změní následovně:
+
+Před týpím, které je ozdobeno motivy kachen a květin, vidíš uvázaného koně na dlouhé šňůře, viditelně jižanského původu.
+
+Pokud se sem hráč vrátí z obřadu masáhoame s Bystrou losicí, popis se změní následovně:
+
+Oba se vracíte z obřadu dost unaveni a dívka, ze které únava již viditelně spadla, Tě láká sladkými slovy: „Kroužící orle, obřad jsme si všichni užili, teď je ale čas, abychom si užili jen my sami. Chci s Tebou být sama co nejdále odsud, noc ještě není u konce, tak co říkáš na to, že bychom se jeli společně projet na mém plavákovi? Severně odsud mám jedno místo, kde si můžeme užít a nikdo nás obtěžovat nebude.“
+Dívka se Ti samozřejmě líbí a je naprosto jasné, oč jí jde. Sice nejsi zrovna příznivcem muchlování se s někým, koho pořádně neznáš, ona se ale viditelně snaží právě o to. Sakra, ten severní směr není zrovna ten, který potřebuješ, ale moc se tu nevyznáš, takže už o tom nepřemýšlíš. Jen se necítíš právě nejlépe, to ale asi bude jen ta taneční únava. Rozhodnutí je na Tobě:
+
+1. Pojedeš s Bystou losicí
+
+„No to je slovo chlapa, posaď se za mě,“ radostně vykřikne dívčina a obratně skáče na svého plaváka. Ty si sedáš za ni, dívka ještě vykřikne „Pořádně se mě drž!“ a lehkým cvalem frčíte prérií směrem severním. Ta teda jede a jako by četla Tvoje myšlenky s divokým úsměvem se otočí a zakřičí na Tebe: „Tak co, Orle, jak se Ti moje jízda líbí? Teď Ti předvedu já, co umím a za chvíli se budeš moct ukázat i Ty, hajéééééé!“ s řevem pobídne koně do trysku. Uff, divoká příšerka každým coulem, jak vidno.
+Před Vámi se náhle objevuje okraj řídkého lesíka. Dívka dojede až k němu a tam prudce zastaví. Tak prudce, že se zakymáčíš jak osika ve větru a škodolibý řehot Bystré losice Ti jasně ukazuje, že tady se žádného slitování nedočkáš. Oba po chvíli sesedáte z koně, ten si jde vybrat vhodnou pastvu a dívka si okamžitě lehá na zem a říká Ti: „Tak pojď na mě, orle a koukej se chovat jako pořádnej hřebeček.“ Teda tohle je prudká ženština, ruku na srdce, opravdu si myslíš, že je pro Tebe ta pravá?
+
+1a. Ano, chci si s ní užít
+
+Rozhodl ses s poměrně neznámou dívkou si užít, je to Tvoje rozhodnutí a já je plně respektuji. Divoká jízda způsobila vzkypění Tvé krve a Tvé tělo jedná automaticky. Vrháš se na dívku jako smyslů zbavený a jí to viditelně nevadí. Při Vašem hřebčení jste si ovšem nevšimli, že tu nejste sami. Zdaleka ne sami… S namířenou puškou skáče z houští neznámý muž bledé tváře a drží Vás oba v šachu. Pro Vás oba přichází dosti rychlé vystřízlivění, zvláště když muž hlasitě volá na své společníky, které sice zatím nevidíte, ale podle dupotu se velmi rychle blíží. A je to tady, neznámí muži nejsou zase tak neznámí, dva z nich poznáváš jako občany Oklahoma Elko… Tak tomu říkám průser, tihle jdou určitě mimo jiné i po Tobě, Tvůj útěk samozřejmě nezůstal utajen.
+„Veliteli, našli jsme ho, teda já ho našel,“ vypíná hruď ten, který Vás nejdříve objevil. „A viditelně má s sebou jednu moc pěknou kůstku, hřebec jedens“ zachechtá se ten, který asi bude tím osloveným velitelem. „Toho rudocha bereme sebou za šéfem a s touhle holkou si taky užijem.“
+„Ale já s Vámi ráda pojedu pánové, tenhle lump mě sem dovezl násilím,“ říká ta mazaná nezbednice a toužebně se zahledí na velitele. Ten v mžiku pochopí a zahraje dokonalé divadlo: „Tak takhle to teda je, hajzl zdrhá z města a pak i indiánům krade pěkný holky. Tumáš, Ty svině!“ a bolestivý kopanec přistane na Tvém břiše, až se ohneš jak hadice před hadem. „A tady je další!“ To už se ke kopání přidávají i ostatní. Pomalu ztrácíš vědomí, ještě zaslechneš Bystrou losici, jak nabízí veliteli, že jej ráda doprovodí. Poté už necítíš nic a Tvá duše pomalu opouští Tvé bývalé tělo, což je pocit, při kterém už opravdu nic nebolí…
+
+Šikovná holka, není-liž pravda? Ta Tě tedy dostala, sama má, co chce nebo co si alespoň myslí, že chce. Ale také ji čeká osud podobný Tobě... To už Tě však nemusí trápit, ovšem až se znovu narodíš, pamatuj si, že dát na svojí intuici se určitě vyplatí. Jsi mrtvý, ale nebuď smutný, stejně jako v této hře, i ve skutečném životě můžeš vše znovu nastartovat a poučit se ze svých minulých chyb, no není to skvělé?
+
+1b. Něco se mi na ní nezdá a já tyhle ryklokvašky opravdu nemusím. Tohle není dívka mých představ.
+
+Náhle jsi se rozhodl, že tohle není žena vhodná pro Tebe a stále se nemůžeš zbavit pocitu, že je tomu skutečně tak. Necháváš ležící a natěšenou klisničku bez povšimnutí, s nevídanou rychlostí nasedáš na plaváka a mizíš zpět. Slyšíš nadávky dívky, která se Tě marně snaží dohnat: „Ty vopelichaná příšero, ať Ti všechna pera vypadají, takhle se chováš ke mně, ke mně!“ A rozhodl jsi se naprosto správně, ani nechtěj vědět, co by se Ti stalo, kdybyss ní zůstal… Jsi však ve vsi hostem, takže víš, co bude nejmenším zlem, dojedeš k týpí Bystré losice a jejího koně uvážeš tam, kde byl před Vaším výletem. Ona se domů dostane, zase až tak daleko to není a určitě se jí podaří klofnout jiného důvěřivce, Ty to ale už určitě nebudeš.
+
+Následuje popis lokace č. 29 stejně jako po návratu z obřadu
+
+2. Odmítneš Bystrou losici
+
+Dívka se na Tebe škaredě zamračí: „Chm, ženská aby si pořádnýho chlapa vyprosila někde až u Velkýho tajemství nebo já nevím kde. Tak si tady buď sám, já si najdu někoho lepšího.“ S těmito slovy nasedá na koně a už se na Tebe ani nepodívá. Lehkým cvalem mizí neznámo kam. Škoda, žádnou ženštinu se Ti ulovit nepodařilo, ale život jde dále a co se Ti nepodaří dnes, podaří se zítra.
+
+
+
+Popis lokace se změní následovně:
+
+Před týpím, které je ozdobeno motivy kachen a květin, vidíš uvázaného koně na dlouhé šňůře, viditelně jižanského původu.
+
+
+
+
+
+
+

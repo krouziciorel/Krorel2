@@ -18,7 +18,7 @@
 mistnostPredTypimZranenehoLovce : OutdoorRoom 'Před týpím zraněného lovce' 
 		'před týpí zraněného lovce'
 		"Ze zcela bělostného týpí bez jakýchkoliv ozdob se ozývá slabé sténání. 
-		Vchodové dveře jsou otevřeny.\n 
+		Vchodové dveře jsou otevřeny.\n Vidíš týpí.
 		Můžeš vstoupit dovnitř, jít na severovýchod a na jihozápad. "     
 
 	atmosphereList : ShuffledEventList

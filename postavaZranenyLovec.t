@@ -11,7 +11,7 @@
 #include <cs_cz.h>
 
 /*
- *   Indiánská žena Bystrá losice
+ *   Indiánský zraněný lovec
  */
 zranenyLovec : Person 'lovec' 'lovec' *1 @mistnostTypiZranenehoLovce
 	"Muž ve středních letech leží a odpočívá. Jeho zranění sice není

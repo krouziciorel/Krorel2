@@ -25,7 +25,7 @@ mistnostPredTypimOchrancePosvatneBizoniCapky : OutdoorRoom 'Před týpím ochrá
 		Vše nasvědčuje tomu, že se nacházíš v táboře šajenů, kteří se oddělili od dříve sjednoceného kmene 
 		severním směrem od svých původních lovišť. <<only>>Stojíš před jedním z nejposvátnějších příbytků, 
 		které v šajenské vsi lze nalézt. Proto se chovej tiše a ohleduplně, na tomto místě asi nikdo nebude 
-		zrovna nadšen Tvým výskáním a řevem.\n 
+		zrovna nadšen Tvým výskáním a řevem.\n Vidíš týpí.
 		Můžeš jít na severovýchod a na jihozápad. "     
    
 	in: DeadEndConnector { "<<first time>>Do tohoto týpí rozhodně povolený vstup nemám a o něco podobného se v 

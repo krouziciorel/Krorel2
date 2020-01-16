@@ -22,7 +22,7 @@ mistnostTypiZranenehoLovce : Room 'Týpí zraněného lovce' 'týpí zraněného
 		na ošklivě zraněného muže, který leží na veliké bizoní dece. Rána na boku
 		skutečně nevypadá dobře, přes veliké zelené listy je vidět nyní již zaschlá
 		krev.\n 
-		Vidíš zraněného lovce, deku, lovecké nástroje, koňskou výstroj
+		Vidíš zraněného lovce, deku, lovecké nástroje a koňskou výstroj.
 		Můžeš jít ven. "
 
 	out: TravelMessage { -> mistnostPredTypimZranenehoLovce "Malým otvorem vycházíš ven. " }

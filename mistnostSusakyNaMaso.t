@@ -16,10 +16,13 @@
  *   Sušáky na maso
  */
 mistnostSusakyNaMaso : OutdoorRoom 'Sušáky na maso' 'sušáky na maso'
-		"Zde mají indiánské ženy postavenu spoustu jednoduchých dřevěných sušáků, 
+	   "Zde mají indiánské ženy postavenu spoustu jednoduchých dřevěných sušáků, 
 		kde připravují maso na pozdější použití. Vždy po lovu jsou plně obsypány čerstvým sušícím se masem, 
 		které slouží jako hlavní potrava celému společenství.\n 
-		Můžeš jít na sever, severozápad a na jihozápad. "    
+		<<first time>>Trochu bokem visí prorostlá flákota masa, která slouží jako lákladlo pro letící dravce. 
+		Stvoření země se při sušení a hemžení pracovitých žen drží dále, vzdušní lovci jsou však troufalejší, 
+		proto takové opatření. <<only>>
+		Můžeš jít na sever, severozápad a na jihozápad.\n Vidíš sušáky na maso."     
 
 	atmosphereList : ShuffledEventList
 	{
@@ -43,4 +46,33 @@ mistnostSusakyNaMaso : OutdoorRoom 'Sušáky na maso' 'sušáky na maso'
   	north = mistnostPrerijniLovisteBizonu 
   	southwest = mistnostMistoProSajenskeSlavnostiAObrady 
   	northwest = mistnostPredTypimLovce 
+;
+
++ susaky : CustomImmovable 'sušáky' 'sušáky' *2
+   "Na stepi se maso usuší v horku za jediný den. To je něco naprosto fantastického, zkus si to doma. Autor této hry 
+	suší na kamnech maso 2 – 3 dny a když to zkusil venku, večer mu bylo sežráno šikovnými kočkami. "
+
+	isPlural = true
+
+	cannotTakeMsg = 'Sušáky nejlépe poslouží tam, kde jsou a až se kmen bude stěhovat, lapne je sebou. '
+
+    gcName = 'sušáky, sušákům, sušáky, sušácích, sušáky'
+    gcVocab = 'sušáky/sušákům/sušácích'
+;
+
++ navnada : Thing 'návnada' 'návnada na dravce' *3
+   "Návnadu na dravce představuje staré pro lidskou bytost již nepoživatelné maso. "
+
+    dobjFor(Take)
+    {
+        action()
+        {
+            "No, dobrá, teď tu nikdo není, takže by to mohlo projít, až nějaká žena půjde okolo, třeba sem nějakou tu návnadu zase připraví. ";
+
+            self.moveInto(me);
+        }
+    }
+
+    gcName = 'návnadu, návnadě, návnadu, návnadě, návnadou'
+    gcVocab = 'návnadu návnadě návnada návnadou na dravce'
 ;
