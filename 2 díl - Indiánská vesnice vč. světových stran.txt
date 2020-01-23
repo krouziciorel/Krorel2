@@ -317,22 +317,8 @@ Skvrnitý ohon: „Phá, blázne jeden. Chceš hnít v nějaké vesnici nadosmrt
 
 
 8a – týpí náčelníkova příbuzného
+- doplň rozhovor
 
-Po vstupu do týpí si ihned všimneš jeho velmi skromného interiéru poskytujícího sice dostatečný komfort k bydlení, ovšem o žádnou výstavnost se zde rozhodně nejedná. Na posteli sedí žena ve středních letech a právě si maluje obličej žlutou barvou. Poblíž má také kostěné česadlo, péče o vlasy je na pořadí dne asi hned poté. Na momentálně vyhaslém ohništi vidíš trojnohu s malou zavěšenou plotnou, na které je položena prázdná pánvice.
-
-Vidíš: ženu ve středních letech, ohniště, trojnohu, pánvici
-
-žena ve středních letech
-- popis: Středně vysoká žena ušlechtilých rysů oděna do šatů z modré kalikové látky přepásané moc hezkým červeným pásem. Právě si barví obličej a nutno dodat, že pohled na ní je více než příjemný.
-
-ohniště
-- popis: Momentálně vyhaslé ohniště ohraničené kameny čeká jen na toho, kdo mu dodá lesk šlehajících plamenů.
-
-trojnoha
-- popis: Velmi praktická kovová trojnoha zaražená do země na třech okrajích ohniště se zavěšenou malou plotnou, na kterou lze položit cokoliv dalšího
-
-pánvice
-- popis: Malá kovová pánvice určená k pečení nejrůznějších placek nebo malých kousků masa.
 
 Při pokusu o konverzaci:
 
@@ -403,15 +389,10 @@ Pokud hráč odpoví špatně a znovu se snaží navázat konverzaci, žena zač
 
 
 9 – před týpím mírového náčelníka
+- dokonči postavy a návaznosti na příběh
 
-Popis před a po lovu bizonů vyjma návštěvy těsně po lovu:
 
-Nyní jsi dorazil přímo do středu táborového kruhu, kde se vyjímá sice ohromné týpí, ale zcela bez ozdob. Dveře týpí jsou zavřené.
 
-Vidíš: týpí mírového náčelníka
-- popis: Tradiční šajenské týpí je sice větší než ostatní, ale zcela bez ozdob. Pozice mírového náčelníka se zde neodvíjí od jeho bohatství, právě naopak. Dát najevo moudrost v nejrůznějích situacích a umět se podělit se svým majetkem s potřebnými je to, co dělá náčelníka náčelníka dobrým a úctyhodným. Jaký kontrast k tomu, co znáš Ty, nemám pravdu?
-
-Při pokusu o sebrání týpí mírového náčelníka: „Jestli jsi to ještě nepoznal, jsem ve středu táborového kruhu. Před týpím náčelníka v mírových časech. Už je Ti to jasnější?“
 
 Popis po lovu bizonů s vyvolávačem a ostatními lovci:
 
@@ -507,20 +488,6 @@ Nasedáte na Rudého bleska, ten je báječně ovladatelný s jistými chody a p
 
 Nyní je třeba s koněm dorazit do lokace 20, kde druhý díl končí.
 
-Můžeš jít: S, J, Z, V, dovnitř
-
-
-
-
-
-
-
-
-9a – týpí mírového náčelníka
-
-Tato lokace není přístupná, objeví se jen:
-
-„Nemohu vstupovat do týpí se zavřenými dveřmi a zvláště ne do týpí náčelníka. Budu si muset počkat nebo jít na věc jinak.“
 
 
 
@@ -530,25 +497,7 @@ Tato lokace není přístupná, objeví se jen:
 
 10 – před týpím léčitele
 
-Přicházejícímu návštěvníku se na zde postaveném týpí ukáže překrásný symbol jitřní hvězdy a plejád, okolo nichž krouží majestátní orel. Před stanem stojí na trojnožce symbol léčitele, velmi důležité osoby pro celou vesnici. Dveře jsou otevřeny.
-
 - pozn. orel znamená indicii pro hráčovo malování, které bude potřebovat na obřad masaháome
-
-Vidíš: Léčitelovo týpí, Symbol léčitele
-
-Léčitelovo týpí
-- popis: Na pohled opravdu překrásná stavba, jejíž umně vyvedená kresba uklidňuje již na první pohled.
-
-Při pokusu o sebrání léčitelova týpí: „To opravdu ne, nikdy nevím, kdy se i mně léčitel může hodit, nenechavče.“
-
-Symbol léčitele
-- popis: Svazek sušených bylin je uchycen na trojnožce tak, aby zpodobňoval letícího orla. Opravdu velmi zajímavé, jako by sis na něco podobného pamatoval... Ne, nedokážeš si vzpomenout, alespoň zatím ne.
-
-Při pokusu o sebrání symbolu léčitele: „Prosím nezapomeň, že tady se opravdu nepohybujeme v kapitalistickém marasmu. Léčitele tudíž neberu jako svoji konkurenci, ale jako někoho, s kým bych se rád seznámil. Nechovej se tržně.“
-
-Můžeš jít: J, Z, V, dovnitř
-
-
 
 
 
@@ -661,8 +610,6 @@ Vysvětlil jsi Jarnímu kvítí, do jaké „šlamastyky“ jsi se dostal při p
 
 získán předmět:
 náhrdelník
-
-Můžeš jít: ven
 
 
 

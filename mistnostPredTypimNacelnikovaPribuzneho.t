@@ -29,7 +29,7 @@ mistnostPredTypimNacelnikovaPribuzneho : OutdoorRoom 'Před týpím náčelníko
   	south = mistnostPredTypimZvedavehoIndiana
 ;
 
-+ typiNacelnikovaPribuzneho  : CustomImmovable 'týpí' 'týpí' *4
++ typiNacelnikovaPribuzneho : CustomImmovable 'týpí' 'týpí' *4
     "Poměrně veliké týpí z bizoních kůží. Jen podle umístění ve vsi a štítu na trojnožce, 
 	 který vidíš poblíž vchodu, poznáváš, že se jedná o osobu či osoby příbuzné mírovému náčelníkovi. "
 
@@ -43,7 +43,7 @@ mistnostPredTypimNacelnikovaPribuzneho : OutdoorRoom 'Před týpím náčelníko
 	"Nádherně pomalovaný štít, který má svého majitele ochránit před vším zlým a neznámým. "
 
 	cannotTakeMsg = 'Měl bys vědět, že malba na těchto štítech pochází z vize svého majitele a na nikoho 
-	jiného nemá žádný vliv. A jak jistě víš, krást se nemá. Alespoň zde to určitě dělat nehodlám.“ '
+	jiného nemá žádný vliv. A jak jistě víš, krást se nemá. Alespoň zde to určitě dělat nehodlám. '
 
     gcName = 'štítu, štítu, štít, štítu, štítem'
     gcVocab = 'štítu/štít/štítem'

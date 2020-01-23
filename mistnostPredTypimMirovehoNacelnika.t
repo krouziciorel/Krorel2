@@ -28,3 +28,16 @@ mistnostPredTypimMirovehoNacelnika : OutdoorRoom 'Před týpím mírového náč
   	south = mistnostPredTypimNacelnikovaPribuzneho 
 ;
 
++ typiMirovehoNacelnika : CustomImmovable 'týpí' 'týpí' *4
+    "Tradiční šajenské týpí je sice větší než ostatní, ale zcela bez ozdob. Pozice mírového náčelníka se 
+	zde neodvíjí od jeho bohatství, právě naopak. Dát najevo moudrost v nejrůznějích situacích a umět se 
+	podělit se svým majetkem s potřebnými je to, co dělá náčelníka náčelníka dobrým a úctyhodným. 
+	<<first time>>Jaký kontrast k tomu, co znáš Ty, nemám pravdu? Zní to hezky, ale jakmile se něco takového
+	dozví šikovné bledé tváře, tento náčelník bude první, kdo bude šikovně odstraněn, ba jo, to jo. <<only>>"
+
+    cannotTakeMsg = 'Jestli jsi to ještě nepoznal, jsem ve středu táborového kruhu. Před týpím náčelníka v mírových časech. 
+	Už je Ti to jasnější? '
+
+    gcName = 'týpí, týpí, týpí, týpí, týpím'
+    gcVocab = 'týpí/týpí/týpí/týpímu/típí/típí/típí/típí/mu/tee-pee/tee-pee/tee-pee/tee-peemu'
+;

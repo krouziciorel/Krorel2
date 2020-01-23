@@ -88,6 +88,15 @@ mistnostTypiBystrehoRysa : Room 'Týpí Bystrého rysa' 'týpí Bystrého rysa'
     gcVocab = 'lenošek/lenoškám/lenošky/lenoškách/lenoškami'
 ;
 
++ Decoration 'trojnožka' 'trojnoha' *3
+   "Šikovná kovová trojnožka je rozhodně trvanlivější, než klasická dřevěna a do iteriéru týpí se parádně hodí. "
+
+	notImportantMsg = 'Tuhle věc si mohu vyrobit sám, i když jen ve dřevěném provedení, brát jí paní domácí by opravdu nedopadlo dobře. '
+
+    gcName = 'trojnožku, trojnožce, trojnožka, trojnožce, trojnožkami'
+    gcVocab = 'trojnožku/trojnožce/trojnožka/trojnožkami trojnohu/trojnoze/trojnoha/trojnohami'
+;
+
 + kotlik : RestrictedContainer, CustomImmovable 'kotlík' 'kotlík' *2
     "Poctivý želený kotlík si každá žena považuje, indiáni neumějí vyrábět předměty z kovů. A není rozhodně prázný. "
 
@@ -232,7 +241,7 @@ mistnostTypiBystrehoRysa : Room 'Týpí Bystrého rysa' 'týpí Bystrého rysa'
 	jinak ale ne. "
 
     gcName = 'jehly, jehle, jehlu, jehle, jehlou'
-    gcVocab = 'jehly/jehle/jehla/jehlou'
+    gcVocab = 'jehly/jehle/jehlu/jehlou'
 ;
 
 ++ nit : Thing 'niť' 'niť' *3

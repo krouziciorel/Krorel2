@@ -19,9 +19,9 @@ mistnostSusakyNaMaso : OutdoorRoom 'Sušáky na maso' 'sušáky na maso'
 	   "Zde mají indiánské ženy postavenu spoustu jednoduchých dřevěných sušáků, 
 		kde připravují maso na pozdější použití. Vždy po lovu jsou plně obsypány čerstvým sušícím se masem, 
 		které slouží jako hlavní potrava celému společenství.\n 
-		<<first time>>Trochu bokem visí prorostlá flákota masa, která slouží jako lákladlo pro letící dravce. 
-		Stvoření země se při sušení a hemžení pracovitých žen drží dále, vzdušní lovci jsou však troufalejší, 
-		proto takové opatření. <<only>>
+		<<first time>>Trochu bokem visí prorostlá flákota masa, která slouží jako 
+		lákladlo pro letící dravce. Stvoření země se při sušení a hemžení pracovitých žen drží dále, vzdušní 
+		lovci jsou však troufalejší, proto takové opatření. <<only>>
 		Můžeš jít na sever, severozápad a na jihozápad.\n Vidíš sušáky na maso."     
 
 	atmosphereList : ShuffledEventList
