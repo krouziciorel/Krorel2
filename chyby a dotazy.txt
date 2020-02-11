@@ -41,8 +41,48 @@ každou místnost denní i noční verzi, noc se spustí např. po zahájení ta
 
 
 4. Nefunguje příkaz "jdi do týpí", ale funguje např. "jdi dovnitř"
-- zde je třeba využít Enterable, musel bych však nejspíš mít vše např. v soubotu předTypimLovce podobně jako v Heidi
+- zde je třeba využít Enterable, musel bych však nejspíš mít vše např. v souboru předTypimLovce podobně jako v Heidi
 - mohu ale napsat do tipů ve hře, že tuto funkci zatím nepoužívat a zeptám se na fóru
+
+Krásné ránko přeji,
+
+hlásím, že vývoj jde podle plánu, nejvíce času zaberou detaily typu přesného popisu všeho možného, správné mluvnické
+rody a košaté rozhovory. Zatím jsem si poradil se všemi potížemi ohledně postav, práce s oděvy i kontejnery, opravdu
+mi velmi pomáhá, když se umím podívat do knihovny funkcí a metod, kterou jsem si upravil pro Zeal. Dnes jsem dokonce
+zjistil, že nejsem zdaleka sám, kdo vyvíjí hru z indiánského prostředí, hra This land is my land vypadá moc pěkně, sice
+si jí na svém železe opravdu nepustím, ale i ta videa stojí za to.
+
+Zeptal bych se na jednu drobnost, kterou sice umím vyřešit, ale rád bych věděl, zda je možné elegantní řešení vzhledem
+ke struktuře mých zdrojáků. Jedná se o využití třídy Enterable, pokud chci např. jít do týpí, mohu zadat "dovnitř" nebo
+"jdi dovnitř", ale po zadání "jdi to týpí" dostanu odpověď "To není něco, do čeho bys mohl vstoupit". Situaci chápu,
+ostatně popisuješ jí ve svém návodu a také v Getting Started in TADS3 je na straně 56 přesně vysvětleno, co a proč dělat 
+plus v Library a souboru travel.t je krásně vidět provázanost jednotlivých tříd.
+V příloze zasílám minimální zdrojáky pro postavu a dvě místnosti, je možné při této struktuře docílit funkčnosti příkazu
+"jdi to týpí"? Pokud to nebude možné, nezbývá mi vše předělat tak jak popisuje manuál a je vyřešeno např. u chaty v Heidi.
+
+Plus bych měl ještě něco z druhého soudku, TADS stále prozkoumávám a z Frobtads 1.2.3 jsem již před časem přešel na verzi 
+1.2.4. Vše je OK, jen pokud se pokouším zkompilovat Základnu, dostávám následující chybové hlášení:
+
+symbol_export itemTablet.t -> obj/itemTablet.t3s
+Neoprávněný přístup do paměti (SIGSEGV) (core dumped [obraz paměti uložen])
+
+Program v Cčku bych např. projel pomocí GDB a Valgrindu, zde v TADSu debugger nemám. Mohu poprosit o simulaci, docela by
+mě zajímalo, kde může být problém, protože se s ním při své budoucí tvorbě mohu setkat taky.
+
+Jdu makat dále, tvorba mě čím dál více baví a to parádní způsob pro další vývoj.
+
+---
+
+Citace: Kroužící orel  15. Leden 2020 - 10:33
+
+    Je možné při této struktuře docílit funkčnosti příkazu "jdi to týpí"? Pokud to nebude možné, nezbývá mi vše předělat tak jak popisuje manuál a je vyřešeno např. u chaty v Heidi.
+
+
+Myslíš bez použití EntryPortalu? No zkusil jsem níže uvedené a zdálo se mi, že to funguje bez problému, tedy že jsem enterable přesměroval na cílovou lokaci, takže se zdá, že není potřeba směrovat na místní objekt představující dveře, který směruje na protilehlou lokaci, ale jde směrovat rovnou na cíl.
+
+Kód: [Vybrat]
+
++ typiBystrehoRysa : Enterable, CustomImmovable -> mistnostTypiBystrehoRysa 'týpí' 'týpí' *4
 
 
 ----------------------------------------------------------------------------------------------------------------------

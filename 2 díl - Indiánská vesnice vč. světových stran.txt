@@ -872,6 +872,31 @@ Můžeš jít: ven
 - doplnit místo pro koupání, zde jsem nenašel něco jako dobjfor wash, potřebuji se umýt, slovník výraz umej nezná
   - zná ale vyčisti - cleanwith
   - v Heidi je cannotCleanMsg = dobjMsg('Na tohle teď nemáš čas. ')
+
++key: PresentLater, Key 'key' 'key' @altar
+    "It is a <<unless clean>>grimy<<end>> bronze key. <<if clean>>On it is \
+    etched the word <q><<keyword>></q>. "
+    material = 'bronze'
+    clean = nil
+    keyword = (keyword = randomGreekWord(), targetprop)
+    dobjFor(Clean) { verify { } action { askForIobj(CleanWith); } }
+    dobjFor(CleanWith)
+    {
+        verify
+        {
+            if (clean)
+                illogicalAlready('{The dobj/He} {is} already clean. ');
+        }
+        action
+        {
+            gDobj.clean = true;
+            "{You/He} clean{s} {the dobj/him}, revealing an inscription. ";
+        }
+    }
+
+    dobjFor(Read) { verify { nonObvious; } }
+;
+
 - doplnit koupající se děti, ideálně jednoho klučinu, se kterým budu moci mluvit
 
 
