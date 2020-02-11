@@ -18,7 +18,7 @@
 mistnostTypiValecnehoNacelnika : Room 'Týpí válečného náčelníka' 'týpí válečného náčelníka'
 		"Interiér tohoto týpí je velmi skromně zařízen, jak se na náčelníka válečnického spolku sluší. 
 		Zadní část je pro vedro panující venku zcela vyhrnutá a ve vzniklém stínu vidíš vysokého svalnatého muže, 
-		který odpočívá na své lenošce. Ten Ti pokyne, aby ses posadil naproti a řekl, co máš na srdci.\n 
+		který odpočívá na své lenošce. \n 
 		Můžeš jít ven. "    
 
 	out: TravelMessage { -> mistnostPredTypimValecnehoNacelnika "Otvorem v týpí vycházíš ven. " }

@@ -28,5 +28,5 @@ bystraLosice : Person 'indiánka' 'indiánka' *3 @mistnostPredTypimDivkyPripravu
     properNameKymCim = 'Bystrou losicí'
     globalParamName = 'indiánka'
     gcName = 'indiánku, indiánce, indiánku, indiánce, indiánkou'
-    gcVocab = 'indiánku/indiánce/indiánkou/indiánce'
+    gcVocab = 'indiánku/indiánce/indiánkou'
 ;

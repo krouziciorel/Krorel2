@@ -29,7 +29,7 @@ mistnostPredTypimNacelnikovaPribuzneho : OutdoorRoom 'Před týpím náčelníko
   	south = mistnostPredTypimZvedavehoIndiana
 ;
 
-+ typiNacelnikovaPribuzneho : CustomImmovable 'týpí' 'týpí' *4
++ typiNacelnikovaPribuzneho : Enterable, CustomImmovable -> mistnostTypiNacelnikovaPribuzneho 'týpí' 'týpí' *4
     "Poměrně veliké týpí z bizoních kůží. Jen podle umístění ve vsi a štítu na trojnožce, 
 	 který vidíš poblíž vchodu, poznáváš, že se jedná o osobu či osoby příbuzné mírovému náčelníkovi. "
 

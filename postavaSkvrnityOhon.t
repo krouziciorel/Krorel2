@@ -20,11 +20,11 @@ skvrnityOhon : Person 'indián' 'zvědavý indián' *1 @mistnostPredTypimZvedave
     specialDesc = "Je zde indián Skvrnitý ohon. "
 	properName = 'Skvrnitý ohon' 
     properNameKohoCeho = 'Skvrnitého ohona'
-    properNameKomuCemu = 'Skvrnitému ohonu'
+    properNameKomuCemu = 'Skvrnitému ohonovi'
     properNameKohoCo = 'Skvrnitým ohonem'
-    properNameKomCem = 'Stepnímu šakalovi'
-    properNameKymCim = 'Skvrnitému ohonu'
+    properNameKomCem = 'Skvrnitému ohonovi'
+    properNameKymCim = 'Skvrnitému ohonovi'
     globalParamName = 'zvědavý indián'
     gcName = 'zvědavého indiána, zvědavému indiánovi, zvědavého indiána, zvědavém indiánovi, zvědavým indiánem'
-    gcVocab = 'zvědavého zvědavému zvědavém zvědavým/indiána/indiánovi'
+    gcVocab = 'zvědavého zvědavému zvědavém zvědavým/indiána/indiánovi/indiánem'
 ;

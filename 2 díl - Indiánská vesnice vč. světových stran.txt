@@ -2,6 +2,8 @@
 nevyužij jsem předmět nátepník, může a nemusí být k potřebé v průběhu hry
 nátepník
 - popis: Velmi šikovná věc pro lukostřelce, jedná se o kožený nátepník chránící předloktí.
+
+- oheň, mohu upravit dle Heidi 742
 ------------------------------------------------------------------------------------------
 
 
@@ -507,15 +509,7 @@ Nyní je třeba s koněm dorazit do lokace 20, kde druhý díl končí.
 
 10a – týpí léčitele
 
-Vstoupil jsi do týpí místního léčitele. Na tyčích jsou rozvěšeny nejrůznější léčivé byliny, nohy a peří ptáků a malé kostry zvířat tak, aby nepřekážely, ale zároveň co nejpomaleji přijímaly kouř z místního ohniště. Interiér je opravdu nádherně provoněn, vůně Ti připomíná apatyku jednoho léčitele, se kterým jsi se dříve ve městě spřátelil. Malý oheň sotva hoří a muž ve středních letech právě mne ve svých dlaních svazek bylin. Jeho žena sedí hned za ním a češe mu dlouhé havranově černé vlasy. Oba na Tebe zvědavě pohlédnou.
 
-Vidíš: léčitele, léčitelovu ženu
-
-Léčitel:
-- popis: Dobře stavěný muž těžko odhadnutelného věku, vypadá tak kolem 30, může ale být i starší, to dělají ty dlouhé vlasy a také žena v jeho blízkosti...
-
-Léčitelova žena:
-- popis: Indiánská fešanda, která právě s úsměvem na rtech rozčesává vlasy svému muži. Velmi dlouhá a především příjemná procedura, doporučuje jedenáct z deseti indiánek... Je ověšena různými ozdobami, které barevně velmi vkusně ladí s jejími skvostnými jelenicovými šaty. Zvláště jedna se Ti moc zamlouvá.
 
 Pokud ženu hráč prozkoumá ještě jednou:
 - další popis: Všiml sis, že žena má na krku opravdu nádherný náhrdelník z kostic omotaný červenými třásněmi. Nádherná práce, nejen pro denní nošení, ale především pro tanec jako dělaná.
@@ -619,11 +613,8 @@ náhrdelník
 
 11 – před týpím šamana
 
-Přicházíš před stan, na kterém Tě nesmírně zaujaly úzké kosočtverce značící symboly lučních kobylek spojené s okusováním trávy bizony. To nebude jen tak obyčejné týpí, vzpomínáš si, že šaman Vašeho kmene právě takto popisoval obydlí svého „kolegy“ ve spřátelené šajenské osadě. Dveře týpí jsou zavřené, osazenstvo však bude přítomné, neboť úzkým otvorem z vrcholu týpí právě uniká jemný kouř.
+- dokonči úpravu vstupu až po vizi, zatím mám možnost vstupu automaticky
 
-Vidíš: šamanské týpí
-
-Při pokusu o sebrání týpí šamana: „Já vím, že stepní slunce někdy připaluje, nesedíš také na nějakém podobném místě? Pokud ano, svlékni se a dej si studenou koupel, ta Tě jistě osvěží.“
 
 Při pokusu o vstup dovnitř:
 
@@ -635,7 +626,7 @@ Přicházíš před stan, na kterém Tě nesmírně zaujaly úzké kosočtverce 
 
 a je možné vstoupit dále do lokace 11a:
 
-Můžeš jít: S, J, Z, V, dovnitř
+
 
 
 
@@ -644,7 +635,7 @@ Můžeš jít: S, J, Z, V, dovnitř
 
 11a – týpí šamana
 
-Vstupuješ do týpí místního šamana. Jako znalec kostelů ve městech bledých tváří očekáváš nabubřelou nádheru s velebným knězem, která sama žádá o pokleknutí a kajícnost… Rychle jsi však vystřízlivěl, nic takového Tě tady rozhodně nečeká. Letmým pohledem vidíš, že interiér je velmi skromě zařízen, není zde vlastně nic neobvyklého k vidění. To nejzajímavější je šaman, muž nejspíš o něco mladší, než jsi Ty sám. Ruce má pomalovány hnědou hlinkou a holou hruď červeně, vše vypadá přirozené a ladící s jeho přívětivým obličejem. Hledí do ohně s rozšířenýma očima, které prozrazují nesmírné soustředění.
+- doplň rozhovor, šaman se jmenuje Přítel bizonů
 
 Popis v případě, že hráč přichází sám:
 
@@ -711,17 +702,8 @@ Po vyčerpání všech témat k rozhovoru bude hráč automaticky přesunut do l
 
 12 – před týpím psího válečníka
 
-Přicházíš před bělostné týpí s válečnými ozdobami, vchod je však uzavřen. Před stanem sedí pomenší muž a nevypadá zrovna spokojeně.
+- dokonči rozhovor
 
-Vidíš: bělostné týpí s válečnými ozdobami, menšího psího válečníka
-
-bělostné týpí s válečnými ozdobami
-- popis: Jednoduše vybavené týpí, na kterém si dal majitel záležet, aby vypadalo jako domov bojovníka. Znáš několik válečnických společností, zde se asi bude jednat o Psího válečníka.
-
-Při pokusu o sebrání bělostného týpí s válečnými ozdobami: „Ty nevidíš, že majitel odpočívá zrovna před svým stanem? Uznávám však, že jsi odvážný a věřím, že nejen v této hře...“
-
-menší psí válečník
-- popis: Pomenší muž má na své hrudi nádherně vytetovaného koně, asi to bude nadšenec do koní. O čemž jistě sní spousta nejen místních žen... Vypadá ale dost unaveně a tak sedí před svým týpí a hledí kamsi do dáli...
 
 Při oslovení menšího psího válečníka:
 
@@ -729,7 +711,7 @@ Při oslovení menšího psího válečníka:
 
 Menší psí válečník odpoví:
 
-„Kroužící orle, jsem moc rád, že se se mnou chceš seznámit. Mé jméno je Ten, kdo chodí vodou a i když rád poznávám nové přátele, dnes mi není moc do hovoru.“ Poté zmlkne.
+„Kroužící orle, jsem moc rád, že se se mnou chceš seznámit. Mé jméno je Ten kdo chodí vodou a i když rád poznávám nové přátele, dnes mi není moc do hovoru.“ Poté zmlkne.
 
 Ty pokračuješ:
 
@@ -791,50 +773,6 @@ Pomyslíš si:
 
 Společně se přesunou do lokace 14a
 
-Můžeš jít: S, Z, V, dovnitř
-
-
-
-
-
-
-
-12a – týpí psího válečníka
-
-Vchod do tohoto týpí je uzavřen, majitel si asi nepřeje návštěvu. Zkus přijít v jiný čas.
-
-Do této lokace se hráč nedostane.
-
-
-
-
-
-
-
-
-13 – před týpím psího bojovníka
-
-Před sebou vidíš bělostné týpí s malou ozdobou a motivem koně. Dveře jsou uzavřeny a podle stop to vypadá, že už zde nějaký čas nikdo nebyl.
-
-Vidíš: bělostné týpí s malou ozdobou
-- popis: Poměrně malý stan, který má na východní straně namalovaného koně v trysku. Majitel bude jistě nadšenec do těchto zvířat stejně jako spousta místních, Tebe nevyjímaje.
-
-Při pokusu o sebrání bělostného týpí s malou ozdobou: „Vypadá to, že zde už nějaký čas nikdo nepobyl, naštěstí na stepi tak často neprší, takže se nic tak hrozného neděje. Kam to ale mám složit?“
-
-Můžeš jít: S, Z, V, dovnitř
-
-
-
-
-
-
-
-13a – týpí psího bojovníka
-
-Jak jistě víš, chod do tohoto týpí je uzavřen a majitel bude asi někde na cestách. Zkus přijít v jiný čas.
-
-Do této lokace se hráč nedostane.
-
 
 
 
@@ -843,23 +781,10 @@ Do této lokace se hráč nedostane.
 
 14 – před týpím válečného náčelníka
 
-Před Tebou se tyčí bělostné týpí zcela bez ozdob. Před ním však vidíš jasné insignie náčelníka psích bojovníků. Dveře týpí jsou otevřeny, takže můžeš vstoupit dovnitř.
+- doplnit postavu poníka
 
-Vidíš: bělostné týpí bez jakýchkoliv ozdob, insignie náčelníka psích bojovníků
-
-Vidíš: bělostné týpí bez jakýchkoliv ozdob
-- popis: Víš, že náčelníci nemají ve zvyku dávat najevo své bohatství, to by jim v takovéto společnosti úctu rozhodně nepřineslo. Již jen venkovní vzhled je strohý, ale malebný jako téměř všechna šajenská týpí.
-
-Vidíš: insignie náčelníka psích bojovníků
-- popis: Psí bojovníci jsou velmi zajímavá válečnická společnost. Jedná se o velmi odhodlané muže, kteří se při boji přiváží na jedno místo a odrážejí útoky nepřátel stejně jako stěna odráží příboj vln. Ale nejsou to blázni, většinou v tomto spolku působí jen několik let a pokud přežijí, získají si nehynoucí úctu ostatních.
-
-Následující text zobrazit pouze jednou právě při prozkoumání insignií náčelníka psích bojovníků: „Je to zajímavé, před očima se Ti náhle zjeví bojová scéna, v níž stojí řada mužů s provazy na kopích zapíchnutých do země a za nimi se celá vesnice balí a co nejrychleji mizí. Muži padají a někteří zase vstanou, jiní však již nikoliv… Ale jejich řada vydrží drtivý nápor nepřátel, kteří nakonec v hrůze prchají zastrašeni nejen odvahou, ale také strašlivým výrazem v očích těchto mužů. Bojové šílenství jako vyšité, většina těchto Psích mužů však přežije a po boji následuje své blízké. Pomalu a hrdě, pohrdajíce smrtí, tito muži, i když to tak nevypadá, se ve vývoji své duše posunou o notný kus dál. Vždyť i tak strašlivá věc jako boj může sice přinést další touhu po krvi, ale také poznání nesmyslnosti tohoto konání...“
-
-Při pokusu o sebrání týpí válečného náčelníka: „Jsi odvážný, ale stejně tak nemoudrý, můj milý hráči.“
 
 Po lovu bizonů, když si syn válečného náčelníka odvedl poníka:
-
-Vidíš: bělostné týpí bez jakýchkoliv ozdob, insignie náčelníka psích bojovníků, poníka
 
 Vidíš: poníka
 - popis: Tvůj bizoní lovec je přivázán na dlouhé šňůře a v klidu se popásá. Už Tě dobře zná, takže se nechá i pohladit.
@@ -875,7 +800,7 @@ Můžeš jít: S, J, V, dovnitř
 
 14a – týpí válečného válečníka
 
-Interiér tohoto týpí je velmi skromně zařízen, jak se na náčelníka válečnického spolku sluší. Zadní část je pro vedro panující venku zcela vyhrnutá a ve vzniklém stínu vidíš vysokého svalnatého muže, který odpočívá na své lenošce. Muž Ti pokyne, aby ses posadil naproti němu a řekl, co máš na srdci.
+- dokonči rozhovor
 
 Ty se představíš a začínáš: „Buď zdráv, náčelníku.“
 
@@ -941,42 +866,18 @@ Můžeš jít: ven
 
 
 
-
-
-
-15 – před týpím psího lovce
-
-Před sebou vidíš bělostné týpí s motivem jelenů. Dveře jsou uzavřeny a podle stop to vypadá, že už zde nějaký čas nikdo nebyl.
-
-Vidíš: bělostné týpí s motivem jelenů
-- popis: Poměrně malý stan, který má na východní straně namalovaného prchajícího jelena.
-
-Při pokusu o sebrání bělostného týpí s motivem jelenů: „Vypadá to, že zde už nějaký čas nikdo nepobyl, to ale neznamená, že bys musel to, co není Tvé, hnedle uzmout.“
-
-Můžeš jít: J, Z, V, dovnitř
-
-
-
-15a – týpí psího lovce
-
-Jak jistě víš, vchod do tohoto týpí je uzavřen a majitel bude asi někde na cestách. Zkus přijít v jiný čas.
-
-Do této lokace se hráč nedostane.
-
-
-
-
-
-
-
 16 – koupaliště u Bizoní řeky
 
-Průzračná voda neustále spěchá jižním směrem a její tichý tok uklidňuje Tvé srdce i duši. Místní jí nazývají Bizoní řeka. Tábořiště bez řeky si ani nedokážeš představit, voda je prostě nezbytnost a všechny stepní národy se rády koupou a cachtají, neboť už dávno přišly na to, že čistota je více než půl zdraví.
+- doplnit, co vidím
+- doplnit místo pro koupání, zde jsem nenašel něco jako dobjfor wash, potřebuji se umýt, slovník výraz umej nezná
+  - zná ale vyčisti - cleanwith
+  - v Heidi je cannotCleanMsg = dobjMsg('Na tohle teď nemáš čas. ')
+- doplnit koupající se děti, ideálně jednoho klučinu, se kterým budu moci mluvit
+
 
 Vidíš: řeku, místo pro koupání, koupající se děti
 
-řeka
-- popis: Bizoní řeka prchá na jih do neznámých končin.
+
 
 místo pro koupání
 - popis: Jedno hezké vymleté místo v meandru řeky lze využít pro velmi příjemné osvěžení. Doporučuji i Tobě a Tvému koni.
@@ -985,6 +886,9 @@ koupající se děti
 - popis: Indiánské děti milují koupání stejně jako většina dětí bělochů. A ani dospělé do něj nemusí nikdo dvakrát nutit, sám vím, o čem mluvím.
 
 Zde je možné se umýt od koňského výtvoru poté, co hráč zkusí tančit dívkám v lokaci 22. Je nutné použít místo pro koupání poté, co hráč jakkoliv operoval s koňskou koblihou.
+
+
+
 
 Při pokusu o oslovení koupajících se dětí:
 
@@ -1036,7 +940,6 @@ Malá bouře drtivě zvítězil, což ostatní kvitují divokým pokřikem. Teď
 
 Chlapec zklamaně odchází, moc se těšil, že Ti něco ukáže a Tys mu nedal příležitost. Co naplat, je to ale trochu škoda, malé děti velmi rády vidí zájem dospělých…
 
-Můžeš jít: S, J, V
 
 
 
@@ -1044,11 +947,10 @@ Můžeš jít: S, J, V
 
 
 
+17 – Jižní brod přes Bizoní řeku
 
-
-17 – Brod přes Bizoní řeku
-
-Překročit Bizoní řeku není zas tak obtížné, zde se ale nachází velmi mělký brod vhodný nejen pro přechod, ale také pro brodění unavených nohou i koňských kopyt. Písek se jen blyští a i díky němu je řeka tak nádherně čistá.
+- pro vzetí písku několikrát a objevení pilníku bude asi ideální využít dobjFor(LookIn), např. Heidi 616, využiji i PresentLater
+- zajímavá je také metoda dobjFor(Take), kdy mohu předmět vzít, až bude podmínka splněna
 
 Vidíš: přechod přes řeku, písek
 

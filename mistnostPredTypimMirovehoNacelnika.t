@@ -18,7 +18,7 @@
 mistnostPredTypimMirovehoNacelnika : OutdoorRoom 'Před týpím mírového náčelníka' 
 		'před týpí mírového náčelníka'
 		"Nyní jsi dorazil přímo do středu táborového kruhu, kde se vyjímá sice ohromné týpí, 
-		ale zcela bez ozdob. Dveře týpí jsou zavřené.\n 
+		ale zcela bez ozdob. Dveře týpí jsou zavřené.\n Vidíš týpí mírového náčelníka. 
 		Můžeš jít na sever a na jih. "     
    
 	in: DeadEndConnector { "Nemohu vstupovat do týpí se zavřenými dveřmi a zvláště ne do týpí 

@@ -18,7 +18,7 @@
 mistnostPredTypimPsihoLovce : OutdoorRoom 'Před týpím psího lovce' 
 		'před týpí psího lovce'
 		"Před sebou vidíš bělostné týpí s motivem jelenů. Dveře jsou uzavřeny a příbytek
-		je již nějaký čas nejspíše neobydlený.\n 
+		je již nějaký čas nejspíše neobydlený.\n Vidíš bělostné týpí s motivem jelenů.
 		Můžeš jít na severovýchod, severozápad a na jihovýchod. " 
    
 	in: DeadEndConnector { "Do neznámého týpí opravdu nevstoupím, zvláště, když majitel
@@ -29,3 +29,13 @@ mistnostPredTypimPsihoLovce : OutdoorRoom 'Před týpím psího lovce'
 	northeast = mistnostKoupalisteUBizoniReky
 ;
 
++ typiPsihoLovce : CustomImmovable 'týpí' 'týpí' *4
+    "Poměrně malý stan, který má na východní straně namalovaného prchajícího jelena. Takové obrazy jsou oblíbeny 
+	především mezi lovci tohoto kmene. "
+
+    cannotTakeMsg = 'Vypadá to, že zde už nějaký čas nikdo nepobyl, to ale neznamená, že bys musel vše, co ti nepatří, 
+	hnedle uzmout. '
+
+    gcName = 'týpí, týpí, týpí, týpí, týpím'
+    gcVocab = 'týpí/týpí/týpí/týpímu/típí/típí/típí/típí/mu/tee-pee/tee-pee/tee-pee/tee-peemu'
+;

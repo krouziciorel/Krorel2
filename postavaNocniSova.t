@@ -26,5 +26,5 @@ nocniSova : Person 'indiánka' 'indiánka' *3 @mistnostTypiNacelnikovaPribuzneho
     properNameKymCim = 'Noční sovou'
     globalParamName = 'indiánka'
     gcName = 'indiánku, indiánce, indiánku, indiánce, indiánkou'
-    gcVocab = 'indiánku/indiánce/indiánkou/indiánce'
+    gcVocab = 'indiánku/indiánce/indiánkou'
 ;

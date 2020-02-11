@@ -29,7 +29,7 @@ mistnostPredTypimStarce : OutdoorRoom 'Před týpím starce'
   	south = mistnostMistoProSajenskeSlavnostiAObrady   
 ;
 
-+ typiStarce  : CustomImmovable 'týpí' 'týpí' *4
++ typiStarce : Enterable, CustomImmovable -> mistnostTypiStarce 'týpí' 'týpí' *4
     "Tradiční šajenské týpí zcela bez ozdob Ti dává jasně najevo, že majitel bude mít zcela jiné zájmy, 
 	 než zdobení svého obydlí. "
 

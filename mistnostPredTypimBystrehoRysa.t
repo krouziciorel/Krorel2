@@ -32,7 +32,7 @@ mistnostPredTypimBystrehoRysa : OutdoorRoom 'Před týpím Bystrého rysa' 'pře
   	south = mistnostPredTypimLovce 
 ;
 
-+ typiBystrehoRysa : CustomImmovable 'týpí' 'týpí' *4
++ typiBystrehoRysa : Enterable, CustomImmovable -> mistnostTypiBystrehoRysa 'týpí' 'týpí' *4
     "Obydlí je pomalováno světle červenou barvou a šelmou znázorněnou pod hvězdnou oblohou. 
 	Obě chlopně jsou roztaženy a mezi nimi vidíš stoupat k nebi kouř, paní domácí jistě kuchtí něco dobrého. "
 

@@ -26,5 +26,5 @@ kunSeSvetlouHrivou : UntakeableActor 'kůň' 'kůň' *1 @mistnostPredTypimDivkyP
     properNameKymCim = 'koněm'
     globalParamName = 'kůň'
     gcName = 'koně, koni, koně, koni, koněm'
-    gcVocab = 'koně/koni/koněm/koni'
+    gcVocab = 'koně/koni/koněm'
 ;

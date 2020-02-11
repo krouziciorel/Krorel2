@@ -40,7 +40,7 @@ mistnostPredTypimOchrancePosvatneBizoniCapky : OutdoorRoom 'Před týpím ochrá
     "Nádherně vymalované týpí se symboly lučních kobylek vzbuzuje skutečnou úctu. "
 
     cannotTakeMsg = 'Tak to jsem přeslechl, vím, že o toto týpí nemáš zájem. A pokud jsem slyšel správně, 
-	klidně si takové postav na zahradě a pozvi někoho ideálně staršího z tohoto kmene na návštěvu, Tvá obliba jistě 	  		vzroste. '
+	klidně si takové postav na zahradě a pozvi někoho ideálně staršího z tohoto kmene na návštěvu, Tvá obliba jistě vzroste. '
 
     gcName = 'týpí, týpí, týpí, týpí, týpím'
     gcVocab = 'týpí/týpí/týpí/týpímu/típí/típí/típí/típí/mu/tee-pee/tee-pee/tee-pee/tee-peemu'

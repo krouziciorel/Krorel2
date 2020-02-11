@@ -19,7 +19,7 @@ mistnostPredTypimLecitele : OutdoorRoom 'Před týpím léčitele'
 		'před týpí léčitele'
 		"Přicházejícímu návštěvníku se na zde postaveném týpí ukáže překrásný symbol jitřní 
 		hvězdy a plejád, okolo nichž krouží majestátní orel. Před stanem stojí symbol léčitele, 
-		velmi důležité osoby pro celou vesnici. Dveře jsou otevřeny.\n 
+		velmi důležité osoby pro celou vesnici. Dveře jsou otevřeny.\n Vidíš týpí a symbol léčitele. 
 		Můžeš vstoupit dovnitř, jít na sever, na jih a na severozápad. "  
 
 	atmosphereList : ShuffledEventList
@@ -43,7 +43,7 @@ mistnostPredTypimLecitele : OutdoorRoom 'Před týpím léčitele'
   	northwest = mistnostLesniBobule 
 ;
 
-+ typiLecitele : CustomImmovable 'týpí' 'týpí' *4
++ typiLecitele : Enterable, CustomImmovable -> mistnostTypiLecitele 'týpí' 'týpí' *4
     "Na pohled opravdu překrásná stavba, jejíž umně vyvedená kresba uklidňuje již na první pohled. Při
 	pohledu na orlí kresbu si nejsem ouplně jistý, ale cítím, že pro mě a mé budoucí činy má veliký význam. "
 

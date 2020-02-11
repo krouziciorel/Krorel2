@@ -57,6 +57,11 @@
 -source postavaStarec
 -source postavaZranenyLovec
 -source postavaNocniSova
+-source postavaLecitel
+-source postavaLecitelovaZena
+-source postavaSaman
+-source postavaPsiValecnik
+-source postavaValecnyNacelnik
 -source tridaZpocatkuAVzdyObleceno
 -source mistnostPredTypimBystrehoRysa
 -source mistnostTypiBystrehoRysa

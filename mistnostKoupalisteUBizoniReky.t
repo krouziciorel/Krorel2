@@ -44,3 +44,12 @@ mistnostKoupalisteUBizoniReky : OutdoorRoom 'Koupaliště u Bizoní řeky' 'koup
   	southeast = mistnostJizniBrodPresBizoniReku
 	southwest = mistnostPredTypimPsihoLovce 
 ;
+
++ reka : CustomImmovable 'řeka' 'řeka' *3
+    "Bizoní řeka prchá na jih do neznámých končin. "
+
+    cannotTakeMsg = 'Jsi mocný a nebezpečný kouzelník, když si myslíš, že odneseš celou řeku, chvála Tobě a raději od Tebe dál. '
+
+    gcName = 'řece, řece, řeka, řece, řekou'
+    gcVocab = 'řece/řeka/řekou'
+;

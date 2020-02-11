@@ -29,7 +29,7 @@ mistnostPredTypimDivkyPripravujiciSeNaTanec : OutdoorRoom 'Před týpím dívky 
 		příležitost k orlímu, bizonímu či koňskému tanci a nemůžeš se dočkat, až si v šajenské vesnici také správně užiješ. 
 		A mimochodem, při těchto častých zábavách nikdy nedošlo k žádným výtržnostem, alespoň pokud si pamatuješ, v příkrém 
 		kontrastu s tím, co jsi zažil ve světě bledých tváří. <<only>>\n 
-		Vidíš týpí s motivem kachen a květin, mladou tančící dívku a přivázaného koně.\n Můžeš jít na severozápad a na jih. " 
+		Vidíš týpí s motivem kachen a květin.\n Můžeš jít na severozápad a na jih. " 
 
  	in: DeadEndConnector { "Ale to přeci ne, dveře jsou zavřené a vypadá to, že zde žije osamělá dívka. Takže nezlob
 	a chovej se tak, aby se Tě ostatní nesnažili velmi rychle vyhodit. " }

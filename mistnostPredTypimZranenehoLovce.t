@@ -43,7 +43,7 @@ mistnostPredTypimZranenehoLovce : OutdoorRoom 'Před týpím zraněného lovce'
 	northeast = mistnostPredTypimOchrancePosvatneBizoniCapky
 ;
 
-+ typiZranenehoLovce  : CustomImmovable 'týpí' 'týpí' *4
++ typiZranenehoLovce : Enterable, CustomImmovable -> mistnostTypiZranenehoLovce 'týpí' 'týpí' *4
     "<<first time>>Ze zcela bělostného týpí bez jakýchkoliv ozdob se ozývá slabé sténání. <<only>>Dveře tohoto 
 	tradičního šajenského týpí zcela bez ozdob jsou otevřeny. "
 

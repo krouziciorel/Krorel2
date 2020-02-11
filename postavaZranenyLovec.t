@@ -26,5 +26,5 @@ zranenyLovec : Person 'lovec' 'lovec' *1 @mistnostTypiZranenehoLovce
     properNameKymCim = 'Malou nohou'
     globalParamName = 'lovec'
     gcName = 'lovce, lovci, lovce, lovci, lovcem'
-    gcVocab = 'lovce/lovci/lovcem/lovci'
+    gcVocab = 'lovce/lovci/lovcem'
 ;

@@ -26,5 +26,5 @@ starec : Person 'stařec' 'stařec' *1 @mistnostPredTypimStarce
     properNameKymCim = 'Stepním šakalem'
     globalParamName = 'stařec'
     gcName = 'starce, starci, starce, starci, starcem'
-    gcVocab = 'starce/starci/starci/starci'
+    gcVocab = 'starce/starci'
 ;
