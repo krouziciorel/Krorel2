@@ -62,6 +62,8 @@
 -source postavaSaman
 -source postavaPsiValecnik
 -source postavaValecnyNacelnik
+-source postavaKunSRousy
+-source postavaPomalovanyKun
 -source tridaZpocatkuAVzdyObleceno
 -source mistnostPredTypimBystrehoRysa
 -source mistnostTypiBystrehoRysa

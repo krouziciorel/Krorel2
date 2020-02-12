@@ -20,7 +20,9 @@ mistnostKonskePastvinyJizneOdBizoniReky : OutdoorRoom 'Koňské pastviny jižně
 		"Moc pěkný pás země s vysokou stepní trávou představuje ideální pastviny pro koně. 
 		Takových je v okolí vesnice spousta, takže si čtyřnozí krasavci mohou vybírat pro sebe 
 		tu nejlepší. Nyní jsou zde pouze dva větší koně, kteří se spokojeně pasou. 
-		Jeden z nich je pomalován.\n 
+		Jeden z nich je pomalován.<<first time>>Právě tento ozdobenec sem a tam a občas čuchne k nějaké 
+		hromádce a olízne jí, snad to nebudou jeho výtvory... ale ne, to přeci dělají jen psi. <<only>>\n 
+		Vidíš hromádku hlíny.
 		Můžeš jít na sever, západ a na jihovýchod. "  
 
 	atmosphereList : ShuffledEventList
@@ -49,3 +51,63 @@ mistnostKonskePastvinyJizneOdBizoniReky : OutdoorRoom 'Koňské pastviny jižně
   	north = mistnostSeverniBrodPresBizoniReku 
   	southeast = mistnostKoupalisteUBizoniReky 
 ;
+
++ hromadkaHliny : CustomImmovable 'hromádka' 'hromádka hlíny' *3
+    "Hromádka zkypřené hlíny, do které ten čtyřnohý nezbeda někdy strká nos. Když se na Tebe podívá a vyplázne svůj hnědý jazyk, 
+	je to pohled k popukání. Opravdu se Ti v tomle chce hrabat? Je to nějaké mazlavé, já Ti nevím... "
+
+	dobjFor(Dig) asDobjFor(LookIn)
+
+            dobjFor(LookIn)
+	 {
+		action()
+		{
+			if(balicek.moved)
+			{
+				"V hlíně se již nic neskrývá. ";
+				exit
+				;
+			}
+				balicek.discover();
+            			"Tak dobrá, zahrajeme si na krtka. Po prohrábnutí hlíny se Ti podařilo vyhrabat malý balíček tvořený převázanými listy, 
+						které něco ukrývají. ";
+	  }
+        }
+
+    cannotTakeMsg = 'Hlínu mohu jednoduše vzít, ale co s ní, tady se loví a žádné polní práce neznáme, na to jsme moc líní a hrdí. '
+
+    gcName = 'hromádky, hromádce, hromádku, hromádce, hromádkou'
+    gcVocab = 'hromádky/hromádce/hromádku/hromádkou'
+;
+
+++ balicek : Hidden, RestrictedContainer 'balíček' 'balíček' *2
+    "Balíček v indiánským stylu z přírodních listů převázaný zbytkovými šlachami z ulovených zvířat. "
+
+	validContents = [modraBarva]
+
+            dobjFor(LookIn)
+	 {
+		action()
+		{
+			if(modraBarva.moved)
+			{
+				"Balíček je již prázdný. ";
+				exit
+				;
+			}
+				modraBarva.discover();
+            			"Po otevření se Ti zjevila modrá barva, evidentně používaná jako ta hezká malba na strakatém koni. Tak proto tam ten lump tak často čuchal. ";
+	  }
+        }
+
+    gcName = 'balíčku, balíčku, balíček, balíčku, balíčkem'
+    gcVocab = 'balíčku/balíček/balíčkem'
+;
+
++++ modraBarva : Hidden 'barva' 'barva' *3
+    "Barva získaná z rostliny Ávanásse se používá krom malování ke zkrášlování lidí i koní. "
+
+    gcName = 'barvě, barvě, barva, barvě, barvou'
+    gcVocab = 'modré modrá modrou/barvě/barva/barvou'
+;
+
