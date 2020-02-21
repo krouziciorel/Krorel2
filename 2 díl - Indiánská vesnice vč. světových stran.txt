@@ -976,6 +976,8 @@ Chlapec zklamaně odchází, moc se těšil, že Ti něco ukáže a Tys mu nedal
 
 - pro vzetí písku několikrát a objevení pilníku bude asi ideální využít dobjFor(LookIn), např. Heidi 616, využiji i PresentLater
 - zajímavá je také metoda dobjFor(Take), kdy mohu předmět vzít, až bude podmínka splněna
+- i zde v brodu bych měl možnost se vykoupat, nepoužiji Dekoraci
+- přechod přes řeku a písek bych možná našel v Heidi
 
 Vidíš: přechod přes řeku, písek
 
@@ -992,54 +994,6 @@ Pokud se hráč pokusí vzít písek podruhé: No tak dobrá, nabereme si něco 
 Získán předmět: rezavá rašple
 - popis: rezavá, ale, jak se zdá, ještě stále funkční rašple, kterou znáš z města bledých tváří. Nevíš, odkud se sem dostala, bylo by to ale velmi zajímavé zjistit.
 
-Můžeš jít: S, Z, V
-
-
-
-
-
-
-
-
-
-18 – koňské pastviny u Bizoní řeky
-
-Moc pěkný pás země s vysokou stepní travou představuje ideální pastviny pro koně. Takových je v okolí vesnice spousta, takže si čtyřnozí krasavci mohou vybírat pro sebe tu nejlepší. Nyní jsou zde pouze dva větší koně, kteří se spokojeně pasou. Jeden z nich je pomalován.
-
-Vidíš: velikého pomalovaného koně, většího koně s rousy
-
-veliký pomalovaný kůň
-- popis: Větší čiperné štíhlé zvíře strakaté barvy má okolo obou očí modře namalované kruhy a ty mu opravdu velmi sluší.
-
-Po dalším prozkoumání:
-
-Vidím, že Tě namalovanec zaujal a vůbec se Ti nedivím. Pobíhá sem a tam a občas čuchne k nějaké hromádce a olízne jí, snad to nebudou jeho výtvory…, ale ne, to přeci dělají jen psi.
-
-Zpřístupní se předmět: hromádka hlíny
-
-hromádka hlíny
-- popis: hromádka zkypřené hlíny, do které ten čtyřnohý nezbeda stále strká nos. Když se na Tebe podívá a vyplázne svůj hnědý jazyk, je to pohled k popukání.
-
-Po dalším prozkoumání:
-
-Opravdu se Ti v tomle chce hrabat? Je to nějaké mazlavé, já Ti nevím…
-
-Po dalším prozkoumání:
-Tak tedy dobrá, zahrajeme si na krtka. Prohrábneš hlínu a podaří se Ti vyhrabat malý balíček tvořený převázanými listy, které něco ukrývají.
-
-Zpřístupní se předmět: balíček z převázaných listů
-- popis: balíček v indiánským stylu z přírodních listů převázaný zbytkovými šlachami z ulovených zvířat
-
-- po otevření balíčku: Po otevření se Ti zjevila modrá barva, evidentně používaná jako ta hezká malba na strakatém koni. Tak proto tam ten lump tak často čuchal...
-
-Získán předmět: modrá barva
-
-větší kůň s rousy
-- popis: Mohutnější kůň s rousy nad kopyty není zrovna typicky indiánský. Spíše ses s ním setkával v tahu, tento ale přece jen není tak těžký jako bělošští chladnokrevníci, takže se celoročně na stepi uživí. Ale teď se radostně nacpává voňavou travou a vše ostatní nevnímá.
-
-Můžeš jít: Z, V
-
-
 
 
 
@@ -1048,12 +1002,6 @@ Můžeš jít: Z, V
 
 
 19 – prérijní loviště bizonů
-
-
-Vstupuješ na obrovskou otevřenou planinu zbrázděnou do nekonečna se táhnoucími stopami menších i větších koní. Je Ti hned jasné, oč jde, odtud šajenští lovci vyjíždějí lovit bizony do širé stepi.
-
-Vidíš: širou step
-- popis: Nekonečná volnost, vítr ve vlasech i hřívách tryskajících koní, pálivé slunce i pálivý led, spousta bizonů a rychlé proudy řek, co více si přát...
 
 Po oznámení vyvolávače, že začíná hon, ale hráč nemá nauzděného poníka, nůž a luk se šípy s sebou:
 
@@ -1194,10 +1142,6 @@ Muži naplnění pocitem hrdosti následují tohoto člověka a Ty musíš uznat
 - pokud chce hráč opustit lokaci a nemá z bizona kůži, ledviny a srdce, hra jej nepustí:
 Ale no tak, lovče, necháš svůj úlovek jen tak na stepi? Nezapomínej, že nejen díky Tvým schopnostem byl Tvůj lov úspěšný a také ti, kteří lovit nemohou, potřebují nakrmit.
 
-Můžeš jít: S, Z
-
-
-
 
 
 
@@ -1205,45 +1149,18 @@ Můžeš jít: S, Z
 
 20 – jihozápadní hranice prérie
 
-Před Tvýma očima se objevuje hranice otevřené stepi pomalu přecházející do řídkého lesa. Vidíš zde jámy určené pro lov orlů, vhodně umístěné na hranici těchto dvou lokalit.
+-- chyba, stačí, když mám nůž nebo návnadu a vždy projde test chycení orla. Také se mohu vícekrát dostat do jámy a vše stále jede znova.
 
-Vidíš: jámy na lov orlů
-- popis: Lov orlů je nebezpečná, ale pro indiány potřebná věc. Probíhá tak, že si lovec lehne do předem vyhrabané jámy a pomocí návnady orla přiláká. Ten přilétne, začne žrát a lovec mu musí zakoutit krkem. Docela nebezpečné, souhlasím s Tebou.
 
-Pokud má hráč s sebou návnadu na dravce z lokace č. 6 a použije ji na jámy na lov orlů, objeví se tento text:
-
-Takže Ty se opravdu nebojíš lovu orlů, Kroužící orle? Škoda, že nemáš skutečné perutě a nemůžeš tak začít pravý vzdušný souboj, toto je jen jeho malá napodobenina. Ale budiž… Leháš si do jámy, přikrýváš se a vystrkuješ návnadu trochu ven. Po nějakém čase skutečně slyšíš šustění křídel a nějaký opeřenec si začíná pochutnávat na návnadě. Co nyní chceš udělat?
-
-Hráč nyní musí odpovědět: „chytit orla“, „ulovit orla“, „zakroutit orlovi krkem“, „chytit ptáka“, „ulovit ptáka“, „zakroutit ptákovi krkem“.
-
-Pokud odpoví správně, objeví se:
-
-Chytáš nebohé zvíře za nohy, stahuješ jej dolů a rychle mu zakroutíš krkem. Byla to rychlost a dobře tak pro Tebe, orel je docela kolos a ďobanec od něj není nic příjemného. Trochu otřesen vylézáš ven a děkuješ orlovi za jeho život. Pamatuj si, on se na Tebe nezlobí, pokud jsi jej zabil s čistým úmyslem, některá zvířata jsou na světě proto, aby lidi živila.
-Čerstvě uloveného opeřence hned zpracováváš a získáváš orlí maso, perutě i jednotlivá pera.
-
-Získán předmět: orlí maso, orlí perutě, orlí pera, péřové letky
-
-orlí maso
-- popis: Orlí maso je výtečnou pochoutkou, můžeš jej obětovat jako dík úspěšnému lovu nebo někomu věnovat.
+- doplnit
 
 Pokud se hráč snaží použít orlí maso:
-
 Ty ale zatím přeci nemáš hlad, věnuj jej někomu potřebnému, tak by si to opeřenec určitě přál.
-
 Pokud hráč komukoliv z indiánů věnuje orlí maso, objeví se tento text:
-
 „Děkuji Ti za Tvůj dar, Kroužící orle, orlím masem se rád nasytím.“
-
 ztrácím předmět: orlí maso
 
-orlí perutě
-- popis: čerstvě získané orlí perutě představují nádhernou ozdobu tanečníka tančícího tanec tohoto majestátního opeřence
 
-orlí pera
-- popis: orlí pera jsou odznakem válečníka a jistě Ti budou slušet. Všiml sis, že někteří šajenští muži nosí pera vraní, což je správné, každý máme jiný vkus. Mohu jen doporučit, v kombinaci s krásnými dlouhými vlasy vypadají skvěle.
-
-péřové letky
-- popis: tyto letky jsou vhodné k výrobě šípů, i když jsou, pravda, dosti veliké. Ale použít je k této činnosti lze a to je hlavní.
 
 V této lokaci hra končí, pokud hráč získal koně Rudého bleska od mírového náčelníka po absolvování celého příběhu hry. Je třeba na koně nasednout, pokud tak hráč již učinil nebo učiní v této lokaci:
 
