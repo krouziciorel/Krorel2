@@ -75,9 +75,12 @@ mistnostJihozapadniHranicePrerie : OutdoorRoom 'Jihozápadní hranice prérie' '
 
     dobjFor(LieOn)
     {
+		verify()
+		{
+		}
         check()
         {
-            if(!navnada.isIn(me) && !nuz.isIn(me))
+            if(!navnada.isIn(me) || !nuz.isIn(me))
             {
                 "Orla musím nejen na něco chytit, ale také mít šikovný předmět na zpracování masa a peří, nic nesmí zůstat nevyužito. ";
                 exit;
@@ -85,7 +88,8 @@ mistnostJihozapadniHranicePrerie : OutdoorRoom 'Jihozápadní hranice prérie' '
         }
         action()
         {
-            if(!moved)
+            if(!orliMaso.moved)
+			{
                 "Takže Ty se opravdu nebojíš lovu orlů, Kroužící orle? Škoda, že nemáš skutečné perutě a nemůžeš tak začít pravý vzdušný souboj, 
 	toto je jen jeho malá napodobenina. Ale budiž, lehám si do jámy, přikrývám se a vystrčím návnadu trochu ven. Po nějakém čase skutečně slyším 
 	šustění křídel a nějaký opeřenec si začíná pochutnávat na návnadě. Teď, povedlo se mi jej chytit za nohy, stáhnu jej dolů a rychle mu zakroutím krkem. 
@@ -97,10 +101,13 @@ mistnostJihozapadniHranicePrerie : OutdoorRoom 'Jihozápadní hranice prérie' '
 			orliPera.makePresent();
 			orliLetky.makePresent();
             inherited;
+			}
+            else
+                "Orlí jáma už mi pomohla dostatečně, vzhůru za dalším dobrodružstvím. ";
         }  
     }
-    dobjFor(SitOn) asDobjFor(LieOn)
-    dobjFor(StandOn) asDobjFor(SitOn)
+
+    dobjFor(PutIn) asDobjFor(LieOn)
 
     gcName = 'jámy, jámám, jámy, jámách, jámamy'
     gcVocab = 'jámy/jámám/jámách/jámamy'

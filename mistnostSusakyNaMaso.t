@@ -67,7 +67,7 @@ mistnostSusakyNaMaso : OutdoorRoom 'Sušáky na maso' 'sušáky na maso'
     {
         action()
         {
-            "No, dobrá, teď tu nikdo není, takže by to mohlo projít, až nějaká žena půjde okolo, třeba sem nějakou tu návnadu zase připraví. ";
+            "Dobře, návnadu si rád vezmu, teď a tady tím nikomu neublížím. ";
 
             self.moveInto(me);
         }
