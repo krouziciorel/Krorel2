@@ -87,8 +87,77 @@ Kód: [Vybrat]
 
 ----------------------------------------------------------------------------------------------------------------------
 
+5. Orlí jámy - problémy s dobjforLieOn
+
+Na hře stále pracuji, mám hotovo cca 70 procent, takže jsem byl s rychlejším dokončením přeci jen přílišný optimista.
+Je ale jasné, že se někde seknu, zatím jsem na většinu programátorských nástrah přišel. Už několik dní se ale pachtím s 
+akcí dobjFor(LieOn) a jak vidno, potřebuji si ujasnit věci, které se snažím aplikovat ne tak jak autoři při tvorbě jazyka předpokládali. 
+V příloze zasílám aktuální situaci s několika potřebnými místnostmi.
+
+Ve hře se nachází orlí jámy určené na lov těchto dravců, potřebuji, aby hra reagovala na příkaz "lehni si do jámy" s tím,
+že pokud má hráč nůž a návnadu, akce se provede a po zpracování opeřence získám nové předměty.
 
 
+Pokud nemám v ruce žádný předmět, vše je OK a vyskočí hláška, kterou potřebuji:
+
+
+>lehni si do jámy
+Orla musím nejen na něco chytit, ale také mít šikovný předmět na zpracování masa a peří, nic nesmí zůstat nevyužito.
+
+
+Pro úspěšný lov potřebuji mít v ruce nůž a návnadu. I přes můj kód však stačí mít jen jediný předmět, např. nůž a ještě
+se text opakuje, místo aby hra zobrazila blok uvedený v else. Předměty typu PresentLater se v pořádku objeví:
+
+
+>inv
+Neseš nůž a na sobě máš bederní roušku, opasek, orlí medicínu a mokasíny.
+
+>lehni si do jámy
+Takže Ty se opravdu nebojíš lovu orlů...
+
+>lehni si do jámy
+Takže Ty se opravdu nebojíš lovu orlů...
+
+>roz
+Jihozápadní hranice prérie (ležíš na jámách)
+Na jámách je orlí maso, orlí perutě, orlí pera a orlí letky.
+
+
+
+Nejde mi jen o vyřešení problému, ale pochopení toho, co dělám špatně, přeci jen z Pecinovského Javy využívám IDE typu BlueJ, kde krásně graficky vidím provázanost tříd, objektů a volaných metod, zde mi není jasné následující:
+
+V referenční knihovně si vyhledám Akce a rozkliknu LieOnAction, pokud dobře chápu, zjišťuji, že se jedná o třídu dědící od tříd TAction a Action a také od BasicProd a Resolver (které jsou však označeny jako objekty, i když po rozkliknutí jako třídy, zde se asi bude jednat o ten minimální rozdíl mezi třídou a objektem, který uvádíš ve svém manuálu). V sumáři vlastností a metod třídy LieOnAction vidím několik akcí xxx dobj xxx (snad se vyjadřuji přesně), nikoliv však akci s názvem dobjFor(LieOn), kterou potřebuji použít. Dobrá, vyhledám si všechny metody s názvem dobjFor(LieOn) (zde netuším, zda mohu akci typu dobj nebo iobj chápat jako metodu?) a vidím:
+ 
+dobjFor(LieOn) - method of ComplexContainer in extras.t[207]
+dobjFor(LieOn) - method of Thing in thing.t[10072]
+dobjFor(LieOn) - method of Room in travel.t[4617]
+dobjFor(LieOn) - method of NestedRoomFloor in travel.t[5161]
+dobjFor(LieOn) - method of Floor in travel.t[5336]
+dobjFor(LieOn) - method of BasicChair in travel.t[6440]
+dobjFor(LieOn) - method of NominalPlatform in travel.t[6730]
+
+Zde mě zaráží, že jsem nedohledal žádné propojení s třídou LieOnAction, tady něco chápu špatně. Potřebuji pracovat s věcmi v inventáři, takže se juknu blíže na aplikaci této metody ve spojení s třídou Thing a dostávám předpis:
+
+    dobjFor(LieOn)
+    {
+        preCond = [touchObj]
+        verify() { illogical(&cannotLieOnMsg); }
+    }
+
+Já se však ve svém kódu snažím využít nikoliv preCond a verify (mohu je chápat jako atributy metody?), ale verify, check a action společně s podmínkou začínající příkazem if a končící else, nakonec se snažím umožnit hráči nejen si s potřebnými předměty lehnout do jámy, ale také při položení obou věcí dosáhnout téhož pomocí dobjFor(PutIn) asDobjFor(LieOn). 
+
+Pokud dobře chápu, potřebuji rozšířit funkcionalitu metody dobjFor(LieOn) tak, abych mohl využít atributů verify, check a action. Je nepříjemné, že můj zápis hra nebere jako chybu (syntaktická to pro kompilátor není, sémantická však ano, pokud dobře rozumím, i tak je chování zvláštní, neměl by TADS při překladu zařvat, že se snažím volat neexistující atributy?).
+
+Něco mi holt uniká, nechápu zatím propojení mezi třídou LieOnAction a metodou dobjFor(LieOn), tuším, že zde takové propojení bude např. přes třídu Thing a její metody.
+
+Tohle ale pro další tvorbu musím pochopit, jinak na netriviálních akcích ztroskotám. Je mi jasné, že jsem se u Exoteru ptal na každou prkotinu, protože bez chápání výše uvedeného jsem se dál prostě nemohl dostat a jen zkoušel, zda nějaký zápis projde či nikoliv (a podobně jako zde se mi to např. s hořící pochodní podařilo, hru kompilátor přeložil, ale chovala se jinak, než jsem zamýšlel).
+
+
+Moc se omlouvám za sakra dlouhou zprávu, snažil jsem se vyjádřit co nejpodrobněji. Mohu poprosit o objasnění - nejde jen o vyřešení problému, ale hlavně o postup a vysvětlení, co dělám špatně? Je mi jasné, že až mi tyto věci docvaknou, bude už šumák, jaký jazyk pro tvorbu použiji (samozřejmě budu-li se pohybovat v rámci OOP, pokud se nemýlím), protože stále více vidím, že princip programování je u všech těchto jazyků podobný. Pecinovského "Architektura nejdříve" a využití návrhových vzorů a UML bude parádní pro vymýšlení jak mám funkcionalitu programu navrhnout, šikovná metodika, např. programování řízené testy a právě pochopení propojení třída - objekt - metody mi umožní program konkrétně zapsat. Tak vývojařinu v současné době chápu, pokud se mýlím, nevadí, člověk se stále učí.
+
+Zatím se loučí
+
+Orel
 
 ----------------------------------------------------------------------------------------------------------------------
 
