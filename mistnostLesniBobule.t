@@ -45,3 +45,14 @@ mistnostLesniBobule : OutdoorRoom 'Lesní bobule' 'lesní bobule'
   	east = mistnostPredTypimLecitele
 	northeast = mistnostLesniPorost
 ;
+
++ lesniBobule : CustomImmovable 'lesní bobule' 'lesní bobule' *3
+    "Nádherné a opravdu veliké plody určené k zakousnutí nebo po naplnění břicha k nasušení. Maso je sice ta nejlepší krmě, kterou znáš, na tyhle bobule se Ti ale také sbíhají sliny. "
+
+    isPlural = true
+
+	cannotTakeMsg = 'Kuš, chmatadlo, tady sbíráme my a žádný muž nám nesmí překážet! křičí jedna s dívek a situaci si viditelně užívá. '
+
+    gcName = 'částí oděvu, částem oděvu, části oděvu, částech oděvu, částmi oděvu'
+    gcVocab = 'částí částem části částech částmi/oděvu'
+;

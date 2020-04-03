@@ -64,6 +64,10 @@
 -source postavaValecnyNacelnik
 -source postavaKunSRousy
 -source postavaPomalovanyKun
+-source postavaMalyStrakatyKun
+-source postavaVelikyBilyKun
+-source postavaVelikyStrakatyKun
+-source postavaZakrslyKun
 -source tridaZpocatkuAVzdyObleceno
 -source mistnostPredTypimBystrehoRysa
 -source mistnostTypiBystrehoRysa

@@ -1149,9 +1149,6 @@ Ale no tak, lovče, necháš svůj úlovek jen tak na stepi? Nezapomínej, že n
 
 20 – jihozápadní hranice prérie
 
--- chyba, stačí, když mám nůž nebo návnadu a vždy projde test chycení orla. Také se mohu vícekrát dostat do jámy a vše stále jede znova.
-
-
 - doplnit
 
 Pokud se hráč snaží použít orlí maso:
@@ -1226,28 +1223,8 @@ Můžeš jít: S, V
 
 21 – místo pro šajenské slavnosti a obřady
 
-Přicházíš na velmi pěkné místo ze tří stran obklopené řídkým porostem, který ohraničuje veliké kruhové prostranství. U okraje vidíš saunu zvanou inipi, ke které vede krátká cestička zakončená nyní vyhaslým ohništěm. Před vchodem se bělá vysušená bizoní lebka, která jakoby na něco čeká. Nebo na někoho... Nechybí ani malý posvátný kruh tvořený kameny. Zkrátka ideální prostranství pro nejrůznější slavnosti a tance, které máš tak rád.
 
-Následující text zobrazit pouze při první návštěvě:
-"Jak vidno, zdaleka tu nejsi sám. Muži i ženy v čilém ruchu prostranství připravují, co nevidět začne nějaká jistě nesmírně zajímavá slavnost. Cítíš, že i jako cizinec jsi vítán, jen bude vhodné se dobře připravit. Když vzpomínáš na Vaše slavnosti, každý, ať muž či žena, byl hezky a stylově pomalován, měl na sobě ozdoby vhodné pro tanec toho, co člověk touží vyjádřit a přichystal si nějaký dar pro ostatní. Žádná uniformita ani náhodou, každý vypadá jinak a každý ví, jak má vypadat nejlépe, žádné poučky netřeba. Tato "námaha" se vždy bohatě vyplatila, z každé, opravdu každé slavnosti jsi odcházel rozjařený a šťastný, což je jistě ten jediný správný výsledek."
 
-Vidíš saunu, bizoní lebku, posvátný kruh, hlouček žen a mužů připravujících oslavu
-
-Sauna
-- popis: Jednoduchá stavba z vrbového proutí sloužící jako potní chýše.
-
-Bizoní lebka
-- popis: Stepním sluncem doběla vysušená bizoní lebka pro Tebe znamená něco posvátného a těžko uchopitelného. Bledým tvářím naopak zvěstuje něco, čeho se podvědomě obávají.
-
-Při pokusu o sebrání: Posvátných předmětů se určitě nebudu dotýkat, zvláště jsem-li zde na návštěvě.
-
-Posvátný kruh
-- popis: Fyzicky nesmírně prostý kruh sestavený z kamenů představuje v mysli cosi mnohem většího. Kruh je základ všehomíra, neboť mimo jiné zobrazuje skutečnost neustálého koloběhu ve fyzickém světě.
-
-Hlouček žen a mužů
-- popis: Nadšené obličeje milých pracujících prozrazují, že se na slavnost nesmírně těší. Tito lidé pracují z radosti, nikoli z nutnosti, jako to často bývá ve světě bledých tváří. je jistě zajímavé si tuto skutečnost uvědomit.
-
-Při pokusu o hovor s hloučkem žen a mužů: Ne, ne, teď je rušit nebudu. Já se totiž vůbec necítím tak příjemně jako oni, nezdá se mi být přirozené, že oni něco dělají a já tu na ně jen civím. Půjdu raději také něco dělat, ostatně práce ve vsi mám, jak vidím, dost a dost. Až budu mít vše na oslavu připraveno, vrátím se sem, už se moc těším.
 
 Pokud hráč má v inventáři bizoní kůži, bizoní ledviny a bizoní srdce z uloveného bizona, orlí perutě, orlí pera a je správně namalován, při vstupu do lokace se zobrazí následující:
 
@@ -1416,16 +1393,8 @@ Můžeš jít: J, V
 
 22 – lesní bobule
 
-Příjemné tiché místo na kraji lesa, kde se modrá spousta vonících a na chuť jistě velmi zajímavých plodin. Bobule jsou pořádně veliké a sbírat je bude určitě jednodušší než barvou podobné borůvky, a to je sakra příjemné. Ale to nejpříjemnější je rozverná skupina mladých dívek, které bobule sbírají a právě zpívají nějakou ženskou píseň.
+- doplnit zpívající dívky a vyřešit objevení se Tančící vlčice
 
-Vidíš: lesní bobule, zpívající dívky
-pokud hráč již hovořil s upovídanou dívkou a sdělil jí jméno léčitelovy dcery, je vidět i Tančící vlčice
-
-Lesní bobule
-- popis: Nádherné a opravdu veliké plody určené k zakousnutí nebo po naplnění břicha k nasušení. Maso je sice ta nejlepší krmě, kterou znáš, na tyhle bobule se Ti ale také sbíhají sliny.
-
-- při pokusu o sběr bobulí Tě jedna žena rázně zastaví:
-„Kuš, chmatadlo, tady sbíráme my a žádný muž nám nesmí překážet!“ a zachehtá se na celé kolo
 
 Zpívající dívky
 - popis: Opravdu nádherný pohled na příjemně řehtající mladé kobylky, které se i při sběru plodů dokáží tak ladně pohupovat, no, tohle ve městě bledých tváří opravdu neuvidíš. Tak se jen pořádně dívej, opravdu to stojí za to a ani dalekohled nepotřebuješ...
@@ -1611,18 +1580,8 @@ Můžeš jít: S, J, Z,
 
 23 – Lesní porost
 
-Před Tebou se zelená poměrně řídký les, kam místní krasavice chodí sbírat klacky a dřevo na otop. Topit se samozřejmě dá i jinak, my majitelé nejen hospodářských zvířat bychom o vhodnosti jejich usušených produktů mohli vyprávět dlouho… Vidíš zde Tichou srnu se svojí dcerou, které pilně sbírají dary lesa a při tom si zpívají. Nikam nespěchají a jak vidiš na jejich tvářích, práce jim vůbec nevadí.
 
-Vidíš: Tichou srnu, Vyjící celou noc, nasbírané dřevo
 
-Tichá srna
-- popis: Moc pěkná žena ladných tvarů právě svazuje nasbírané dřevo do několika otepí a jak vidno, nikam nespěchá. Její zpěv je jako zpěv ptáků, tichý, šelestivý, ale velmi melodický.
-
-Vyjící celou noc
-- popis: Malá dívenka pobíhá mezi stromy a přitom si pobrukuje do taktu její matky. Někdy si sedne a něco tvoří na zemi, přes přítmí nevidíš přesně, oč se jedná.
-
-nasbírané dřevo
-- popis: Velmi šikovně svázané otepi dřeva tak, aby je žena mohla bez problémů po přivázání ke svému tělu třeba „na smyk“ pohodlně dopravit až do svého příbytku. Jsou ale tyhle indiánky šikovné a pracovité, že?
 
 Při pokusu o oslovení Tiché srny tato přestane zpívat a se zájmem se na Tebe podívá:
 
@@ -1687,18 +1646,23 @@ To od Tebe není moc hezké, vím, že ne všichni si potrpíme na barevné obli
 
 Dívka se bude ptát tak dlouho, dokud hráč nesouhlasí.
 
-Můžeš jít: S, V
+
+
+
+
+
+
+
+
 
 24 – Lesní mýtina pro koně
 
-Došel jsi na velikou lesní mýtinu ohraničenou na severu, jihu a západě lesem a na východě otevřenou směrem k řece. Podle stop kopyt je jasné, že koně si sem v horkých dnech po pastvě rádi chodí odpočinout, přeci jen jejich rozměrná těla dokáže slunce pořádně prohřát.
 
-Vidíš: malého strakatého koně, velikého bílého koně, velikého strakatého koně, zakrslého koně
 
 XXXXXXXXXXXXXXXXXX
 
 malý strakatý kůň
-popis při prvním prozkoumání: Malý legrační koník, jen o něco větší než polovina Tvého těla, Tě vesele a trochu šibalsky pozoruje. Rozhodně nevypadá hladově, více než cokoliv jiného Ti připomíná pivovarský soudek bledých tváří na nožičkách. Když jsi se k němu přiblížil, otočil se bokem, šlehnul po Tobě pohledem a v jeho očích vidíš mazanost vlastní malým plemenům. Jako by Ti něco chtěl naznačit...
+
 popis při druhém prozkoumání: Přiblížil jsi se ke koníkovi blíže, ten se otočil zadkem k Tobě a než jsi stihl zareagovat, velmi dlouze a kvalitně si uprdnul, kterážto vůně Tě málem porazila. Po této neskonalé úlevě před Tebou velmi pomalu a skoro vznešeně přistálo hovínko jako řemen, v poníkovi to vesele zamručelo a malý raubíř nesmírně pomalým a důstojným krokem odchází k pastvinám. Po cestě se na Tebe ještě podíval s takovým výrazem, že kdyby to uměl, řehtal by se na celé kolo, holomek (poznámka autora textu – tuto proceduru zná autor tohoto textu a jistě i mnoho majitelů těchto rošťáků velice dobře z vlastní zkušenosti, proto ten detailní popis...). Náhle za sebou uslyšíš dlouhý chechot, když se otočíš, vidíš skupinu capartů, která z ničeho nic prchá zpět, odkud přišla. A jéje, jestli se drby šíří v indiánské vesnici stejnou rychlostí jako pavlačemi měst bledých tváří, máš se na co těšit...
 
 Objeví se předmět: čerstvá koňská kobliha
@@ -1752,11 +1716,16 @@ pánev s koňskou koblihou
 
 XXXXXXXXXXXXXXXXXX
 
+
+
 veliký bílý kůň
-popis: Vidíš velikého bílého koně odpočívat pod nízkou borovicí. Tělo má velice štíhlé, téměř hubené, ale silné nohy prozrazují, že to bude vynikající běžec. V koních se docela vyznáš, tenhle bude mít v sobě určitě jižanskou krev, a tedy i temperament.
+- popsáno, nebude hrát roli v příběhu
+
+
 
 veliký strakatý kůň
-popis: Před Tebou se tyčí dosti veliká postava strakatého koně, který Ti velice připomíná skot, který chovají bledé tváře a v rezervacích nyní již i indiáni. Kůň je viditelně unavený a zdá se Ti, že i ustaraný a je rád, že má svůj klid, proto na Tvůj pohled nijak nereaguje a se svěšenou hlavou odpočívá dál. Vypadá to, že se před nedávnem opravdu dost naběhal...
+
+- doplnit
 
 popis při druhém prozkoumání: Kůň je opravdu dosti unaven, při bližším zkoumání jsi si ale všiml ještě něčeho jiného. Na pravém boku je docela odřen, odřenina se mu sice hojí, ale dosti pomalu. To ale není to nejhorší. Neustále zdvihá pravé zadní a levé přední kopyto, jako by si chtěl ulevit. A nyní jsi si toho všiml, ten kůň je okovaný... což u indiánů opravdu nebývá zvykem. Ale co tomu koni vadí?
 
@@ -1781,17 +1750,7 @@ pokud hráče napadne použít rezavou rašpli a je s ním psí bojovník: „No
 Hráč je přesunut do lokace 12.
 
 zakrslý kůň
-popis při prvním prozkoumání: „Před sebou vidíš opravdu zvláštní stvoření, maličkého srandovního, ale roztomilého miniponíka, který Ti sahá někam nad kolena... Malý čipera vesele chodí sem a tam, stále k něčemu čichá a něco větří.“
-
-popis při druhém prozkoumání: „Najednou si vzpomínáš, že některé dámy bledých tváří mají takové mini poníky na svých zahradách nejen pro spásání trávy, ale také pro ozdobu, jiné využití však nemají... Ale jakpak se tento dostal k indiánům, zatoulal se nebo v tom bude něco jiného?“
-
-popis při třetím prozkoumání: „Nějaký neodbytný pocit Ti říká, že tohle bys měl prozkoumat. Asi by bylo nejlepší někoho se zeptat, někoho, komu by se tenhle koník mohl hodit.“
-
-Můžeš jít: J, V
-
-
-
-
+- popsáno
 
 
 
