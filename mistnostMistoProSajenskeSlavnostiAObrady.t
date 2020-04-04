@@ -29,8 +29,7 @@ mistnostMistoProSajenskeSlavnostiAObrady : OutdoorRoom 'Místo pro šajenské sl
 		nějaký dar pro ostatní. Žádná uniformita ani náhodou, každý vypadá jinak a každý ví, jak má vypadat 
 		nejlépe, žádné poučky netřeba. Tato námaha se vždy bohatě vyplatila, z každé, opravdu každé slavnosti 
 		jsi odcházel rozjařený a šťastný, což je jistě nádherný výsledek.<<only>>\n 
-		Vidíš saunu, bizoní lebku, posvátný kruh a hlouček tanečníků.\n
-		Můžeš jít na sever, severovýchod a na severozápad. "     
+		Vidíš saunu, bizoní lebku, posvátný kruh a hlouček tanečníků.\n Můžeš jít na sever, severovýchod a na severozápad. "     
 
 	atmosphereList : ShuffledEventList
 	{
@@ -85,17 +84,28 @@ mistnostMistoProSajenskeSlavnostiAObrady : OutdoorRoom 'Místo pro šajenské sl
     gcVocab = 'posvátného posvétnému posvátný posvátným/kruhu/kruh/kruhem'
 ;
 
-+ hloucekTanecniku : CustomImmovable 'hlouček tanečníků' 'hlouček tanečníků' *2
+// hlouček tanečníků je skupina postav sloužící spíše jako dekorace, proto jí neprogramuji jako samostatnou postavu
+
++ hloucekTanecniku : Person 'hlouček tanečníků' 'hlouček tanečníků' *2
 	"Nadšené obličeje žen a mužů nejrůznějšího věku prozrazují, že se na slavnost opravdu nesmírně těší."
 
 	cannotTakeMsg = 'Bivoj už z tohoto světa dávno odešel, nesnaž se mu vyrovnat, nejsi on a ani to nechtěj. '
 
-	cannotTalkToMsg = 'Ne, ne, teď je rušit nebudu. Já se totiž vůbec necítím tak příjemně jako oni, nezdá se mi být přirozené, že oni vše potřebné připravují a já tu na ně jen civím. 
-	Půjdu raději také něco dělat, ostatně práce ve vsi mám dost a dost. Ale až budu mít vše na oslavu připraveno, moc se sem chci vrátit, neměl bych však zapomenout se parádně ozdobit, 
-	ať mají místní krasavice nač hledět a jako lovec nesmím zapomenout vhodnou obětinu na slavnost. '
+    gcName = 'hloučku tanečníků, hloučku tanečníků, hlouček tanečníků, hloučku tanečníků, hloučkem tanečníků'
+    gcVocab = 'hloučku hlouček hloučkem/tanečníků'
+;
 
-    gcName = 'posvátného kruhu, posvátnému kruhu, posvátný kruh, posvátnému kruhu, posvátným kruhem'
-    gcVocab = 'posvátného posvétnému posvátný posvátným/kruhu/kruh/kruhem'
+++ hloucekTanecnikuGuardState: HermitActorState
+
+    noResponse = "Ne, ne, teď je rušit nebudu. Já se totiž vůbec necítím tak příjemně jako oni, nezdá se mi být přirozené, že oni vše potřebné připravují a já tu na ně jen civím. 
+	Půjdu raději také něco dělat, ostatně práce ve vsi mám dost a dost. Ale až budu mít vše na oslavu připraveno, moc se sem chci vrátit, neměl bych však zapomenout se parádně ozdobit, 
+	ať mají místní krasavice nač hledět a jako lovec nesmím zapomenout vhodnou obětinu na slavnost. "
+
+	stateDesc = "Není divu, že se ženy i muži tak těší, taková slavnost rozhodně není na pořadu každého dne. "
+
+	specialDesc = "Natěšené tanečnice a tanečníci se již nemohou dočkat nadcházejících slavností. "
+
+    isInitState = true
 ;
 
 
