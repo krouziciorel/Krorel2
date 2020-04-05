@@ -17,7 +17,7 @@ VelikyBilyKun : UntakeableActor 'kůň' 'kůň' *1 @mistnostLesniMytinaProKone
 	"Vidíš velikého bílého koně odpočívajícího pod nízkou borovicí. Tělo má velice štíhlé, téměř hubené, ale silné nohy prozrazují, 
 	že to bude vynikající běžec. V koních se docela vyznáš, tenhle bude mít v sobě určitě jižanskou krev, a tedy i temperament. "
 
-	specialDesc = "Veliký řechták si užívá chvíli oddychu. "
+	specialDesc = "Veliký bílý řechták si užívá chvíli oddychu. "
 	properName = 'veliký bílý kůň' 
     properNameKohoCeho = 'velikého bílého koně'
     properNameKomuCemu = 'velikému bílému koni'

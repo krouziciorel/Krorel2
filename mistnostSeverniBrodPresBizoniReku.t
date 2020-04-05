@@ -29,3 +29,32 @@ mistnostSeverniBrodPresBizoniReku : OutdoorRoom 'Severní brod přes Bizoní ře
   	north = mistnostKonskePastvinySeverneOdBizoniReky 
   	south = mistnostKonskePastvinyJizneOdBizoniReky 
 ;
+
++ prechodPresReku : Container 'přechod' 'přechod přes řeku' *2
+    "Přechod přes řeku je zde o něco hlubší, ale stále plně použitelný. "
+
+    dobjFor(LookIn)
+    {
+        
+        action()    
+        {
+            if(podivnyKamen.moved)
+            {
+                "Ve vodě se již nic zajímavého nenachází. ";
+                exit;
+            }
+            podivnyKamen.makePresent();
+            "Ve vodě se něco zablesklo, věc vypadá jako zvláštní kámen. ";
+        }
+    }
+
+    gcName = 'přechodu přes řeku, přechodu přes řeku, přechod přes řeku, přechodu přes řeku, přechodem přes řeku'
+    gcVocab = 'přechodu přechod přechodem přes/řeku'
+;
+
+++ podivnyKamen : PresentLater, Thing 'kámen' 'podivný kámen' *2
+    "Opravdu zvláštní podlouhlý kámen s jakoby červeným bleskem na něm namalovaným. Tady si nevím rady, doporučuji se zeptat někoho zkušenějšího. "
+
+    gcName = 'podivnému kameni, podivného kamene, podivný kámen, podivném kameni, podivným kamenem'
+    gcVocab = 'podivnému podivném podivným podivného/kameni/kamenem/kamene'
+;

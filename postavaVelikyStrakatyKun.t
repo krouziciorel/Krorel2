@@ -18,7 +18,7 @@ VelikyStrakatyKun : UntakeableActor 'kůň' 'kůň' *1 @mistnostLesniMytinaProKo
 	Kůň je viditelně unavený a zdá se Ti, že i ustaraný a je rád, že má svůj klid, proto na Tvůj pohled nijak nereaguje a se svěšenou hlavou odpočívá dál. 
 	Vypadá to, že se před nedávnem opravdu dost naběhal. "
 
-	specialDesc = "Opravdový kolos mezi čtyřnožci se na stepích příliš často nevidí. "
+	specialDesc = "Odpočívá zde veliký strakatý kůň, opravdový kolos mezi čtyřnožci, který se na stepích příliš často nevidí. "
 	properName = 'veliký strakatý kůň' 
     properNameKohoCeho = 'velikého strakatého koně'
     properNameKomuCemu = 'velikému strakatému koni'

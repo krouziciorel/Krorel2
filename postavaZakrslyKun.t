@@ -20,7 +20,7 @@ ZakrslyKun : UntakeableActor 'kůň' 'kůň' *1 @mistnostLesniMytinaProKone
 	se tento dostal k indiánům, zatoulal se nebo v tom bude něco jiného... Nějaký neodbytný pocit Ti říká, že tohle bys měl prozkoumat. 
 	Asi by bylo nejlepší někoho se zeptat, někoho, komu by se tenhle koník mohl hodit. <<only>>"
 
-	specialDesc = "Legrační miniponík je prostě k popukání. "
+	specialDesc = "Pase se zde malý legrační zakrslý kůň, jak říká páníček těchto raubířů, cituji, Malý pony zlobivých rozměrů. "
 	properName = 'zakrslý kůň' 
     properNameKohoCeho = 'zakrslého koně'
     properNameKomuCemu = 'zakrslému koni'

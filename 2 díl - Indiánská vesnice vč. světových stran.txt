@@ -1755,39 +1755,15 @@ zakrslý kůň
 
 
 
-25 – severní brod přes Bizoní řeku
-
-Překročit Bizoní řeku není zas tak obtížné, zde se ale nachází o něco širší brod vhodný nejen pro přechod, ale také pro brodění unavených nohou i koňských kopyt. Nádherně čistá řeka se zde trochu zpomaluje.
-
-Vidíš: hlubší přechod přes řeku
-- popis: přechod přes řeku je zde o něco hlubší, ale stále plně použitelný
-
-Při dalším prozkoumání:
-
-Ve vodě se něco zablesklo, zkusíme to vytáhnout?
-
-1. Ano
-Z vody se ti podařilo vytáhnout podivný kámen.
-
-Zpřístupněn předmět: podivný kámen
-- popis: Opravdu zvláštní podlouhlý kámen s jakoby červeným bleskem na něm namalovaným. Tady si nevím rady, doporučuji se zeptat někoho zkušenějšího.
-
-Předmět je však k nepotřebě a ani není možné se na něj někoho zeptat.
-
-2. Ne
-Bylo tomu dobře ve vodě, necháme to být a bude to spokojené i tak, také řešení.
-
-Můžeš jít: S, J, Z
-
-
-
-
-
 
 
 26 – napajedlo pro koně
 
-Mělká zátočina slouží koním jako napajedlo, což je vidět ze všudypřítomných otisků kopyt. Momentálně tu žádný není, koním dost dobře stačí i čerstvá orosená ranní tráva.
+
+
+- zatím řeším
+
+
 
 Višíš: otisky koňských kopyt
 - popis: Stopovat zde by bylo nemožné, vidíš nejrůznější mozaiku těch nejmenších poníkových i mohutných těžkých stop. Ale moment, jedna je taková zvláštní.

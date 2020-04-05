@@ -18,7 +18,7 @@ MalyStrakatyKun : UntakeableActor 'kůň' 'kůň' *1 @mistnostLesniMytinaProKone
 	připomíná pivovarský soudek bledých tváří na nožičkách. Vždy, když se přiblížíš, otočí se bokem, šlehne po Tobě pohledem a v jeho očích vidíš mazanost vlastní 
 	malým plemenům. Jako by Ti něco chtěl naznačit. "
 
-	specialDesc = "Malý raubíř rovná se veliké potíže. "
+	specialDesc = "Zvolna se zde pase malý legrační kůň alias pony-raubíř, který se rovná velikým budoucím potížím. "
 	properName = 'malý strakatý kůň' 
     properNameKohoCeho = 'malého strakatého koně'
     properNameKomuCemu = 'malému strakatému koni'
