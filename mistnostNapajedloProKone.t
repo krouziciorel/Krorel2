@@ -50,10 +50,8 @@ mistnostNapajedloProKone : OutdoorRoom 'Napajedlo pro koně' 'napajedlo pro kon�
     gcVocab = 'napajedlo/napajedlu/napajedlem'
 ;
 
-// Postupné nalézání funguje, hráč ale musí napsat koukni se do otisků, nikoliv na otisky
-
-+ otiskyKonskychKopyt : CustomImmovable, Container 'otisky' 'otisky koňských kopyt' *2
-    "Stopovat zde by bylo nemožné, vidíš nejrůznější mozaiku těch nejmenších poníkových i mohutných těžkých stop. Ale moment, jedna je taková zvláštní. "
++ otiskyKonskychKopyt : CustomImmovable 'otisky' 'otisky koňských kopyt' *2
+    "Stopovat zde by bylo nemožné, vidíš nejrůznější mozaiku těch nejmenších i největších otisků kopyt. Ale moment, jeden z nich vypadá opravdu zvláštně. "
 
 	isPlural = true
 
@@ -74,14 +72,11 @@ mistnostNapajedloProKone : OutdoorRoom 'Napajedlo pro koně' 'napajedlo pro kon�
 
     cannotTakeMsg = 'Už jsem viděl, že si někdo otisky doslova obtisknul do nějaké hmoty a poté je zachoval, nic vhodného ale sebou nemám. '
 
-//	dobjFor(Examine) asDobjFor(LookIn)
-//  dobjFor(LookThrough) asDobjFor(LookIn)
-
     gcName = 'otisků koňských kopyt, otiskům koňských kopyt, otisky koňských kopyt, otiscích koňských kopyt, otisky koňských kopyt'
     gcVocab = 'otisků otiskům otisky otiscích/koňských/kopyt'
 ;
 
-++ zvlastniStopa : PresentLater, Readable, CustomImmovable, Container 'zvláštní stopa' 'zvláštní stopa' *3
++ zvlastniStopa : PresentLater, Readable, CustomImmovable 'zvláštní stopa' 'zvláštní stopa' *3
     "Jedna stopa se od ostatních dost liší, je mnohem menší a vypadá trochu jako psí. Téměř se ztrácí, ale když ji sleduješ, vypadá to, že někam vede. "
 
         dobjFor(LookIn)
@@ -109,7 +104,7 @@ mistnostNapajedloProKone : OutdoorRoom 'Napajedlo pro koně' 'napajedlo pro kon�
     gcVocab = 'zvláštní/stopy/stopě/stopu/stopou'
 ;
 
-+++ housti : PresentLater, CustomImmovable, Container 'houští' 'houští' *4
++ housti : PresentLater, CustomImmovable, Container 'houští' 'houští' *4
     "Nízký keř v blízkosti řeky nevypadá nikterak zajímavě. <<first time>>Když se přibližuješ blíže, nad Tebou prolétne hejno křičících dravců a v tu ránu se z křoví vyřítí veliký šedý kojot. Když Tě zahlédne, prudce se zastaví, otočí směr a utíká neznámo kam. Uff, to byla rychlost. <<only>>"
 
     dobjFor(LookIn)
@@ -134,14 +129,14 @@ mistnostNapajedloProKone : OutdoorRoom 'Napajedlo pro koně' 'napajedlo pro kon�
     gcVocab = 'houští'
 ;
 
-++++ bizoniKost : PresentLater, Thing 'bizoní kost' 'bizoní kost' *3
+++ bizoniKost : PresentLater, Thing 'bizoní kost' 'bizoní kost' *3
     "Již značné ohlodaná bizoní kost, třeba ji ještě využiješ. "
 
     gcName = 'bizoní kosti, bizoní kosti, bizoní kost, bizoní kosti, bizoní kostí'
     gcVocab = 'bizoní/kosti/kost/kostí'
 ;
 
-++++ chrestidlo : PresentLater, Wearable 'chřestidlo' 'chřestidlo' *4
+++ chrestidlo : PresentLater, Wearable 'chřestidlo' 'chřestidlo' *4
     "Velmi vkusná chřestící ozdoba s řemínkem k přivázání na nohu je hezkým doplňkem tanečníků, tanec tak získá naprosto jiný ráz. "
 
     gcName = 'chřestidla, chřestidlu, chřestidlo, chřestidlu, chřestidlem'
