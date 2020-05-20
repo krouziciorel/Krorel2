@@ -35,3 +35,25 @@ mistnostKonskePastvinySeverneOdBizoniReky : OutdoorRoom 'Koňské pastviny sever
   	south = mistnostSeverniBrodPresBizoniReku 
   	northeast = mistnostTicheMistoNaUpatiHor 
 ;
+
++ Decoration 'stádo' 'stádo' *4
+    "Obrovské stádo pasoucích se koní, většinou z důvodu poměrně chudé zimní pastvy poměrně malých. Koně vypadají velmi spokojeně, protože 
+	žijí ve svém přirozeném prostředí. Sem tam vidíš pobíhat malé chlapce, kteří mají na koně dávat pozor. " 
+
+	notImportantMsg = 'Krásný pohled, že? Nespoutaná zvířata a pobíhající děti vypadají tak přirozeně jako slunce na obloze, proto se jen dívej. '  
+
+    gcName = 'stáda, stádu, stádo, stádu, stádem'
+    gcVocab = 'stáda/stádu/stádo/stádem'
+;
+
++ Decoration 'malí chlapci' 'malí chlapci' *1
+    "Malí indiánští chlapci se už od mala učí práci s koňmi, protože bez nich by na otevřené prérii byli ve veliké nevýhodě. 
+	Již pouhá přítomnost stačí k tomu, aby si koně na člověka zvykli, takže při dospívání nebudou mít problémy je bravurně ovládat. " 
+
+	isPlural = true
+
+	notImportantMsg = 'Nezbední svišťové létají sem a tam, nech je při tom a jen je sleduj. '  
+
+    gcName = 'malých chlapců, malým chlapcům, malí chlapci, malých chlapcích, malými chlapci'
+    gcVocab = 'malých/malým/malými chlapců chlapcům chlapci chlapcích'
+;

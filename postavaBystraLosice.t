@@ -29,4 +29,41 @@ bystraLosice : Person 'indiánka' 'indiánka' *3 @mistnostPredTypimDivkyPripravu
     globalParamName = 'indiánka'
     gcName = 'indiánku, indiánce, indiánku, indiánce, indiánkou'
     gcVocab = 'indiánku/indiánce/indiánkou'
+
+//  gcVocab = 'bystré bystré bystrou indiánky\'s indiánčina\'s indiánčino\'s
+//  losici/losici/losice/losici/losici/losicí/indiánku/indiánko/
+//  indiánce/indiánkou'
+;
+
++ Decoration 'jelenicové šaty' 'jelenicové šaty' *2
+    "Kožené nebo látkové šaty jsou pro indiánské ženy typické, společně s legínami jsou opravdu univerzální a především 
+    vhodné pro tak důležitou jízdu na koních. " 
+
+    isPlural = true
+
+    owner = bystraLosice
+
+	notImportantMsg = 'Já jsem Ti říkal, že jí sluší, jednoduchost a krása v parádním poměru je balzámem na mužská kukadla,
+    tak se dívej a nic dalšího nevymýšlej. '  
+
+    gcName = 'jelenicových šatů, jelenicovým šatům, jelenicové šaty, jelenicových šatech, jelenicovými šaty'
+    gcVocab = 'jelenicových jelenicovým jelenicovými šatů/šatům/šatech'
+;
+
++ bystraLosiceTalking : InConversationState
+    stateDesc = "Stojí a baví se s tebou. " 
+    specialDesc = "{Kdoco bystraLosice} má v ruce bubínek a povídá si s tebou. "
+    nextState = bystraLosiceTanci
+;
+
++ AskTellTopic @bystraLosice
+    "<.p><q>Tanečnice?</q> zeptal ses, <q>jaké je Tvé jméno?</q>
+
+        <.p><q>Jmenuji se Bystrá losice.</q> "
+;
+
+++ bystraLosiceTanci : ConversationReadyState
+    stateDesc = "Nacvičuje svůj tanec a u této kratochvíle vypadá opravdu půvabně. "
+    specialDesc = "{Kdoco bystraLosice} tančí opravdu parádně, radost pohledět. "
+    isInitState = true  
 ;
