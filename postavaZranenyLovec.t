@@ -28,3 +28,36 @@ zranenyLovec : Person 'lovec' 'lovec' *1 @mistnostTypiZranenehoLovce
     gcName = 'lovce, lovci, lovce, lovci, lovcem'
     gcVocab = 'lovce/lovci/lovcem'
 ;
+
++ zranenyLovecMluvi : InConversationState
+    stateDesc = "Baví se s tebou. " 
+    specialDesc = "{Kdoco zranenyLovec} si s Tebou povídá. "
+    nextState = zranenyLovecOdpociva
+;
+
+++ zranenyLovecOdpociva : ConversationReadyState
+    
+    isInitState = true
+
+    stateDesc = "Lovec právě odpočívá. "
+    specialDesc = "Vidíš odpočívajícího lovce. "
+;
+
+++ HelloTopic, StopEventList
+    [
+        '<q>Tanečnice,</q> zeptal ses, Kroužící orel Tě zdraví a moc se mu líbí Tvůj tanec.\b
+        Dívka přestala bubnovat a tančit, aby s tebou mohla mluvit.
+        <q>Hezký den, Kroužící orle, milovníci tance jsou u mě vítáni.</q>',
+        '<q>Krásná tanečnice, věnuješ Kroužícímu orlu trochu času na malý rozhovor?</q> povídáš s úsměvem.\b
+        <q>Zdravím Kroužícího orla!</q> říká tanečnice a dává si přestávku od svého tance.'
+    ]
+;
+
+++ ByeTopic
+    "<q>Zatím nashledanou.</q> říkáš.<.p>
+    <q>Ano, nashledanou.</q> říká dívka a chystá se zase nacvičovat."
+;
+
+++ ImpByeTopic
+    "Dívka krátce pokyne hlavou a vrací se ke svému tanci."
+;

@@ -14,7 +14,7 @@
  *   Indiánská žena Bystrá losice
  */
 
-bystraLosice : Person 'indiánka' 'indiánka' *3 @mistnostPredTypimDivkyPripravujiciSeNaTanec
+bystraLosice : Person 'indiánka' 'Bystrá losice' *3 @mistnostPredTypimDivkyPripravujiciSeNaTanec
 	"Opravdová fešanda na první pohled, musíš uznat, že krásné dlouhé momentálně 
 	rozpuštěné černé vlasy, červeně namalované čelo a jelenicové šaty Tě opravdu přitahují. V ruce
 	má malý bubínek sloužící jako doprovod snad ke každému indiánskému tanci.
@@ -30,6 +30,7 @@ bystraLosice : Person 'indiánka' 'indiánka' *3 @mistnostPredTypimDivkyPripravu
     properNameKomCem = 'Bystré losici'
     properNameKymCim = 'Bystrou losicí'
     globalParamName = 'indiánka'
+	isHer = true
     gcName = 'mladé dívky, mladé dívce, mladou dívku, mladé dívce, mladou dívkou'
     gcVocab = 'mladé mladou dívky/dívce/dívku/dívko/dívkou/indiánky/indiánce/indiánku/indiánkou'
 ;
@@ -82,6 +83,13 @@ bystraLosice : Person 'indiánka' 'indiánka' *3 @mistnostPredTypimDivkyPripravu
 
     gcName = 'čelem, čelu, čelo, čele, čelem'
     gcVocab = 'čelem/čelu/čelo/čele'
+;
+
++ DefaultGiveShowTopic, ShuffledEventList
+    [
+        '{Kdoco bystraLosice} kroutí hlavou, <q>Ne díky.</q>',
+        '<q>Raději si to schovej.</q> radí. '
+    ]
 ;
 
 + bystraLosiceMluvi : InConversationState
