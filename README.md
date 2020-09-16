@@ -6,6 +6,8 @@ němuž mohu velmi realisticky modelovat objekt světa okolo nás.
 
 Tvorba mi ještě nějaký čas potrvá, jedná se o můj první
 větší projekt, při kterém sbírám podobné zkušenosti jako s Javou.
+Hra je však plně hratelná, můžete prozkoumávat herní svět
+a postupně doplním zbylé předměty, dialogy a změny v lokacích.
 
 Naleznete zde vždy kompletní zdrojové kódy v kořenovém adresáři,
 herní mapu vytvořenou v systému Trizbort, příběh a návod ke hře,
