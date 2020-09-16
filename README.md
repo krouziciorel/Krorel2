@@ -13,5 +13,6 @@ docset pro offline dokumentační prohlížeč Zeal (zatím nefunguje
 fulltextové vyhledávání, jedná se však o alespoň pro mě plně
 využitelnou offline podobu TADS3 Library reference manual)
 a vždy aktuální binární t3 soubor, který je určen ke spuštění
-v některém z interpretů (QTads, Frobtads, Gargoyle), více info
-např. na webu http://tads.cz .
+v některém z interpretů (QTads, Frobtads, novější verze Gargoyle 
+nebo Fabularium určeném pro OS Android), další info např. na webu
+http://tads.cz .
