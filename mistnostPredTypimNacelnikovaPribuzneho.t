@@ -39,7 +39,7 @@ mistnostPredTypimNacelnikovaPribuzneho : OutdoorRoom 'Před týpím náčelníko
     gcVocab = 'týpí/týpí/týpí/týpímu/típí/típí/típí/típí/mu/tee-pee/tee-pee/tee-pee/tee-peemu'
 ;
 
-+ stit : CustomImmovable 'štít' 'štít' *2
++ stit : CustomImmovable 'malovaný štít' 'štít' *2
 	"Nádherně pomalovaný štít, který má svého majitele ochránit před vším zlým a neznámým. "
 
 	cannotTakeMsg = 'Měl bys vědět, že malba na těchto štítech pochází z vize svého majitele a na nikoho 
@@ -49,7 +49,7 @@ mistnostPredTypimNacelnikovaPribuzneho : OutdoorRoom 'Před týpím náčelníko
     gcVocab = 'štítu/štít/štítem'
 ;
 
-+ Decoration 'trojnožka' 'trojnožka' *3
++ Decoration 'jednoduchá trojnožka' 'trojnožka' *3
    "Jednoduchá trojnožka podobná té, která se používá na dnes již tak oblíbený kovový kotlík. "
 
 	notImportantMsg = 'Tohle bych opravdu nedělal a mimo jiné si jí můžeš snadno v blízkém lese vyrobit. '

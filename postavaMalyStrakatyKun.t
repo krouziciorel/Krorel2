@@ -13,7 +13,7 @@
 /*
  *   Malý strakatý kůň pasoucí se na lesní mýtině
  */
-MalyStrakatyKun : UntakeableActor 'kůň' 'kůň' *1 @mistnostLesniMytinaProKone
+MalyStrakatyKun : UntakeableActor 'malý strakatý kůň' 'kůň' *1 @mistnostLesniMytinaProKone
 	"Malý legrační koník, jen o něco větší než polovina Tvého těla, Tě vesele a trochu šibalsky pozoruje. Rozhodně nevypadá hladově, více než cokoliv jiného Ti 
 	připomíná pivovarský soudek bledých tváří na nožičkách. Vždy, když se přiblížíš, otočí se bokem, šlehne po Tobě pohledem a v jeho očích vidíš mazanost vlastní 
 	malým plemenům. Jako by Ti něco chtěl naznačit. "

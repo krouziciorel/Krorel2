@@ -15,7 +15,7 @@
 /*
  *   Lesní porost
  */
-mistnostLesniPorost : OutdoorRoom 'Lesní porost' 'lesní porost'
+mistnostLesniPorost : OutdoorRoom 'Lesní porost' 'lesnímu porostu'
 		"Před Tebou se zelená poměrně řídký les, kam místní krasavice chodí sbírat klacky a dřevo na otop. 
 		Topit se samozřejmě dá i jinak, my majitelé nejen hospodářských zvířat bychom o vhodnosti jejich 
 		usušených produktů mohli vyprávět dlouho. Vidíš zde Tichou srnu se svojí dcerou Vyjící celou noc, 
@@ -34,7 +34,7 @@ mistnostLesniPorost : OutdoorRoom 'Lesní porost' 'lesní porost'
 	southwest = mistnostLesniBobule
 ;
 
-+ nasbiraneDrevo : CustomImmovable 'nasbírané dřevo' 'nasbírané dřevo' *4
++ nasbiraneDrevo : CustomImmovable 'nasbírané dřevo' 'dřevo' *4
     "Velmi šikovně svázané otepi dřeva tak, aby je žena mohla bez problémů po přivázání ke svému tělu třeba „na smyk“ 
 	pohodlně dopravit až do svého příbytku. Jsou ale tyhle indiánky šikovné a pracovité, že? "
 

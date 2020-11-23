@@ -53,23 +53,23 @@ mistnostPredTypimLecitele : OutdoorRoom 'Před týpím léčitele'
     gcVocab = 'týpí/týpí/týpí/týpímu/típí/típí/típí/típí/mu/tee-pee/tee-pee/tee-pee/tee-peemu'
 ;
 
-+ Decoration 'orlí kresba' 'orlí malba/obraz/obrázek' *3
++ Decoration 'orlí kresba' 'kresba/malba/obraz/obrázek' *3
    "Král vzduchu vše vidí a slyší, nic mu nezůstává utajeno. Ani mě by nemělo, i když orel jsem jen podle jména. "
 
-	notImportantMsg = 'Ne, ne, kresba na mě působí příliš příjemným dojmem, než abych se pokusil o něco, čím bych
+	notImportantMsg = 'Ne, ne, kresba na mě působí příliš silným dojmem, než abych se pokusil o něco, čím bych
 	jí jakkoliv ublížil. '
 
-    gcName = 'trojnožku, trojnožce, trojnožka, trojnožce, trojnožkou'
-    gcVocab = 'trojnožku/trojnožce/trojnožka/trojnožkou'
+    gcName = 'kresbu, kresbě, kresba, kresbě, kresbou'
+    gcVocab = 'kresbu/kresbě/kresba/kresbou'
 ;
 
-+ symbol : CustomImmovable 'symbol' 'symbol' *2
-	"Svazek sušených bylin je svázán tak šikovně, aby zpodobňoval letícího orla. Opravdu velmi zajímavé, jako by sis 
++ symbol : CustomImmovable 'orlí symbol' 'symbol' *2
+	"Svazek sušených bylin je svázán tak šikovně, aby symbolicky zpodobňoval letícího orla. Opravdu velmi zajímavé, jako by sis 
 	na něco podobného pamatoval... Ne, nedokážeš si vzpomenout, alespoň zatím ne. "
 
 	cannotTakeMsg = 'Prosím nezapomeň, že tady se alespoň zatím o žádný kapitalizmus nejedná. Léčitele tudíž neberu jako svoji 
 	konkurenci, ale jako někoho, s kým bych se rád seznámil. Nechovej se tržně, buržouste jeden. '
 
-    gcName = 'štítu, štítu, štít, štítu, štítem'
-    gcVocab = 'štítu/štít/štítem'
+    gcName = 'symbolu, symbolu, symbol, symbolu, symbolem'
+    gcVocab = 'symbolu/symbol/symbolem'
 ;

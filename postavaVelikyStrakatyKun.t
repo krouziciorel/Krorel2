@@ -13,7 +13,7 @@
 /*
  *   Veliký strakatý kůň pasoucí se na lesní mýtině
  */
-VelikyStrakatyKun : UntakeableActor 'kůň' 'kůň' *1 @mistnostLesniMytinaProKone
+VelikyStrakatyKun : UntakeableActor 'veliký strakatý kůň' 'kůň' *1 @mistnostLesniMytinaProKone
 	"Před Tebou se tyčí dosti veliká postava strakatého koně, který Ti velice připomíná skot, který chovají bledé tváře a v rezervacích nyní již i indiáni. 
 	Kůň je viditelně unavený a zdá se Ti, že i ustaraný a je rád, že má svůj klid, proto na Tvůj pohled nijak nereaguje a se svěšenou hlavou odpočívá dál. 
 	Vypadá to, že se před nedávnem opravdu dost naběhal. "

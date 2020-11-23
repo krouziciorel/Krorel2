@@ -1,0 +1,2352 @@
+>zapni zápis
+>testTranscript.txt
+>restart
+>a
+>nápověda
+>kontrola překlepů
+>zapni kontrolu překlepů
+
+Na začátku hry jsme ve své kajutě.
+
+>p sebe
+>zhasni
+>p dozimetr
+>p ventily
+>přemýšlej
+>na 20
+>přemýšlej o věčnosti
+>mysli
+>42
+>zničit
+>sebe
+>ukázat sobě
+>vystřel
+>prozkoumej zeď
+>zdi
+>prohlédni rozkazy
+>přečti si rozkazy
+>p kapitána
+>p hodinky
+>p spacák
+>mluv se spacákem
+>p stěny, podlahu, strop
+>p osvětlení
+>vstaň
+>lehni si
+>lehni si na zem
+>p kapsu
+>p oblečení
+>obléct se
+>svléci se
+>dej tričko do levé
+>obleč si oblečení z levé přihrádky
+>dej boty do spacáku
+>r
+>dej hodinky do levé přihrádky
+>vylez ven
+>navlékni si overal
+>nazuj boty
+>p kapsu
+>p přihrádky
+>otevři pravou
+>vem ho
+>p tablet
+>otevři tablet
+>otevři levou
+>dej do ní tablet
+>dej do levé přihrádky tablet
+>namiř tablet na spacák
+>namiř tablet
+>na rozkazy
+>p tablet
+>p ikony
+>p ikony
+>p ikony
+>p ikony
+>p ikony
+>p ikony
+>p ikony
+>p ikony
+>vypni tablet
+>hledej podpalubí
+>p displej
+>hledej ztracený čas
+>hledej ztracený čas
+>hledej ztracený čas
+>hledej ztracený čas
+>hledej ztracený čas
+>zapni tablet
+>p displej
+>stiskni tlačítko
+>cist zpravodajstvi
+>vrať tah
+>klikni na ikonu zpravodajství
+>vrať tah
+>otevři zpravodajství
+>vrať tah
+>přečti zpravodajství
+>p tablet
+>přečti si článek o simpsnech
+>přečti si o objevu tisíciletí nebo dokonalém podvrhu
+>přečti si o olympijských hrách
+>prozkoumej článek
+>hledej vesmírnou loď
+>stiskni home
+>stiskni ikonu hry
+>zadej 45
+>zadej 5000
+>zadej 45
+>zadej 10000
+>ven
+>p kóje
+>p kapitánovu kóji
+>p svou koji
+>p kryty
+>p kryty kójí
+>odstraň polyuretan
+>do své kóje
+>ven
+>p kryty kójí
+>do kapitánovy kóje
+>sundej si tričko
+>ven
+>z kabiny
+>p kabinu
+>zavři kabinu
+>pb
+>pd
+>p společenskou místnost
+>zavři společenskou místnost
+
+Na přídi trochu prozkoumáme přístroje a promluvíme s kapitánem.
+
+>p přístrojovou desku
+>p manuál
+>přečti si manuál
+>koukni do manuálu
+>koukni na hodinky
+>podívej se na hodinky
+>koukni se do hodinek
+>na křeslo navigátora
+>p desku
+>p obrazovku
+>všechny
+>p radarovou navigaci
+>p dráhu letu
+>nastav navigaci
+>p kapitána
+>vystřídej kapitána
+>MLUV S KAPITÁNEM
+>r
+>p kapitána
+>zep
+>zep náklad
+>zeptej se na loď
+>zep spotřebu
+>zep cestu
+>zep asteroid
+>zep základnu
+>zep převzetí
+>lb
+>p všechny dveře
+>p dveře
+>otevři dveře
+>přilož vše
+>ke všemu
+>jdi do vnitřních tlakových dveří
+>jdi z lodi
+
+Zacvičíme si
+
+>p pás
+>p popruhy
+>vzít elektroluminiscenční pásy
+>sedni si na pás
+>stoupni si na pás
+>p pultík
+>zapni pás
+>otoč regulátor na 4
+>otoč regulátor na 2
+>p počítadlo uběhnuté vzdálenosti
+>odejdi z pasu
+>vrať tah
+>vstat z bezeckeho pasu
+>vrať tah
+>sestup z pásu
+>vrať tah
+>vylézt ven
+>vrať tah
+>slez
+>p vše
+>pd
+>mluv
+>zep služba
+>zd
+>p kuchyňku
+>p ohřívač
+>p dvířka
+>vem tubu
+>sněz pastu
+>ochutnej
+>dej tubu do ohřívače
+>zapni ohřívač
+>ochutnej pastu
+>sněz pastu
+>ochutnej tubu
+>sněz sendvič
+>dej tubu do ohřívače
+>stiskni knoflík
+>pd
+
+Jdeme převzít službu
+
+>rozbij průzor
+>p vše
+>mluv
+>zep služba
+>převezmi službu
+>p průzor
+>vstaň
+>vrať tah
+>zd
+>vrať tah
+>ven
+>vypni autopilota
+>vem asteroid
+
+Nastala havárie, musíme se teď snažit sami.
+
+>sednout na kapitánovo křeslo
+>sedni si do svého křesla
+>p stěny, podlahu, strop
+>p kovové díly
+>p ovládací prvky
+>opravit navigaci
+>ven
+>ven
+>z kabiny
+>zavřit vzducotesne dveře
+>otevřít dveře ven
+>zavřít vzduchotesne dvere
+>zd
+>zavři kabinu
+>p záložní zdroj
+>p hodinky
+>p stěny, podlahu, strop
+>pb
+>polej kapitána
+>pd
+>p desku
+>p obrazovky
+>p knipl
+>pohni kniplem
+>přečti manuál
+>najdi podpalubí v manuálu
+>najdi robota ve společenská místnost
+>jít ven
+>z lodi
+>p tlačítka
+>p tlačítko autopilota
+>stiskni autopilota
+>vypni autopilota
+>zapni autopilota
+>p manuál
+>přečti manuál
+>zd
+>polož manuál
+>prohledej podlahu
+>vrať tah
+>podívej se do podlahy
+>vrať tah
+>p podlahu
+>vem manuál
+>otevři silně panel
+>otevři panel
+>vem za madla
+>p zámek
+>otoč zámky
+>vrať tah
+>otoč zámky na panelu
+>zamkni zámky
+>odemkni panel
+>zavři zámky
+>pohni zámky
+>zatáhni za zámky
+>odemkni zámky
+>p prostor pod podlahou
+>p podpalubí
+>zmáčkni tlačítko
+>vstoupit
+>do prostoru
+>vrať tah
+>vrať tah
+>jdi do servisního podpalubí
+>vrať tah
+>jdi dovnitř
+>do panelu
+>vrať tah
+>do podlahy
+>i
+>osahat
+>všeho
+>osahat stěny
+>p podlahu
+>osahat podlahu
+>rozsvítit panel
+>p tablet
+>p tričko
+>p manuál
+>přečti manuál
+>odlož manuál
+>rozsviť tablet
+>odlož manuál
+>vrať tah
+>vrať tah
+>rozsvitit displej tabletu
+>vrať tah
+>namiř tablet na nouzový ovládací panel
+>hledej zdroj světla
+>v podpalubí
+>p podpalubí
+>r
+>hledej zdroj světla
+>v tabletu
+>vrať tah
+>rozsviť
+>tablet
+>p stěny, podlahu, strop
+>p osvětlení
+>p prostor
+>p podpalubí
+>p jističe
+>vypni jističe
+>p panel
+>namiř tablet na nouzový ovládací panel
+>stiskni tlacitko
+>stiskni tlacitko na panelu
+>stiskni na tabletu
+>stiskni 5 6 7
+>kopni do ovládacího panelu
+>zmáčkni tlačítko
+>na panelu
+>zmáčkni tlačítka 1 2 3 R
+>zmáčkni 1 na jističi
+>zmáčkni svůj 1
+>přepni 1
+>zmáčkni 2
+>p okruhy
+>zmáčkni 3
+>zmáčkni 4
+>zmáčkni 5
+>zmáčkni 6
+>zmáčkni 7
+>zadej 3212
+>zmáčkni r
+>zmáčkni 3
+>zmáčkni 5
+>zadej 642135764
+>zmáčkni 2
+>stiskni tlačítko 3
+>stiskni pětku
+>stiskni 4
+
+Konečně jsme přistáli.
+
+>p kapitána
+>p obrazovky
+>r
+>zapni autopilota
+>vypni autopilota
+>stiskni autopilota
+>následuj
+>p kapitána
+>p velitele
+>r
+>t
+>d
+>ano
+>r
+>p technika
+>ne
+>ano
+>zeptej se kapitána na velitele
+>zeptej se kapitána na chrisse
+>připojit
+>se
+>k borisovi
+
+Technik nás veme do dílny, abychom mohli začít s opravou.
+
+>p technika
+>p žebřík
+>následuj
+>p hodinky
+>ulož pozici do souboru 'testSave'
+>v
+>s
+>načti 'testSave'
+>z
+>p papírky
+>p obrazovku terminálu
+>p terminál
+>p obrazovku kamer
+>p kamerový systém
+>namiř tablet na obrazovku kamer
+>namiř tablet na robota
+>zadej iřoza
+>zadej kořínek
+>načti 'testSave'
+>následuj
+>s
+>v
+>s
+>načti 'testSave'
+>následuj
+>s
+>v
+>j
+>načti 'testSave'
+>následuj
+>zep unidip
+>rozluč se
+>mluv s technikem
+>načti 'testSave'
+>následuj
+>zep součástky
+>najdi součástky
+>p technika
+>zep unidip
+>r
+>zep tablet
+>r
+>č
+>č
+>č
+>č
+>č
+>č
+>ulož 'testSave'
+>s
+>č
+>č
+>č
+>č
+>č
+>načti 'testSave'
+>s
+>n
+>č
+>č
+>d
+>č
+>načti 'testSave'
+>s
+>z
+>č
+>č
+>č
+>č
+>načti 'testSave'
+>s
+>v
+>č
+>č
+>č
+>č
+>načti 'testSave'
+>vem unidip
+>připoj
+>tablet
+>do unidip
+>vem tablet
+>připoj loď
+>č
+>č
+>č
+>č
+>následuj kapitána
+>následuj velitele
+>s
+>v
+>s
+>pozdrav velitele
+>zaútoč na kapitána
+>rek modul
+>rek
+>požádej o modul
+>zeptej se na technika
+>zeptej se na kapitána
+>zeptej se na velitele
+>j
+>p stěny
+>p zdi
+>p severní stenu
+>z
+>z
+>zep modul
+>zep součástky
+>zep cmx12
+>zep tablet
+>zep kamery
+>zep počítač
+>ukaž
+>připoj borise
+>namiř tablet na obrazovku kamer
+>namiř tablet na robota
+>namir na boris
+>namir na sebe
+>namiř na zem
+>zadej iřoza
+>zadej kořínek
+>vyhledej asteroid
+>p základnu
+>v
+>p chodbu
+>p žebřík
+>vylez po žebříku
+
+Nezbyde, než se vypravit ven k lodi a najít porouchaný modul.
+
+>p přechodovou komoru
+>do komory
+>vstup do komory
+>prozkoumej páky
+>prozkoumej ciferníky
+>prozkoumej ciferník
+>malý
+>levý ciferník
+>p levý ciferník
+>p pravý ciferník
+>pravý ciferník
+>prozkoumej pravý ciferník
+>p dveře ven
+>p západní dveře
+>p okénko
+>vnitřní
+>rozbít sklo
+>obě
+>zatáhni za zelenou
+>zatlač zelenou
+>pohni se zelenou
+>zatáhni za červenou
+>zatáhni za zelenou
+>z
+>p držák na skafandry
+>obleč si skafandr
+>p skafandr
+>p helmu
+>zapni svítlilnu
+>p vysílačku
+>vem vysílačku
+>p podporu života
+>p pouzdro na nářadí
+>p nářadí
+>vem boty
+>dej je do pouzdra
+>i
+>v
+>polož boty
+>zatlač zelenou
+>otevřít fsdfsdfsdf dveře
+>zatáhni za červenou
+>prozkoumej ciferníky
+>zatáhni za zelenou
+>v
+
+Před základnou
+
+>p kupoli
+>p komoru
+>p základnu
+>p prostor
+>odstraň kameny
+>p nákladní prostor
+>p rampu
+>p loď
+>p automaty
+>následuj automaty
+>p kontejnery
+>p čísla
+>v
+>s
+>p loď
+>p trup
+>sáhni
+>na trup
+>sáhni na trup
+>očichej tablet
+>poslouchej
+>z
+>p loď
+>odemkni trup
+>koukni se na lod
+>p trup
+>p modul
+>vem modul
+>vrať tah
+>vyjmi modul z lodi
+>vrať tah
+>pohni modulem
+>vrať tah
+>vysuň modul
+>vrať tah
+>vyjmi modul z trupu
+>vrať tah
+>vytáhni modul z trupu
+>vrať tah
+>vytáhni modul
+>vrať tah
+>zatáhni za madla
+>p modul
+>p konektor
+>připoj modul k tabletu
+>připoj tablet k modulu
+>připoj tablet ke konektoru
+>zamiř na konektor
+>v
+>j
+>z
+>přepni červenou
+>zatáhni za zelenou
+>p kopuli
+>vejdi do ní
+
+Zpátky uvnitř
+
+>p vše
+>slez po žebříku
+>p stěny, podlahu, strop
+>do komory
+>p hodinky
+>vem boty
+>do kupole
+>projdi
+>vším
+>slez po žebříku
+>p vše
+>p stěny
+>p strop
+>p podlaha
+>p záchod
+>vejdi do nich
+>p mísu
+>sedni si na toaletu
+>zatlač do mísy
+>sundej si overal
+>otevři dveře
+>svlékni si overal
+>zamkni dveře
+>zatlač do mísy
+>sedni na mísu
+>zatlač do mísy
+>ven
+>ven
+>v
+>s
+>z
+>z
+>mluv s borisem
+>přinesl jsem ti modul
+>opravit modul
+>borisi, omluv se
+>řek modul
+>v
+>j
+>p světlo
+>připoj unidip k unidipu
+>připoj sondu k unidipu
+>připoj unidip k balíkům
+>otestuj balíky
+>unidipem
+>otestuj balíky unidipem
+>otestuj unidipem balíky
+>připoj balíky k unidipu
+>otestuj tablet
+>unidipem
+>hledej vesmírnou loď
+>polož modul na stůl
+>připoj modul
+>k unidipu
+>zapoj modul k unidipu
+>zapoj modul
+>připoj modul k unidipu
+>připojit kabel unidipu k modulu radaru
+>vem modul
+>s
+>v
+>s
+>zabít
+>na technika
+>z
+>z
+>ukaž modul borisovi
+>zeptej se na vysílací modul
+>zabij
+>na borise
+>zeptej se technika
+>na zelené dveře
+>rozluč se
+>v
+>p kopuli
+>vylez po něm
+
+Modul je v pořádku, musíme vyndat jiný.
+
+>vem skafandr
+>v
+>obleč si skafandr
+>zatlač zelenou
+>zatáhni za červenou
+>zatáhni za zelenou
+>v
+>p automaty
+>p automat
+>namiř tablet na automat
+>p kontejnery
+>p kontejner
+>p překladiště kontejnerů
+>otevři podezřelý kontejner
+>koukni do kontejneru
+>p čísla
+>s
+>z
+>p trup
+>vložit modul
+>vrať tah
+>dej tablet do lodi
+>dej modul do lodi
+>vem modul
+>ten první
+>vrať tah
+>vytáhni modul
+>první
+>prozkoumej moduly radaru
+>prozkoumej konektor
+>vysílacího modulu
+>v
+>j
+>z
+>zatlač červenou
+>zatáhni za zelenou
+>polož boty
+>z
+>p postavy
+>d
+>v
+>obuj boty
+>z
+
+Máme správný modul, půjdeme ho otestovat, co s ním je.
+
+>d
+>p madla
+>p madla na stěnách
+>p madla na severní stěně
+>p kryt
+>modulu
+>z
+>pozdrav
+>dej modul borisovi
+>ukaž modul borisovi
+>rozluč se
+>v
+>j
+>p hodinky
+>p modul
+>p součástky
+>vem součástky
+>vrať tah
+>vytáhni součástky
+>p patice
+>připoj unidip k modulu
+>připojit kabel unidipu k modulu radaru
+>p modul
+>vem modul
+>otevři plech
+>otevři modul
+>p patice
+>p ventily
+>p součástky
+>r
+
+Vrta mi hlavou bedna
+
+>najdi KBR-3867
+>napiš KBR-3867
+>najdi AV53-81
+
+Co s tím? Půjdeme je ukázat kapitánovi a Borisovi.
+
+>vem součástky
+>vrať tah
+>odpoj součástky
+>vrať tah
+>odmontuj součástky
+>vrať tah
+>odpoj součástky z modulu
+>vrať tah
+>odmontuj součástky z modulu
+>vrať tah
+>vyndej součástky z patice
+>vrať tah
+>vem součástky z modulu
+>vrať tah
+>vytáhni součástky
+>vrať tah
+>vytáhni součástky z patice
+>vrať tah
+>vyjmi součástky
+>vrať tah
+>vytáhni součástky z modulu
+>p modul
+>připoj součástky k unidipu
+>vem součástky
+>s
+>v
+>otevři dveře velitelovy kajuty
+>s
+>pozdrav
+>dej součástky veliteli
+>ukaž součástky veliteli
+>pověz o porouchaných veliteli
+>j
+>z
+>z
+>ukaž součástky borisovi
+>kopni borise
+>uhoď borise
+>rozbij borise
+>zep součástku
+>zep modul
+>zep loď
+
+Zkusíme ve skladu najít součástky, ale pak vrátíme tah
+
+>v
+>j
+>najdi nové součástky
+>najdi VIZ54
+>v tabletu
+>najdi VIZ 54
+>v tabletu
+>najdi viz
+>v regálech
+>vrať tah
+>najdi viz
+>v balících
+>vrať tah
+>najdi balík c3-a24
+>v regálech
+>vrať tah
+>najdi balík c3-a24
+>ve skladu
+>vrať tah
+>prohledej balíky
+>vrať tah
+>prozkoumej regály
+>prozkoumej balíky
+>vrať tah
+>podívej se do balíků
+>vrať tah
+>otevři lékárnu
+>p stetoskop
+>p injekci
+>p projímadlo
+>zavři lékárnu
+
+Zjistili jsme, že správné nejsou k dispozici, jdeme to říci veliteli.
+
+>s
+>z
+>řekni borisovi o součástkách
+>zeptej se na kamerový systém
+>řekni si o kartu
+>dej mi kartu
+>vem kartu
+>zeptat se na identifikacni kartu
+>zeptat se borise na identifikační kartu
+>zeptat se na identifikační kartu borise
+>zeptat se na kartu borise
+>zeptat se na identifikační
+>zeptat se na kartu
+>zep identifikační kartu
+>zeptat se na velitele
+>zeptat se na kapitána
+>zeptat se na chrise
+>zeptat se na nesmysl
+>ano
+>zep zelené dveře
+>zep oblast
+>p papírky
+>zep papírky
+>zep papírek
+>vem zmuchlaný
+>sundej papírky
+>p obrazovky
+>v
+>v
+>s
+>t
+>mluv
+>vrať tah
+>mluv s velitelem
+>p velitele
+>zeptej se na nesmysl
+>zeptej se na chrisse
+>řekni mu o součástkách
+>ukaž mu porouchané součástky
+>j
+>z
+>j
+>p součástky
+>p balíky
+>prohledej balíky
+>hledej balík C3-A24
+>vrať tah
+>hledej balík C3-A24 v regálech
+>p regály
+>r
+>vem balík
+>p regály
+>r
+>otevři balík
+>p balík
+>p součástky
+>i
+>vem novou součástku
+>p součástky
+>i
+>p zip
+>zavři zip
+>p balík
+>dej balík do regálu
+>vysuň balík
+>zasuň balík
+>zasuň balík do regálu
+>p regály
+>r
+>s
+>z
+>řekni borisovi o součástkách
+>zeptej se na ně
+>v
+>v
+>s
+>ukaž veliteli součástky
+>vrať tah
+>řekni o součástkách
+>dej mu je
+
+Máme teď oraz, tak co dělat? Technik nám brání v přístupu na zajímavá místa.
+
+>s
+>z
+>z
+>p hodinky
+>p technika
+>řek součástkách
+>zeptej se na projímadlo
+>p obrazovku
+>zadej xyz
+>v
+>j
+>otevři lékárnu
+>p léky
+>p injekci
+>vem injekci
+>vem projímadlo
+>ochutnej projímadlo
+>vyndej projímadlo z injekce
+>vyndej projímadlo
+>zmáčkni píst
+>zatáhni za píst
+>s
+>sz
+>zamkni dveře
+>jv
+>z
+>p kafovak
+>borisův
+>p kafovak
+>v zásobníku
+>p kafovaky
+>p ventilek
+>p technika
+>zep kávu
+>vem kafovak
+>borisův
+>vem kafovak
+>v zásobníku
+>opakuj
+>napij se
+>ochutnej
+>i
+>p zásobník
+>dej tablet do zásobníku
+>ochutnej kafovak v zásobníku
+>ochutnej kafovak
+>dej projímadlo technikovi
+>dej projímadlo
+>dej injekci technikovi
+>dej projímadlo do kafovaku
+>borisův
+>dej projímadlo do kafovaku
+>v zásobníku
+>vrať tah
+>dej do kafe projímadlo
+>v zásobníku
+>vrať tah
+>přidej projímadlo do kafovaku
+>v zásobníku
+>vrať tah
+>vlij projímadlo do kafovaku v zásobníku
+>vrať tah
+>dej injekci do kafovaku
+>v zásobníku
+>vrať tah
+>píchni injekci do kafovaku
+>v zásobníku
+>vrať tah
+>připoj injekci ke kafovaku
+>v zásobníku
+>vrať tah
+>nasaď injekci na pytlík
+>v zásobníku
+>vrať tah
+>nasaď injekci na kafovak v zásobníku
+>i
+>r
+>p injekci
+>p kafovak
+>v zásobníku
+>stiskni píst
+>vrať tah
+>vem injekci
+>p injekci
+>dej injekci do kafovaku
+>můj
+>vem injekci
+>dej ji do kafovaku
+>tvůj kafovak
+>p injekci
+>p kafovak
+>vem projímadlo
+>ochutnej kafovak
+>v
+>sz
+>vylij kafovak
+>vylij kafovak do mísy
+>zapni popruhy
+>sněz projímadlo
+>sněz ho
+>ven
+>z
+>vypij kafovak
+>r
+>i
+>polož kafovak na pultík
+>vrať tah
+>dej kafovak do zásobníku
+>vem kafovak
+>ten co leží v zásobníku
+>vrať tah
+>vem kafovak
+>oba
+
+Zbavili jsme se Borise, můžeme se volně pohybovat po základně.
+
+>v
+>j
+>dej kafovaky na stul
+>vem kafovak
+>na stole
+>vem kafovak
+>s
+>p vše
+>přečti kafovak
+>kafovak
+>ten poslední
+>napij se z borisova kafovaku
+>napij se z kafovaku
+>p hodinky
+>sz
+>odemkni dveře
+>otevři dveře
+>otevři záchod
+>p borise
+>kopni dveře
+>znič dveře
+>mluv s borisem
+>zep kafe
+>zeptej se na Borisovu kartu
+>řekni si o kartu
+>zep papírky
+>poslouchej
+>zep modul
+>zeptej se na projímadlo
+>v
+>p dveře
+>zelené
+>otevři zelené dveře
+>odemkni zelené dveře
+>rozbij zelené
+>kopni čtečku
+>lij kávu na zelené dveře
+>svůj
+>lij kávu na čtečku
+>svůj
+>polij čtečku
+>lij kávu
+>borisův
+>otevři kafovak
+>svůj
+>j
+>vlez do postele
+>podívej se pod matraci
+>p pavouka
+>s
+>z
+>zeptej se na vozítka
+>zeptej se technika na asteroid
+>jdi do velína
+>sedni si
+>toč se
+>ne
+>namiř tablet na robota
+>p obrazovku kamer
+>p zelené dveře
+>p madlo
+>dveří
+>p madlo
+>madlo modulu
+>v
+>zep robota
+>z
+>robote, jdi na sever
+>vem robota
+>namiř tablet na robota
+>namiř tablet na obrazovku kamer
+>p kamery
+>obrazovku
+>p obrazovku kamer
+>p vozítko
+>p místnost
+>p dveře s průzorem
+>zavři oči
+>pozdrav robota
+
+Získáme přístup do druhé části základny a do vozítka
+
+>namiř tablet na obrazovku kamer
+>vrať tah
+>namiř tablet na robota
+>p instrukce na robotovi
+>p instrukce robota
+>p robotovy instrukce
+>přečti instrukce
+>přečíst instrukce robota
+>zadej krok
+>zadej vlevo vbok, krok
+>zadej smazat
+>zadej opakuj 3 krát
+>zadej krok
+>zadej krok
+>zadej vlevo vbok
+>zadej konec opakování
+>zadej vlevo vbok
+>zadej vlevo vbok
+>zadej krok
+>stiskni start
+>vrať tah
+>zadej start
+>zadej smazat
+>zadej chyba
+>zadej start
+>v
+>v
+>poslouchej
+>v
+>p kartu
+>přilož kartu
+>namiř tablet na robota
+>p bedny
+>otevři bednu
+>p podlahu
+>p dveře
+>s průzorem
+>koukni skrz ně
+>p průzor
+>p dveře s okénkem
+>přilož kartu
+>ke čtečce
+>do vozítka
+>nastup do vozítka
+>p navigaci
+>p sq71
+>ukázat na pult
+>ukázat na ovládací pult
+>pult
+>ukázat tabletem na ovládací pult
+>ukázat na ovládací pult tabletem
+>do skafandrového průlezu
+>vlez do vozíku
+>běž zpátky
+>rekni robotovi
+>připoj robota
+>ukázat na robota tabletem
+>z
+>z
+
+Podíváme se na zoubek počítači
+
+>p madla
+>z
+>prozkoumem racky
+>vem racky
+>p pracoviště
+>p křeslo
+>p obrazovky
+>p popruh
+>p počítač
+>podívej se do obrazovky terminálu
+>podívej se do počítače
+>zapni počítač
+>p klávesnici
+>p papírek
+>kterýkoliv
+>p papírky
+>vem všechny tři papírky
+>ohmataný, srolovaný
+>i
+>zadej ASÍDK
+>zadej IŘOZA
+>zadej ASÍDK
+>zadej EUANŘ
+>zadej S-E-N
+>zadej ÝOPEK
+>vrať tah
+>zadej YOPEK
+>zadej S-E-N
+>zadej kořínek
+>přečti si reporty
+>hledej geologická anomálie
+>v tabletu
+>stiskni s
+>přečti si výsledky těžby
+>zadej r
+>v
+>v
+
+Zase se koukneme na navigaci
+
+>v
+>v
+>p navigaci
+>p sq71
+>vystup z vozítka
+>vrať tah
+>vystup
+>p hydroponickou zahradu
+>jdi do zahrady
+>hledej hydroponii
+>z
+>j
+>s
+>j
+>p vše
+>s
+>s
+
+V kajutě velitele vyrabujeme trezor
+
+>p postel
+>p stolek
+>zatáhni za stolek
+>p injekci
+>dej injekci do pytle
+>p injekci
+>vem injekci
+>p pytel
+>vem pytel
+>p figurky
+>p hlavičku
+>p ručičky
+>pohni ručičkami
+>hledej Ivana Bellu
+>vem figurky
+>p trezor
+>p dvířka
+>otevři trezor
+>hledej trezor
+>p číselník
+>otoč s číselníkem
+>otoč číselník na 2
+>otoč číselník na blabla 1
+>otoč číselník na číslo 1
+>otoč číselník na 3333333
+>nastav ciselnik na 0
+>otoč ciselnik na 0
+>p kliku
+>zadej 123654
+>p klapání
+>zmáčkni kliku
+>zatáhnout kliku
+>j, z, j
+>p lékařské vybavení
+>p stetoskop
+>vem stetoskop
+>s, v, s
+>poslouchej trezor
+>dej stetoskop na trezor
+>vrať tah
+>dej si stetoskop do uší
+>vrať tah
+>poslouchej trezor stetoskopem
+>vrať tah
+>poslouchej stetoskopem
+>vrať tah
+>nasaď si stetoskop
+>přilož stetoskop k sobě
+>připevni stetoskop k trezoru
+>připevni stetoskop k trezoru
+>p stetoskop
+>p trezor
+>p sebe
+>poslouchej trezor
+>zadej 123465
+>otevři
+>zadej 645852
+>p trezor
+>p dvířka
+>p účtenky
+>jdi spát, ať jsi zítra fit
+>přečti si dopis
+>hledej sem zworyk 42
+>hledej robota karla
+>p listiny
+>p diamanty
+>vem diamanty
+>vyndej z trezoru
+>vyndej ten z trezoru
+>vem vše z trezoru
+>j
+
+Potkali jsme velitele a kapitána, kteří se vrátili se součástkami
+
+>p velitele
+>řekni Borisovi o kořínku
+>zeptej se na SQ71
+>v, v
+>projdi zelenými dveřmi
+>z
+>následuj kapitána
+>vrať tah
+>následuj
+>mluv s kapitánem
+>ochutnej jahody
+>zep součástky
+>p hodinky
+>vstaň
+>j
+>ven
+>slez
+>sněz jídlo
+>vrať tah
+>sněz potravinový balíček
+>vrať tah
+>sněz těstoviny
+>zep součástky
+>vrať tah
+>zep cmx
+>zep nesmysl
+>sněz jahody
+>p velitele
+>p kapitána
+>r
+>j
+
+Tu kartu bych chtel, pak bych mohl ridit vozitko.
+
+>zeptej se na SQ71
+>v
+>poslouchej
+>poslouchej technikovy dveře
+>poslouchej osvětlení
+>j
+>p postel
+>p technika
+>řekni si o kartu
+>hoď kartu na zem
+>dej borisovi figurky
+>zaútoč na borise
+>uhoď borise
+>rozbij borise
+>zep součástky
+>vem kartu
+>řekni si o kartu
+>zep cmx12
+>lehni si do postele
+>stoupni si na stolek
+>zavři dveře
+>s
+>vem figurky
+>poslouchej
+>rozbij osvětlení
+>vypni svetlo
+>j
+>s
+>s
+>z
+
+Zkusime rozhovor s kapitanem, bude netrpelivy
+
+>s
+>ano
+>ne
+>zep nesmysl
+
+Pujdeme dokoncit opravu
+
+>j
+>j
+>p modul
+>i
+>p hodinky
+>dej tablet do modulu
+>dej opravené do modulu
+>vrať tah
+>dej součástky na modul
+>vrať tah
+>dej opravené do patice
+>vrať tah
+>připoj opravené
+>k modulu
+>vrať tah
+>připoj opravené do modulu
+>vrať tah
+>připoj do modulu
+>opravené součástky
+>p modul
+>s
+>n
+>obleč skafandr
+>nasaď si stetoskop
+>obuj boty
+>ven
+>zmáčkni zelenou
+>zmáčkni červenou
+>ven
+>nasaď si stetoskop
+>vylez na rampu
+>dej modul do lodi
+>dej tablet do lodi
+>z
+>dej modul do lodi
+>p povrch lode
+>slez z rampy
+>vrať tah
+>d
+>vrať tah
+>opusť rampu
+>vrať tah
+>slez
+>do základny
+>vrať tah
+>do komory
+>vrať tah
+>běž do komory
+>vrať tah
+>dovnitř
+>pohni červenou
+>zatlač zelenou
+>do kupole
+>po žebříku
+>č
+>slez po žebříku
+
+Zase zajdu za kapitanem
+
+>p jídelnu
+>vejdi do něj
+>ano
+>ano
+>odvolat
+>ne
+>j
+
+Jdu ukrast kartu
+
+>j
+>sedni
+>postav se
+>p strop
+>p mřížku
+>p chrápání
+>protlac trisky mrizkou
+>n
+>otevři
+>p stůl
+>p dílenské vybavení
+>vem ho
+>užít podávátko
+>použij podávátko
+>stoupni si na stůl
+>vrať tah
+>vylez na stůl
+>vrať tah
+>vlézt na stůl
+>vrať tah
+>vyskoč
+>dej kafovak do mrizky
+>svůj
+>dej podávátko do mrizky
+>polož podávátko
+>n
+>vylez do mřížky
+>jdi dovnitř
+>do mřížky
+>r
+>p otvor
+>otevři mřížku
+>vrať tah
+>zatáhni za mřížku
+>vrať tah
+>pohni mřížkou
+>vrať tah
+>odšroubuj mřížku
+>vrať tah
+>oddělej mřížku
+>vrať tah
+>sundej mřížku
+>vrať tah
+>vem mřížku
+>i
+>p mřížku
+>p otvor
+>podívat se skrz větrací otvor
+>podívej se do otvoru
+>vylez do mřížky
+>vrať tah
+>prolez otvorem
+>vrať tah
+>jdi dovnitř
+>do mřížky
+>vrať tah
+>n
+>p otvor
+>podívat se skrz větrací otvor
+>podívej se do otvoru
+>zavři mřížku
+>zakřič
+>v
+>v
+>podívat se skrz mřížku
+>vyraž mřížku
+>vem kartu
+>hoď kartu na zem
+>otevři mřížku
+>vem technika
+>z
+>z
+>d
+>j
+>vyšplhej do vzduchotechniky
+>vrať tah
+>vlez do vzduchotechniky
+>vrať tah
+>jdi do vzduchotechniky
+>vrať tah
+>vlez do rozvodů
+>vrať tah
+>do otvoru
+>vrať tah
+>vlez do otvoru
+>vrať tah
+>vyšplhej do otvoru
+>vrať tah
+>strč podávátko do mřížky
+>vrať tah
+>strč podávátko do otvoru
+>n
+>vem podávátko
+>v
+>vem mřížku
+>hoď podávátko po borisovi
+>vem kartu
+>vrať tah
+>strč podávátko pod mřížku
+>vrať tah
+>prostrčit podávátko mřížkou
+>vrať tah
+>prostrčit mřížkou podávátko
+>vrať tah
+>přilož podávátko na kartu
+>vrať tah
+>vem kartu podavatkem
+>vrať tah
+>podej kartu
+>vrať tah
+>podej si kartu
+>vrať tah
+>strč podávátko do mřížky
+>i
+>z
+>p hodinky
+>ven
+>s
+
+Jeste jednou zajdeme za kapitanem, je nervozni.
+
+>s
+>p velitele
+>j
+>v
+>v
+>p průlezy
+>p průlez
+>pravý
+>p průlezy do vozítka
+>otevři levý
+>odemkni levý
+>zavři pravý
+>s
+>otevři dveře s průzorem
+>odemkni dveře s průzorem
+>zasuň kartu
+>přilož kartu
+>ke čtečce
+>dej kartu do čtečky
+>v
+
+Ve vozítku
+
+>p navigaci
+>namiř tablet na navigaci
+>namiř tablet na pult
+>namiř tablet na pult s navigací
+>namiř na tablet
+>tablet
+>namiř na tablet
+>pákou
+>pohni s pákou
+>odlož kartu
+>vem kartu
+>p skafandry
+>p průlezy
+>sednout
+
+Odjedeme
+
+>dej kartu do panelu
+>vrať tah
+>dej kartu
+>do slotu
+>dej kartu do slotu
+>koukni průzory
+>zmáčkni páku
+>vrať tah
+>pohni vozítkem
+>vrať tah
+>pohni kniplem
+>p hodinky
+>p navigaci
+>koukni průzory
+
+Volaji mi vysilackou
+
+>projdi dveřmi
+>č
+>č
+>ignoruj je
+>vrať tah
+>ano
+>vrať tah
+>ohlaš se
+>vrať tah
+>ozvi se
+>vrať tah
+>zeptej se na kapitána
+
+Velitel se pta, proc jsem odjel
+
+>č
+>č
+>č
+>zeptej se na kapitána
+>pozdrav
+>rozluč se
+>okolí
+>vrať tah
+>řekni o výmluvě
+>vrať tah
+>řekni o místě těžby
+>vrať tah
+>řekni že se jen rozhlížíš po okolí základny
+>vrať tah
+>řekni o tom že se rozhlížíš
+>vrať tah
+>rekni ze se rozhlizis
+>vrať tah
+>rekni ze se jede podivat na misto tezby
+>vrať tah
+>o mistu tezby
+>těžbu
+
+Velitel se pta, kam jedu
+
+>vyndej kartu
+>vem kartu ze slotu
+>vem kartu
+>vyndej kartu
+>odlož kartu
+>řekni, že se vracíš
+>odvolat
+>pozdrav
+>rozluč se
+>zeptej se na kapitána
+>řekni pravdu
+
+Velitel se pta, co si myslim, ze tam najdu
+
+>p navigaci
+>zeptat se
+>na bednu
+>zeptej se na bednu
+>zeptej se na nehodu rypadla
+>zeptej se na přesun těžby
+>zep zakázanou oblast
+>zeptej se na chrisse
+>zeptej se na původ součástek
+>zep se na díly
+>zep součástky
+>zeptej se na diamanty
+
+Nabizeji mi uplatek
+
+>č
+>č
+>č
+>zeptej se na kapitána
+>pozdrav
+>rozluč se
+>ano
+>odvolat
+>ne
+
+Jsme na miste
+
+>ven
+>i
+>odlož vše
+>ven
+>vrať tah
+>prolez do skafandru
+>vrať tah
+>oblékni skafandr
+
+V tunelech
+
+>p hmotu
+>vem hmotu
+>p trosky
+>vem trosky
+>p vysílačku
+>p skafandr
+>p helmu
+>p vysílačku
+>vem vysílačku
+>p vše
+>p zbytky
+>p vstup
+>p vozítko
+>p hodinky
+>vem vše
+>p plošinu
+>prohledej držáky
+>vrať tah
+>podívej se do držáků
+>vrať tah
+>p držáky na nářadí
+>prohledej držáky nářadí
+>p svítilnu
+>namiř svítilnu na vozítko
+>p akumulátor
+>ve svítilně
+>p nářadí
+>p laser
+>p tlačítko
+>zmáčkni spouštěcí tlačítko
+>namiř laser na trosky
+>zmáčkni spouštěcí tlačítko
+>p akumulátor
+>koukni průzorem
+>vem svítilnu
+>polož laser
+>podívej se do držáků
+>dovnitř
+>polož vše
+>r
+>i
+>sundej si tričko
+>dovnitř
+>koukni průzory
+>projdi průlezem
+>koukni do vstupu
+>vem svítilnu
+>zapni ji
+>namiř svítilnu na trosky
+>p svítilnu
+>koukni do vstupu
+>vyndej ze svítilny akumulátor
+>vem laser
+>p akumulator
+>p nabity akumulator
+>najdi akumulátor
+>ve vozítku
+>v
+
+V tajemné místnosti
+
+>prohlédni si hmotu
+>vem hmotu
+>p stěny, podlahu, strop
+>prozkoumej zadni stenu prihradky
+>p zadni prepazku
+>p zadni stenu
+>p stěny
+>p stroj
+>prohledej list
+>p list
+>zmáčkni ho
+>p tlačítko
+>zmáčkni ho
+>p přihrádky
+>p přihrádky
+>p směs
+>vem směs
+>vem tuhu z prave prihradky
+>dej papír pod směs
+>dej do prave prihradky laser
+>dej do prihradky laser
+>otevři levou
+>zavři pravou
+>prozkoumej materiály
+>vlož laser
+>do přihrádky
+>do levé přihrádky
+>dej akumulátor do přístroje
+>zadej 150
+>zadej 150 do stroje
+>mysli na 80
+>40
+>p ploché místo
+>p povrch
+>vlož do prohlubně
+>sahni do prohlubne
+>dej ruku do prohlubně
+>zmáčkni prohlubeň
+>dej akumulátor do přístroje
+>dej akumulátor do přihrádky
+>levé
+>dej oba vybité akumulátory do pravé přihrádky
+>vezmi vybitý akumulátor
+>dej ho do pravé přihrádky přístroje
+>vem vybitý akumulátor a dej ho do laseru
+>vyndej vybitý akumulátor
+>v pravé přihrádce
+>vrať tah
+>vyndej vybitý akumulátor
+>můj
+>vem jeden vybitý akumulátor a dej ho do svítilny, potom dej nabitý do laseru
+>dej svůj vybitý do laseru
+>vyjmi akumulátor
+>oba
+>dej oba vybité do pravé
+>dej nabitý do levé
+>ulož 'testSave'
+>dotkni se prohlubně
+>mysli si 8
+>r
+>p přístroj
+>pozdrav přístroj
+>p přihrádky
+>vezmi nabitý akumulátor
+>zadej 7
+>10
+>p nabitý
+>v pravé přihrádce
+>p kousky
+>dej nabité akumulátory do laseru
+>zmáčkni tlačítko
+>namiř na stroj
+>laserem
+>načti 'testSave'
+>vem jeden vybitý akumulátor a dej ho do laseru
+>stiskni prohlubeň
+>otevři přihrádky
+>dotkni se prohlubně
+>mysli 10
+>dej akumulatory do laseru
+>vyndej akumulatory
+>dej oba nabité do laseru
+>vystřel
+>na sebe
+>z laseru
+>vystřel na přístroj
+>vystřel na kruh
+>z
+
+Finální konfrontace
+
+>p vozítko
+>pronásledovatelů
+>vrať tah
+>v
+>vrať tah
+>vyskoč
+>vrať tah
+>stoupni si na plošinu
+>vrať tah
+>dovnitř
+>vrať tah
+>p velitele
+>vrať tah
+>mluv s velitelem
+>namiř laser
+>na vozítko
+>na pronásledovatele
+>vrať tah
+>namiř laser na trosky
+>stiskni tlačítko
+>vrať tah
+>vrať tah
+>vystřel na temnou hmotu
+>vrať tah
+>namiř laser na vozítko
+>pronásledovatelů
+>p laser
+>vrať tah
+>zmáčkni spouštěcí tlačítko
+>odvolat
+>stiskni laser
+>odvolat
+>zamiř laserem na kapitána
+>stiskni tlačítko laseru
+>odvolat
+>odvolat
+>vystřel na podvozek
+>podvozek vozítka pronásledovatelů
+>odvolat
+>zmáčkni tlačítko laseru
+>odvolat
+>zapni laser
+>odvolat
+>zapni tlačítko laseru
+>odvolat
+>vystřel
+>na vozítko
+>pronásledovatelů
+>odvolat
+>vystřel na vozítko
+>vlastní
+>vystřel na vozítko pronásledovatelů
+>odvolat
+>vystřel z laseru
+>na vozítko pronásledovatelů
+>odvolat
+>zamiř vozítko
+>pronásledovatelů
+>laserem
+>odvolat
+>vezmi vybity akumulator z laseru
+>odvolat
+>vystřel na velitele a kapitána
+>vystřel na velitele
+>odvolat
+>vystřel na trosky
+>odvolat
+>vystřel na sebe
+>odvolat
+>namiř laserem na sebe
+>odvolat
+>zaútoč na kapitána
+>odvolat
+>vystřel na řidiče
+>odvolat
+>zamiř laserem na řidiče
+>odvolat
+>zabij pronásledovatele
+
+Konec hry
+
+>možnosti
+>detailní skóre
+>autor
+
+Zahrajeme si jeste jednou a tentokrat kratky prubeh jdouci po pribehu
+
+>restartovat
+>p sebe
+>p rozkazy
+>přečti si rozkazy
+>obleč si vše
+>otevři pravou
+>vem ho
+>zapni tablet
+>stiskni ikonu zpravodajství
+>přečti si o objevu tisíciletí nebo dokonalém podvrhu
+>ven
+>pd
+
+Na přídi trochu prozkoumáme přístroje a promluvíme s kapitánem.
+
+>mluv s kapitánem
+>zep spotřebu
+>zep spotřebu
+>zep cestu
+>zep asteroid
+>zd
+
+Zacvičíme si
+
+>stoupni si na pás
+>zapni pás
+>slez
+>zapni ohřívač
+>sněz pastu
+>pd
+
+Jdeme převzít službu
+
+>mluv
+>převezmi službu
+>č
+>č
+>č
+
+Nastala havárie, musíme se teď snažit sami.
+
+>p obrazovky
+>pohni kniplem
+>p tlačítko autopilota
+>stiskni autopilota
+>vem manuál
+>přečti manuál
+>zd
+>p podlahu
+>otoč zámky
+>zmáčkni tlačítko
+>d
+>p panel
+>přečti manuál
+>zadej 356421357642354
+
+Konečně jsme přistáli.
+
+>následuj
+>ano
+>vrať tah
+>ne
+>ano
+>vrať tah
+>ne
+
+Technik nás veme do dílny, abychom mohli začít s opravou.
+
+>následuj
+>následuj
+>zep unidip
+>zep modul
+>s
+>n
+
+Nezbyde, než se vypravit ven k lodi a najít porouchaný modul.
+
+>obleč si skafandr
+>v
+>zatáhni za zelenou
+>zatáhni za červenou
+>v
+
+Před základnou
+
+>p automaty
+>v
+>s
+>p trup
+>z
+>p trup
+>p záď
+>p příď
+>p modul
+>vem modul
+>v
+>p trup
+>p záď
+>p příď
+>j
+>z
+>zatlač červenou
+>zatáhni za zelenou
+>z
+
+Zpátky uvnitř
+
+>d
+>z
+>pozdrav
+>řek modul
+>v
+>j
+>připoj modul k unidipu
+>vem modul
+>s
+>z
+>ukaž modul
+>v
+>n
+
+Modul je v pořádku, musíme vyndat jiný.
+
+>obleč si skafandr
+>v
+>zatáhni za zelenou
+>zatáhni za červenou
+>v
+>s
+>z
+>dej modul do lodi
+>vem modul
+>první
+>v
+>j
+>z
+>zatáhni za červenou
+>zatáhni za zelenou
+>z
+
+Máme správný modul, půjdeme ho otestovat, co s ním je.
+
+>d
+>j
+>připoj unidip k modulu
+>p součástky
+
+Vrta mi hlavou bedna
+
+>najdi KBR-3867 v tabletu
+>najdi AV53-81
+>vem součástky
+>najdi VIZ-54
+>hledej balík c3-a24
+>v regálech
+>otevři balík
+>vem novou
+
+Zjistili jsme, že správné nejsou k dispozici, jdeme to říci veliteli.
+
+>s
+>v
+>s
+>zadej 123 na trezoru
+>řekni veliteli o součástkách
+>dej mu porouchané součástky
+
+Máme teď oraz, tak co dělat? Technik nám brání v přístupu na zajímavá místa.
+
+>s
+>z
+>z
+>řek součástkách
+>v
+>j
+>otevři lékárnu
+>p vybavení
+>vem injekci
+>s
+>z
+>dej projímadlo do kafovaku v zásobníku
+
+Naprogramujeme robota, aby odemknul dveře
+
+>namiř tablet na obrazovku kamer
+>zadej opakuj 3 krát
+>zadej krok
+>zadej krok
+>zadej vlevo vbok
+>zadej konec opakování
+>zadej vlevo vbok
+>zadej vlevo vbok
+>zadej krok
+>stiskni start
+>v
+>v
+>v
+>v
+>p navigaci
+>z
+>z
+>z
+
+Podíváme se na zoubek počítači
+
+>z
+>p počítač
+>p papírky
+>zadej IŘOZA
+>zadej ASÍDK
+>zadej EUANŘ
+>zadej S-E-N
+>zadej ÝOPEK
+>zadej korinek
+>zadej r
+>zadej s
+>v
+>v
+
+Zase se koukneme na navigaci
+
+>v
+>v
+>p navigaci
+>z
+>z
+>s
+
+V kajutě velitele vyrabujeme trezor
+
+>p stůl
+>p trezor
+>zadej 123456
+>j, z, j
+>prozkoumej lékařské vybavení
+>vem stetoskop
+>s, v, s
+>nasaď si stetoskop
+>přilož stetoskop k trezoru
+>zadej 123456
+>zadej 645852
+>zmáčkni kliku
+>p účtenky
+>přečti si dopis
+>p listiny
+>p diamanty
+>j
+
+Potkali jsme velitele a kapitána, kteří se vrátili se součástkami
+
+>p velitele
+>následuj
+>sněz jahody
+>p součástky
+>zep součástky
+>sněz těstoviny
+>zep součástky
+>j
+
+Pujdeme dokoncit opravu
+
+>j
+>dej opravené do modulu
+>vem modul
+>s
+>n
+>obleč skafandr
+>ven
+>zmáčkni zelenou
+>zmáčkni červenou
+>ven
+>vylez na rampu
+>z
+>dej modul do lodi
+>v
+>slez
+>do základny
+>pohni červenou
+>zatlač zelenou
+>do kupole
+>po žebříku
+
+Zase zajdu za kapitanem
+
+>s
+>ano
+>ano
+>odvolat
+>ne
+>j
+
+Jdu ukrast kartu
+
+>j
+>p stůl
+>p dílenské vybavení
+>vem podávátko
+>p mřížku
+>stoupni si na stůl
+>otevři mřížku
+>n
+>v
+>vem kartu
+>z
+>d
+>s
+>v
+>v
+>v
+
+Ve vozítku
+
+>p navigaci
+
+Odjedeme
+
+>dej kartu do slotu
+>koukni průzory
+>zmáčkni páku
+>č
+>p navigaci
+>koukni průzory
+>ohlaš se
+>rozhlizim se po okoli
+>vrať se
+>odvolat
+>řekni pravdu
+>zeptej se velitele na nehodu rypadla
+>zep zakázaná
+>zeptej se na přesun těžby
+>zeptej se na diamanty
+>ne
+>p navigaci
+>mluv s velitelem
+>odlož vše
+>ven
+
+V tunelech
+
+>p zbytky
+>p vstup
+>p držáky
+>p laser
+>vem svítilnu
+>zapni ji
+>p svítilnu
+>vem laser
+>v
+>p stroj
+>p papír
+>dej nabitý akumulátor do přihrádky
+>levé
+>dej oba vybité akumulátory do pravé přihrádky
+>zmáčkni prohlubeň
+>mysli si 10
+>dej nabité akumulátory do laseru
+>z
+>namiř laser na vozítko
+>pronásledovatelů
+>zmáčkni spouštěcí tlačítko
+
+Konec
+
+>konec
+>a

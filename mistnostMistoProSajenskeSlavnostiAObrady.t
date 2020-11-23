@@ -16,7 +16,7 @@
  *   Místo pro šajenské slavnosti a obřady
  */
 mistnostMistoProSajenskeSlavnostiAObrady : OutdoorRoom 'Místo pro šajenské slavnosti a obřady' 
-	'místo pro šajenské slavnosti a obřady'
+	'místu pro šajenské slavnosti a obřady'
 		"Přicházíš na velmi pěkné místo ze tří stran obklopené řídkým porostem, který ohraničuje 
 		veliké kruhové prostranství. U okraje vidíš saunu zvanou inipi, ke které vede krátká 
 		cestička zakončená nyní vyhaslým ohništěm. Před vchodem se bělá vysušená bizoní lebka, 
@@ -56,7 +56,7 @@ mistnostMistoProSajenskeSlavnostiAObrady : OutdoorRoom 'Místo pro šajenské sl
   	north = mistnostPredTypimStarce 
 ;
 
-+ sauna : CustomImmovable 'sauna' 'sauna' *3
++ sauna : CustomImmovable 'potní sauna' 'sauna' *3
 	"Jednoduchá stavba z vrbového proutí sloužící jako potní chýše."
 
 	cannotTakeMsg = 'To půjde dosti těžko, proutí si mohu nasbírat kdekoliv a kameny přeci také. '
@@ -65,7 +65,7 @@ mistnostMistoProSajenskeSlavnostiAObrady : OutdoorRoom 'Místo pro šajenské sl
     gcVocab = 'saunu/sauně/sauna/saunou'
 ;
 
-+ bizoniLebka : CustomImmovable 'bizoní lebka' 'bizoní lebka' *3
++ bizoniLebka : CustomImmovable 'bizoní lebka' 'lebka' *3
 	"Stepním sluncem doběla vysušená bizoní lebka pro Tebe znamená něco posvátného a těžko uchopitelného. Bledým tvářím naopak zvěstuje něco, čeho se podvědomě obávají."
 
 	cannotTakeMsg = 'Posvátných předmětů se určitě nebudu dotýkat, zvláště jsem-li zde na návštěvě. '
@@ -74,7 +74,7 @@ mistnostMistoProSajenskeSlavnostiAObrady : OutdoorRoom 'Místo pro šajenské sl
     gcVocab = 'bizoní/lebky/lebce/lebka/lebkou'
 ;
 
-+ posvatnyKruh : CustomImmovable 'posvátný kruh' 'posvátný kruh' *2
++ posvatnyKruh : CustomImmovable 'posvátný kruh' 'kruh' *2
 	"Fyzicky nesmírně prostý kruh sestavený z kamenů představuje v mysli cosi mnohem většího. Kruh je základ všehomíra, neboť mimo jiné zobrazuje skutečnost neustálého 
 	koloběhu ve fyzickém světě."
 
@@ -86,7 +86,7 @@ mistnostMistoProSajenskeSlavnostiAObrady : OutdoorRoom 'Místo pro šajenské sl
 
 // hlouček tanečníků je skupina postav sloužící spíše jako dekorace, proto jí neprogramuji jako samostatnou postavu
 
-+ hloucekTanecniku : Person 'hlouček tanečníků' 'hlouček tanečníků' *2
++ hloucekTanecniku : Person 'hlouček tanečníků' 'hlouček' *2
 	"Nadšené obličeje žen a mužů nejrůznějšího věku prozrazují, že se na slavnost opravdu nesmírně těší."
 
 	cannotTakeMsg = 'Bivoj už z tohoto světa dávno odešel, nesnaž se mu vyrovnat, nejsi on a ani to nechtěj. '

@@ -39,7 +39,7 @@ mistnostPredTypimValecnehoNacelnika : OutdoorRoom 'Před týpím válečného n�
     gcVocab = 'týpí/týpí/týpí/týpímu/típí/típí/típí/típí/mu/tee-pee/tee-pee/tee-pee/tee-peemu'
 ;
 
-+ insignie : CustomImmovable 'insignie' 'ozdoby' *3
++ insignie : CustomImmovable 'válečné insignie' 'insignie/ozdoby' *3
 	"Psí bojovníci jsou velmi zajímavá válečnická společnost. Jedná se o velmi odhodlané muže, kteří se při boji přiváží 
 	na jedno místo a odrážejí útoky nepřátel stejně jako stěna odráží příboj vln. Ale nejsou to blázni, většinou v tomto 
 	spolku působí jen několik let a pokud přežijí, získají si nehynoucí úctu ostatních. <<first time>>Je to zajímavé, před 

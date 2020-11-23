@@ -13,7 +13,7 @@
 /*
  *   Indiánská žena Noční sova
  */
-nocniSova : Person 'indiánka' 'indiánka' *3 @mistnostTypiNacelnikovaPribuzneho
+nocniSova : Person 'Noční sova' 'indiánka' *3 @mistnostTypiNacelnikovaPribuzneho
 	"Středně vysoká žena ušlechtilých rysů oděna do šatů z modré kalikové látky přepásané moc hezkým červeným pásem. 
 	Zajímavě a velmi decentně vymalovaný obličej jen zdůrazňuje, že pohled na ní je více než příjemný. "
 

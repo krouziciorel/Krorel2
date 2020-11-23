@@ -13,7 +13,7 @@
 /*
  *   Žena indiánského léčitele Jarní kvítí
  */
-lecitelovaZena : Person 'indiánka' 'indiánka' *3 @mistnostTypiLecitele
+lecitelovaZena : Person 'léčitelova žena' 'indiánka' *3 @mistnostTypiLecitele
 	"<<first time>>Indiánská fešanda, která právě s úsměvem na rtech rozčesává vlasy svému muži. Velmi dlouhá a především 
 	příjemná procedura, pro své muže doporučuje jedenáct z deseti indiánek. <<only>>Žena je ověšena různými ozdobami, které barevně 
 	velmi vkusně ladí s jejími skvostnými jelenicovými šaty. <<first time>>Zvláště jedna se Ti moc zamlouvá. <<only>>"

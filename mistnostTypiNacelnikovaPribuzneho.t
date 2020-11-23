@@ -28,7 +28,7 @@ mistnostTypiNacelnikovaPribuzneho : Room 'Týpí náčelníkova příbuzného' '
 	east asExit(out)
 ;
 
-+ vyhasleOhniste : CustomImmovable 'ohniště' 'ohniště' *4
++ vyhasleOhniste : CustomImmovable 'vyhaslé ohniště' 'ohniště' *4
     "Momentálně vyhaslé ohniště ohraničené kameny čeká jen na toho, kdo mu dodá lesk šlehajících plamenů. "
 
     cannotTakeMsg = 'Bezva nápad, ale já Ti nevím, zkus nejdřív sehnat nějaký trakař na ty šutry a pak to nějak vymyslíme. '
@@ -39,7 +39,7 @@ mistnostTypiNacelnikovaPribuzneho : Room 'Týpí náčelníkova příbuzného' '
     gcVocab = 'ohniště/ohništi/ohništěm/oheň/ohni/ohněm'
 ;
 
-+ Decoration 'trojnožka' 'trojnoha' *3
++ Decoration 'kovová trojnožka' 'trojnožka' *3
    "Velmi praktická kovová trojnoha zaražená do země na třech okrajích ohniště se zavěšenou plotnou. "
 
 	notImportantMsg = 'Není potřeba takovou věc odnášet z týpí, vyhnat ze vsi se nech laskavě sám. '
@@ -48,7 +48,7 @@ mistnostTypiNacelnikovaPribuzneho : Room 'Týpí náčelníkova příbuzného' '
     gcVocab = 'trojnožku/trojnožce/trojnožka/trojnožkami trojnohu/trojnoze/trojnoha/trojnohami'
 ;
 
-+ Decoration 'plotna' 'plotna' *3
++ Decoration 'železná plotna' 'plotna' *3
    "Šikovný kus železa, který je zavěšen na trojnožce. Přímo na něm lze péct placky nebo položit další kovový předmět, třeba pánvici. "
 
 	notImportantMsg = 'Já Tě chápu, Ty ale pochop mě, sběrny v našem světě zatím nemáme a tahat se s něčím takovým nebudu. '
@@ -57,7 +57,7 @@ mistnostTypiNacelnikovaPribuzneho : Room 'Týpí náčelníkova příbuzného' '
     gcVocab = 'plotnu/plotně/plotna/plotnou'
 ;
 
-+ panvice : CustomImmovable 'pánvice' 'pánvice' *3
++ panvice : CustomImmovable 'železná pánvice' 'pánvice' *3
     "Malá kovová pánvice určená k pečení nejrůznějších placek nebo malých kousků masa. "
 
     cannotTakeMsg = 'Ach jo, to je s Tebou ale trápení. Když už musíš stále něco brát, alespoň se zeptej. '

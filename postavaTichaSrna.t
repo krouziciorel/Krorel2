@@ -13,7 +13,7 @@
 /*
  *   Indiánská žena Tichá srna
  */
-tichaSrna : Person 'indiánka' 'indiánka' *3 @mistnostLesniPorost
+tichaSrna : Person 'Tichá srna' 'indiánka' *3 @mistnostLesniPorost
 	"Moc pěkná žena ladných tvarů právě svazuje nasbírané dřevo do několika otepí a jak vidno, nikam nespěchá. Její zpěv je jako zpěv ptáků, tichý, šelestivý, ale velmi melodický."
 
     specialDesc = "Kdo si při práci zpívá, toho práce asi bude bavit a tato fešanda je zářným příkladem. "

@@ -15,7 +15,7 @@
 /*
  *   Jižní brod přes bizoní řeku
  */
-mistnostJizniBrodPresBizoniReku : OutdoorRoom 'Jižní brod přes bizoní řeku' 'jižní brod přes bizoní řeku'
+mistnostJizniBrodPresBizoniReku : OutdoorRoom 'Jižní brod přes bizoní řeku' 'jižnímu brodu přes bizoní řeku'
 		"Překročit Bizoní řeku není zas tak obtížné, zde se ale nachází velmi mělký brod vhodný nejen pro přechod, 
 		ale také pro brodění unavených nohou i koňských kopyt. Písek se jen blyští a i díky němu je řeka tak nádherně čistá.\n 
 		Můžeš jít na severozápad a na jihovýchod. "     

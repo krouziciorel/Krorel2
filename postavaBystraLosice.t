@@ -14,7 +14,7 @@
  *   Indiánská žena Bystrá losice
  */
 
-bystraLosice : Person 'indiánka' 'Bystrá losice' *3 @mistnostPredTypimDivkyPripravujiciSeNaTanec
+bystraLosice : Person 'Bystrá losice' 'indiánka' *3 @mistnostPredTypimDivkyPripravujiciSeNaTanec
 	"Opravdová fešanda na první pohled, musíš uznat, že krásné dlouhé momentálně 
 	rozpuštěné černé vlasy, červeně namalované čelo a jelenicové šaty Tě opravdu přitahují. V ruce
 	má malý bubínek sloužící jako doprovod snad ke každému indiánskému tanci.
@@ -35,7 +35,7 @@ bystraLosice : Person 'indiánka' 'Bystrá losice' *3 @mistnostPredTypimDivkyPri
     gcVocab = 'mladé mladou dívky/dívce/dívku/dívko/dívkou/indiánky/indiánce/indiánku/indiánkou'
 ;
 
-+ Decoration 'jelenicové šaty' 'jelenicové šaty' *2
++ Decoration 'jelenicové šaty' 'šaty' *2
     "Kožené nebo látkové šaty jsou pro indiánské ženy typické, společně s legínami jsou opravdu univerzální a především 
     vhodné pro tak důležitou jízdu na koních. " 
 
@@ -50,7 +50,7 @@ bystraLosice : Person 'indiánka' 'Bystrá losice' *3 @mistnostPredTypimDivkyPri
     gcVocab = 'jelenicových jelenicovým jelenicovými šatů/šatům/šatech'
 ;
 
-+ Decoration 'bubinek' 'bubinek' *2
++ Decoration 'kožený bubinek' 'bubinek' *2
     "Bubínek z pevné kůže je malý a dobře se nosí. Stačí šikovně zaťukat rukou a pokaždé se objeví nová melodie. " 
 
     owner = bystraLosice
@@ -61,7 +61,7 @@ bystraLosice : Person 'indiánka' 'Bystrá losice' *3 @mistnostPredTypimDivkyPri
     gcVocab = 'bubínku/bubínek/bubínkem'
 ;
 
-+ Decoration 'vlasy' 'vlasy' *2
++ Decoration 'černé vlasy' 'vlasy' *2
     "Jako uhel černé vlasy se lesknou téměr až do modré barvy, připomínají Ti ty nejkrásnější ohony divokých stepních klisen. " 
 
     isPlural = true
@@ -74,7 +74,7 @@ bystraLosice : Person 'indiánka' 'Bystrá losice' *3 @mistnostPredTypimDivkyPri
     gcVocab = 'vlasů/vlasům/vlasy/vlasech'
 ;
 
-+ Decoration 'čelo' 'čelo' *4
++ Decoration 'nabarvené čelo' 'čelo' *4
     "Barvení čela je u indiánských kmenů velmi rozšířené a každá barva něco konkrétního znamená. " 
 
     owner = bystraLosice

@@ -18,9 +18,11 @@ DocToolbar:rebarIndex:I:3
 src win edit mode:komponentaHlavni.t:S:0:TADS 3
 DocToolbar:rebarWidth:I:186
 DebugToolbar:rebarVis:I:1
+src win split:%tads%lib\adv3\exec.t:S:0:0.000000
+src win split:mistnostPredTypimMirovehoNacelnika.t:S:0:0.000000
 build:zipfile:S:0:Makefile_dbg.zip
-src win split:Scripts\Auto 9.cmd:S:0:0.000000
 watch win:sep xpos 0:I:146
+src win split:Scripts\Auto 9.cmd:S:0:0.000000
 watch win:sep xpos 1:I:146
 watch win:sep xpos 2:I:146
 watch win:sep xpos 3:I:146
@@ -30,8 +32,11 @@ search:start at top:I:0
 src win selrange:mistnostKonskePastvinySeverneOdBizoniReky.t:S:0:0,0
 src win selrange:mistnostKonskePastvinySeverneOdBizoniReky.t:S:1:3207,3207
 EditToolbar:rebarNewLine:I:1
-src win split:%tads%lib\adv3\exec.t:S:0:0.000000
+src win selrange:%tads%lib\adv3\exec.t:S:0:0,0
+src win selrange:%tads%lib\adv3\exec.t:S:1:61712,61712
 proj search:exact case:I:0
+src win selrange:mistnostPredTypimMirovehoNacelnika.t:S:0:0,0
+src win selrange:mistnostPredTypimMirovehoNacelnika.t:S:1:2049,2049
 DocToolbar:rebarVis:I:1
 auto-script:quit sequences:S:0:<nocase>[<]line[>]<space>*q(uit)?<space>*
 auto-script:quit sequences:S:1:<nocase>[<]line[>]<space>*y.*
@@ -41,8 +46,9 @@ src win selrange:Scripts\Auto 9.cmd:S:1:0,0
 SearchToolbar:rebarIndex:I:2
 line wrap:komponentaHlavni.t:S:0:N
 search:wrap:I:1
-auto-script:next-id:I:38
+auto-script:next-id:I:39
 SearchToolbar:rebarWidth:I:254
+src win edit mode:%tads%lib\adv3\exec.t:S:0:TADS 3
 search:text:S:0:
 search:text:S:1:
 docking config::S:0:CL
@@ -53,54 +59,53 @@ docking config::S:4:W3,270,170,304,422,604,572,D,B,watch win
 docking config::S:5:W3,270,170,2,422,302,572,D,B,locals win
 docking config::S:6:W-1,170,170,470,278,1104,652,M,R,log win
 docking config::S:7:W-1,170,170,20,22,654,396,M,R,stack win
-src win selrange:%tads%lib\adv3\exec.t:S:0:0,0
-src win selrange:%tads%lib\adv3\exec.t:S:1:61712,61712
+src win edit mode:mistnostPredTypimMirovehoNacelnika.t:S:0:TADS 3
 locals win:pos:R:6,442,298,568
 locals win:vis:I:0
 main win max::I:1
 proj search:collapse spaces:I:0
 src win edit mode:Scripts\Auto 9.cmd:S:0:Command Script
 search:exact case:I:0
-mdi win list::S:0:%tads%lib\adv3\exec.t
-mdi win list::S:1:komponentaHlavni.t
-main win pos::R:-4,30,1604,879
+mdi win list::S:0:komponentaHlavni.t
+mdi win list::S:1:%tads%lib\adv3\exec.t
+main win pos::R:-4,30,1028,747
 build:srczipfile:S:0:Makefile_dbgSource.zip
 proj search:whole word:I:0
 help win vis::I:0
 docsearch win vis::I:0
 build:exe:S:0:Makefile_dbg.exe
-script win:pos:R:2,722,163,853
+script win:pos:R:2,589,163,721
 script win:vis:I:1
-src win edit mode:%tads%lib\adv3\exec.t:S:0:TADS 3
 EditToolbar:rebarIndex:I:1
 hist win vis::I:0
 EditToolbar:rebarWidth:I:1112
 SearchToolbar:rebarVis:I:1
 MenuBar:rebarNewLine:I:0
-line wrap:mistnostKonskePastvinySeverneOdBizoniReky.t:S:0:N
 proj search:regex:I:0
+line wrap:mistnostKonskePastvinySeverneOdBizoniReky.t:S:0:N
 locals win:sep xpos 0:I:146
 locals win:sep xpos 1:I:146
 search:whole word:I:0
 DebugToolbar:rebarNewLine:I:1
 build:debug_image_file:S:0:Makefile_dbg.t3
+line wrap:%tads%lib\adv3\exec.t:S:0:N
+line wrap:mistnostPredTypimMirovehoNacelnika.t:S:0:N
 line wrap:Scripts\Auto 9.cmd:S:0:N
 search:regex:I:0
-mdi tab order::S:0:1,0
+mdi tab order::S:0:0,1
 build:rlsgam:S:0:Makefile_dbg_rls.t3
 EditToolbar:rebarVis:I:1
-line wrap:%tads%lib\adv3\exec.t:S:0:N
 main win mdi max::I:1
 auto-script:default quit sequences set:I:1
 DocToolbar:rebarNewLine:I:0
 MenuBar:rebarIndex:I:0
 src win split:komponentaHlavni.t:S:0:0.000000
-mdi win title::S:0:%tads%lib\adv3\exec.t
-mdi win title::S:1:komponentaHlavni.t
+mdi win title::S:0:komponentaHlavni.t
+mdi win title::S:1:%tads%lib\adv3\exec.t
 search:dir:I:1
 MenuBar:rebarWidth:I:0
 build:installer prog:S:0:Makefile_dbg_Setup.exe
-project win:pos:R:2,155,163,696
+project win:pos:R:2,155,163,563
 project win:vis:I:1
 filesearch win vis::I:0
 stack win vis::I:0

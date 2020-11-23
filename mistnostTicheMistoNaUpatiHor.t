@@ -15,7 +15,7 @@
 /*
  *   Tiché místo na úpatí hor
  */
-mistnostTicheMistoNaUpatiHor : OutdoorRoom 'Tiché místo na úpatí hor' 'tiché místo na úpatí hor'
+mistnostTicheMistoNaUpatiHor : OutdoorRoom 'Tiché místo na úpatí hor' 'tichému místu na úpatí hor'
 		"Na této vyvýšenině step končí a pomalu přechází do horských oblastí. Cítíš, jako bys zde nebo 
 		na velmi podobném místě již někdy byl a lze zde tušit nějaké Tobě zatím neznámé síly. Když se 
 		otočíš kolem dokola, vítá Tě nádherný pohled do všech světových stran. Taková místa si často 

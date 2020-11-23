@@ -16,7 +16,7 @@
  *   Koňské pastviny jižně od Bizoní řeky
  */
 mistnostKonskePastvinyJizneOdBizoniReky : OutdoorRoom 'Koňské pastviny jižně od Bizoní řeky' 
-	'koňské pastviny jižně od Bizoní řeky'
+	'koňským pastvinám jižně od Bizoní řeky'
 		"Moc pěkný pás země s vysokou stepní trávou představuje ideální pastviny pro koně. 
 		Takových je v okolí vesnice spousta, takže si čtyřnozí krasavci mohou vybírat pro sebe 
 		tu nejlepší. Nyní jsou zde pouze dva větší koně, kteří se spokojeně pasou. 
@@ -52,7 +52,7 @@ mistnostKonskePastvinyJizneOdBizoniReky : OutdoorRoom 'Koňské pastviny jižně
   	southeast = mistnostKoupalisteUBizoniReky 
 ;
 
-+ hromadkaHliny : CustomImmovable 'hromádka' 'hromádka hlíny' *3
++ hromadkaHliny : CustomImmovable 'hromádka hlíny' 'hromádka' *3
     "Hromádka zkypřené hlíny, do které ten čtyřnohý nezbeda někdy strká nos. Když se na Tebe podívá a vyplázne svůj hnědý jazyk, 
 	je to pohled k popukání. Opravdu se Ti v tomle chce hrabat? Je to nějaké mazlavé, já Ti nevím... "
 
@@ -80,7 +80,7 @@ mistnostKonskePastvinyJizneOdBizoniReky : OutdoorRoom 'Koňské pastviny jižně
     gcVocab = 'hromádky/hromádce/hromádku/hromádkou'
 ;
 
-++ balicek : Hidden, RestrictedContainer 'balíček' 'balíček' *2
+++ balicek : Hidden, RestrictedContainer 'malý balíček' 'balíček' *2
     "Balíček v indiánským stylu z přírodních listů převázaný zbytkovými šlachami z ulovených zvířat. "
 
 	validContents = [modraBarva]
@@ -104,7 +104,7 @@ mistnostKonskePastvinyJizneOdBizoniReky : OutdoorRoom 'Koňské pastviny jižně
     gcVocab = 'balíčku/balíček/balíčkem'
 ;
 
-+++ modraBarva : Hidden 'barva' 'barva' *3
++++ modraBarva : Hidden 'modrá barva' 'barva' *3
     "Barva získaná z rostliny Ávanásse se používá krom malování ke zkrášlování lidí i koní. "
 
     gcName = 'barvě, barvě, barva, barvě, barvou'

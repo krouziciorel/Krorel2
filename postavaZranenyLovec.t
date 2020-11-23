@@ -13,7 +13,7 @@
 /*
  *   Indiánský zraněný lovec
  */
-zranenyLovec : Person 'lovec' 'lovec' *1 @mistnostTypiZranenehoLovce
+zranenyLovec : Person 'zraněný lovec' 'lovec' *1 @mistnostTypiZranenehoLovce
 	"Muž ve středních letech leží a odpočívá. Jeho zranění sice není
 	smrtelné, jako lékař však velmi dobře víš, že dost bolestivé. "
 
@@ -27,6 +27,17 @@ zranenyLovec : Person 'lovec' 'lovec' *1 @mistnostTypiZranenehoLovce
     globalParamName = 'lovec'
     gcName = 'lovce, lovci, lovce, lovci, lovcem'
     gcVocab = 'lovce/lovci/lovcem'
+;
+
++ Decoration 'bederní rouška' 'rouška' *3
+    "Tato část oděvu není nikterak ozdobena, slouží pouze k praktickým účelům. "
+
+    owner = zranenyLovec
+
+	notImportantMsg = 'Jedná se o běžnou součást oděvu nejen stepních kmenů. ' 
+
+    gcName = 'bederní roušky, bederní roušce, bederní roušku, bederní roušce, bederní rouškou'
+    gcVocab = 'bederní roušky/roušce/roušku/rouškou'
 ;
 
 + zranenyLovecMluvi : InConversationState
@@ -45,19 +56,19 @@ zranenyLovec : Person 'lovec' 'lovec' *1 @mistnostTypiZranenehoLovce
 
 ++ HelloTopic, StopEventList
     [
-        '<q>Tanečnice,</q> zeptal ses, Kroužící orel Tě zdraví a moc se mu líbí Tvůj tanec.\b
-        Dívka přestala bubnovat a tančit, aby s tebou mohla mluvit.
-        <q>Hezký den, Kroužící orle, milovníci tance jsou u mě vítáni.</q>',
-        '<q>Krásná tanečnice, věnuješ Kroužícímu orlu trochu času na malý rozhovor?</q> povídáš s úsměvem.\b
-        <q>Zdravím Kroužícího orla!</q> říká tanečnice a dává si přestávku od svého tance.'
+        '<q>Kroužící orel zdraví lovce.</q>\b
+        Lovec na Tebe pohlédne.
+        <q>Hezký den, Orle, přijmi místo v mém týpí.</q>',
+        '<q>Lovče, věnuješ Kroužícímu orlu trochu času na rozhovor?</q> povídáš s lehce napjatou tváří.\b
+        <q>Buď zdráv, Kroužící orle!</q> říká lovec a se zájmem na Tebe pohlédne.'
     ]
 ;
 
 ++ ByeTopic
-    "<q>Zatím nashledanou.</q> říkáš.<.p>
-    <q>Ano, nashledanou.</q> říká dívka a chystá se zase nacvičovat."
+    "<q>Zatím se loučím.</q> říkáš.<.p>
+    <q>Ano, nashledanou.</q> říká lovec a jde zase odpočívat."
 ;
 
 ++ ImpByeTopic
-    "Dívka krátce pokyne hlavou a vrací se ke svému tanci."
+    "Lovec se položil k odpočinku."
 ;

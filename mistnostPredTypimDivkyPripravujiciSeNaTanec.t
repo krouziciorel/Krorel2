@@ -16,7 +16,7 @@
  *   Před týpím dívky připravující se na tanec
  */
 mistnostPredTypimDivkyPripravujiciSeNaTanec : OutdoorRoom 'Před týpím dívky připravující se na tanec' 
-	'před týpím dívky připravující se na tanec'
+	'před týpí dívky připravující se na tanec'
 		"Před týpím, které je ozdobeno motivy kachen a květin, stojí mladá dívka, která se viditelně 
 		připravuje na nějaký tanec. V jedné ruce má malý bubínek, ve druhé červenou paličku a moc pěkně se 
 		pohybuje do rytmu. Při pohledu na ni máš hnedle chuť si také zatancovat. U týpí je uvázán na dlouhé 

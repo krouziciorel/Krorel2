@@ -13,7 +13,7 @@
 /*
  *   Zvědavý indián Skvrnitý ohon
  */
-skvrnityOhon : Person 'indián' 'zvědavý indián' *1 @mistnostPredTypimZvedavehoIndiana
+skvrnityOhon : Person 'Skvrnitý ohon' 'indián' *1 @mistnostPredTypimZvedavehoIndiana
 	"Skvrnitý ohon je na první pohled mnohem mladší, než Ty a velmi rozverný, často
      se pokukuje okolo jako by něco hledal. "
 

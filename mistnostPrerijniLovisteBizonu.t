@@ -44,7 +44,7 @@ mistnostPrerijniLovisteBizonu : OutdoorRoom 'Prérijní loviště bizonů' 'pré
   	west = mistnostPredTypimValecnehoNacelnika 
 ;
 
-+ Decoration 'širá step' 'širá step' *3
++ Decoration 'širá step' 'step' *3
     "Nekonečná volnost, vítr ve vlasech i hřívách tryskajících koní, pálivé slunce i pálivý led, spousta bizonů a rychlé proudy řek, co více si přát... " 
 
 	notImportantMsg = 'Zkus se na chvíli zastavit a nádhernou stepní krajinu si jaksepatří užít, nemá smysl škádlit jiné smysly, než ty, 

@@ -15,7 +15,7 @@
 /*
  *   Lesní bobule
  */
-mistnostLesniBobule : OutdoorRoom 'Lesní bobule' 'lesní bobule'
+mistnostLesniBobule : OutdoorRoom 'Lesní bobule' 'lesním bobulím'
 		"Příjemné tiché místo na kraji lesa, kde se modrá spousta vonících a na chuť jistě velmi zajímavých plodin. 
 		Bobule jsou pořádně veliké a sbírat je bude určitě jednodušší než barvou podobné borůvky. Ale to nejpříjemnější 
 		je rozverná skupina mladých dívek, které bobule sbírají a právě zpívají nějakou ženskou píseň.\n 
@@ -46,7 +46,7 @@ mistnostLesniBobule : OutdoorRoom 'Lesní bobule' 'lesní bobule'
 	northeast = mistnostLesniPorost
 ;
 
-+ lesniBobule : CustomImmovable 'lesní bobule' 'lesní bobule' *3
++ lesniBobule : CustomImmovable 'lesní bobule' 'bobule' *3
     "Nádherné a opravdu veliké plody určené k zakousnutí nebo po naplnění břicha k nasušení. Maso je sice ta nejlepší krmě, kterou znáš, na tyhle bobule se Ti ale také sbíhají sliny. "
 
     isPlural = true

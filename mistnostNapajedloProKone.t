@@ -15,7 +15,7 @@
 /*
  *   Napajedlo pro koně
  */
-mistnostNapajedloProKone : OutdoorRoom 'Napajedlo pro koně' 'napajedlo pro koně'
+mistnostNapajedloProKone : OutdoorRoom 'Napajedlo pro koně' 'napajedlu pro koně'
 		"Mělká zátočina slouží koním jako napajedlo, což je vidět ze všudypřítomných otisků kopyt, které lovce opravdu zaujmou, ani neví jak.
          Momentálně tu žádný řechták není, koním dost dobře stačí i čerstvá orosená ranní tráva. Paprsky slunce se na hladině krásně lesknou.\n Můžeš
          jít na severovýchod, východ a na jihozápad. "
@@ -25,14 +25,14 @@ mistnostNapajedloProKone : OutdoorRoom 'Napajedlo pro koně' 'napajedlo pro kon�
 	west = mistnostPredTypimBystrehoRysa
 ;
 
-+ slunce : Distant 'slunce' 'slunce' *4
++ slunce : Distant 'svítící slunce' 'slunce' *4
     "Krásně svítí nad rozpálenou stepí, vše dozlatova opaluje a ještě si stíhá hrát s vlnami řeky. "
 
     gcName = 'slunce, slunci, slunce, slunci, sluncem'
     gcVocab = 'slunce/slunci/sluncem'
 ;
 
-+ slunecniPaprsky : Vaporous 'paprsky' 'sluneční paprsky' *2
++ slunecniPaprsky : Vaporous 'sluneční paprsky' 'paprsky' *2
     "Hladina řeky vypadá pod paprsky opravdu překrásně, stačí se na ní zahledět z více míst a obraz je sice podobný, ale vždy jiný. "
 
 	isPlural = true
@@ -41,7 +41,7 @@ mistnostNapajedloProKone : OutdoorRoom 'Napajedlo pro koně' 'napajedlo pro kon�
     gcVocab = 'sluneční slunečním slunečními/paprsky/paprskům/paprsky'
 ;
 
-+ Decoration 'napajedlo' 'napajedlo' *4
++ Decoration 'koňské napajedlo' 'napajedlo' *4
    "Koně dokáží zjistit, kde je voda nejčerstvější a nejchutnější, napajedlo určitě nebudou využívat jen oni. "
 
 	notImportantMsg = 'Já se mohu napít opravdu kdykoliv, tohle v našem příběhu nemusíme řešit. '
@@ -50,7 +50,7 @@ mistnostNapajedloProKone : OutdoorRoom 'Napajedlo pro koně' 'napajedlo pro kon�
     gcVocab = 'napajedlo/napajedlu/napajedlem'
 ;
 
-+ otiskyKonskychKopyt : CustomImmovable 'otisky' 'otisky koňských kopyt' *2
++ otiskyKonskychKopyt : CustomImmovable 'otisky koňských kopyt' 'otisky' *2
     "Stopovat zde by bylo nemožné, vidíš nejrůznější mozaiku těch nejmenších i největších otisků kopyt. Ale moment, jeden z nich vypadá opravdu zvláštně. "
 
 	isPlural = true
@@ -76,7 +76,7 @@ mistnostNapajedloProKone : OutdoorRoom 'Napajedlo pro koně' 'napajedlo pro kon�
     gcVocab = 'otisků otiskům otisky otiscích/koňských/kopyt'
 ;
 
-+ zvlastniStopa : PresentLater, Readable, CustomImmovable 'zvláštní stopa' 'zvláštní stopa' *3
++ zvlastniStopa : PresentLater, Readable, CustomImmovable 'zvláštní stopa' 'stopa' *3
     "Jedna stopa se od ostatních dost liší, je mnohem menší a vypadá trochu jako psí. Téměř se ztrácí, ale když ji sleduješ, vypadá to, že někam vede. "
 
         dobjFor(LookIn)
@@ -104,7 +104,7 @@ mistnostNapajedloProKone : OutdoorRoom 'Napajedlo pro koně' 'napajedlo pro kon�
     gcVocab = 'zvláštní/stopy/stopě/stopu/stopou'
 ;
 
-+ housti : PresentLater, CustomImmovable, Container 'houští' 'houští' *4
++ housti : PresentLater, CustomImmovable, Container 'husté houští' 'houští' *4
     "Nízký keř v blízkosti řeky nevypadá nikterak zajímavě. <<first time>>Když se přibližuješ blíže, nad Tebou prolétne hejno křičících dravců a v tu ránu se z křoví vyřítí veliký šedý kojot. Když Tě zahlédne, prudce se zastaví, otočí směr a utíká neznámo kam. Uff, to byla rychlost. <<only>>"
 
     dobjFor(LookIn)
@@ -129,14 +129,14 @@ mistnostNapajedloProKone : OutdoorRoom 'Napajedlo pro koně' 'napajedlo pro kon�
     gcVocab = 'houští'
 ;
 
-++ bizoniKost : PresentLater, Thing 'bizoní kost' 'bizoní kost' *3
+++ bizoniKost : PresentLater, Thing 'bizoní kost' 'kost' *3
     "Již značné ohlodaná bizoní kost, třeba ji ještě využiješ. "
 
     gcName = 'bizoní kosti, bizoní kosti, bizoní kost, bizoní kosti, bizoní kostí'
     gcVocab = 'bizoní/kosti/kost/kostí'
 ;
 
-++ chrestidlo : PresentLater, Wearable 'chřestidlo' 'chřestidlo' *4
+++ chrestidlo : PresentLater, Wearable 'taneční chřestidlo' 'chřestidlo' *4
     "Velmi vkusná chřestící ozdoba s řemínkem k přivázání na nohu je hezkým doplňkem tanečníků, tanec tak získá naprosto jiný ráz. "
 
     gcName = 'chřestidla, chřestidlu, chřestidlo, chřestidlu, chřestidlem'

@@ -13,7 +13,7 @@
 /*
  *   Válečný náčelník Bystrá antilopa
  */
-valecnyNacelnik : Person 'náčelník' 'náčelník' *1 @mistnostTypiValecnehoNacelnika
+valecnyNacelnik : Person 'válečný náčelník' 'náčelník' *1 @mistnostTypiValecnehoNacelnika
 	"Na první pohled velmi silný muž, jemuž hrají svaly každým pohybem. Co naplat, indiáni jsou válečné 
 	a lovecké společenství, svět bělochů je přeci jen dosti odlišný. "
 

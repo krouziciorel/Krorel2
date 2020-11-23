@@ -15,7 +15,7 @@
 /*
  *   Jihozápadní hranice prérie
  */
-mistnostJihozapadniHranicePrerie : OutdoorRoom 'Jihozápadní hranice prérie' 'jihozápadní hranice prérie'
+mistnostJihozapadniHranicePrerie : OutdoorRoom 'Jihozápadní hranice prérie' 'jihozápadní hranici prérie'
 		"Před Tvýma očima se objevuje hranice otevřené stepi pomalu přecházející do řídkého lesa. 
 		Vidíš step, les a jámy určené pro lov orlů, vhodně umístěné na hranici místních dvou lokalit.\n 
 		Můžeš jít na severovýchod, severozápad a na jihovýchod. " 
@@ -47,7 +47,7 @@ mistnostJihozapadniHranicePrerie : OutdoorRoom 'Jihozápadní hranice prérie' '
   	northeast = mistnostPredTypimZvedavehoIndiana 
 ;
 
-+ Decoration 'step' 'step' *3
++ Decoration 'širá step' 'step' *3
     "Obrovská travnatá plocha vyvolává pocit nekonečnosti všude kolem nás stejně jako pohled na noční oblohu. " 
 
 	notImportantMsg = 'Step vše ostatní, než vítr a vzdouvající se trávu, vesele ignoruje a ani se jí nedivím. '  
@@ -56,7 +56,7 @@ mistnostJihozapadniHranicePrerie : OutdoorRoom 'Jihozápadní hranice prérie' '
     gcVocab = 'stepi/step/stepí'
 ;
 
-+ Decoration 'les' 'les' *2
++ Decoration 'řídký les' 'les' *2
     "Stromy jsou od sebe poměrně dost vzdálné a není divu, stepní tráva není žádné ořezávátko a jen nerada se nechává zardousit někým jiným. " 
 
 	notImportantMsg = 'Lesy, i když malé a řídké, jsou pro stepní národy velmi důležité, paliva a tyčí na obydlí není nikdy nazbyt. '  
@@ -65,7 +65,7 @@ mistnostJihozapadniHranicePrerie : OutdoorRoom 'Jihozápadní hranice prérie' '
     gcVocab = 'lesu/lesa/les/lesem'
 ;
 
-+ jamy : Bed, CustomImmovable 'jámy' 'jámy' *3
++ jamy : Bed, CustomImmovable 'orlí jámy' 'jámy' *3
    "Lov orlů je nebezpečná, ale pro indiány potřebná věc. Probíhá tak, že si lovec lehne do předem vyhrabané jámy a pomocí návnady orla přiláká. 
 	Ten přilétne, začne žrát a lovec mu musí zakoutit krkem, není to žádná legrace... "
 
@@ -113,14 +113,14 @@ mistnostJihozapadniHranicePrerie : OutdoorRoom 'Jihozápadní hranice prérie' '
     gcVocab = 'jámy/jámám/jámách/jámamy'
 ;
 
-++ orliMaso : PresentLater, Thing 'orlí maso' 'orlí maso' *4
+++ orliMaso : PresentLater, Thing 'orlí maso' 'maso' *4
     "Orlí maso je výtečnou pochoutkou, můžeš jej obětovat jako dík úspěšnému lovu nebo někomu věnovat. "
 
     gcName = 'orlímu masu, orlího masa, orlí maso, orlím mase, orlím masem'
     gcVocab = 'orlímu orlího orlí orlím masu/masa/maso/mase/masem'
 ;
 
-++ orliPerute : PresentLater, Thing 'orlí perutě' 'orlí perutě' *3
+++ orliPerute : PresentLater, Thing 'orlí perutě' 'perutě' *3
     "Čerstvě získané orlí perutě představují nádhernou ozdobu tanečníka tančícího krásný tanec tohoto majestátního opeřence. "
 
 	isPlural = true
@@ -129,7 +129,7 @@ mistnostJihozapadniHranicePrerie : OutdoorRoom 'Jihozápadní hranice prérie' '
     gcVocab = 'orlím orlích orlí orlími perutím/perutí/perutě/perutích/perutěmi'
 ;
 
-++ orliPera : PresentLater, Thing 'orlí pera' 'orlí pera' *4
+++ orliPera : PresentLater, Thing 'orlí pera' 'pera' *4
     "Orlí pera jsou odznakem válečníka a jistě Ti budou slušet. Všiml sis, že někteří šajenští muži nosí pera vraní, což je správné, 
 	každý máme jiný vkus. Mohu jen doporučit, v kombinaci s krásnými dlouhými vlasy vypadají skvěle. "
 
@@ -139,7 +139,7 @@ mistnostJihozapadniHranicePrerie : OutdoorRoom 'Jihozápadní hranice prérie' '
     gcVocab = 'orlím orlích orlí orlími/per/pera/perech/pery'
 ;
 
-++ orliLetky : PresentLater, Thing 'orlí letky' 'orlí letky' *4
+++ orliLetky : PresentLater, Thing 'orlí letky' 'letky' *4
     "Letky dravců jsou vhodné k výrobě šípů, i když jsou, pravda, dosti veliké. Ale použít je k této činnosti lze a to je hlavní. "
 
 	isPlural = true

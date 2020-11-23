@@ -13,7 +13,7 @@
 /*
  *   Indiánská dívka Vyjící celou noc
  */
-vyjiciCelouNoc : Person 'indiánka' 'indiánka' *3 @mistnostLesniPorost
+vyjiciCelouNoc : Person 'Vyjící celou noc' 'indiánka' *3 @mistnostLesniPorost
 	"Malá dívenka pobíhá mezi stromy a přitom si pobrukuje do taktu její matky. Někdy si sedne a něco tvoří na zemi, určitě je to hravá dívka. "
 
     specialDesc = "Malé čiperné děvče si rádo hraje, ale ani práce mu není cizí, jinak to při polodivokém způsobu života ani nejde. "

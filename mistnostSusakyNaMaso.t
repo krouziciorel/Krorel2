@@ -15,7 +15,7 @@
 /*
  *   Sušáky na maso
  */
-mistnostSusakyNaMaso : OutdoorRoom 'Sušáky na maso' 'sušáky na maso'
+mistnostSusakyNaMaso : OutdoorRoom 'Sušáky na maso' 'sušákům na maso'
 	   "Zde mají indiánské ženy postavenu spoustu jednoduchých dřevěných sušáků, 
 		kde připravují maso na pozdější použití. Vždy po lovu jsou plně obsypány čerstvým sušícím se masem, 
 		které slouží jako hlavní potrava celému společenství.\n 
@@ -48,7 +48,7 @@ mistnostSusakyNaMaso : OutdoorRoom 'Sušáky na maso' 'sušáky na maso'
   	northwest = mistnostPredTypimLovce 
 ;
 
-+ susaky : CustomImmovable 'sušáky' 'sušáky' *2
++ susaky : CustomImmovable 'sušáky na maso' 'sušáky' *2
    "Na stepi se maso usuší v horku za jediný den. To je něco naprosto fantastického, zkus si to doma. Autor této hry 
 	suší na kamnech maso 2 – 3 dny a když to zkusil venku, večer mu bylo sežráno šikovnými kočkami. "
 
@@ -60,7 +60,7 @@ mistnostSusakyNaMaso : OutdoorRoom 'Sušáky na maso' 'sušáky na maso'
     gcVocab = 'sušáky/sušákům/sušácích'
 ;
 
-+ navnada : Thing 'návnada' 'návnada na dravce' *3
++ navnada : Thing 'návnada na dravce' 'návnada' *3
    "Návnadu na dravce představuje staré pro lidskou bytost již nepoživatelné maso. "
 
     dobjFor(Take)

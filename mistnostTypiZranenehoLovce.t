@@ -51,14 +51,14 @@ mistnostTypiZranenehoLovce : Room 'Týpí zraněného lovce' 'týpí zraněného
     gcVocab = 'loveckých/loveckým/loveckými nástrojů/nástrojům/nástroji'
 ;
 
-++ Component 'luk' 'luk' *2
+++ Component 'krátký luk' 'luk' *2
 	"Šikovná krátká zbraň vhodná i pro střelbu z koně. "
 
     gcName = 'luku, luku, luk, luku, lukem'
     gcVocab = 'luku/luku/lukem'
 ;
 
-++ Component 'šípy' 'šípy' *2
+++ Component 'krátké šípy' 'šípy' *2
     "Krátké opeřené šípy určené pro stepní jezdecký luk. "
 
 	isPlural = true
@@ -67,7 +67,7 @@ mistnostTypiZranenehoLovce : Room 'Týpí zraněného lovce' 'týpí zraněného
     gcVocab = 'šípů/šípům/šípy/šípy'
 ;
 
-++ Component 'oštěp' 'oštěp' *2
+++ Component 'lehký oštěp' 'oštěp' *2
     "Zaostřená, lehká a přesná zbraň je často využívána při lovu ryb. "
 
     gcName = 'oštěpu, oštěpu, oštěp, oštěpu, oštěpem'
@@ -85,7 +85,7 @@ mistnostTypiZranenehoLovce : Room 'Týpí zraněného lovce' 'týpí zraněného
     gcVocab = 'koňské/koňské/koňskou výstroje/výstroji/výstrojí'
 ;
 
-++ Component 'sedlo' 'sedlo' *4
+++ Component 'jednoduché sedlo' 'sedlo' *4
     "Silnější deka tvoří jednoduché sedlo, které je mezi stepními národy velmi oblíbené. "
 
     gcName = 'sedla, sedlu, sedlo, sedlu, sedlem'
@@ -109,4 +109,13 @@ mistnostTypiZranenehoLovce : Room 'Týpí zraněného lovce' 'týpí zraněného
 
     gcName = 'zelených listů, zeleným listům, zelené listy, zelených listech, zelenými listy'
     gcVocab = 'zelených zeleným zelenými listů/listům/listy'
+;
+
+// předmět v počátečním držení lovce definuji stejně jako lopatu v Heidi
+kozniKlih : Thing 'kožní klih' 'klih' *2
+    @zranenyLovec
+    "Nesmírně pevné přírodní lepidlo má nejen pro život stepního lidu široké použití. "  
+
+    gcName = 'kožního klihu, kožnímu klihu, kožní klih, kožním klihu, kožním klihem'
+    gcVocab = 'klihu/klih/klihem'
 ;

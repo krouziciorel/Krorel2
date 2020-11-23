@@ -13,7 +13,7 @@
 /*
  *   Psí válečník Ten kdo chodí vodou
  */
-psiValecnik : Person 'šaman' 'šaman' *1 @mistnostPredTypimPsihoValecnika
+psiValecnik : Person 'psí válečník' 'válečník' *1 @mistnostPredTypimPsihoValecnika
 	"Pomenší muž má na své hrudi nádherně vytetovaného koně, asi to bude nadšenec do koní. 
 	O čemž jistě sní spousta nejen místních žen. "
 

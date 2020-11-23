@@ -13,7 +13,7 @@
 /*
  *   Zakrslý kůň pasoucí se na lesní mýtině
  */
-ZakrslyKun : UntakeableActor 'kůň' 'kůň' *1 @mistnostLesniMytinaProKone
+ZakrslyKun : UntakeableActor 'zakrslý kůň' 'kůň' *1 @mistnostLesniMytinaProKone
 	"Před sebou vidíš opravdu zvláštní stvoření, maličkého srandovního, ale roztomilého miniponíka, který Ti sahá někam nad kolena. 
 	Malý čipera vesele chodí sem a tam, stále k něčemu čichá a něco větří. <<first time>>Najednou si vzpomínáš, že některé dámy bledých 
 	tváří mají takové mini poníky na svých zahradách nejen pro spásání trávy, ale také pro ozdobu, jiné využití však nemají. Ale jakpak 

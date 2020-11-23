@@ -15,7 +15,7 @@
 /*
  *   Koňské pastviny severně od Bizoní řeky
  */
-mistnostKonskePastvinySeverneOdBizoniReky : OutdoorRoom 'Koňské pastviny severně od Bizoní řeky' 'koňské pastviny severně od Bizoní řeky'
+mistnostKonskePastvinySeverneOdBizoniReky : OutdoorRoom 'Koňské pastviny severně od Bizoní řeky' 'koňským pastvinám severně od Bizoní řeky'
 		"<<first time>>Tak toto místo mi kromě kruhu týpí asi nejvíce ukazuje, co znamená skutečná svoboda. 
 		Ve městě jsem se stále cítil těsně a i když jsem někdy zavítal na místní farmu, stále jsem cítil to ohraničení. 
 		Zde si není možné něco takového představit, obrovská plocha se táhne donekonečna na všechny strany a vítr místo toho, 
@@ -36,7 +36,7 @@ mistnostKonskePastvinySeverneOdBizoniReky : OutdoorRoom 'Koňské pastviny sever
   	northeast = mistnostTicheMistoNaUpatiHor 
 ;
 
-+ Decoration 'stádo' 'stádo' *4
++ Decoration 'koňské stádo' 'stádo' *4
     "Obrovské stádo pasoucích se koní, většinou z důvodu poměrně chudé zimní pastvy poměrně malých. Koně vypadají velmi spokojeně, protože 
 	žijí ve svém přirozeném prostředí. Sem tam vidíš pobíhat malé chlapce, kteří mají na koně dávat pozor. " 
 
@@ -46,7 +46,7 @@ mistnostKonskePastvinySeverneOdBizoniReky : OutdoorRoom 'Koňské pastviny sever
     gcVocab = 'stáda/stádu/stádo/stádem'
 ;
 
-+ Decoration 'malí chlapci' 'malí chlapci' *1
++ Decoration 'malí chlapci' 'chlapci' *1
     "Malí indiánští chlapci se už od mala učí práci s koňmi, protože bez nich by na otevřené prérii byli ve veliké nevýhodě. 
 	Již pouhá přítomnost stačí k tomu, aby si koně na člověka zvykli, takže při dospívání nebudou mít problémy je bravurně ovládat. " 
 

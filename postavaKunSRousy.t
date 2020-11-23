@@ -13,7 +13,7 @@
 /*
  *   Kůň s rousy pasoucí se na pastvninách J od Bizoní řeky
  */
-kunSRousy : UntakeableActor 'kůň' 'kůň' *1 @mistnostKonskePastvinyJizneOdBizoniReky
+kunSRousy : UntakeableActor 'kůň s rousy' 'kůň' *1 @mistnostKonskePastvinyJizneOdBizoniReky
 	"Mohutnější kůň s rousy nad kopyty není zrovna typicky indiánský. Spíše ses s ním setkával v tahu, 
 	tento ale přece jen není tak těžký jako bělošští chladnokrevníci, takže se celoročně na stepi uživí. 
 	Ale teď se radostně nacpává voňavou travou a vše ostatní nevnímá. "

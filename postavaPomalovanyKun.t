@@ -13,7 +13,7 @@
 /*
  *   Pomalovaný kůň pasoucí se na pastvninách J od Bizoní řeky
  */
-pomalovanyKun : UntakeableActor 'kůň' 'kůň' *1 @mistnostKonskePastvinyJizneOdBizoniReky
+pomalovanyKun : UntakeableActor 'pomalovaný kůň' 'kůň' *1 @mistnostKonskePastvinyJizneOdBizoniReky
 	"Větší čiperné štíhlé zvíře strakaté barvy má okolo obou očí modře namalované kruhy a ty mu opravdu velmi sluší. "
 
 	specialDesc = "Pomalovaný kůň si se zaujetím užívá zelenou dobrotu. "

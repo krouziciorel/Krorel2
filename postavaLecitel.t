@@ -13,7 +13,7 @@
 /*
  *   Indiánský léčitel Jitřní hvězda
  */
-lecitel : Person 'léčitel' 'léčitel' *1 @mistnostTypiLecitele
+lecitel : Person 'indiánský léčitel' 'léčitel' *1 @mistnostTypiLecitele
 	"Dobře stavěný muž těžko odhadnutelného věku, vypadá tak kolem 30, může ale být i starší, 
 	to dělají ty dlouhé vlasy a pokud je vedle své pěkné ženy, i ona jej omlazuje. "
 

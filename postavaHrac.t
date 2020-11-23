@@ -68,7 +68,7 @@ me: Actor
     gcVocab = 'bederní roušky/roušce/roušku/rouškou'
 ;
 
-+ VzdyObleceno 'opasek' 'opasek' *2
++ VzdyObleceno 'kožený opasek' 'opasek' *2
     "Nádherně zdobený kožený opasek vyrobený z koňského postroje. Jedná se o nepostradatelnou součást 
 	indiánského oděvu, v případě jeho prasknutí jsi hnedle nahý. "
 
@@ -94,7 +94,7 @@ me: Actor
     gcVocab = 'orlí medicínu/medicíně/medicínou'
 ;
 
-+ VzdyObleceno 'mokasíny/mokasín' 'mokasíny' *4
++ VzdyObleceno 'kožené mokasíny/mokasín' 'mokasíny' *4
     "Velmi pohodlné boty s nádhernou výšivkou, mají jen jedinou nevýhodu, nejsou zrovna určené do vlhka nebo do deště, 
 	naštěstí na prérii zrovna dvakrát často neprší, takže to není větší problém. "
 

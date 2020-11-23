@@ -15,7 +15,7 @@
 /*
  *   Koupaliště u Bizoní řeky
  */
-mistnostKoupalisteUBizoniReky : OutdoorRoom 'Koupaliště u Bizoní řeky' 'koupaliště u Bizoní řeky'
+mistnostKoupalisteUBizoniReky : OutdoorRoom 'Koupaliště u Bizoní řeky' 'koupališti u Bizoní řeky'
 		"Průzračná voda neustále spěchá jižním směrem a její tichý tok uklidňuje Tvé srdce i duši. 
 		Místní jí nazývají Bizoní řeka. Tábořiště bez řeky si ani nedokážeš představit, voda je prostě nezbytnost 
 		a všechny stepní národy se rády koupou a cachtají, neboť už dávno přišly na to, že čistota je více než půl zdraví.\n 
@@ -45,7 +45,7 @@ mistnostKoupalisteUBizoniReky : OutdoorRoom 'Koupaliště u Bizoní řeky' 'koup
 	southwest = mistnostPredTypimPsihoLovce 
 ;
 
-+ reka : CustomImmovable 'řeka' 'řeka' *3
++ reka : CustomImmovable 'Bizoní řeka' 'řeka' *3
     "Bizoní řeka prchá na jih do neznámých končin. "
 
     cannotTakeMsg = 'Jsi mocný a nebezpečný kouzelník, když si myslíš, že odneseš celou řeku, chvála Tobě a raději od Tebe dál. '

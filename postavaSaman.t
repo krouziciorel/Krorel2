@@ -13,7 +13,7 @@
 /*
  *   Indiánský šaman Přítel bizonů
  */
-saman : Person 'šaman' 'šaman' *1 @mistnostTypiSamana
+saman : Person 'indiánský šaman' 'šaman' *1 @mistnostTypiSamana
 	"Šaman nebude starší, než Ty a vypadá docela obyčejně, dokonce se dá říci, že je Ti trochu podobný. "
 
     specialDesc = "Lidé, o kterých si myslíme, že mohou být výjimeční, často ničím zvláštní nejsou, 

@@ -13,7 +13,7 @@
 /*
  *   Indiánský stařec
  */
-starec : Person 'stařec' 'stařec' *1 @mistnostPredTypimStarce
+starec : Person 'indiánský stařec' 'stařec' *1 @mistnostPredTypimStarce
 	"Muž, kterého před sebou vidíš, je již staršího vydání, což poznáš především podle jeho šedobílých vlasů. 
 	 Ale jak vidno, svůj počet zim si nijak nebere a má se čile k práci. "
 

@@ -47,12 +47,12 @@ versionInfo: GameID
 			Gaspodovi se mi po dlouhých peripetiích podařilo připravit hratelnou 
 			předelávku původní hry Exoter pro počítače ZX Spectrum. 
 
-            <.p>Vývojařina mě chytla jako nikdy předtím, po seznámení se s jazykem Java,
-			který mi TADS připomíná asi nejvíce se budu snažit programovat co nejvíce
-			čistě s využitím technik zkušenějších vývojářů. 
+            <.p>Vývojařina mě chytla jako nikdy předtím, po seznámení se s objektovými
+            jazyky typu C++, Python a Java, které mi TADS připomínají asi nejvíce, se budu 
+            snažit programovat skutečně objektově s využitím technik zkušenějších vývojářů. 
 			
             <.p>Spoustu textu i styl vývoje přebírám z báječné hry Základna na Asteroidu
-			od Gaspody, zde jsem se naučil spoustu programátorských technik, některé
+			od Gaspody, zde jsem se naučil spoustu programátorských vychytávek, některé
 			z nich znám i s výborných knížek pro začátečníky od pana Pecinovského.
             Hra je vzhledem k cílovému publiku poměrně jednoduchá a základy
             ovládání vás sama provede v úvodní části. Přesto pokud jste na poli
@@ -178,28 +178,13 @@ finishOptionAfterword: FinishOption
 modify finishOptionAmusing
     doOption()
     {
-        "Pár věcí, které můžete také vyzkoušet:
+        "Pár tipů, na které byste neměli při hraní zapomenout:
             <.p>
             <ul>
-            \n<li>Přečíst si novinové články v tabletu nebo si zahrát hru.
-            \n<li>Zkusit otevřít tablet.
-            \n<li>Běžet na pásu nejvyšší rychlostí a pár tahů počkat.
-            \n<li>Sledovat na hodinkách, jak běží čas.
-            \n<li>Otestovat tablet nebo modul bez součástek UniDiPem.
-            \n<li>Povídat si s Borisem o různých tématech.
-            \n<li>Ochutnat Borisovu kávu.
-            \n<li>Pokusit se zabít Borise.
-            \n<li>Dojít si na záchod a vykonat potřebu.
-            \n<li>Povídat si s Borisem přes dveře záchoda, třeba o kafi.
-            \n<li>Zkusit si odnést něco z trezoru.
-            \n<li>Hýbat ručičkami nebo nožičkami figurky.
-            \n<li>Kouknout se pod Borisovu matraci.
-            \n<li>Přivonět k jídlu.
-            \n<li>Začichat na záchodě po té, co Boris vyleze.
-            \n<li>Mámit z technika identifikační kartu několikrát, zvlášť když
-            ho probudíš.
-            \n<li>Když probudíš Borise, tak zavřít dveře zevnitř kajuty nebo mu
-            podat nějaký předmět.
+            \n<li>Pečlivě prozkoumat všechny objekty v místnostech a nezapomenout na dekorace.
+            \n<li>Nakreslit si mapu a popřemýšlet, zda taková vesnice opravdu může fungovat tak jak jí autor popisuje.
+            \n<li>Zkusit oba druhy rozhovorů s dosti rozvernou mladou indiánkou Bystrou losicí.
+            \n<li>A především nechat se unášet atmosférou hry, kterou se autor snaží přiblížit jak popisem lokací, tak pomocí rozhovorů.
             </ul>
             <.p>";
 

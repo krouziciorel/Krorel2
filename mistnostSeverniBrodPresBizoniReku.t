@@ -15,7 +15,7 @@
 /*
  *   Severní brod přes Bizoní řeku
  */
-mistnostSeverniBrodPresBizoniReku : OutdoorRoom 'Severní brod přes Bizoní řeku' 'severní brod přes Bizoní řeku'
+mistnostSeverniBrodPresBizoniReku : OutdoorRoom 'Severní brod přes Bizoní řeku' 'severnímu brodu přes Bizoní řeku'
 		"Překročit Bizoní řeku není zas tak obtížné, zde se ale nachází o něco širší brod vhodný nejen pro přechod, 
 		ale také brodění unavených nohou i koňských kopyt. Nádherně čistá řeka se zde trochu zpomaluje.\n 
 		Můžeš jít na sever, jih a na západ. "      
@@ -30,7 +30,7 @@ mistnostSeverniBrodPresBizoniReku : OutdoorRoom 'Severní brod přes Bizoní ře
   	south = mistnostKonskePastvinyJizneOdBizoniReky 
 ;
 
-+ prechodPresReku : Container 'přechod' 'přechod přes řeku' *2
++ prechodPresReku : Container 'přechod přes řeku' 'přechod' *2
     "Přechod přes řeku je zde o něco hlubší, ale stále plně použitelný. "
 
     dobjFor(LookIn)

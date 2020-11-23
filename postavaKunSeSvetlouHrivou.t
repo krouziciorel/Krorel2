@@ -13,7 +13,7 @@
 /*
  *   Kůň se světlou hřívou patřící Bystré losici
  */
-kunSeSvetlouHrivou : UntakeableActor 'kůň' 'kůň' *1 @mistnostPredTypimDivkyPripravujiciSeNaTanec
+kunSeSvetlouHrivou : UntakeableActor 'kůň se světlou hřívou' 'kůň' *1 @mistnostPredTypimDivkyPripravujiciSeNaTanec
 	"Středně veliký kůň se světlou hřívou se klidně pase, trávy kolem týpí je spousta 
 	a tak Ti nevěnuje žádnou pozornost. "
 

@@ -15,7 +15,7 @@
 /*
  *   Lesní mýtina pro koně
  */
-mistnostLesniMytinaProKone : OutdoorRoom 'Lesní mýtina pro koně' 'lesní mýtina pro koně'
+mistnostLesniMytinaProKone : OutdoorRoom 'Lesní mýtina pro koně' 'lesní mýtině pro koně'
 		"Došel jsi na velikou lesní mýtinu ohraničenou na severu, jihu a západě lesem a na východě 
 		otevřenou směrem k řece. Podle stop kopyt je jasné, že koně si sem v horkých dnech po pastvě 
 		rádi chodí odpočinout, přeci jen jejich rozměrná těla dokáže slunce pořádně prohřát.\n 
